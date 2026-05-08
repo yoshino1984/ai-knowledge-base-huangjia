@@ -1,0 +1,160 @@
+{
+  "last_updated": "2026-05-08T16:06:24Z",
+  "total_count": 14,
+  "entries": [
+    {
+      "id": "kb-2026-05-09-001",
+      "title": "n8n",
+      "file": "2026-05-09-n8n.json",
+      "tags": [
+        "workflow-automation",
+        "mcp"
+      ],
+      "relevance_score": 0.86,
+      "organized_at": "2026-05-08T16:06:24Z"
+    },
+    {
+      "id": "kb-2026-05-09-002",
+      "title": "AutoGPT",
+      "file": "2026-05-09-autogpt.json",
+      "tags": [
+        "autonomous-agent",
+        "agent-framework"
+      ],
+      "relevance_score": 0.84,
+      "organized_at": "2026-05-08T16:06:24Z"
+    },
+    {
+      "id": "kb-2026-05-09-003",
+      "title": "superpowers",
+      "file": "2026-05-09-superpowers.json",
+      "tags": [
+        "agent-skills",
+        "software-methodology"
+      ],
+      "relevance_score": 0.78,
+      "organized_at": "2026-05-08T16:06:24Z"
+    },
+    {
+      "id": "kb-2026-05-09-004",
+      "title": "everything-claude-code",
+      "file": "2026-05-09-everything-claude-code.json",
+      "tags": [
+        "claude-code",
+        "coding-agent"
+      ],
+      "relevance_score": 0.76,
+      "organized_at": "2026-05-08T16:06:24Z"
+    },
+    {
+      "id": "kb-2026-05-09-005",
+      "title": "ollama",
+      "file": "2026-05-09-ollama.json",
+      "tags": [
+        "local-llm",
+        "inference"
+      ],
+      "relevance_score": 0.88,
+      "organized_at": "2026-05-08T16:06:24Z"
+    },
+    {
+      "id": "kb-2026-05-09-006",
+      "title": "prompts.chat",
+      "file": "2026-05-09-promptschat.json",
+      "tags": [
+        "prompt-engineering",
+        "prompt-library"
+      ],
+      "relevance_score": 0.64,
+      "organized_at": "2026-05-08T16:06:24Z"
+    },
+    {
+      "id": "kb-2026-05-09-007",
+      "title": "transformers",
+      "file": "2026-05-09-transformers.json",
+      "tags": [
+        "transformer",
+        "huggingface"
+      ],
+      "relevance_score": 0.91,
+      "organized_at": "2026-05-08T16:06:24Z"
+    },
+    {
+      "id": "kb-2026-05-09-008",
+      "title": "opencode",
+      "file": "2026-05-09-opencode.json",
+      "tags": [
+        "coding-agent",
+        "opencode"
+      ],
+      "relevance_score": 0.87,
+      "organized_at": "2026-05-08T16:06:24Z"
+    },
+    {
+      "id": "kb-2026-05-09-009",
+      "title": "langflow",
+      "file": "2026-05-09-langflow.json",
+      "tags": [
+        "agent-workflow",
+        "low-code"
+      ],
+      "relevance_score": 0.86,
+      "organized_at": "2026-05-08T16:06:24Z"
+    },
+    {
+      "id": "kb-2026-05-09-010",
+      "title": "dify",
+      "file": "2026-05-09-dify.json",
+      "tags": [
+        "llm-app-platform",
+        "rag"
+      ],
+      "relevance_score": 0.89,
+      "organized_at": "2026-05-08T16:06:24Z"
+    },
+    {
+      "id": "kb-2026-05-09-011",
+      "title": "hermes-agent",
+      "file": "2026-05-09-hermes-agent.json",
+      "tags": [
+        "personal-agent",
+        "nous-research"
+      ],
+      "relevance_score": 0.77,
+      "organized_at": "2026-05-08T16:06:24Z"
+    },
+    {
+      "id": "kb-2026-05-09-012",
+      "title": "system-prompts-and-models-of-ai-tools",
+      "file": "2026-05-09-system-prompts-and-models-of-ai-tools.json",
+      "tags": [
+        "system-prompts",
+        "ai-tools"
+      ],
+      "relevance_score": 0.72,
+      "organized_at": "2026-05-08T16:06:24Z"
+    },
+    {
+      "id": "kb-2026-05-09-013",
+      "title": "langchain",
+      "file": "2026-05-09-langchain.json",
+      "tags": [
+        "langchain",
+        "langgraph"
+      ],
+      "relevance_score": 0.9,
+      "organized_at": "2026-05-08T16:06:24Z"
+    },
+    {
+      "id": "kb-2026-05-09-014",
+      "title": "open-webui",
+      "file": "2026-05-09-open-webui.json",
+      "tags": [
+        "llm-ui",
+        "open-webui"
+      ],
+      "relevance_score": 0.82,
+      "organized_at": "2026-05-08T16:06:24Z"
+    }
+  ]
+}

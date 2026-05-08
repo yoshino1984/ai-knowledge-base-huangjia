@@ -1,0 +1,35 @@
+{
+  "id": "kb-2026-05-09-007",
+  "title": "transformers",
+  "source": "github-trending",
+  "source_id": "huggingface/transformers",
+  "url": "https://github.com/huggingface/transformers",
+  "source_url": "https://github.com/huggingface/transformers",
+  "summary": "Transformers 是 Hugging Face 的核心模型框架，覆盖文本、视觉、音频和多模态模型的训练与推理，支撑大量 LLM 和 VLM 应用。它是 AI 工程基础设施级项目，适合需要接入开源模型、微调、推理或研究模型结构的团队持续关注。",
+  "technical_highlights": [
+    "统一模型定义框架",
+    "训练与推理支持",
+    "文本/视觉/音频/多模态覆盖"
+  ],
+  "tags": [
+    "transformer",
+    "huggingface",
+    "model-framework",
+    "python",
+    "inference"
+  ],
+  "relevance_score": 0.91,
+  "score_breakdown": {
+    "tech_depth": 0.95,
+    "practical_value": 0.94,
+    "timeliness": 0.82,
+    "community_heat": 0.98,
+    "domain_match": 0.92
+  },
+  "stars": 160397,
+  "language": "Python",
+  "collected_at": "2026-05-08T16:03:51Z",
+  "analyzed_at": "2026-05-08T16:05:37Z",
+  "organized_at": "2026-05-08T16:06:24Z",
+  "status": "published"
+}

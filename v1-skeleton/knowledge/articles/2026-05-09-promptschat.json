@@ -1,0 +1,34 @@
+{
+  "id": "kb-2026-05-09-006",
+  "title": "prompts.chat",
+  "source": "github-trending",
+  "source_id": "f/prompts.chat",
+  "url": "https://github.com/f/prompts.chat",
+  "source_url": "https://github.com/f/prompts.chat",
+  "summary": "prompts.chat 是 ChatGPT/Claude/Gemini 等模型提示词的开源集合和自托管平台，核心价值在于沉淀可复用 prompt 模式。它更偏知识与模板库，不是 Agent 框架；适合需要建立团队提示词资产、做 prompt engineering 参考的场景。",
+  "technical_highlights": [
+    "提示词集合",
+    "自托管 prompt 管理",
+    "多模型提示模板"
+  ],
+  "tags": [
+    "prompt-engineering",
+    "prompt-library",
+    "chatgpt",
+    "self-hosted"
+  ],
+  "relevance_score": 0.64,
+  "score_breakdown": {
+    "tech_depth": 0.35,
+    "practical_value": 0.7,
+    "timeliness": 0.62,
+    "community_heat": 0.96,
+    "domain_match": 0.68
+  },
+  "stars": 161833,
+  "language": "HTML",
+  "collected_at": "2026-05-08T16:03:51Z",
+  "analyzed_at": "2026-05-08T16:05:37Z",
+  "organized_at": "2026-05-08T16:06:24Z",
+  "status": "published"
+}

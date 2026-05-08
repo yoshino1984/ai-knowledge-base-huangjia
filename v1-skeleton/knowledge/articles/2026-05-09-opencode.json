@@ -1,0 +1,35 @@
+{
+  "id": "kb-2026-05-09-008",
+  "title": "opencode",
+  "source": "github-trending",
+  "source_id": "anomalyco/opencode",
+  "url": "https://github.com/anomalyco/opencode",
+  "source_url": "https://github.com/anomalyco/opencode",
+  "summary": "OpenCode 是开源命令行编程 Agent，目标是让模型在代码仓库中具备读文件、搜索、编辑和执行任务的能力。它与本课程高度相关，可作为 Claude Code/Codex 类工具的开源替代，用来实践 Memory、Sub-Agent 和 Skill 驱动的开发流程。",
+  "technical_highlights": [
+    "开源编码 Agent",
+    "仓库级上下文编排",
+    "适配 Memory/Skills 工作流"
+  ],
+  "tags": [
+    "coding-agent",
+    "opencode",
+    "developer-tools",
+    "agent-framework",
+    "typescript"
+  ],
+  "relevance_score": 0.87,
+  "score_breakdown": {
+    "tech_depth": 0.75,
+    "practical_value": 0.9,
+    "timeliness": 0.86,
+    "community_heat": 0.95,
+    "domain_match": 0.92
+  },
+  "stars": 156925,
+  "language": "TypeScript",
+  "collected_at": "2026-05-08T16:03:51Z",
+  "analyzed_at": "2026-05-08T16:05:37Z",
+  "organized_at": "2026-05-08T16:06:24Z",
+  "status": "published"
+}

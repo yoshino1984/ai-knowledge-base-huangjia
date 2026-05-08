@@ -1,0 +1,35 @@
+{
+  "id": "kb-2026-05-09-011",
+  "title": "hermes-agent",
+  "source": "github-trending",
+  "source_id": "NousResearch/hermes-agent",
+  "url": "https://github.com/NousResearch/hermes-agent",
+  "source_url": "https://github.com/NousResearch/hermes-agent",
+  "summary": "hermes-agent 是 Nous Research 生态中的个人化 Agent 项目，强调与用户共同成长，并关联 Claude Code、Codex、OpenAI 和 OpenClaw 等工具链。它更偏 Agent 产品与实验框架，适合观察个人 Agent、长期上下文和工具协作方向。",
+  "technical_highlights": [
+    "个人化 Agent",
+    "编程 Agent 工具链联动",
+    "长期协作体验"
+  ],
+  "tags": [
+    "personal-agent",
+    "nous-research",
+    "codex",
+    "claude-code",
+    "openclaw"
+  ],
+  "relevance_score": 0.77,
+  "score_breakdown": {
+    "tech_depth": 0.65,
+    "practical_value": 0.72,
+    "timeliness": 0.84,
+    "community_heat": 0.92,
+    "domain_match": 0.83
+  },
+  "stars": 138868,
+  "language": "Python",
+  "collected_at": "2026-05-08T16:03:51Z",
+  "analyzed_at": "2026-05-08T16:05:37Z",
+  "organized_at": "2026-05-08T16:06:24Z",
+  "status": "published"
+}

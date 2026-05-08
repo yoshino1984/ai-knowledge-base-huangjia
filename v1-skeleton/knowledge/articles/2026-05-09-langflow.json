@@ -1,0 +1,35 @@
+{
+  "id": "kb-2026-05-09-009",
+  "title": "langflow",
+  "source": "github-trending",
+  "source_id": "langflow-ai/langflow",
+  "url": "https://github.com/langflow-ai/langflow",
+  "source_url": "https://github.com/langflow-ai/langflow",
+  "summary": "Langflow 是用于构建和部署 AI Agent 与工作流的可视化工具，适合把 LLM、工具、数据源和多 Agent 逻辑组合成可运行应用。它对工程团队的价值在于快速原型和可视化调试，尤其适合低代码方式验证 RAG、聊天机器人和 Agent 流程。",
+  "technical_highlights": [
+    "可视化 Agent 构建",
+    "工作流部署",
+    "多 Agent 与 LLM 编排"
+  ],
+  "tags": [
+    "agent-workflow",
+    "low-code",
+    "langflow",
+    "python",
+    "multi-agent"
+  ],
+  "relevance_score": 0.86,
+  "score_breakdown": {
+    "tech_depth": 0.72,
+    "practical_value": 0.92,
+    "timeliness": 0.82,
+    "community_heat": 0.93,
+    "domain_match": 0.9
+  },
+  "stars": 147859,
+  "language": "Python",
+  "collected_at": "2026-05-08T16:03:51Z",
+  "analyzed_at": "2026-05-08T16:05:37Z",
+  "organized_at": "2026-05-08T16:06:24Z",
+  "status": "published"
+}

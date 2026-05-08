@@ -1,0 +1,35 @@
+{
+  "id": "kb-2026-05-09-013",
+  "title": "langchain",
+  "source": "github-trending",
+  "source_id": "langchain-ai/langchain",
+  "url": "https://github.com/langchain-ai/langchain",
+  "source_url": "https://github.com/langchain-ai/langchain",
+  "summary": "LangChain 是面向 Agent 工程和 LLM 应用开发的平台型框架，覆盖工具调用、RAG、模型抽象、多 Agent 和 LangGraph 生态。它仍是构建复杂 LLM 应用的重要基础设施，适合需要工程化编排、可观测和多组件组合的团队。",
+  "technical_highlights": [
+    "Agent 工程平台",
+    "RAG 与工具调用",
+    "LangGraph 多步骤编排"
+  ],
+  "tags": [
+    "langchain",
+    "langgraph",
+    "agent-framework",
+    "rag",
+    "python"
+  ],
+  "relevance_score": 0.9,
+  "score_breakdown": {
+    "tech_depth": 0.88,
+    "practical_value": 0.92,
+    "timeliness": 0.84,
+    "community_heat": 0.95,
+    "domain_match": 0.95
+  },
+  "stars": 136148,
+  "language": "Python",
+  "collected_at": "2026-05-08T16:03:51Z",
+  "analyzed_at": "2026-05-08T16:05:37Z",
+  "organized_at": "2026-05-08T16:06:24Z",
+  "status": "published"
+}

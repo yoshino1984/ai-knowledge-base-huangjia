@@ -1,0 +1,35 @@
+{
+  "id": "kb-2026-05-09-002",
+  "title": "AutoGPT",
+  "source": "github-trending",
+  "source_id": "Significant-Gravitas/AutoGPT",
+  "url": "https://github.com/Significant-Gravitas/AutoGPT",
+  "source_url": "https://github.com/Significant-Gravitas/AutoGPT",
+  "summary": "AutoGPT 是早期代表性的自主 Agent 项目，围绕“给 AI 一个目标并让它拆解执行”组织工具链和应用框架。虽然部分设计已被新一代 Agent 框架吸收，但它仍是理解 autonomous agents、任务循环、工具调用和长期记忆机制的重要参考。",
+  "technical_highlights": [
+    "自主任务循环",
+    "工具调用框架",
+    "Agent 应用生态"
+  ],
+  "tags": [
+    "autonomous-agent",
+    "agent-framework",
+    "python",
+    "openai",
+    "llm"
+  ],
+  "relevance_score": 0.84,
+  "score_breakdown": {
+    "tech_depth": 0.78,
+    "practical_value": 0.75,
+    "timeliness": 0.7,
+    "community_heat": 0.99,
+    "domain_match": 0.95
+  },
+  "stars": 184091,
+  "language": "Python",
+  "collected_at": "2026-05-08T16:03:51Z",
+  "analyzed_at": "2026-05-08T16:05:37Z",
+  "organized_at": "2026-05-08T16:06:24Z",
+  "status": "published"
+}

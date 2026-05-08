@@ -1,0 +1,15 @@
+{
+  "filtered_at": "2026-05-08T16:06:24Z",
+  "source_file": "knowledge/raw/github-trending-2026-05-09.json",
+  "count": 1,
+  "items": [
+    {
+      "source_id": "Snailclimb/JavaGuide",
+      "title": "JavaGuide",
+      "url": "https://github.com/Snailclimb/JavaGuide",
+      "reasons": [
+        "relevance_score < 0.6"
+      ]
+    }
+  ]
+}

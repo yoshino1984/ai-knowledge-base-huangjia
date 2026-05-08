@@ -1,0 +1,35 @@
+{
+  "id": "kb-2026-05-09-001",
+  "title": "n8n",
+  "source": "github-trending",
+  "source_id": "n8n-io/n8n",
+  "url": "https://github.com/n8n-io/n8n",
+  "source_url": "https://github.com/n8n-io/n8n",
+  "summary": "n8n 是面向自动化工作流的可视化编排平台，已经内置 AI 与 MCP 相关能力，可把模型调用、API、数据库和业务系统串成可维护流程。它对 AI 工程团队的价值在于降低 Agent 工作流落地门槛，同时保留自托管和自定义代码扩展空间。",
+  "technical_highlights": [
+    "可视化工作流编排",
+    "MCP client/server 支持",
+    "400+ 集成与自托管部署"
+  ],
+  "tags": [
+    "workflow-automation",
+    "mcp",
+    "agent-workflow",
+    "typescript",
+    "self-hosted"
+  ],
+  "relevance_score": 0.86,
+  "score_breakdown": {
+    "tech_depth": 0.75,
+    "practical_value": 0.95,
+    "timeliness": 0.82,
+    "community_heat": 0.98,
+    "domain_match": 0.8
+  },
+  "stars": 187093,
+  "language": "TypeScript",
+  "collected_at": "2026-05-08T16:03:51Z",
+  "analyzed_at": "2026-05-08T16:05:37Z",
+  "organized_at": "2026-05-08T16:06:24Z",
+  "status": "published"
+}

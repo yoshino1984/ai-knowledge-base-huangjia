@@ -1,0 +1,35 @@
+{
+  "id": "kb-2026-05-09-005",
+  "title": "ollama",
+  "source": "github-trending",
+  "source_id": "ollama/ollama",
+  "url": "https://github.com/ollama/ollama",
+  "source_url": "https://github.com/ollama/ollama",
+  "summary": "Ollama 提供本地运行和管理大模型的开发者工具，支持 DeepSeek、Qwen、Gemma、GLM 等模型快速拉取、启动和调用。它对 AI 工程的直接价值很高：让原型验证、私有化部署和本地模型测试不必依赖复杂推理服务。",
+  "technical_highlights": [
+    "本地模型运行",
+    "多模型管理",
+    "简化推理服务接入"
+  ],
+  "tags": [
+    "local-llm",
+    "inference",
+    "ollama",
+    "self-hosted",
+    "model-runtime"
+  ],
+  "relevance_score": 0.88,
+  "score_breakdown": {
+    "tech_depth": 0.72,
+    "practical_value": 0.96,
+    "timeliness": 0.86,
+    "community_heat": 0.98,
+    "domain_match": 0.88
+  },
+  "stars": 170998,
+  "language": "Go",
+  "collected_at": "2026-05-08T16:03:51Z",
+  "analyzed_at": "2026-05-08T16:05:37Z",
+  "organized_at": "2026-05-08T16:06:24Z",
+  "status": "published"
+}

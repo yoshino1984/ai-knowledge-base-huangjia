@@ -1,0 +1,35 @@
+{
+  "id": "kb-2026-05-09-014",
+  "title": "open-webui",
+  "source": "github-trending",
+  "source_id": "open-webui/open-webui",
+  "url": "https://github.com/open-webui/open-webui",
+  "source_url": "https://github.com/open-webui/open-webui",
+  "summary": "Open WebUI 是面向 Ollama、OpenAI API 等后端的自托管 AI Web 界面，提供用户友好的聊天、模型接入和知识库/RAG 使用体验。它不解决底层模型训练问题，但很适合团队快速搭建私有 AI 入口和本地模型使用门户。",
+  "technical_highlights": [
+    "自托管 AI Web UI",
+    "Ollama/OpenAI API 接入",
+    "RAG 与用户界面能力"
+  ],
+  "tags": [
+    "llm-ui",
+    "open-webui",
+    "ollama",
+    "rag",
+    "self-hosted"
+  ],
+  "relevance_score": 0.82,
+  "score_breakdown": {
+    "tech_depth": 0.62,
+    "practical_value": 0.92,
+    "timeliness": 0.82,
+    "community_heat": 0.93,
+    "domain_match": 0.82
+  },
+  "stars": 136118,
+  "language": "Python",
+  "collected_at": "2026-05-08T16:03:51Z",
+  "analyzed_at": "2026-05-08T16:05:37Z",
+  "organized_at": "2026-05-08T16:06:24Z",
+  "status": "published"
+}

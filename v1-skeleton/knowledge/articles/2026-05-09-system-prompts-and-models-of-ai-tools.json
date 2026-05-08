@@ -1,0 +1,34 @@
+{
+  "id": "kb-2026-05-09-012",
+  "title": "system-prompts-and-models-of-ai-tools",
+  "source": "github-trending",
+  "source_id": "x1xhlol/system-prompts-and-models-of-ai-tools",
+  "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+  "source_url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+  "summary": "system-prompts-and-models-of-ai-tools 收集多种 AI 编程和生产力工具的系统提示词、内部工具描述与模型信息。它对研究 Agent 行为约束、提示词结构和产品设计很有参考价值，但不属于可直接集成的工程框架。",
+  "technical_highlights": [
+    "系统提示词样本",
+    "AI 工具行为研究",
+    "Agent 产品设计参考"
+  ],
+  "tags": [
+    "system-prompts",
+    "ai-tools",
+    "prompt-engineering",
+    "coding-agent"
+  ],
+  "relevance_score": 0.72,
+  "score_breakdown": {
+    "tech_depth": 0.55,
+    "practical_value": 0.72,
+    "timeliness": 0.82,
+    "community_heat": 0.91,
+    "domain_match": 0.72
+  },
+  "stars": 136912,
+  "language": null,
+  "collected_at": "2026-05-08T16:03:51Z",
+  "analyzed_at": "2026-05-08T16:05:37Z",
+  "organized_at": "2026-05-08T16:06:24Z",
+  "status": "published"
+}
