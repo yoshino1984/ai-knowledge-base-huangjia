@@ -1,0 +1,22 @@
+{
+  "id": "2026-05-11-github-trending-autogpt",
+  "title": "AutoGPT",
+  "source": "github-trending",
+  "source_url": "https://github.com/Significant-Gravitas/AutoGPT",
+  "collected_at": "2026-05-10T16:06:05Z",
+  "summary": "AutoGPT 是自主 Agent 方向的代表性项目，围绕目标拆解、工具调用和任务循环构建应用框架。它适合用来理解 autonomous agents 的早期工程范式。",
+  "analysis": {
+    "technical_category": "autonomous-agent",
+    "innovation": "将目标驱动任务循环、工具调用和 Agent 应用框架组合成可实验系统。",
+    "difficulty": "high",
+    "score": 8
+  },
+  "tags": [
+    "autonomous-agent",
+    "agent-framework",
+    "python",
+    "llm"
+  ],
+  "status": "published",
+  "organized_at": "2026-05-10T16:07:50Z"
+}

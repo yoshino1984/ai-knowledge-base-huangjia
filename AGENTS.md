@@ -18,6 +18,8 @@
 5. 每完成一个阶段性实践成果，建议单独提交一次 Git commit，提交信息对应课程阶段，例如 `feat: complete v2 json validation hooks`。
 6. 实践进度从零开始计算。`v1-skeleton/` 到 `v4-production/` 中已有的实现、数据和提交都视为参考答案，不计入我们的完成进度。
 7. 只有在 `project/` 中实现、并在 `doc/` 中记录的成果，才算我们的实践成果。
+8. 实践顺序以课程资料中的 Markdown 任务文件为准，按 `doc/progress.md` 从上到下逐项完成。
+9. 课程中出现 OpenCode 的地方，默认按 Codex 版本完成。OpenCode/Claude Code/Codex 都视为“AI 编程编排器”，实践重点是上下文、工具调用、文件读写、任务拆分和可验证产出。
 
 ## 实践路线
 

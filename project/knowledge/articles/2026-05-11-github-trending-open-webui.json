@@ -1,0 +1,22 @@
+{
+  "id": "2026-05-11-github-trending-open-webui",
+  "title": "open-webui",
+  "source": "github-trending",
+  "source_url": "https://github.com/open-webui/open-webui",
+  "collected_at": "2026-05-10T16:06:05Z",
+  "summary": "Open WebUI 是面向 Ollama、OpenAI API 等后端的自托管 AI Web 界面，提供聊天、模型接入和知识库体验。它适合快速搭建团队内部 AI 入口。",
+  "analysis": {
+    "technical_category": "llm-ui",
+    "innovation": "把本地模型、OpenAI 接口和知识库能力整合到易用 Web UI。",
+    "difficulty": "medium",
+    "score": 8
+  },
+  "tags": [
+    "llm-ui",
+    "ollama",
+    "rag",
+    "self-hosted"
+  ],
+  "status": "published",
+  "organized_at": "2026-05-10T16:07:50Z"
+}

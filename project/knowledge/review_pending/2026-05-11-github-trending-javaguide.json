@@ -1,0 +1,22 @@
+{
+  "id": "2026-05-11-github-trending-javaguide",
+  "title": "JavaGuide",
+  "source": "github-trending",
+  "source_url": "https://github.com/Snailclimb/JavaGuide",
+  "collected_at": "2026-05-10T16:06:05Z",
+  "summary": "JavaGuide 主要是 Java 与后端面试知识库，虽然包含少量 AI 应用开发、MCP 和 Agent 相关内容，但主体不是 AI/LLM 技术动态。",
+  "analysis": {
+    "technical_category": "backend-knowledge-base",
+    "innovation": "工程知识整理完整，但与 AI 知识库主题相关性有限。",
+    "difficulty": "low",
+    "score": 5
+  },
+  "tags": [
+    "java",
+    "backend",
+    "interview",
+    "mcp"
+  ],
+  "status": "review_pending",
+  "organized_at": "2026-05-10T16:07:50Z"
+}

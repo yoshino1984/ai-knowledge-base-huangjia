@@ -1,0 +1,22 @@
+{
+  "id": "2026-05-11-github-trending-everything-claude-code",
+  "title": "everything-claude-code",
+  "source": "github-trending",
+  "source_url": "https://github.com/affaan-m/everything-claude-code",
+  "collected_at": "2026-05-10T16:06:05Z",
+  "summary": "everything-claude-code 汇总 Claude Code、Codex、OpenCode、Cursor 等编程 Agent 的实践方法，覆盖 skills、memory、安全和研究优先流程。它更像 Agent 编程方法库。",
+  "analysis": {
+    "technical_category": "coding-agent-practice",
+    "innovation": "系统整理编程 Agent 的上下文、记忆、技能和安全工作流。",
+    "difficulty": "low",
+    "score": 7
+  },
+  "tags": [
+    "coding-agent",
+    "memory",
+    "skills",
+    "developer-tools"
+  ],
+  "status": "published",
+  "organized_at": "2026-05-10T16:07:50Z"
+}

@@ -1,0 +1,67 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "KnowledgeArticle",
+  "type": "object",
+  "required": [
+    "id",
+    "title",
+    "source",
+    "source_url",
+    "collected_at",
+    "summary",
+    "analysis",
+    "tags",
+    "status"
+  ],
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "source": {
+      "type": "string"
+    },
+    "source_url": {
+      "type": "string"
+    },
+    "collected_at": {
+      "type": "string"
+    },
+    "summary": {
+      "type": "string"
+    },
+    "analysis": {
+      "type": "object",
+      "required": ["technical_category", "innovation", "difficulty", "score"],
+      "properties": {
+        "technical_category": {
+          "type": "string"
+        },
+        "innovation": {
+          "type": "string"
+        },
+        "difficulty": {
+          "type": "string",
+          "enum": ["low", "medium", "high"]
+        },
+        "score": {
+          "type": "integer",
+          "minimum": 1,
+          "maximum": 10
+        }
+      }
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "status": {
+      "type": "string",
+      "enum": ["draft", "review_pending", "published", "archived"]
+    }
+  }
+}
