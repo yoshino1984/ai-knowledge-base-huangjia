@@ -1,0 +1,24 @@
+{
+  "id": "2026-05-11-github-sansan0-trendradar",
+  "title": "sansan0/TrendRadar",
+  "source": "github",
+  "source_url": "https://github.com/sansan0/TrendRadar",
+  "author": "sansan0",
+  "published_at": "2026-04-30T02:09:11Z",
+  "collected_at": "2026-05-11T15:51:06.017845+00:00",
+  "summary": "TrendRadar 是一个基于 AI 的舆情监控与热点筛选工具，支持多平台聚合、RSS 订阅和关键词筛选，提供 AI 翻译、分析简报及多渠道推送，并兼容 MCP 架构以赋能自然语言分析和趋势预测。",
+  "score": 7,
+  "tags": [
+    "AI",
+    "舆情监控",
+    "趋势分析",
+    "多平台聚合",
+    "RSS",
+    "智能推送",
+    "Docker",
+    "MCP"
+  ],
+  "audience": "intermediate",
+  "status": "draft",
+  "updated_at": "2026-05-11T15:52:48.297692+00:00"
+}

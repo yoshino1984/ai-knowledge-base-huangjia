@@ -1,0 +1,19 @@
+{
+  "id": "2026-05-11-github-asgeirtj-system-prompts-leaks",
+  "title": "asgeirtj/system_prompts_leaks",
+  "source": "github",
+  "source_url": "https://github.com/asgeirtj/system_prompts_leaks",
+  "author": "asgeirtj",
+  "published_at": "2026-05-11T10:16:19Z",
+  "collected_at": "2026-05-11T15:51:06.017874+00:00",
+  "summary": "该项目收集并整理了多个主流AI系统（如ChatGPT、Claude、Gemini、Grok、Perplexity等）的提示词泄露内容，并定期更新，为AI安全研究和提示工程提供了重要参考。其核心价值在于揭示了不同AI模型的内部指令设计，有助于理解模型行为边界和潜在风险。",
+  "score": 8,
+  "tags": [
+    "prompt泄露",
+    "AI安全",
+    "提示工程"
+  ],
+  "audience": "advanced",
+  "status": "draft",
+  "updated_at": "2026-05-11T15:52:48.297732+00:00"
+}

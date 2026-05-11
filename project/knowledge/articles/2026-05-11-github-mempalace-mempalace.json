@@ -1,0 +1,19 @@
+{
+  "id": "2026-05-11-github-mempalace-mempalace",
+  "title": "MemPalace/mempalace",
+  "source": "github",
+  "source_url": "https://github.com/MemPalace/mempalace",
+  "author": "MemPalace",
+  "published_at": "2026-05-11T09:37:13Z",
+  "collected_at": "2026-05-11T15:51:06.017853+00:00",
+  "summary": "MemPalace 是一个开源 AI 记忆系统，在基准测试中表现最佳，且免费使用。它旨在为 AI 应用提供高效、可扩展的记忆管理能力。",
+  "score": 7,
+  "tags": [
+    "AI memory",
+    "open-source",
+    "benchmark"
+  ],
+  "audience": "intermediate",
+  "status": "draft",
+  "updated_at": "2026-05-11T15:52:48.297703+00:00"
+}
