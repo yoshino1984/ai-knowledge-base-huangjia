@@ -1,0 +1,15 @@
+# AI 知识库本地定时任务
+# 安装方式：
+#   crontab project/cron/ai-knowledge-base.cron
+# 查看方式：
+#   crontab -l
+#
+# 注意：
+# - logs/ 已加入 .gitignore，不会提交运行日志。
+# - 完整流水线需要配置 DEEPSEEK_API_KEY / QWEN_API_KEY / OPENAI_API_KEY。
+
+# 每天 08:00 自动采集原始数据，不调用 LLM。
+0 8 * * * cd /Users/xiaoyi/project/ai/study/huangjia/ai-knowledge-base && project/scripts/run_collect.sh
+
+# 每周日 10:00 跑一次完整流水线，默认 limit=5，会调用 LLM。
+0 10 * * 0 cd /Users/xiaoyi/project/ai/study/huangjia/ai-knowledge-base && KB_PIPELINE_LIMIT=5 project/scripts/run_pipeline.sh

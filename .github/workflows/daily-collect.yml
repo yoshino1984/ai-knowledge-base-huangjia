@@ -1,6 +1,6 @@
 name: Daily AI Knowledge Collection
 
-# 每天 UTC 08:00（北京时间 16:00）自动采集
+# 每天 UTC 08:00（北京时间 16:00）自动运行
 on:
   schedule:
     - cron: "0 8 * * *"
@@ -8,10 +8,6 @@ on:
 
 permissions:
   contents: write
-
-defaults:
-  run:
-    working-directory: v2-automation
 
 jobs:
   collect:
@@ -26,10 +22,10 @@ jobs:
         with:
           python-version: "3.11"
           cache: "pip"
-          cache-dependency-path: v2-automation/requirements.txt
+          cache-dependency-path: project/requirements.txt
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: pip install -r project/requirements.txt
 
       - name: Run collection pipeline
         env:
@@ -39,7 +35,7 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          python pipeline/pipeline.py \
+          python project/pipeline/pipeline.py \
             --sources github,rss \
             --limit 20 \
             --verbose
@@ -47,20 +43,19 @@ jobs:
       - name: Validate collected articles
         continue-on-error: true
         run: |
-          if ls knowledge/articles/*.json 1>/dev/null 2>&1; then
-            python hooks/validate_json.py knowledge/articles/*.json || echo "⚠️ 部分文件校验失败，继续执行"
-            python hooks/check_quality.py knowledge/articles/*.json || echo "⚠️ 部分文件质量不达标，继续执行"
+          if ls project/knowledge/articles/*.json 1>/dev/null 2>&1; then
+            python project/hooks/validate_json.py project/knowledge/articles/*.json || echo "部分文件校验失败，继续执行"
+            python project/hooks/check_quality.py project/knowledge/articles/*.json || echo "部分文件质量不达标，继续执行"
           else
             echo "No articles to validate"
           fi
 
       - name: Commit and push results
-        working-directory: .
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add v2-automation/knowledge/
+          git add project/knowledge/
           if git diff --staged --quiet; then
             echo "No new articles to commit"
           else
