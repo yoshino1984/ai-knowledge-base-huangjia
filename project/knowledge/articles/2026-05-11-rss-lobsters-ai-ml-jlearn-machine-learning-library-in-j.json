@@ -1,0 +1,19 @@
+{
+  "id": "2026-05-11-rss-lobsters-ai-ml-jlearn-machine-learning-library-in-j",
+  "title": "jlearn: Machine Learning Library in J",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://github.com/jonghough/jlearn",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-05-11T15:51:10.678460+00:00",
+  "collected_at": "2026-05-11T15:51:10.678462+00:00",
+  "summary": "jlearn 是一个用 J 语言实现的机器学习库，为 J 语言生态提供了机器学习能力。该库可能适合在 J 语言中进行数据分析和模型训练，但具体功能和成熟度需进一步评估。",
+  "score": 7,
+  "tags": [
+    "J语言",
+    "机器学习库",
+    "数据分析"
+  ],
+  "audience": "intermediate",
+  "status": "draft",
+  "updated_at": "2026-05-11T15:52:48.297810+00:00"
+}

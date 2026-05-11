@@ -1,0 +1,20 @@
+{
+  "id": "2026-05-11-github-rasbt-llms-from-scratch",
+  "title": "rasbt/LLMs-from-scratch",
+  "source": "github",
+  "source_url": "https://github.com/rasbt/LLMs-from-scratch",
+  "author": "rasbt",
+  "published_at": "2026-05-11T14:14:00Z",
+  "collected_at": "2026-05-11T15:51:06.017827+00:00",
+  "summary": "该项目提供了从零开始用PyTorch实现类似ChatGPT的大语言模型的完整教程，适合深入理解LLM原理。通过逐步实现，帮助开发者掌握Transformer架构和自注意力机制等核心概念。",
+  "score": 8,
+  "tags": [
+    "LLM",
+    "PyTorch",
+    "教程",
+    "从零实现"
+  ],
+  "audience": "intermediate",
+  "status": "draft",
+  "updated_at": "2026-05-11T15:52:48.297656+00:00"
+}

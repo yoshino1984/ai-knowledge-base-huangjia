@@ -1,0 +1,19 @@
+{
+  "id": "2026-05-11-rss-lobsters-ai-ml-open-weights-are-quietly-closing-up-and-that-s-a",
+  "title": "Open weights are quietly closing up - and that's a problem",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://martinalderson.com/posts/open-weights-are-quietly-closing-up/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-05-11T15:51:10.678551+00:00",
+  "collected_at": "2026-05-11T15:51:10.678552+00:00",
+  "summary": "文章指出开放权重模型正在逐渐变得不那么开放，这引发了关于AI透明度和可访问性的担忧。核心价值在于提醒社区关注开放权重与真正开源之间的区别，以及这种趋势对AI发展的潜在影响。",
+  "score": 7,
+  "tags": [
+    "open weights",
+    "AI transparency",
+    "open source"
+  ],
+  "audience": "intermediate",
+  "status": "draft",
+  "updated_at": "2026-05-11T15:52:48.297836+00:00"
+}

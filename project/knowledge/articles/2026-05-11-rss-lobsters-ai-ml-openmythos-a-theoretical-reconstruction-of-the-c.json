@@ -1,0 +1,20 @@
+{
+  "id": "2026-05-11-rss-lobsters-ai-ml-openmythos-a-theoretical-reconstruction-of-the-c",
+  "title": "OpenMythos: A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://github.com/kyegomez/OpenMythos",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-05-11T15:51:10.678666+00:00",
+  "collected_at": "2026-05-11T15:51:10.678668+00:00",
+  "summary": "该文章从第一性原理出发，基于现有研究文献对Claude Mythos架构进行理论重建，旨在揭示其设计逻辑与潜在创新点。对于理解大型语言模型内部机制和架构演进具有参考价值。",
+  "score": 7,
+  "tags": [
+    "AI架构",
+    "理论重建",
+    "Claude Mythos",
+    "研究文献"
+  ],
+  "audience": "advanced",
+  "status": "draft",
+  "updated_at": "2026-05-11T15:52:48.297863+00:00"
+}
