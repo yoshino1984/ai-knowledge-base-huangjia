@@ -26,7 +26,7 @@ except ImportError:
     load_dotenv = None
 
 sys.path.insert(0, str(Path(__file__).parent))
-from model_client import chat_with_retry, create_provider, estimate_cost
+from model_client import chat_with_retry, create_provider, estimate_cost, tracker
 
 if load_dotenv:
     load_dotenv()
@@ -331,6 +331,24 @@ def step_organize(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
         score = item.get("score", 5)
         if not isinstance(score, int | float):
             score = 5
+        normalized_score = max(1, min(10, int(score)))
+        tags = item.get("tags", [])
+        audience = item.get("audience", "intermediate")
+        summary = item.get("summary", "")
+        technical_category = item.get("technical_category") or item.get("category")
+        if not technical_category:
+            technical_category = "open-source" if item.get("source") == "github" else "general"
+        innovation = item.get(
+            "innovation",
+            "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+        )
+        difficulty = item.get("difficulty", "medium")
+        difficulty_map = {
+            "beginner": "low",
+            "intermediate": "medium",
+            "advanced": "high",
+        }
+        difficulty = difficulty_map.get(str(difficulty), str(difficulty))
         article = {
             "id": item.get("id", f"unknown-{slugify(item.get('title', 'item'))}"),
             "title": item.get("title", ""),
@@ -339,10 +357,19 @@ def step_organize(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
             "author": item.get("author", "unknown"),
             "published_at": item.get("published_at", ""),
             "collected_at": item.get("collected_at", ""),
-            "summary": item.get("summary", ""),
-            "score": max(1, min(10, int(score))),
-            "tags": item.get("tags", []),
-            "audience": item.get("audience", "intermediate"),
+            "summary": summary,
+            "score": normalized_score,
+            "tags": tags,
+            "audience": audience,
+            "analysis": {
+                "summary": summary,
+                "score": normalized_score,
+                "tags": tags,
+                "audience": audience,
+                "technical_category": technical_category,
+                "innovation": innovation,
+                "difficulty": difficulty,
+            },
             "status": item.get("status", "draft"),
             "updated_at": utc_now(),
         }
@@ -410,6 +437,8 @@ def run_pipeline(
         "elapsed_seconds": round(elapsed, 1),
     }
     logger.info("流水线完成: %s", stats)
+    provider_name = os.getenv("LLM_PROVIDER", "deepseek")
+    tracker.report(provider=provider_name)
     return stats
 
 

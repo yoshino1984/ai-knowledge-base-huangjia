@@ -71,6 +71,13 @@ PRICING: dict[str, dict[str, float]] = {
 }
 
 
+PROVIDER_PRICING_CNY: dict[str, dict[str, float]] = {
+    "deepseek": {"input": 1.0, "output": 2.0},
+    "qwen": {"input": 4.0, "output": 12.0},
+    "openai": {"input": 150.0, "output": 600.0},
+}
+
+
 def estimate_cost(model: str, usage: Usage) -> float:
     """按模型名估算单次调用成本，单位 USD。"""
 
@@ -81,13 +88,90 @@ def estimate_cost(model: str, usage: Usage) -> float:
     )
 
 
+class CostTracker:
+    """追踪 LLM 调用的 token 消耗和人民币成本。"""
+
+    def __init__(self) -> None:
+        self.total_input_tokens = 0
+        self.total_output_tokens = 0
+        self.call_count = 0
+        self.calls: list[dict[str, Any]] = []
+
+    def record(
+        self,
+        usage: Usage | dict[str, int],
+        provider: str = "deepseek",
+        model: str = "",
+    ) -> None:
+        """记录一次 API 调用的 token 消耗。"""
+
+        if isinstance(usage, Usage):
+            input_tokens = usage.prompt_tokens
+            output_tokens = usage.completion_tokens
+        else:
+            input_tokens = int(usage.get("prompt_tokens", 0) or 0)
+            output_tokens = int(usage.get("completion_tokens", 0) or 0)
+
+        self.total_input_tokens += input_tokens
+        self.total_output_tokens += output_tokens
+        self.call_count += 1
+        self.calls.append(
+            {
+                "provider": provider,
+                "model": model,
+                "input_tokens": input_tokens,
+                "output_tokens": output_tokens,
+            }
+        )
+
+    def estimated_cost(self, provider: str = "deepseek") -> float:
+        """估算累计成本，单位为元。"""
+
+        pricing = PROVIDER_PRICING_CNY.get(provider, PROVIDER_PRICING_CNY["deepseek"])
+        input_cost = self.total_input_tokens * pricing["input"] / 1_000_000
+        output_cost = self.total_output_tokens * pricing["output"] / 1_000_000
+        return input_cost + output_cost
+
+    def report(self, provider: str = "deepseek") -> str:
+        """生成并打印 Token 消耗报告。"""
+
+        total_tokens = self.total_input_tokens + self.total_output_tokens
+        cost = self.estimated_cost(provider)
+        lines = [
+            "",
+            "=" * 40,
+            "Token 消耗报告",
+            "=" * 40,
+            f"调用次数: {self.call_count}",
+            f"输入 tokens: {self.total_input_tokens:,}",
+            f"输出 tokens: {self.total_output_tokens:,}",
+            f"总 tokens: {total_tokens:,}",
+            f"估算成本: {cost:.4f} 元",
+            f"计价 provider: {provider}",
+            "=" * 40,
+        ]
+        report_text = "\n".join(lines)
+        print(report_text)
+        return report_text
+
+
+tracker = CostTracker()
+
+
 class LLMProvider(ABC):
     """LLM 提供商抽象基类。"""
 
-    def __init__(self, api_key: str, base_url: str, model: str) -> None:
+    def __init__(
+        self,
+        api_key: str,
+        base_url: str,
+        model: str,
+        provider_name: str = "deepseek",
+    ) -> None:
         self.api_key = api_key
         self.base_url = base_url.rstrip("/")
         self.model = model
+        self.provider_name = provider_name
         self.client = httpx.Client(timeout=60.0)
 
     @abstractmethod
@@ -177,7 +261,12 @@ def create_provider(provider_name: str | None = None) -> LLMProvider:
     base_url = os.getenv(config["base_url_env"], config["default_base_url"])
     model = os.getenv(config["model_env"], config["default_model"])
     logger.info("创建 LLM 客户端: provider=%s, model=%s", name, model)
-    return OpenAICompatibleProvider(api_key=api_key, base_url=base_url, model=model)
+    return OpenAICompatibleProvider(
+        api_key=api_key,
+        base_url=base_url,
+        model=model,
+        provider_name=name,
+    )
 
 
 def chat_with_retry(
@@ -197,6 +286,11 @@ def chat_with_retry(
                 messages=messages,
                 temperature=temperature,
                 max_tokens=max_tokens,
+            )
+            tracker.record(
+                response.usage,
+                provider=provider.provider_name,
+                model=provider.model,
             )
             if attempt > 0:
                 logger.info("第 %d 次重试成功", attempt)
