@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import json
+import os
 import re
 import sys
 from pathlib import Path
@@ -37,7 +38,7 @@ def update_cost_tracker(cost_state: dict) -> dict:
         "completion_tokens": tracker.total_output_tokens,
         "total_tokens": tracker.total_input_tokens + tracker.total_output_tokens,
         "call_count": tracker.call_count,
-        "total_cost_yuan": tracker.estimated_cost("deepseek"),
+        "total_cost_yuan": tracker.estimated_cost(os.getenv("LLM_PROVIDER", "deepseek")),
     }
 
 
@@ -71,6 +72,8 @@ def revise_node(state: KBState) -> dict:
         result = chat(
             prompt,
             system="你是经验丰富的知识库编辑。根据反馈定向修改，不要过度发散。",
+            temperature=0.4,
+            node_name="revise",
         )
         improved = parse_json_array(str(result["content"]))
         if improved:

@@ -111,6 +111,8 @@ def review_node(state: KBState) -> dict:
         result = chat(
             prompt,
             system="你是严格但公正的知识库质量审核员。只输出 JSON。",
+            temperature=0.1,
+            node_name="review",
         )
         review = parse_json_object(str(result["content"]))
         scores = review.get("scores", {})

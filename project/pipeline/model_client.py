@@ -15,6 +15,8 @@ from typing import Any
 
 import httpx
 
+from project.tests.cost_guard import BudgetExceededError, CostGuard
+
 try:
     from dotenv import load_dotenv
 except ImportError:
@@ -156,6 +158,19 @@ class CostTracker:
 
 
 tracker = CostTracker()
+_cost_guard: CostGuard | None = None
+
+
+def get_cost_guard() -> CostGuard:
+    """获取全局 CostGuard 实例，一次运行共享同一个预算状态。"""
+
+    global _cost_guard
+    if _cost_guard is None:
+        _cost_guard = CostGuard(
+            budget_yuan=float(os.getenv("BUDGET_YUAN", "1.0")),
+            alert_threshold=float(os.getenv("BUDGET_ALERT", "0.8")),
+        )
+    return _cost_guard
 
 
 class LLMProvider(ABC):
@@ -344,8 +359,11 @@ def chat(
     system: str = "你是一个 AI 技术分析助手。",
     provider: str | None = None,
     max_retries: int = 3,
+    temperature: float = 0.7,
+    max_tokens: int = 2000,
+    node_name: str = "unknown",
 ) -> dict[str, Any]:
-    """便捷调用 LLM，返回字典格式。"""
+    """便捷调用 LLM，返回字典格式，并自动接入 CostGuard。"""
 
     messages = [
         {"role": "system", "content": system},
@@ -353,7 +371,16 @@ def chat(
     ]
     llm = create_provider(provider)
     try:
-        response = chat_with_retry(llm, messages, max_retries=max_retries)
+        response = chat_with_retry(
+            llm,
+            messages,
+            temperature=temperature,
+            max_tokens=max_tokens,
+            max_retries=max_retries,
+        )
+        guard = get_cost_guard()
+        guard.record(node_name, response.usage.to_dict(), model=response.model)
+        guard.check()
         return response.to_dict()
     finally:
         llm.close()

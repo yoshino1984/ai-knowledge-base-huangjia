@@ -17,6 +17,7 @@ ARTICLES_DIR = PROJECT_ROOT / "knowledge" / "articles"
 sys.path.insert(0, str(PROJECT_ROOT / "pipeline"))
 from model_client import chat, tracker
 
+from project.tests.security import filter_output, sanitize_input
 from project.workflows.state import KBState
 
 
@@ -94,8 +95,27 @@ def collect_node(state: KBState) -> dict:
             }
         )
 
-    print(f"[Collector] 采集到 {len(sources)} 条原始数据")
-    return {"sources": sources}
+    cleaned_sources: list[dict] = []
+    total_warnings = 0
+    for source in sources:
+        for field in ("title", "description"):
+            value = source.get(field)
+            if isinstance(value, str):
+                cleaned, warnings = sanitize_input(value)
+                source[field] = cleaned
+                total_warnings += len(warnings)
+                if warnings:
+                    print(
+                        f"[Security] {source.get('url', '?')} {field} "
+                        f"检出注入模式: {warnings}"
+                    )
+        cleaned_sources.append(source)
+
+    if total_warnings:
+        print(f"[Security] collect 阶段共拦截 {total_warnings} 处可疑输入")
+
+    print(f"[Collector] 采集到 {len(cleaned_sources)} 条原始数据")
+    return {"sources": cleaned_sources}
 
 
 def analyze_node(state: KBState) -> dict:
@@ -119,7 +139,11 @@ def analyze_node(state: KBState) -> dict:
   "key_insight": "一句话洞察"
 }}"""
         try:
-            result = chat(prompt, system="你是 AI 技术分析师，只返回 JSON。")
+            result = chat(
+                prompt,
+                system="你是 AI 技术分析师，只返回 JSON。",
+                node_name="analyze",
+            )
             analysis = parse_json_object(str(result["content"]))
             analyses.append({**item, **analysis})
         except Exception as exc:
@@ -192,9 +216,41 @@ def organize_node(state: KBState) -> dict:
             }
         )
 
-    print(f"[Organizer] 整理出 {len(articles)} 条知识条目 (迭代 {iteration})")
+    masked_articles: list[dict] = []
+    total_pii = 0
+    for article in articles:
+        for field in ("title", "summary"):
+            value = article.get(field)
+            if isinstance(value, str):
+                filtered, detections = filter_output(value, mask=True)
+                article[field] = filtered
+                total_pii += len(detections)
+                if detections:
+                    print(
+                        f"[Security] {article.get('id', '?')} {field} "
+                        f"掩码 PII: {detections}"
+                    )
+        analysis = article.get("analysis", {})
+        if isinstance(analysis, dict):
+            for field in ("summary", "innovation"):
+                value = analysis.get(field)
+                if isinstance(value, str):
+                    filtered, detections = filter_output(value, mask=True)
+                    analysis[field] = filtered
+                    total_pii += len(detections)
+                    if detections:
+                        print(
+                            f"[Security] {article.get('id', '?')} analysis.{field} "
+                            f"掩码 PII: {detections}"
+                        )
+        masked_articles.append(article)
+
+    if total_pii:
+        print(f"[Security] organize 阶段共掩码 {total_pii} 处 PII")
+
+    print(f"[Organizer] 整理出 {len(masked_articles)} 条知识条目 (迭代 {iteration})")
     return {
-        "articles": articles,
+        "articles": masked_articles,
         "cost_tracker": update_cost_tracker(state.get("cost_tracker", {})),
     }
 

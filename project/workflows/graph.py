@@ -3,8 +3,15 @@
 from __future__ import annotations
 
 import os
+import sys
+from pathlib import Path
 
 from langgraph.graph import END, StateGraph
+
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+COST_REPORT_PATH = PROJECT_ROOT / "knowledge" / "cost-report.json"
+sys.path.insert(0, str(PROJECT_ROOT / "pipeline"))
+from model_client import BudgetExceededError, get_cost_guard
 
 from project.workflows.human_flag import human_flag_node
 from project.workflows.nodes import (
@@ -87,9 +94,21 @@ if __name__ == "__main__":
         "cost_tracker": {},
     }
 
-    for event in app.stream(initial_state):
-        node_name = list(event.keys())[0]
-        print(f"\n--- [{node_name}] 完成 ---")
-
-    print("\n" + "=" * 60)
-    print("工作流执行完毕")
+    try:
+        for event in app.stream(initial_state):
+            node_name = list(event.keys())[0]
+            print(f"\n--- [{node_name}] 完成 ---")
+        print("\n" + "=" * 60)
+        print("工作流执行完毕")
+    except BudgetExceededError as exc:
+        print(f"\n[FATAL] 预算熔断触发: {exc}")
+    finally:
+        guard = get_cost_guard()
+        report = guard.get_report()
+        print(
+            f"\n[CostGuard] 总调用 {report['total_calls']} 次 · "
+            f"总成本 ¥{report['total_cost_yuan']}"
+        )
+        print(f"[CostGuard] 按节点: {report['cost_by_node']}")
+        guard.save_report(COST_REPORT_PATH)
+        print(f"[CostGuard] 报告已保存: {COST_REPORT_PATH}")
