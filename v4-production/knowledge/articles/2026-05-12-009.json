@@ -1,0 +1,18 @@
+{
+  "id": "2026-05-12-009",
+  "title": "mem0ai/mem0",
+  "source": "github",
+  "url": "https://github.com/mem0ai/mem0",
+  "collected_at": "2026-05-12T03:41:39.329146+00:00",
+  "summary": "mem0ai/mem0 是一个为 AI 代理提供通用记忆层的开源项目。它通过持久化存储和检索代理的交互历史、用户偏好和上下文信息，使 AI 代理能够实现长期记忆和个性化响应。该项目支持多种后端存储（如向量数据库、文件系统），并提供简单的 API 接口，适用于构建具有记忆能力的对话系统、个人助理和自主代理。",
+  "tags": [
+    "memory",
+    "agent",
+    "llm",
+    "persistence",
+    "context"
+  ],
+  "relevance_score": 0.85,
+  "category": "framework",
+  "key_insight": "为 AI 代理提供统一的记忆层，解决长期上下文保持和个性化问题，是构建自主代理的关键基础设施。"
+}
