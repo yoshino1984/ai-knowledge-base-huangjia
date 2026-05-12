@@ -1,0 +1,32 @@
+{
+  "id": "2026-05-12-rss-lobsters-ai-ml-gitlab-act-2",
+  "title": "GitLab Act 2",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://about.gitlab.com/blog/gitlab-act-2/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-05-12T10:25:59.205797+00:00",
+  "collected_at": "2026-05-12T10:25:59.205805+00:00",
+  "summary": "GitLab Act 2 是 Lobsters 上关于 GitLab 平台的一篇讨论帖，可能涉及 GitLab 的新功能或更新。该内容为技术社区提供了交流机会，但缺乏具体技术细节。",
+  "score": 5,
+  "tags": [
+    "GitLab",
+    "DevOps",
+    "讨论"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "GitLab Act 2 是 Lobsters 上关于 GitLab 平台的一篇讨论帖，可能涉及 GitLab 的新功能或更新。该内容为技术社区提供了交流机会，但缺乏具体技术细节。",
+    "score": 5,
+    "tags": [
+      "GitLab",
+      "DevOps",
+      "讨论"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-05-12T10:27:29.746122+00:00"
+}
