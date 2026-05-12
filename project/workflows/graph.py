@@ -10,10 +10,10 @@ from project.workflows.nodes import (
     analyze_node,
     collect_node,
     organize_node,
-    review_node,
     review_node_test,
     save_node,
 )
+from project.workflows.reviewer import review_node
 from project.workflows.state import KBState
 
 
