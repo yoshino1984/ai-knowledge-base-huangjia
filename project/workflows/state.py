@@ -16,4 +16,5 @@ class KBState(TypedDict):
     review_feedback: str  # 审核反馈，说明需要修改的具体问题。
     review_passed: bool  # 审核是否通过，作为条件边路由依据。
     iteration: int  # 审核循环次数，避免 review -> organize 无限循环。
+    needs_human_review: bool  # 是否需要人工复核，由 HumanFlag 节点设置。
     cost_tracker: dict  # Token 和成本统计，例如 prompt_tokens、completion_tokens、total_cost_yuan。

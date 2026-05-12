@@ -140,11 +140,10 @@ def analyze_node(state: KBState) -> dict:
 
 
 def organize_node(state: KBState) -> dict:
-    """整理节点：过滤、去重，并在审核反馈存在时做定向修正。"""
+    """整理节点：过滤、去重，并转换为可保存的知识条目。"""
 
     print("[Organizer] 开始整理")
     analyses = state["analyses"]
-    feedback = state.get("review_feedback", "")
     iteration = state.get("iteration", 0)
     qualified = [item for item in analyses if float(item.get("relevance_score", 0)) >= 0.6]
 
@@ -155,20 +154,6 @@ def organize_node(state: KBState) -> dict:
         if url and url not in seen_urls:
             seen_urls.add(url)
             unique.append(item)
-
-    if feedback and iteration > 0 and unique:
-        prompt = f"""你是知识库编辑，请根据审核反馈改进条目。
-审核反馈：{feedback}
-条目：{json.dumps(unique, ensure_ascii=False)}
-
-请返回改进后的 JSON 数组。"""
-        try:
-            result = chat(prompt, system="你是知识库编辑，只返回 JSON 数组。")
-            improved = parse_json_object(str(result["content"]))
-            if isinstance(improved, list):
-                unique = improved
-        except Exception:
-            pass
 
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     articles: list[dict] = []

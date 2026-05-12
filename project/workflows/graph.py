@@ -6,6 +6,7 @@ import os
 
 from langgraph.graph import END, StateGraph
 
+from project.workflows.human_flag import human_flag_node
 from project.workflows.nodes import (
     analyze_node,
     collect_node,
@@ -14,15 +15,18 @@ from project.workflows.nodes import (
     save_node,
 )
 from project.workflows.reviewer import review_node
+from project.workflows.reviser import revise_node
 from project.workflows.state import KBState
 
 
-def should_continue(state: KBState) -> str:
-    """审核通过进入 save，未通过回到 organize。"""
+def route_after_review(state: KBState) -> str:
+    """审核后 3 路分支：通过、修正、人工复核。"""
 
     if state.get("review_passed", False):
-        return "save"
-    return "organize"
+        return "organize"
+    if state.get("iteration", 0) >= 3:
+        return "human_flag"
+    return "revise"
 
 
 def build_graph():
@@ -36,17 +40,25 @@ def build_graph():
         graph.add_node("review", review_node_test)
     else:
         graph.add_node("review", review_node)
+    graph.add_node("revise", revise_node)
     graph.add_node("save", save_node)
+    graph.add_node("human_flag", human_flag_node)
 
     graph.add_edge("collect", "analyze")
-    graph.add_edge("analyze", "organize")
-    graph.add_edge("organize", "review")
+    graph.add_edge("analyze", "review")
     graph.add_conditional_edges(
         "review",
-        should_continue,
-        {"save": "save", "organize": "organize"},
+        route_after_review,
+        {
+            "organize": "organize",
+            "revise": "revise",
+            "human_flag": "human_flag",
+        },
     )
+    graph.add_edge("revise", "review")
+    graph.add_edge("organize", "save")
     graph.add_edge("save", END)
+    graph.add_edge("human_flag", END)
     graph.set_entry_point("collect")
     return graph.compile()
 
@@ -65,6 +77,7 @@ if __name__ == "__main__":
         "review_feedback": "",
         "review_passed": False,
         "iteration": 0,
+        "needs_human_review": False,
         "cost_tracker": {},
     }
 
