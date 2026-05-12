@@ -1,4 +1,4 @@
-"""LangGraph 5 节点教学版工作流节点。"""
+"""LangGraph 工作流节点：采集、分析、整理和保存。"""
 
 from __future__ import annotations
 
@@ -54,10 +54,12 @@ def collect_node(state: KBState) -> dict:
     """采集节点：调用 GitHub Search API 获取 AI 相关仓库。"""
 
     print("[Collector] 开始采集")
+    plan = state.get("plan", {}) or {}
+    per_source_limit = int(plan.get("per_source_limit", 10))
     query = urllib.parse.quote("topic:ai topic:llm")
     url = (
         "https://api.github.com/search/repositories"
-        f"?q={query}&sort=stars&order=desc&per_page=3"
+        f"?q={query}&sort=stars&order=desc&per_page={per_source_limit}"
     )
     headers = {"Accept": "application/vnd.github.v3+json"}
     token = os.getenv("GITHUB_TOKEN", "")
@@ -143,9 +145,15 @@ def organize_node(state: KBState) -> dict:
     """整理节点：过滤、去重，并转换为可保存的知识条目。"""
 
     print("[Organizer] 开始整理")
+    plan = state.get("plan", {}) or {}
+    relevance_threshold = float(plan.get("relevance_threshold", 0.5))
     analyses = state["analyses"]
     iteration = state.get("iteration", 0)
-    qualified = [item for item in analyses if float(item.get("relevance_score", 0)) >= 0.6]
+    qualified = [
+        item
+        for item in analyses
+        if float(item.get("relevance_score", 0)) >= relevance_threshold
+    ]
 
     seen_urls: set[str] = set()
     unique: list[dict] = []
@@ -238,22 +246,24 @@ overall_score >= 3.5 即通过。当前是第 {iteration + 1} 次审核。
 
 
 def review_node_test(state: KBState) -> dict:
-    """审核节点测试版：前两次失败，第三次强制通过。"""
+    """审核节点测试版：持续失败，用于验证 revise 和 human_flag 路由。"""
 
     iteration = state.get("iteration", 0)
+    plan = state.get("plan", {}) or {}
+    max_iterations = int(plan.get("max_iterations", 3))
     feedbacks = [
         "摘要过于简短，需要补充技术细节和实际应用场景。",
         "标签不够精确，建议增加具体框架名称作为标签。",
         "质量已达标，准予通过。",
     ]
-    if iteration >= 2:
+    if iteration >= max_iterations:
         passed = True
         feedback = feedbacks[2]
     else:
         passed = False
         feedback = feedbacks[min(iteration, len(feedbacks) - 1)]
 
-    print(f"[Reviewer-Test] 迭代 {iteration + 1}/3, passed={passed}")
+    print(f"[Reviewer-Test] 迭代 {iteration + 1}/{max_iterations}, passed={passed}")
     print(f"  反馈: {feedback}")
     return {
         "review_passed": passed,

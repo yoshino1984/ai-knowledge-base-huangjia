@@ -6,10 +6,11 @@ from typing import TypedDict
 class KBState(TypedDict):
     """知识库工作流的全局状态。
 
-    数据流向：sources -> analyses -> articles -> review -> save。
+    数据流向：plan -> sources -> analyses -> review -> articles -> save。
     每个字段都保存结构化报告，避免节点之间传递不可控的长文本上下文。
     """
 
+    plan: dict  # Planner 输出的执行策略，例如采集数量、过滤阈值、最大审核轮次。
     sources: list[dict]  # 采集结果，来自 GitHub API、RSS 等外部数据源。
     analyses: list[dict]  # LLM 分析结果，每条通常包含 summary、tags、score。
     articles: list[dict]  # 整理后的知识条目，已完成过滤、去重和字段标准化。

@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import json
+import os
 import re
 import sys
 from pathlib import Path
@@ -44,7 +45,7 @@ def update_cost_tracker(cost_state: dict) -> dict:
         "completion_tokens": tracker.total_output_tokens,
         "total_tokens": tracker.total_input_tokens + tracker.total_output_tokens,
         "call_count": tracker.call_count,
-        "total_cost_yuan": tracker.estimated_cost("deepseek"),
+        "total_cost_yuan": tracker.estimated_cost(os.getenv("LLM_PROVIDER", "deepseek")),
     }
 
 
@@ -67,6 +68,8 @@ def review_node(state: KBState) -> dict:
 
     analyses = state.get("analyses", [])
     iteration = state.get("iteration", 0)
+    plan = state.get("plan", {}) or {}
+    max_iterations = int(plan.get("max_iterations", 3))
     cost_state = state.get("cost_tracker", {})
 
     if not analyses:
@@ -118,13 +121,12 @@ def review_node(state: KBState) -> dict:
         if weak_dimensions:
             feedback = f"[弱项: {', '.join(map(str, weak_dimensions))}] {feedback}"
 
-        if iteration >= 2:
-            passed = True
-            feedback += "\n[系统] 已达最大审核次数，强制通过。"
+        if iteration >= max_iterations - 1 and not passed:
+            feedback += "\n[系统] 已达最大审核次数，交由人工复核。"
 
         print(
             f"[Reviewer] 加权总分: {total}/10, "
-            f"通过: {passed} (第 {iteration + 1} 次审核)"
+            f"通过: {passed} (第 {iteration + 1}/{max_iterations} 次审核)"
         )
     except Exception as exc:
         passed = True

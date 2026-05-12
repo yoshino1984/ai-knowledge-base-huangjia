@@ -1,4 +1,4 @@
-"""LangGraph 5 节点教学版工作流图。"""
+"""LangGraph 7 节点教学版工作流图。"""
 
 from __future__ import annotations
 
@@ -14,6 +14,7 @@ from project.workflows.nodes import (
     review_node_test,
     save_node,
 )
+from project.workflows.planner import planner_node
 from project.workflows.reviewer import review_node
 from project.workflows.reviser import revise_node
 from project.workflows.state import KBState
@@ -22,17 +23,20 @@ from project.workflows.state import KBState
 def route_after_review(state: KBState) -> str:
     """审核后 3 路分支：通过、修正、人工复核。"""
 
+    plan = state.get("plan", {}) or {}
+    max_iterations = int(plan.get("max_iterations", 3))
     if state.get("review_passed", False):
         return "organize"
-    if state.get("iteration", 0) >= 3:
+    if state.get("iteration", 0) >= max_iterations:
         return "human_flag"
     return "revise"
 
 
 def build_graph():
-    """构建知识库 5 节点工作流。"""
+    """构建知识库 7 节点工作流。"""
 
     graph = StateGraph(KBState)
+    graph.add_node("plan", planner_node)
     graph.add_node("collect", collect_node)
     graph.add_node("analyze", analyze_node)
     graph.add_node("organize", organize_node)
@@ -44,6 +48,7 @@ def build_graph():
     graph.add_node("save", save_node)
     graph.add_node("human_flag", human_flag_node)
 
+    graph.add_edge("plan", "collect")
     graph.add_edge("collect", "analyze")
     graph.add_edge("analyze", "review")
     graph.add_conditional_edges(
@@ -59,7 +64,7 @@ def build_graph():
     graph.add_edge("organize", "save")
     graph.add_edge("save", END)
     graph.add_edge("human_flag", END)
-    graph.set_entry_point("collect")
+    graph.set_entry_point("plan")
     return graph.compile()
 
 
@@ -71,6 +76,7 @@ if __name__ == "__main__":
     print("AI 知识库 - LangGraph 工作流启动")
     print("=" * 60)
     initial_state: KBState = {
+        "plan": {},
         "sources": [],
         "analyses": [],
         "articles": [],
