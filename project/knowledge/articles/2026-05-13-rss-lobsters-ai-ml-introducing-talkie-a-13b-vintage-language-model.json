@@ -1,0 +1,32 @@
+{
+  "id": "2026-05-13-rss-lobsters-ai-ml-introducing-talkie-a-13b-vintage-language-model",
+  "title": "Introducing talkie: a 13B vintage language model from 1930",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://talkie-lm.com/introducing-talkie",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-05-13T10:15:40.292299+00:00",
+  "collected_at": "2026-05-13T10:15:40.292301+00:00",
+  "summary": "该内容介绍了一个名为 talkie 的 13B 参数语言模型，其特色是模拟 1930 年代的复古风格。该模型可能用于生成具有时代特色的文本，或作为 AI 历史研究的趣味案例。",
+  "score": 7,
+  "tags": [
+    "语言模型",
+    "复古",
+    "AI"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该内容介绍了一个名为 talkie 的 13B 参数语言模型，其特色是模拟 1930 年代的复古风格。该模型可能用于生成具有时代特色的文本，或作为 AI 历史研究的趣味案例。",
+    "score": 7,
+    "tags": [
+      "语言模型",
+      "复古",
+      "AI"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-05-13T10:16:51.114832+00:00"
+}

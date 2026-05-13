@@ -1,0 +1,36 @@
+{
+  "id": "2026-05-13-rss-lobsters-ai-ml-shrinking-the-oxcaml-js-of-ocaml-bundle-285-mb-t",
+  "title": "Shrinking the OxCaml js_of_ocaml bundle: 285 MB to 4 MB",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://kcsrk.info/ocaml/oxcaml/modes/2026/05/10/shrinking-the-oxcaml-bundle/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-05-13T10:15:40.291674+00:00",
+  "collected_at": "2026-05-13T10:15:40.291683+00:00",
+  "summary": "本文介绍了如何将OxCaml的js_of_ocaml捆绑包从285 MB大幅缩减至4 MB，通过优化依赖和构建配置实现显著体积减小。核心价值在于展示了大型OCaml项目编译为JavaScript时的优化潜力，对WebAssembly和前端部署有参考意义。",
+  "score": 7,
+  "tags": [
+    "OCaml",
+    "js_of_ocaml",
+    "bundle optimization",
+    "WebAssembly",
+    "frontend deployment"
+  ],
+  "audience": "advanced",
+  "analysis": {
+    "summary": "本文介绍了如何将OxCaml的js_of_ocaml捆绑包从285 MB大幅缩减至4 MB，通过优化依赖和构建配置实现显著体积减小。核心价值在于展示了大型OCaml项目编译为JavaScript时的优化潜力，对WebAssembly和前端部署有参考意义。",
+    "score": 7,
+    "tags": [
+      "OCaml",
+      "js_of_ocaml",
+      "bundle optimization",
+      "WebAssembly",
+      "frontend deployment"
+    ],
+    "audience": "advanced",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-05-13T10:16:51.114796+00:00"
+}

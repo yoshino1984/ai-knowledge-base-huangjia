@@ -1,0 +1,32 @@
+{
+  "id": "2026-05-13-github-khoj-ai-khoj",
+  "title": "khoj-ai/khoj",
+  "source": "github",
+  "source_url": "https://github.com/khoj-ai/khoj",
+  "author": "khoj-ai",
+  "published_at": "2026-03-26T03:35:43Z",
+  "collected_at": "2026-05-13T10:15:19.861495+00:00",
+  "summary": "Khoj 是一个自托管的 AI 第二大脑工具，能够从网络或文档中获取答案，构建自定义代理并实现自动化。它支持将多种在线或本地大语言模型（如 GPT、Claude、Gemini 等）转化为个人自主 AI 助手。",
+  "score": 7,
+  "tags": [
+    "AI assistant",
+    "self-hosted",
+    "knowledge management"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "Khoj 是一个自托管的 AI 第二大脑工具，能够从网络或文档中获取答案，构建自定义代理并实现自动化。它支持将多种在线或本地大语言模型（如 GPT、Claude、Gemini 等）转化为个人自主 AI 助手。",
+    "score": 7,
+    "tags": [
+      "AI assistant",
+      "self-hosted",
+      "knowledge management"
+    ],
+    "audience": "intermediate",
+    "technical_category": "open-source",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-05-13T10:16:51.114779+00:00"
+}

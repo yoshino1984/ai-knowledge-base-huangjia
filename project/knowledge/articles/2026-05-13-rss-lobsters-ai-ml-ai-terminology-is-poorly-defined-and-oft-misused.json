@@ -1,0 +1,32 @@
+{
+  "id": "2026-05-13-rss-lobsters-ai-ml-ai-terminology-is-poorly-defined-and-oft-misused",
+  "title": "AI Terminology is Poorly Defined and Oft Misused",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://vale.rocks/posts/ai-terminology",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-05-13T10:15:40.292215+00:00",
+  "collected_at": "2026-05-13T10:15:40.292217+00:00",
+  "summary": "文章讨论了AI术语定义模糊且常被误用的问题，指出这导致沟通混乱和误解。它呼吁更精确的术语使用以促进领域健康发展。",
+  "score": 7,
+  "tags": [
+    "AI terminology",
+    "misuse",
+    "communication"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "文章讨论了AI术语定义模糊且常被误用的问题，指出这导致沟通混乱和误解。它呼吁更精确的术语使用以促进领域健康发展。",
+    "score": 7,
+    "tags": [
+      "AI terminology",
+      "misuse",
+      "communication"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-05-13T10:16:51.114811+00:00"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "2026-05-13-rss-lobsters-ai-ml-localisation-engineering-platform",
+  "title": "Localisation Engineering Platform",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://lingo.dev/en/blog/introducing-lingodotdev-v1",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-05-13T10:15:40.292243+00:00",
+  "collected_at": "2026-05-13T10:15:40.292245+00:00",
+  "summary": "该内容介绍了一个本地化工程平台，旨在优化多语言内容管理流程。它可能涉及自动化翻译、工作流集成或资源管理，提升本地化效率。",
+  "score": 7,
+  "tags": [
+    "localisation",
+    "engineering",
+    "platform"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该内容介绍了一个本地化工程平台，旨在优化多语言内容管理流程。它可能涉及自动化翻译、工作流集成或资源管理，提升本地化效率。",
+    "score": 7,
+    "tags": [
+      "localisation",
+      "engineering",
+      "platform"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-05-13T10:16:51.114819+00:00"
+}

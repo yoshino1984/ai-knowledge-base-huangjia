@@ -1,0 +1,32 @@
+{
+  "id": "2026-05-13-rss-lobsters-ai-ml-triton-language-for-huawei-ascend",
+  "title": "Triton language for Huawei Ascend",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://github.com/triton-lang/triton-ascend",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-05-13T10:15:40.292271+00:00",
+  "collected_at": "2026-05-13T10:15:40.292273+00:00",
+  "summary": "该内容介绍了Triton语言在华为昇腾平台上的应用，旨在通过Triton的编程模型优化昇腾AI处理器的性能。它可能为开发者提供了一种高效利用昇腾硬件的新途径，具有重要的技术价值。",
+  "score": 7,
+  "tags": [
+    "Triton",
+    "华为昇腾",
+    "AI编程"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该内容介绍了Triton语言在华为昇腾平台上的应用，旨在通过Triton的编程模型优化昇腾AI处理器的性能。它可能为开发者提供了一种高效利用昇腾硬件的新途径，具有重要的技术价值。",
+    "score": 7,
+    "tags": [
+      "Triton",
+      "华为昇腾",
+      "AI编程"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-05-13T10:16:51.114825+00:00"
+}
