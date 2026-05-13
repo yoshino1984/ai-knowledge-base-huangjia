@@ -1,0 +1,18 @@
+{
+  "id": "2026-05-13-009",
+  "title": "mem0ai/mem0",
+  "source": "github",
+  "url": "https://github.com/mem0ai/mem0",
+  "collected_at": "2026-05-13T03:51:48.447230+00:00",
+  "summary": "Mem0 是一个为 AI 智能体提供通用记忆层的开源项目，旨在让 LLM 应用具备长期、个性化记忆能力。它支持从用户交互中自动提取、存储和检索关键信息，并允许智能体跨会话保持上下文一致性。项目提供简单 API，可集成到各类 AI 系统中，提升对话的连贯性和个性化体验。",
+  "tags": [
+    "memory",
+    "agent",
+    "llm",
+    "context",
+    "personalization"
+  ],
+  "relevance_score": 0.9,
+  "category": "agent",
+  "key_insight": "通过统一的记忆层，让 AI 智能体实现跨会话的长期记忆与个性化交互，是提升 Agent 实用性的关键基础设施。"
+}
