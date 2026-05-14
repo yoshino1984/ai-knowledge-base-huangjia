@@ -1,0 +1,30 @@
+{
+  "id": "2026-05-12-workflow-hiyouga-llamafactory",
+  "title": "hiyouga/LlamaFactory",
+  "source": "github",
+  "source_url": "https://github.com/hiyouga/LlamaFactory",
+  "summary": "LlamaFactory是一个高效微调框架，支持100多种大型语言模型和视觉语言模型，在ACL 2024发表，提供统一的微调接口。",
+  "score": 8,
+  "tags": [
+    "高效微调",
+    "大语言模型",
+    "视觉语言模型",
+    "框架"
+  ],
+  "status": "draft",
+  "analysis": {
+    "summary": "LlamaFactory是一个高效微调框架，支持100多种大型语言模型和视觉语言模型，在ACL 2024发表，提供统一的微调接口。",
+    "score": 8,
+    "tags": [
+      "高效微调",
+      "大语言模型",
+      "视觉语言模型",
+      "框架"
+    ],
+    "audience": "intermediate",
+    "technical_category": "模型微调框架",
+    "innovation": "通过统一接口高效微调多种模型，降低LLM和VLM适配成本。",
+    "difficulty": "medium"
+  },
+  "updated_at": "2026-05-12T14:40:28.129501+00:00"
+}

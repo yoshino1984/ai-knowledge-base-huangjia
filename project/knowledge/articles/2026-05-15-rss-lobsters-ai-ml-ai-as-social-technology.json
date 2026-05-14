@@ -1,0 +1,32 @@
+{
+  "id": "2026-05-15-rss-lobsters-ai-ml-ai-as-social-technology",
+  "title": "AI as Social Technology",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://knightcolumbia.org/content/ai-as-social-technology",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-05-14T16:15:59.641699+00:00",
+  "collected_at": "2026-05-14T16:15:59.641700+00:00",
+  "summary": "文章探讨了人工智能作为一种社会技术的角色，强调其不仅是技术工具，还深刻影响社会互动和结构。它提供了对AI社会影响的批判性视角，适合关注技术伦理的读者。",
+  "score": 7,
+  "tags": [
+    "AI",
+    "社会技术",
+    "伦理"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "文章探讨了人工智能作为一种社会技术的角色，强调其不仅是技术工具，还深刻影响社会互动和结构。它提供了对AI社会影响的批判性视角，适合关注技术伦理的读者。",
+    "score": 7,
+    "tags": [
+      "AI",
+      "社会技术",
+      "伦理"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-05-14T16:16:16.657901+00:00"
+}

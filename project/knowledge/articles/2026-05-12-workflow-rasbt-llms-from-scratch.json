@@ -1,0 +1,32 @@
+{
+  "id": "2026-05-12-workflow-rasbt-llms-from-scratch",
+  "title": "rasbt/LLMs-from-scratch",
+  "source": "github",
+  "source_url": "https://github.com/rasbt/LLMs-from-scratch",
+  "summary": "该项目是rasbt在GitHub上的开源教程，逐步指导如何使用PyTorch从零实现类似ChatGPT的大型语言模型，涵盖从数据预处理到模型训练的全流程。",
+  "score": 9,
+  "tags": [
+    "LLM",
+    "PyTorch",
+    "从零实现",
+    "ChatGPT",
+    "教程"
+  ],
+  "status": "draft",
+  "analysis": {
+    "summary": "该项目是rasbt在GitHub上的开源教程，逐步指导如何使用PyTorch从零实现类似ChatGPT的大型语言模型，涵盖从数据预处理到模型训练的全流程。",
+    "score": 9,
+    "tags": [
+      "LLM",
+      "PyTorch",
+      "从零实现",
+      "ChatGPT",
+      "教程"
+    ],
+    "audience": "intermediate",
+    "technical_category": "自然语言处理",
+    "innovation": "通过手把手教学，让开发者深入理解LLM的底层原理和构建过程。",
+    "difficulty": "medium"
+  },
+  "updated_at": "2026-05-12T14:40:28.129491+00:00"
+}

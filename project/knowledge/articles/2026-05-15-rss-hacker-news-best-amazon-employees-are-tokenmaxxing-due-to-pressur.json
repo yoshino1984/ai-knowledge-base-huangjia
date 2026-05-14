@@ -1,0 +1,32 @@
+{
+  "id": "2026-05-15-rss-hacker-news-best-amazon-employees-are-tokenmaxxing-due-to-pressur",
+  "title": "Amazon employees are \"tokenmaxxing\" due to pressure to use AI tools",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/",
+  "author": "Hacker News Best",
+  "published_at": "2026-05-14T16:15:58.629042+00:00",
+  "collected_at": "2026-05-14T16:15:58.629044+00:00",
+  "summary": "亚马逊员工因公司施压使用AI工具而采取“tokenmaxxing”策略，即通过生成大量无意义内容来满足指标。该现象揭示了AI工具在职场中的滥用问题，以及员工对技术压力的非生产性应对方式。",
+  "score": 7,
+  "tags": [
+    "AI工具",
+    "职场压力",
+    "tokenmaxxing"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "亚马逊员工因公司施压使用AI工具而采取“tokenmaxxing”策略，即通过生成大量无意义内容来满足指标。该现象揭示了AI工具在职场中的滥用问题，以及员工对技术压力的非生产性应对方式。",
+    "score": 7,
+    "tags": [
+      "AI工具",
+      "职场压力",
+      "tokenmaxxing"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-05-14T16:16:16.657890+00:00"
+}

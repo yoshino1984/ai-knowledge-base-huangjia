@@ -1,0 +1,52 @@
+[
+  {
+    "id": "2026-05-12-workflow-significant-gravitas-autogpt",
+    "title": "Significant-Gravitas/AutoGPT",
+    "category": "自主代理框架"
+  },
+  {
+    "id": "2026-05-12-workflow-f-prompts-chat",
+    "title": "f/prompts.chat",
+    "category": "AI应用工具 / 提示词管理"
+  },
+  {
+    "id": "2026-05-12-workflow-nousresearch-hermes-agent",
+    "title": "NousResearch/hermes-agent",
+    "category": "AI代理"
+  },
+  {
+    "id": "2026-05-12-workflow-langgenius-dify",
+    "title": "langgenius/dify",
+    "category": "AI应用开发平台"
+  },
+  {
+    "id": "2026-05-12-workflow-open-webui-open-webui",
+    "title": "open-webui/open-webui",
+    "category": "AI应用/界面工具"
+  },
+  {
+    "id": "2026-05-12-workflow-langchain-ai-langchain",
+    "title": "langchain-ai/langchain",
+    "category": "AI开发框架"
+  },
+  {
+    "id": "2026-05-12-workflow-firecrawl-firecrawl",
+    "title": "firecrawl/firecrawl",
+    "category": "数据采集与交互"
+  },
+  {
+    "id": "2026-05-12-workflow-rasbt-llms-from-scratch",
+    "title": "rasbt/LLMs-from-scratch",
+    "category": "自然语言处理"
+  },
+  {
+    "id": "2026-05-12-workflow-hiyouga-llamafactory",
+    "title": "hiyouga/LlamaFactory",
+    "category": "模型微调框架"
+  },
+  {
+    "id": "2026-05-12-workflow-bytedance-deer-flow",
+    "title": "bytedance/deer-flow",
+    "category": "AI Agent框架"
+  }
+]

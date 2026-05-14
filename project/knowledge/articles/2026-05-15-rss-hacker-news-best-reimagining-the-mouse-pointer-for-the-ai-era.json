@@ -1,0 +1,32 @@
+{
+  "id": "2026-05-15-rss-hacker-news-best-reimagining-the-mouse-pointer-for-the-ai-era",
+  "title": "Reimagining the mouse pointer for the AI era",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://deepmind.google/blog/ai-pointer/",
+  "author": "Hacker News Best",
+  "published_at": "2026-05-14T16:15:58.629006+00:00",
+  "collected_at": "2026-05-14T16:15:58.629012+00:00",
+  "summary": "本文探讨了在AI时代重新设计鼠标指针的概念，旨在通过智能交互提升用户体验。核心价值在于提出一种适应AI辅助操作的新型界面元素，可能改变人机交互方式。",
+  "score": 7,
+  "tags": [
+    "AI交互",
+    "用户体验",
+    "界面设计"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "本文探讨了在AI时代重新设计鼠标指针的概念，旨在通过智能交互提升用户体验。核心价值在于提出一种适应AI辅助操作的新型界面元素，可能改变人机交互方式。",
+    "score": 7,
+    "tags": [
+      "AI交互",
+      "用户体验",
+      "界面设计"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-05-14T16:16:16.657875+00:00"
+}

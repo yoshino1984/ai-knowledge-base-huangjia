@@ -1,0 +1,28 @@
+{
+  "id": "2026-05-12-workflow-significant-gravitas-autogpt",
+  "title": "Significant-Gravitas/AutoGPT",
+  "source": "github",
+  "source_url": "https://github.com/Significant-Gravitas/AutoGPT",
+  "summary": "AutoGPT项目致力于让AI人人可用，提供构建自主AI代理的工具，使开发者能专注于核心任务。",
+  "score": 8,
+  "tags": [
+    "自主AI代理",
+    "开源",
+    "LLM应用"
+  ],
+  "status": "draft",
+  "analysis": {
+    "summary": "AutoGPT项目致力于让AI人人可用，提供构建自主AI代理的工具，使开发者能专注于核心任务。",
+    "score": 8,
+    "tags": [
+      "自主AI代理",
+      "开源",
+      "LLM应用"
+    ],
+    "audience": "intermediate",
+    "technical_category": "自主代理框架",
+    "innovation": "降低AI代理开发门槛，推动通用人工智能的民主化",
+    "difficulty": "medium"
+  },
+  "updated_at": "2026-05-12T14:40:28.129411+00:00"
+}

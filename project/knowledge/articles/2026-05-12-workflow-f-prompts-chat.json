@@ -1,0 +1,32 @@
+{
+  "id": "2026-05-12-workflow-f-prompts-chat",
+  "title": "f/prompts.chat",
+  "source": "github",
+  "source_url": "https://github.com/f/prompts.chat",
+  "summary": "一个社区驱动的开源项目，用于分享、发现和收集ChatGPT提示词。支持自托管，确保组织隐私。原名Awesome ChatGPT Prompts。",
+  "score": 9,
+  "tags": [
+    "ChatGPT",
+    "提示词",
+    "开源",
+    "社区驱动",
+    "自托管"
+  ],
+  "status": "draft",
+  "analysis": {
+    "summary": "一个社区驱动的开源项目，用于分享、发现和收集ChatGPT提示词。支持自托管，确保组织隐私。原名Awesome ChatGPT Prompts。",
+    "score": 9,
+    "tags": [
+      "ChatGPT",
+      "提示词",
+      "开源",
+      "社区驱动",
+      "自托管"
+    ],
+    "audience": "intermediate",
+    "technical_category": "AI应用工具 / 提示词管理",
+    "innovation": "通过社区协作和自托管方案，解决了提示词共享与隐私保护的矛盾。",
+    "difficulty": "medium"
+  },
+  "updated_at": "2026-05-12T14:40:28.129428+00:00"
+}

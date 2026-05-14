@@ -1,0 +1,30 @@
+{
+  "id": "2026-05-12-workflow-firecrawl-firecrawl",
+  "title": "firecrawl/firecrawl",
+  "source": "github",
+  "source_url": "https://github.com/firecrawl/firecrawl",
+  "summary": "Firecrawl 是一个专为 AI 设计的 API，提供搜索、抓取和与网页交互的功能，使 AI 应用能够高效获取和处理网络数据。",
+  "score": 9,
+  "tags": [
+    "API",
+    "网页抓取",
+    "AI交互",
+    "数据获取"
+  ],
+  "status": "draft",
+  "analysis": {
+    "summary": "Firecrawl 是一个专为 AI 设计的 API，提供搜索、抓取和与网页交互的功能，使 AI 应用能够高效获取和处理网络数据。",
+    "score": 9,
+    "tags": [
+      "API",
+      "网页抓取",
+      "AI交互",
+      "数据获取"
+    ],
+    "audience": "intermediate",
+    "technical_category": "数据采集与交互",
+    "innovation": "为AI提供标准化的网页数据访问接口，降低网络数据获取门槛。",
+    "difficulty": "medium"
+  },
+  "updated_at": "2026-05-12T14:40:28.129480+00:00"
+}

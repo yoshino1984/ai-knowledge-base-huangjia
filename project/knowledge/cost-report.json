@@ -1,0 +1,101 @@
+{
+  "total_cost_yuan": 0.00511,
+  "total_prompt_tokens": 2456,
+  "total_completion_tokens": 1327,
+  "total_calls": 11,
+  "budget_yuan": 1.0,
+  "cost_by_node": {
+    "analyze": 0.003423,
+    "review": 0.001687
+  },
+  "records": [
+    {
+      "timestamp": 1778596801.103768,
+      "node_name": "analyze",
+      "prompt_tokens": 133,
+      "completion_tokens": 89,
+      "cost_yuan": 0.000311,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": 1778596803.345106,
+      "node_name": "analyze",
+      "prompt_tokens": 130,
+      "completion_tokens": 113,
+      "cost_yuan": 0.000356,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": 1778596806.060361,
+      "node_name": "analyze",
+      "prompt_tokens": 102,
+      "completion_tokens": 102,
+      "cost_yuan": 0.000306,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": 1778596808.9435909,
+      "node_name": "analyze",
+      "prompt_tokens": 104,
+      "completion_tokens": 135,
+      "cost_yuan": 0.000374,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": 1778596810.9426932,
+      "node_name": "analyze",
+      "prompt_tokens": 111,
+      "completion_tokens": 101,
+      "cost_yuan": 0.000313,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": 1778596813.930442,
+      "node_name": "analyze",
+      "prompt_tokens": 101,
+      "completion_tokens": 128,
+      "cost_yuan": 0.000357,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": 1778596816.5091531,
+      "node_name": "analyze",
+      "prompt_tokens": 113,
+      "completion_tokens": 108,
+      "cost_yuan": 0.000329,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": 1778596818.947428,
+      "node_name": "analyze",
+      "prompt_tokens": 116,
+      "completion_tokens": 117,
+      "cost_yuan": 0.00035,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": 1778596821.387176,
+      "node_name": "analyze",
+      "prompt_tokens": 119,
+      "completion_tokens": 112,
+      "cost_yuan": 0.000343,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": 1778596823.881001,
+      "node_name": "analyze",
+      "prompt_tokens": 146,
+      "completion_tokens": 119,
+      "cost_yuan": 0.000384,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": 1778596828.127564,
+      "node_name": "review",
+      "prompt_tokens": 1281,
+      "completion_tokens": 203,
+      "cost_yuan": 0.001687,
+      "model": "deepseek-chat"
+    }
+  ]
+}
