@@ -315,6 +315,8 @@ def step_organize(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
                 article = json.loads(article_file.read_text(encoding="utf-8"))
             except (OSError, json.JSONDecodeError):
                 continue
+            if not isinstance(article, dict):
+                continue
             source_url = article.get("source_url")
             if source_url:
                 seen_urls.add(source_url)
