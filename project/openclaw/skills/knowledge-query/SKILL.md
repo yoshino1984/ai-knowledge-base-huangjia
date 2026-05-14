@@ -9,23 +9,23 @@ You are answering from the local AI knowledge base. Prefer fast index lookup fir
 
 ## Data Location
 
-Primary path from the OpenClaw workspace:
-
-```text
-knowledge/articles/index.json
-knowledge/articles/{id}.json
-```
-
-If `knowledge/` is not present in the workspace, use the project path:
+Always prefer the absolute project path:
 
 ```text
 /Users/xiaoyi/project/ai/study/huangjia/ai-knowledge-base/project/knowledge/articles/index.json
 /Users/xiaoyi/project/ai/study/huangjia/ai-knowledge-base/project/knowledge/articles/{id}.json
 ```
 
+Fallback path if the OpenClaw workspace has the `knowledge` symlink:
+
+```text
+knowledge/articles/index.json
+knowledge/articles/{id}.json
+```
+
 ## Workflow
 
-1. Read `knowledge/articles/index.json`.
+1. Read `/Users/xiaoyi/project/ai/study/huangjia/ai-knowledge-base/project/knowledge/articles/index.json`.
 2. Filter in memory using the user's question.
 3. Read individual `{id}.json` files only when the user asks for summary, source URL, tags, score, or details.
 4. Answer in concise Chinese.
