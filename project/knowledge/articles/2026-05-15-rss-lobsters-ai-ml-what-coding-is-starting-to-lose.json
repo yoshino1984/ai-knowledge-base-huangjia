@@ -1,0 +1,32 @@
+{
+  "id": "2026-05-15-rss-lobsters-ai-ml-what-coding-is-starting-to-lose",
+  "title": "What Coding Is Starting to Lose",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://caio.ca/blog/what-coding-is-starting-to-lose",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-05-15T10:14:23.845768+00:00",
+  "collected_at": "2026-05-15T10:14:23.845769+00:00",
+  "summary": "该文章探讨了编程领域正在失去的一些关键要素，如深度思考、调试技巧和代码理解能力，反映了AI工具对传统编程实践的影响。价值在于引发对技术发展方向的反思。",
+  "score": 7,
+  "tags": [
+    "AI编程",
+    "编程文化",
+    "技术反思"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该文章探讨了编程领域正在失去的一些关键要素，如深度思考、调试技巧和代码理解能力，反映了AI工具对传统编程实践的影响。价值在于引发对技术发展方向的反思。",
+    "score": 7,
+    "tags": [
+      "AI编程",
+      "编程文化",
+      "技术反思"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-05-15T10:15:41.037008+00:00"
+}

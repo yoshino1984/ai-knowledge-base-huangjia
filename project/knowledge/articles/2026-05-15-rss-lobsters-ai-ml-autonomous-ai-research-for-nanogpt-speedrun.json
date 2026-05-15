@@ -1,0 +1,34 @@
+{
+  "id": "2026-05-15-rss-lobsters-ai-ml-autonomous-ai-research-for-nanogpt-speedrun",
+  "title": "Autonomous AI research for nanogpt speedrun",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://www.primeintellect.ai/auto-nanogpt",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-05-15T10:14:23.845694+00:00",
+  "collected_at": "2026-05-15T10:14:23.845703+00:00",
+  "summary": "该项目利用自主AI研究优化nanogpt训练速度，通过自动化实验提升效率。核心价值在于探索AI自我改进训练流程的潜力，适用于高性能计算场景。",
+  "score": 7,
+  "tags": [
+    "autonomous AI",
+    "nanogpt",
+    "speedrun",
+    "training optimization"
+  ],
+  "audience": "advanced",
+  "analysis": {
+    "summary": "该项目利用自主AI研究优化nanogpt训练速度，通过自动化实验提升效率。核心价值在于探索AI自我改进训练流程的潜力，适用于高性能计算场景。",
+    "score": 7,
+    "tags": [
+      "autonomous AI",
+      "nanogpt",
+      "speedrun",
+      "training optimization"
+    ],
+    "audience": "advanced",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-05-15T10:15:41.036990+00:00"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "2026-05-15-rss-lobsters-ai-ml-o-x-caml-in-space",
+  "title": "O(x)Caml in Space",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://gazagnaire.org/blog/2026-05-14-borealis.html",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-05-15T10:14:23.845738+00:00",
+  "collected_at": "2026-05-15T10:14:23.845740+00:00",
+  "summary": "该文章探讨了 OCaml 编程语言在太空领域的应用，展示了其在高可靠性和性能要求环境中的价值。内容可能涉及 OCaml 在航天软件中的实际案例或技术优势。",
+  "score": 7,
+  "tags": [
+    "OCaml",
+    "太空技术",
+    "函数式编程"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该文章探讨了 OCaml 编程语言在太空领域的应用，展示了其在高可靠性和性能要求环境中的价值。内容可能涉及 OCaml 在航天软件中的实际案例或技术优势。",
+    "score": 7,
+    "tags": [
+      "OCaml",
+      "太空技术",
+      "函数式编程"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-05-15T10:15:41.036997+00:00"
+}

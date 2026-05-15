@@ -1,0 +1,34 @@
+{
+  "id": "2026-05-15-rss-lobsters-ai-ml-a-few-works-on-ds4",
+  "title": "A few works on DS4",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://antirez.com/news/165",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-05-15T10:14:23.845805+00:00",
+  "collected_at": "2026-05-15T10:14:23.845807+00:00",
+  "summary": "该内容介绍了一个针对Deepseek V4 Flash模型的高度特化LLM实现，能够在DGX Spark或128GB RAM Macbook等常见开发者设备上运行，展示了高效部署大型语言模型的可能性。",
+  "score": 7,
+  "tags": [
+    "LLM",
+    "Deepseek",
+    "模型部署",
+    "硬件优化"
+  ],
+  "audience": "advanced",
+  "analysis": {
+    "summary": "该内容介绍了一个针对Deepseek V4 Flash模型的高度特化LLM实现，能够在DGX Spark或128GB RAM Macbook等常见开发者设备上运行，展示了高效部署大型语言模型的可能性。",
+    "score": 7,
+    "tags": [
+      "LLM",
+      "Deepseek",
+      "模型部署",
+      "硬件优化"
+    ],
+    "audience": "advanced",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-05-15T10:15:41.037014+00:00"
+}

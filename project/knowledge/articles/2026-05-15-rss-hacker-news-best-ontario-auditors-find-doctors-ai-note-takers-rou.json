@@ -1,0 +1,32 @@
+{
+  "id": "2026-05-15-rss-hacker-news-best-ontario-auditors-find-doctors-ai-note-takers-rou",
+  "title": "Ontario auditors find doctors' AI note takers routinely blow basic facts",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771",
+  "author": "Hacker News Best",
+  "published_at": "2026-05-15T10:14:23.084119+00:00",
+  "collected_at": "2026-05-15T10:14:23.084128+00:00",
+  "summary": "安大略省审计发现，医生使用的AI笔记工具经常在基本事实上出错，如患者年龄、药物剂量等，引发对医疗AI可靠性的担忧。该事件凸显了AI在关键领域应用中的风险，以及需要更严格的验证机制。",
+  "score": 8,
+  "tags": [
+    "AI可靠性",
+    "医疗AI",
+    "事实错误"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "安大略省审计发现，医生使用的AI笔记工具经常在基本事实上出错，如患者年龄、药物剂量等，引发对医疗AI可靠性的担忧。该事件凸显了AI在关键领域应用中的风险，以及需要更严格的验证机制。",
+    "score": 8,
+    "tags": [
+      "AI可靠性",
+      "医疗AI",
+      "事实错误"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-05-15T10:15:41.036965+00:00"
+}

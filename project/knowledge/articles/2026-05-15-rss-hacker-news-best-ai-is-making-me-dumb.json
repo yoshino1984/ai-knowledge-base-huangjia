@@ -1,0 +1,32 @@
+{
+  "id": "2026-05-15-rss-hacker-news-best-ai-is-making-me-dumb",
+  "title": "AI is making me dumb",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://jpain.io/god-damn-ai-is-making-me-dumb/",
+  "author": "Hacker News Best",
+  "published_at": "2026-05-15T10:14:23.084177+00:00",
+  "collected_at": "2026-05-15T10:14:23.084179+00:00",
+  "summary": "文章探讨了AI工具如何削弱用户的批判性思维和问题解决能力，指出过度依赖AI可能导致认知能力下降。作者通过个人经历和案例，警示AI虽提升效率，但需警惕其潜在的认知风险。",
+  "score": 7,
+  "tags": [
+    "AI依赖",
+    "认知能力",
+    "批判性思维"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "文章探讨了AI工具如何削弱用户的批判性思维和问题解决能力，指出过度依赖AI可能导致认知能力下降。作者通过个人经历和案例，警示AI虽提升效率，但需警惕其潜在的认知风险。",
+    "score": 7,
+    "tags": [
+      "AI依赖",
+      "认知能力",
+      "批判性思维"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-05-15T10:15:41.036974+00:00"
+}
