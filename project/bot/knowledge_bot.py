@@ -12,7 +12,7 @@ from dataclasses import dataclass
 from datetime import date
 from enum import Enum, IntEnum
 from pathlib import Path
-from typing import Any
+from typing import Any, Callable
 
 
 class Intent(Enum):
@@ -22,6 +22,7 @@ class Intent(Enum):
     BROWSE_TODAY = "browse_today"
     BROWSE_TOP = "browse_top"
     SUBSCRIBE = "subscribe"
+    NEXT_PAGE = "next_page"
     HELP = "help"
     UNKNOWN = "unknown"
 
@@ -39,8 +40,15 @@ COMMAND_MAP = {
     "/today": Intent.BROWSE_TODAY,
     "/top": Intent.BROWSE_TOP,
     "/subscribe": Intent.SUBSCRIBE,
+    "/next": Intent.NEXT_PAGE,
     "/help": Intent.HELP,
 }
+
+DEFAULT_SYNONYM_PATH = Path(__file__).with_name("synonyms.json")
+DEFAULT_PAGE_SIZE = 5
+MAX_SEARCH_RESULTS = 20
+
+Reranker = Callable[[str, list[dict[str, Any]]], list[dict[str, Any]]]
 
 
 def recognize_intent(text: str) -> tuple[Intent, str]:
@@ -71,6 +79,9 @@ def recognize_intent(text: str) -> tuple[Intent, str]:
     if any(word in cleaned for word in ("搜索", "查询", "查找", "找", "搜")):
         return Intent.SEARCH, _extract_after_keywords(cleaned, ("搜索", "查询", "查找", "搜一下", "搜", "找"))
 
+    if lowered in {"next", "下一页", "继续"} or "下一页" in cleaned:
+        return Intent.NEXT_PAGE, ""
+
     if lowered in {"help", "?", "？"} or "帮助" in cleaned or "怎么用" in cleaned:
         return Intent.HELP, ""
 
@@ -94,8 +105,15 @@ def _extract_first_number(text: str) -> str:
 class KnowledgeSearchEngine:
     """基于本地 JSON 文件的知识库检索引擎。"""
 
-    def __init__(self, knowledge_dir: str | Path = "project/knowledge/articles") -> None:
+    def __init__(
+        self,
+        knowledge_dir: str | Path = "project/knowledge/articles",
+        synonym_path: str | Path | None = DEFAULT_SYNONYM_PATH,
+        reranker: Reranker | None = None,
+    ) -> None:
         self.knowledge_dir = Path(knowledge_dir)
+        self.synonyms = _load_synonyms(synonym_path)
+        self.reranker = reranker
 
     def search(
         self,
@@ -103,6 +121,7 @@ class KnowledgeSearchEngine:
         tags: list[str] | None = None,
         date_from: str | None = None,
         limit: int = 5,
+        rerank: bool = False,
     ) -> list[dict[str, Any]]:
         """搜索知识库条目，支持关键词、标签和日期过滤。"""
 
@@ -131,6 +150,8 @@ class KnowledgeSearchEngine:
             ),
             reverse=True,
         )
+        if rerank and keyword and self.reranker and results:
+            results = self.reranker(keyword, results)
         return results[: max(limit, 0)]
 
     def top(self, limit: int = 5) -> list[dict[str, Any]]:
@@ -166,7 +187,7 @@ class KnowledgeSearchEngine:
         if not keyword.strip():
             return 1
 
-        terms = _expand_terms(keyword)
+        terms = _expand_terms(keyword, self.synonyms)
         score = 0
         title = str(article.get("title", "")).lower()
         summary = str(article.get("summary", "")).lower()
@@ -247,6 +268,27 @@ class SubscriptionManager:
         )
 
 
+class SearchHistoryManager:
+    """搜索历史记录，按 JSONL 追加写入。"""
+
+    def __init__(self, data_dir: str | Path = "project/bot/data") -> None:
+        self.data_dir = Path(data_dir)
+        self.path = self.data_dir / "search_history.jsonl"
+
+    def record(self, user_id: str, query: str, result_count: int) -> None:
+        """记录一次搜索行为。"""
+
+        self.data_dir.mkdir(parents=True, exist_ok=True)
+        record = {
+            "user_id": user_id,
+            "query": query,
+            "result_count": result_count,
+            "searched_at": date.today().isoformat(),
+        }
+        with self.path.open("a", encoding="utf-8") as file:
+            file.write(json.dumps(record, ensure_ascii=False) + "\n")
+
+
 @dataclass(frozen=True)
 class PermissionManager:
     """三级权限控制。"""
@@ -266,6 +308,81 @@ class PermissionManager:
         return False
 
 
+@dataclass
+class SearchSession:
+    """用户最近一次搜索的分页状态。"""
+
+    query: str
+    results: list[dict[str, Any]]
+    page: int = 0
+
+
+class LocalReranker:
+    """本地 rerank 模型占位。
+
+    当前项目尚未下载或接入 bge-reranker-base 等本地模型，避免默认引入
+    约 GB 级模型文件。后续云端或本机资源确认后，可以在这里接入真实模型。
+    """
+
+    available = False
+    status = "尚未接入本地 rerank 模型；当前仅提供接口占位，不会下载模型。"
+
+    def __call__(self, query: str, results: list[dict[str, Any]]) -> list[dict[str, Any]]:
+        return results
+
+
+class LLMReranker:
+    """可选 LLM 重排器，只在显式注入时调用。"""
+
+    def __init__(self, top_k: int = 10) -> None:
+        self.top_k = top_k
+
+    def __call__(self, query: str, results: list[dict[str, Any]]) -> list[dict[str, Any]]:
+        candidates = results[: self.top_k]
+        if not candidates:
+            return results
+        try:
+            from project.pipeline.model_client import chat_with_retry, create_provider
+
+            provider = create_provider()
+            try:
+                payload = [
+                    {
+                        "index": index,
+                        "title": item.get("title", ""),
+                        "summary": item.get("summary", ""),
+                        "tags": item.get("tags", []),
+                    }
+                    for index, item in enumerate(candidates)
+                ]
+                response = chat_with_retry(
+                    provider,
+                    messages=[
+                        {"role": "system", "content": "你是搜索结果重排器，只返回 JSON 数组。"},
+                        {
+                            "role": "user",
+                            "content": (
+                                f"查询：{query}\n"
+                                f"候选：{json.dumps(payload, ensure_ascii=False)}\n"
+                                "请按相关性返回 index 数组，例如 [2,0,1]。"
+                            ),
+                        },
+                    ],
+                    temperature=0.1,
+                    max_tokens=200,
+                )
+            finally:
+                provider.close()
+            order = json.loads(response.content)
+            if not isinstance(order, list):
+                return results
+            reordered = [candidates[index] for index in order if isinstance(index, int) and 0 <= index < len(candidates)]
+            seen_ids = {item.get("id") for item in reordered}
+            return reordered + [item for item in results if item.get("id") not in seen_ids]
+        except Exception:
+            return results
+
+
 class KnowledgeBot:
     """知识库 Bot 主入口。"""
 
@@ -275,10 +392,18 @@ class KnowledgeBot:
         data_dir: str | Path = "project/bot/data",
         writable_users: set[str] | None = None,
         deletable_users: set[str] | None = None,
+        page_size: int = DEFAULT_PAGE_SIZE,
+        synonym_path: str | Path | None = DEFAULT_SYNONYM_PATH,
+        reranker: Reranker | None = None,
+        enable_rerank: bool = False,
     ) -> None:
-        self.search_engine = KnowledgeSearchEngine(knowledge_dir)
+        self.search_engine = KnowledgeSearchEngine(knowledge_dir, synonym_path=synonym_path, reranker=reranker)
         self.subscription_manager = SubscriptionManager(data_dir)
+        self.history_manager = SearchHistoryManager(data_dir)
         self.permission_manager = PermissionManager(writable_users or set(), deletable_users or set())
+        self.page_size = max(1, page_size)
+        self.enable_rerank = enable_rerank
+        self.search_sessions: dict[str, SearchSession] = {}
 
     def handle_message(self, user_id: str, text: str) -> str:
         """处理用户消息并返回响应文本。"""
@@ -289,6 +414,7 @@ class KnowledgeBot:
             Intent.BROWSE_TODAY: self._handle_today,
             Intent.BROWSE_TOP: self._handle_top,
             Intent.SUBSCRIBE: self._handle_subscribe,
+            Intent.NEXT_PAGE: self._handle_next,
             Intent.HELP: self._handle_help,
             Intent.UNKNOWN: self._handle_unknown,
         }
@@ -299,7 +425,14 @@ class KnowledgeBot:
             return "你没有读取知识库的权限。"
         if not query:
             return "请提供搜索关键词，例如：/search agent"
-        return format_search_results(self.search_engine.search(keyword=query), query=query)
+        results = self.search_engine.search(
+            keyword=query,
+            limit=MAX_SEARCH_RESULTS,
+            rerank=self.enable_rerank,
+        )
+        self.history_manager.record(user_id, query, len(results))
+        self.search_sessions[user_id] = SearchSession(query=query, results=results)
+        return self._format_session_page(user_id)
 
     def _handle_today(self, user_id: str, args: str) -> str:
         if not self.permission_manager.has_permission(user_id, PermissionLevel.READ):
@@ -328,10 +461,21 @@ class KnowledgeBot:
         self.subscription_manager.subscribe(user_id, topic)
         return f"已订阅「{topic}」。"
 
+    def _handle_next(self, user_id: str, args: str) -> str:
+        session = self.search_sessions.get(user_id)
+        if not session:
+            return "还没有可翻页的搜索结果。请先使用 /search <关键词>。"
+        max_page = _page_count(len(session.results), self.page_size)
+        if session.page + 1 >= max_page:
+            return "已经是最后一页了。"
+        session.page += 1
+        return self._format_session_page(user_id)
+
     def _handle_help(self, user_id: str, args: str) -> str:
         return (
             "可用指令：\n"
             "/search <关键词> - 搜索知识库\n"
+            "/next - 查看上一轮搜索的下一页\n"
             "/today [YYYY-MM-DD] - 查看指定日期条目\n"
             "/top [数量] - 查看高分条目\n"
             "/subscribe <主题> - 订阅主题\n"
@@ -341,14 +485,37 @@ class KnowledgeBot:
     def _handle_unknown(self, user_id: str, text: str) -> str:
         return "我还没理解你的需求。可以试试 /search agent、/today、/top 3 或 /help。"
 
+    def _format_session_page(self, user_id: str) -> str:
+        session = self.search_sessions[user_id]
+        total_pages = _page_count(len(session.results), self.page_size)
+        start = session.page * self.page_size
+        end = start + self.page_size
+        page_results = session.results[start:end]
+        return format_search_results(
+            page_results,
+            query=session.query,
+            page=session.page + 1,
+            total_pages=total_pages,
+            total_count=len(session.results),
+        )
 
-def format_search_results(results: list[dict[str, Any]], query: str = "") -> str:
+
+def format_search_results(
+    results: list[dict[str, Any]],
+    query: str = "",
+    page: int | None = None,
+    total_pages: int | None = None,
+    total_count: int | None = None,
+) -> str:
     """格式化搜索结果。"""
 
     if not results:
         return f"没有找到与「{query}」相关的内容。"
 
-    header = f"找到 {len(results)} 条与「{query}」相关的内容："
+    count = total_count if total_count is not None else len(results)
+    header = f"找到 {count} 条与「{query}」相关的内容："
+    if page is not None and total_pages is not None:
+        header += f"\n第 {page}/{total_pages} 页"
     return header + "\n" + _format_article_list(results)
 
 
@@ -380,18 +547,48 @@ def _category(article: dict[str, Any]) -> str:
     return str(article.get("category") or analysis.get("technical_category") or "")
 
 
-def _expand_terms(keyword: str) -> set[str]:
-    terms = {part.lower() for part in re.split(r"\s+", keyword.strip()) if part.strip()}
+def _load_synonyms(path: str | Path | None) -> dict[str, set[str]]:
     synonyms = {
         "agent": {"agent", "智能体", "代理"},
         "智能体": {"agent", "智能体", "代理"},
         "mcp": {"mcp", "模型上下文协议"},
         "rag": {"rag", "检索增强"},
     }
+    if path is None:
+        return synonyms
+
+    synonym_path = Path(path)
+    if not synonym_path.exists():
+        return synonyms
+    try:
+        data = json.loads(synonym_path.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return synonyms
+
+    if not isinstance(data, dict):
+        return synonyms
+    for key, values in data.items():
+        if not isinstance(values, list):
+            continue
+        terms = {str(key).lower(), *(str(value).lower() for value in values)}
+        for term in terms:
+            synonyms.setdefault(term, set()).update(terms)
+    return synonyms
+
+
+def _expand_terms(keyword: str, synonyms: dict[str, set[str]] | None = None) -> set[str]:
+    terms = {part.lower() for part in re.split(r"\s+", keyword.strip()) if part.strip()}
+    synonyms = synonyms or _load_synonyms(DEFAULT_SYNONYM_PATH)
     expanded = set(terms)
     for term in list(terms):
         expanded.update(synonyms.get(term, set()))
     return expanded
+
+
+def _page_count(total: int, page_size: int) -> int:
+    if total <= 0:
+        return 1
+    return (total + page_size - 1) // page_size
 
 
 def _parse_limit(text: str, default: int) -> int:

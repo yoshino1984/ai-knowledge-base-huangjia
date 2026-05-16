@@ -5,8 +5,10 @@ from project.bot.knowledge_bot import (
     Intent,
     KnowledgeBot,
     KnowledgeSearchEngine,
+    LocalReranker,
     PermissionLevel,
     PermissionManager,
+    SearchHistoryManager,
     SubscriptionManager,
     format_search_results,
     recognize_intent,
@@ -154,3 +156,61 @@ def test_managers_persist_subscriptions_and_permissions(tmp_path: Path) -> None:
     assert permissions.has_permission("admin", PermissionLevel.WRITE)
     assert not permissions.has_permission("admin", PermissionLevel.DELETE)
     assert permissions.has_permission("owner", PermissionLevel.DELETE)
+
+
+def test_search_engine_loads_synonyms_from_config(tmp_path: Path) -> None:
+    articles_dir = make_articles(tmp_path)
+    synonym_path = tmp_path / "synonyms.json"
+    synonym_path.write_text(
+        json.dumps({"网页自动化": ["browser"]}, ensure_ascii=False),
+        encoding="utf-8",
+    )
+    engine = KnowledgeSearchEngine(articles_dir, synonym_path=synonym_path)
+
+    results = engine.search(keyword="网页自动化", limit=1)
+
+    assert [item["title"] for item in results] == ["browser-agent"]
+
+
+def test_search_history_records_queries_as_jsonl(tmp_path: Path) -> None:
+    bot = KnowledgeBot(knowledge_dir=make_articles(tmp_path), data_dir=tmp_path / "bot-data")
+
+    bot.handle_message("reader", "/search agent")
+
+    history_path = tmp_path / "bot-data" / "search_history.jsonl"
+    records = [json.loads(line) for line in history_path.read_text(encoding="utf-8").splitlines()]
+    assert records[0]["user_id"] == "reader"
+    assert records[0]["query"] == "agent"
+    assert records[0]["result_count"] == 2
+
+
+def test_next_returns_following_page_from_previous_search(tmp_path: Path) -> None:
+    bot = KnowledgeBot(knowledge_dir=make_articles(tmp_path), data_dir=tmp_path / "bot-data", page_size=1)
+
+    first_page = bot.handle_message("reader", "/search agent")
+    second_page = bot.handle_message("reader", "/next")
+
+    assert "第 1/2 页" in first_page
+    assert "agent-framework" in first_page
+    assert "第 2/2 页" in second_page
+    assert "browser-agent" in second_page
+
+
+def test_llm_reranker_can_reorder_search_results(tmp_path: Path) -> None:
+    articles_dir = make_articles(tmp_path)
+
+    def fake_rerank(query: str, results: list[dict]) -> list[dict]:
+        return sorted(results, key=lambda item: item["title"] == "browser-agent", reverse=True)
+
+    engine = KnowledgeSearchEngine(articles_dir, reranker=fake_rerank)
+
+    results = engine.search(keyword="agent", limit=2, rerank=True)
+
+    assert [item["title"] for item in results] == ["browser-agent", "agent-framework"]
+
+
+def test_local_reranker_documents_that_model_is_not_connected() -> None:
+    reranker = LocalReranker()
+
+    assert not reranker.available
+    assert "尚未接入本地 rerank 模型" in reranker.status
