@@ -16,6 +16,9 @@ FROM python:3.12-slim
 LABEL org.opencontainers.image.title="ai-knowledge-base"
 LABEL org.opencontainers.image.description="AI knowledge base pipeline and distribution runtime"
 
+ARG APP_UID=10001
+ARG APP_GID=10001
+
 WORKDIR /app
 
 ENV PYTHONDONTWRITEBYTECODE=1 \
@@ -30,8 +33,8 @@ RUN mkdir -p /app/project/knowledge/raw \
     /app/project/knowledge/articles \
     /app/project/bot/data \
     /app/logs \
-    && groupadd -r appuser \
-    && useradd -r -g appuser appuser \
+    && groupadd --gid "${APP_GID}" appuser \
+    && useradd --uid "${APP_UID}" --gid appuser --no-create-home --shell /usr/sbin/nologin appuser \
     && chown -R appuser:appuser /app
 
 USER appuser

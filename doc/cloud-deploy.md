@@ -41,6 +41,15 @@ OPENAI_MODEL=你的模型名
 docker compose --profile manual build
 ```
 
+准备容器可写目录：
+
+```bash
+mkdir -p project/knowledge/raw project/knowledge/articles logs
+chown -R 10001:10001 project/knowledge logs
+```
+
+镜像内的默认运行用户是 `appuser`，uid/gid 固定为 `10001:10001`。因为 `project/knowledge` 和 `logs` 是从宿主机挂载进容器的目录，所以云端首次运行前需要把这些目录授权给容器用户，否则会出现 `PermissionError: [Errno 13] Permission denied`。
+
 运行容器冒烟测试：
 
 ```bash
