@@ -53,6 +53,23 @@ docker compose --profile manual run --rm smoke
 docker compose --profile manual run --rm pipeline
 ```
 
+如果不想把运行时配置放在项目目录，可以使用外部 env 文件：
+
+```bash
+cat > /opt/ai-knowledge-base.env <<'EOF'
+LLM_PROVIDER=openai
+OPENAI_API_KEY=你的云端模型API_KEY
+OPENAI_BASE_URL=https://你的兼容接口地址/v1
+OPENAI_MODEL=你的模型名
+KB_PIPELINE_SOURCES=github,rss
+KB_PIPELINE_LIMIT=5
+EOF
+
+KB_ENV_FILE=/opt/ai-knowledge-base.env docker compose --profile manual run --rm pipeline
+```
+
+`KB_ENV_FILE` 默认值是 `.env`。也就是说，普通本地运行用 `.env`；云端可以把密钥放在 `/opt/ai-knowledge-base.env` 这类项目目录外的位置。
+
 ## 对接 OpenClaw
 
 OpenClaw 继续运行在宿主机上：

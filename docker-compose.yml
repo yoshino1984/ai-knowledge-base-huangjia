@@ -1,3 +1,8 @@
+---
+x-runtime-env: &runtime-env
+  - path: ${KB_ENV_FILE:-.env}
+    required: true
+
 services:
   # 手动触发一次采集、分析、整理流水线。
   pipeline:
@@ -6,25 +11,20 @@ services:
       dockerfile: Dockerfile
     image: ai-knowledge-base:local
     profiles: ["manual"]
-    env_file:
-      - path: .env
-        required: false
+    env_file: *runtime-env
     environment:
       - TZ=Asia/Shanghai
       - PYTHONPATH=/app
-      - KB_PIPELINE_SOURCES=${KB_PIPELINE_SOURCES:-github,rss}
-      - KB_PIPELINE_LIMIT=${KB_PIPELINE_LIMIT:-5}
     volumes:
       - ./project/knowledge:/app/project/knowledge
       - ./logs:/app/logs
     command:
-      - python
-      - -m
-      - project.pipeline.pipeline
-      - --sources
-      - ${KB_PIPELINE_SOURCES:-github,rss}
-      - --limit
-      - ${KB_PIPELINE_LIMIT:-5}
+      - sh
+      - -c
+      - |
+        python -m project.pipeline.pipeline \
+          --sources "$${KB_PIPELINE_SOURCES:-github,rss}" \
+          --limit "$${KB_PIPELINE_LIMIT:-5}"
     logging:
       driver: json-file
       options:
