@@ -14,7 +14,7 @@ sources="${KB_PIPELINE_SOURCES:-github,rss}"
 
 {
   echo "[$(date '+%Y-%m-%d %H:%M:%S')] 开始完整流水线：sources=${sources}, limit=${limit}"
-  python3 project/pipeline/pipeline.py \
+  python3 -m project.pipeline.pipeline \
     --sources "$sources" \
     --limit "$limit"
   echo "[$(date '+%Y-%m-%d %H:%M:%S')] 完整流水线完成"

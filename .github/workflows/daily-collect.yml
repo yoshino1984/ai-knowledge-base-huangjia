@@ -35,7 +35,7 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          python project/pipeline/pipeline.py \
+          python -m project.pipeline.pipeline \
             --sources github,rss \
             --limit 20 \
             --verbose

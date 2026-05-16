@@ -1,6 +1,8 @@
 ---
 name: knowledge-query
 description: Query the local AI knowledge base from OpenClaw/Weixin. Use when the user asks to search, count, recommend, summarize, or inspect articles in the knowledge base, especially questions like "知识库里有多少 agent 类文章", "推荐高分项目", "查 Dify", or "今天有哪些条目".
+allowed-tools:
+  - Read
 ---
 
 # Knowledge Query
@@ -30,7 +32,7 @@ knowledge/articles/{id}.json
 3. Read individual `{id}.json` files only when the user asks for summary, source URL, tags, score, or details.
 4. Answer in concise Chinese.
 
-Do not glob, grep, run shell commands, or scan every article unless the user explicitly asks for an exhaustive audit. The index is the entry point.
+Do not use directory scanning, full-text search tools, command execution, or scan every article unless the user explicitly asks for an exhaustive audit. The index is the entry point.
 
 ## Index Schema
 

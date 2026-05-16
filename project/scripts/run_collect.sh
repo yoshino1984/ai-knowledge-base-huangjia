@@ -14,7 +14,7 @@ sources="${KB_COLLECT_SOURCES:-github,rss}"
 
 {
   echo "[$(date '+%Y-%m-%d %H:%M:%S')] 开始定时采集：sources=${sources}, limit=${limit}"
-  python3 project/pipeline/pipeline.py \
+  python3 -m project.pipeline.pipeline \
     --sources "$sources" \
     --limit "$limit" \
     --step 1

@@ -264,7 +264,7 @@ PROVIDER_CONFIG: dict[str, dict[str, str]] = {
 def create_provider(provider_name: str | None = None) -> LLMProvider:
     """根据环境变量或参数创建模型客户端。"""
 
-    name = (provider_name or os.getenv("LLM_PROVIDER", "deepseek")).lower()
+    name = (provider_name or os.getenv("LLM_PROVIDER") or "deepseek").lower()
     if name not in PROVIDER_CONFIG:
         raise ValueError(f"未知的模型提供商: {name}")
 

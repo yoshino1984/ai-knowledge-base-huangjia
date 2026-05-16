@@ -1,6 +1,8 @@
 ---
 name: top-rated
 description: Use when the user asks OpenClaw/Weixin to recommend high-score, best, most valuable, top N, score highest, or worth-reading articles from the local AI knowledge base.
+allowed-tools:
+  - Read
 ---
 
 # Top Rated
@@ -62,7 +64,7 @@ If no results match:
 
 ## Guardrails
 
-- Do not glob, grep, run shell commands, or scan directories.
+- Do not use directory scanning, full-text search tools, command execution, or scan directories.
 - Do not read every article unless the index lacks required fields for ranking.
 - Do not recommend items below the active score threshold.
 - Do not invent scores, tags, categories, or links. Say "未知" when missing.
