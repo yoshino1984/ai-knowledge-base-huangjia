@@ -1,0 +1,32 @@
+{
+  "id": "2026-05-16-rss-hacker-news-best-i-believe-there-are-entire-companies-right-now-u",
+  "title": "I believe there are entire companies right now under AI psychosis",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://twitter.com/mitchellh/status/2055380239711457578",
+  "author": "Hacker News Best",
+  "published_at": "2026-05-16T09:23:38.553659+00:00",
+  "collected_at": "2026-05-16T09:23:38.553667+00:00",
+  "summary": "该内容讨论当前AI行业存在的过度狂热现象，认为许多公司可能因AI炒作而做出非理性决策。文章引用Mitchellh的观点，指出AI精神病态（AI psychosis）正在影响企业行为。",
+  "score": 7,
+  "tags": [
+    "AI炒作",
+    "行业批判",
+    "企业决策"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该内容讨论当前AI行业存在的过度狂热现象，认为许多公司可能因AI炒作而做出非理性决策。文章引用Mitchellh的观点，指出AI精神病态（AI psychosis）正在影响企业行为。",
+    "score": 7,
+    "tags": [
+      "AI炒作",
+      "行业批判",
+      "企业决策"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-05-16T09:24:50.953922+00:00"
+}

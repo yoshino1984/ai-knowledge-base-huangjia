@@ -1,0 +1,32 @@
+{
+  "id": "2026-05-16-rss-hacker-news-best-amazon-workers-under-pressure-to-up-their-ai-usa",
+  "title": "Amazon workers under pressure to up their AI usage are making up tasks",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks",
+  "author": "Hacker News Best",
+  "published_at": "2026-05-16T09:23:38.553727+00:00",
+  "collected_at": "2026-05-16T09:23:38.553729+00:00",
+  "summary": "亚马逊员工因被施压增加AI使用量而编造任务，揭示了AI工具在缺乏明确应用场景时可能导致的效率低下和员工抵触问题。该文章引发了对AI实施策略和员工体验的广泛讨论。",
+  "score": 7,
+  "tags": [
+    "AI adoption",
+    "workplace culture",
+    "Amazon"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "亚马逊员工因被施压增加AI使用量而编造任务，揭示了AI工具在缺乏明确应用场景时可能导致的效率低下和员工抵触问题。该文章引发了对AI实施策略和员工体验的广泛讨论。",
+    "score": 7,
+    "tags": [
+      "AI adoption",
+      "workplace culture",
+      "Amazon"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-05-16T09:24:50.953962+00:00"
+}

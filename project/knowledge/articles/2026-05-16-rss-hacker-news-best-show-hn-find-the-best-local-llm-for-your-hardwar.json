@@ -1,0 +1,32 @@
+{
+  "id": "2026-05-16-rss-hacker-news-best-show-hn-find-the-best-local-llm-for-your-hardwar",
+  "title": "Show HN: Find the best local LLM for your hardware, ranked by benchmarks",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://github.com/Andyyyy64/whichllm",
+  "author": "Hacker News Best",
+  "published_at": "2026-05-16T09:23:38.553780+00:00",
+  "collected_at": "2026-05-16T09:23:38.553783+00:00",
+  "summary": "该项目帮助用户根据硬件配置选择最佳本地大语言模型，并通过基准测试进行排名。它解决了本地AI部署中的硬件兼容性问题，提供了实用的模型推荐工具。",
+  "score": 8,
+  "tags": [
+    "本地LLM",
+    "硬件兼容性",
+    "基准测试"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该项目帮助用户根据硬件配置选择最佳本地大语言模型，并通过基准测试进行排名。它解决了本地AI部署中的硬件兼容性问题，提供了实用的模型推荐工具。",
+    "score": 8,
+    "tags": [
+      "本地LLM",
+      "硬件兼容性",
+      "基准测试"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-05-16T09:24:50.953974+00:00"
+}

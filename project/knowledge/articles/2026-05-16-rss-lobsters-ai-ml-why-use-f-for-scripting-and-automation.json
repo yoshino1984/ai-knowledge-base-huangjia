@@ -1,0 +1,34 @@
+{
+  "id": "2026-05-16-rss-lobsters-ai-ml-why-use-f-for-scripting-and-automation",
+  "title": "why use F# for scripting and automation?",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://iev.ee/blog/why-use-fsharp/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-05-16T09:23:42.052156+00:00",
+  "collected_at": "2026-05-16T09:23:42.052168+00:00",
+  "summary": "文章探讨了使用 F# 进行脚本编写和自动化的优势，强调其类型安全、函数式编程特性和与 .NET 生态的集成，适合需要可靠性和表达力的自动化任务。",
+  "score": 7,
+  "tags": [
+    "F#",
+    "scripting",
+    "automation",
+    "functional programming"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "文章探讨了使用 F# 进行脚本编写和自动化的优势，强调其类型安全、函数式编程特性和与 .NET 生态的集成，适合需要可靠性和表达力的自动化任务。",
+    "score": 7,
+    "tags": [
+      "F#",
+      "scripting",
+      "automation",
+      "functional programming"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-05-16T09:24:50.953985+00:00"
+}
