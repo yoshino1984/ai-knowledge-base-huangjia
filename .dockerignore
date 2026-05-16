@@ -1,0 +1,14 @@
+.git
+.github
+.pytest_cache
+__pycache__/
+*.pyc
+.DS_Store
+.env
+logs/
+data/
+06_多Agent设计与工程化行动营/
+v1-skeleton/
+v2-automation/
+v3-multi-agent/
+v4-production/
