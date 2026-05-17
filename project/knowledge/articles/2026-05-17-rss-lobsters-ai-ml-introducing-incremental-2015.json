@@ -1,0 +1,32 @@
+{
+  "id": "2026-05-17-rss-lobsters-ai-ml-introducing-incremental-2015",
+  "title": "Introducing Incremental (2015)",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://blog.janestreet.com/introducing-incremental/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-05-17T09:28:46.246469+00:00",
+  "collected_at": "2026-05-17T09:28:46.246471+00:00",
+  "summary": "该内容介绍了2015年提出的Incremental方法，可能涉及增量学习或渐进式AI技术，强调其在处理动态数据或模型更新中的效率优势。对于理解早期增量学习概念有参考价值。",
+  "score": 7,
+  "tags": [
+    "incremental learning",
+    "AI history",
+    "2015"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该内容介绍了2015年提出的Incremental方法，可能涉及增量学习或渐进式AI技术，强调其在处理动态数据或模型更新中的效率优势。对于理解早期增量学习概念有参考价值。",
+    "score": 7,
+    "tags": [
+      "incremental learning",
+      "AI history",
+      "2015"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-05-17T09:29:57.129270+00:00"
+}

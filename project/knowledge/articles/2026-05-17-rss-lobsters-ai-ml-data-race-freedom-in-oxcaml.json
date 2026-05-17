@@ -1,0 +1,34 @@
+{
+  "id": "2026-05-17-rss-lobsters-ai-ml-data-race-freedom-in-oxcaml",
+  "title": "Data race freedom in OxCaml",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://kcsrk.info/ocaml/oxcaml/x-ocaml/blogging/2026/05/07/data-race-freedom-in-oxcaml/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-05-17T09:28:46.246501+00:00",
+  "collected_at": "2026-05-17T09:28:46.246503+00:00",
+  "summary": "OxCaml 是一种扩展 OCaml 以提供数据竞争自由保证的编程语言，通过类型系统确保并发程序无数据竞争。该技术对构建安全高效的并发系统具有重要价值。",
+  "score": 7,
+  "tags": [
+    "OCaml",
+    "并发",
+    "数据竞争",
+    "类型系统"
+  ],
+  "audience": "advanced",
+  "analysis": {
+    "summary": "OxCaml 是一种扩展 OCaml 以提供数据竞争自由保证的编程语言，通过类型系统确保并发程序无数据竞争。该技术对构建安全高效的并发系统具有重要价值。",
+    "score": 7,
+    "tags": [
+      "OCaml",
+      "并发",
+      "数据竞争",
+      "类型系统"
+    ],
+    "audience": "advanced",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-05-17T09:29:57.129278+00:00"
+}

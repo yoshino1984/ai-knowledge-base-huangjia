@@ -1,0 +1,32 @@
+{
+  "id": "2026-05-17-rss-hacker-news-best-deepseek-v4-flash-means-llm-steering-is-interest",
+  "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://www.seangoedecke.com/steering-vectors/",
+  "author": "Hacker News Best",
+  "published_at": "2026-05-17T09:28:45.684621+00:00",
+  "collected_at": "2026-05-17T09:28:45.684625+00:00",
+  "summary": "文章探讨了DeepSeek-V4-Flash模型如何重新激发对LLM引导向量（steering vectors）的兴趣，通过调整模型内部表示来控制输出行为。它提供了技术细节和实际应用案例，展示了引导向量在提升模型可控性和安全性方面的潜力。",
+  "score": 7,
+  "tags": [
+    "DeepSeek-V4-Flash",
+    "LLM steering",
+    "模型控制"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "文章探讨了DeepSeek-V4-Flash模型如何重新激发对LLM引导向量（steering vectors）的兴趣，通过调整模型内部表示来控制输出行为。它提供了技术细节和实际应用案例，展示了引导向量在提升模型可控性和安全性方面的潜力。",
+    "score": 7,
+    "tags": [
+      "DeepSeek-V4-Flash",
+      "LLM steering",
+      "模型控制"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-05-17T09:29:57.129250+00:00"
+}

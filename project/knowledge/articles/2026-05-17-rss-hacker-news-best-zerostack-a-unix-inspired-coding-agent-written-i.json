@@ -1,0 +1,32 @@
+{
+  "id": "2026-05-17-rss-hacker-news-best-zerostack-a-unix-inspired-coding-agent-written-i",
+  "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://crates.io/crates/zerostack/1.0.0",
+  "author": "Hacker News Best",
+  "published_at": "2026-05-17T09:28:45.684537+00:00",
+  "collected_at": "2026-05-17T09:28:45.684545+00:00",
+  "summary": "Zerostack 是一个用纯 Rust 编写的 Unix 风格编码代理，旨在提供高效、安全的代码生成和自动化能力。它利用 Rust 的内存安全特性，适合构建可靠的工具链。",
+  "score": 7,
+  "tags": [
+    "Rust",
+    "编码代理",
+    "Unix风格"
+  ],
+  "audience": "advanced",
+  "analysis": {
+    "summary": "Zerostack 是一个用纯 Rust 编写的 Unix 风格编码代理，旨在提供高效、安全的代码生成和自动化能力。它利用 Rust 的内存安全特性，适合构建可靠的工具链。",
+    "score": 7,
+    "tags": [
+      "Rust",
+      "编码代理",
+      "Unix风格"
+    ],
+    "audience": "advanced",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-05-17T09:29:57.129234+00:00"
+}
