@@ -1,0 +1,32 @@
+{
+  "id": "2026-05-18-rss-hacker-news-best-i-don-t-think-ai-will-make-your-processes-go-fas",
+  "title": "I don't think AI will make your processes go faster",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
+  "author": "Hacker News Best",
+  "published_at": "2026-05-18T11:38:58.089511+00:00",
+  "collected_at": "2026-05-18T11:38:58.089513+00:00",
+  "summary": "文章认为AI不会显著加速现有流程，因为流程瓶颈往往在于组织、沟通和决策等非技术因素，而非执行速度。作者通过实例论证，过度依赖AI可能反而增加复杂性，建议先优化流程再考虑AI应用。",
+  "score": 7,
+  "tags": [
+    "AI",
+    "process optimization",
+    "productivity"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "文章认为AI不会显著加速现有流程，因为流程瓶颈往往在于组织、沟通和决策等非技术因素，而非执行速度。作者通过实例论证，过度依赖AI可能反而增加复杂性，建议先优化流程再考虑AI应用。",
+    "score": 7,
+    "tags": [
+      "AI",
+      "process optimization",
+      "productivity"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-05-18T11:40:13.435018+00:00"
+}

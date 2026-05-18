@@ -1,0 +1,32 @@
+{
+  "id": "2026-05-18-rss-hacker-news-best-us-is-starting-to-see-heavy-job-losses-in-roles",
+  "title": "US is starting to see heavy job losses in roles exposed to AI",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai",
+  "author": "Hacker News Best",
+  "published_at": "2026-05-18T11:38:58.089662+00:00",
+  "collected_at": "2026-05-18T11:38:58.089664+00:00",
+  "summary": "文章指出美国开始出现与AI相关岗位的严重失业现象，基于Hacker News上的高讨论度和评分，反映了AI对就业市场的实际冲击。",
+  "score": 8,
+  "tags": [
+    "AI就业影响",
+    "美国经济",
+    "技术失业"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "文章指出美国开始出现与AI相关岗位的严重失业现象，基于Hacker News上的高讨论度和评分，反映了AI对就业市场的实际冲击。",
+    "score": 8,
+    "tags": [
+      "AI就业影响",
+      "美国经济",
+      "技术失业"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-05-18T11:40:13.435037+00:00"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "2026-05-18-rss-hacker-news-best-ai-subscriptions-are-a-ticking-time-bomb-for-ent",
+  "title": "AI subscriptions are a ticking time bomb for enterprise",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb",
+  "author": "Hacker News Best",
+  "published_at": "2026-05-18T11:38:58.089562+00:00",
+  "collected_at": "2026-05-18T11:38:58.089565+00:00",
+  "summary": "文章指出企业AI订阅模式存在长期成本失控和供应商锁定的风险，可能成为财务隐患。通过分析订阅费用累积效应和替代方案，提醒企业谨慎评估AI投资回报。",
+  "score": 7,
+  "tags": [
+    "AI订阅",
+    "企业成本",
+    "供应商锁定"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "文章指出企业AI订阅模式存在长期成本失控和供应商锁定的风险，可能成为财务隐患。通过分析订阅费用累积效应和替代方案，提醒企业谨慎评估AI投资回报。",
+    "score": 7,
+    "tags": [
+      "AI订阅",
+      "企业成本",
+      "供应商锁定"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-05-18T11:40:13.435028+00:00"
+}
