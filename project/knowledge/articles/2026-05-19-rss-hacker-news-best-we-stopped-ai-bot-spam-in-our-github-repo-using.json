@@ -1,0 +1,36 @@
+{
+  "id": "2026-05-19-rss-hacker-news-best-we-stopped-ai-bot-spam-in-our-github-repo-using",
+  "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://archestra.ai/blog/only-responsible-ai",
+  "author": "Hacker News Best",
+  "published_at": "2026-05-19T10:55:40.888369+00:00",
+  "collected_at": "2026-05-19T10:55:40.888390+00:00",
+  "summary": "本文介绍了一种利用 Git 的 --author 标志来过滤 GitHub 仓库中 AI 机器人垃圾提交的方法，展示了如何通过简单的技术手段维护代码库的整洁性。该方法对于开源项目维护者具有实用价值，能有效减少自动化垃圾干扰。",
+  "score": 7,
+  "tags": [
+    "Git",
+    "AI bot",
+    "spam filtering",
+    "GitHub",
+    "security"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "本文介绍了一种利用 Git 的 --author 标志来过滤 GitHub 仓库中 AI 机器人垃圾提交的方法，展示了如何通过简单的技术手段维护代码库的整洁性。该方法对于开源项目维护者具有实用价值，能有效减少自动化垃圾干扰。",
+    "score": 7,
+    "tags": [
+      "Git",
+      "AI bot",
+      "spam filtering",
+      "GitHub",
+      "security"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-05-19T10:56:51.120771+00:00"
+}

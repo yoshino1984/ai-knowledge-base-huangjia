@@ -1,0 +1,32 @@
+{
+  "id": "2026-05-19-rss-hacker-news-best-eric-schmidt-speech-about-ai-booed-during-gradua",
+  "title": "Eric Schmidt speech about AI booed during graduation",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://www.nbcnews.com/tech/tech-news/former-google-ceo-booed-graduation-speech-ai-rcna345585",
+  "author": "Hacker News Best",
+  "published_at": "2026-05-19T10:55:40.888500+00:00",
+  "collected_at": "2026-05-19T10:55:40.888507+00:00",
+  "summary": "前谷歌CEO埃里克·施密特在毕业典礼上因AI相关言论被嘘，引发对AI伦理和就业影响的讨论。该事件凸显公众对AI技术快速发展的担忧，以及科技领袖在公共场合发言的敏感性。",
+  "score": 7,
+  "tags": [
+    "AI伦理",
+    "公众反应",
+    "科技领袖"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "前谷歌CEO埃里克·施密特在毕业典礼上因AI相关言论被嘘，引发对AI伦理和就业影响的讨论。该事件凸显公众对AI技术快速发展的担忧，以及科技领袖在公共场合发言的敏感性。",
+    "score": 7,
+    "tags": [
+      "AI伦理",
+      "公众反应",
+      "科技领袖"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-05-19T10:56:51.120787+00:00"
+}
