@@ -1,0 +1,32 @@
+{
+  "id": "2026-05-20-rss-lobsters-ai-ml-categorizing-without-an-llm",
+  "title": "Categorizing without an LLM",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://softwaremaniacs.org/blog/2026/05/18/shoppy/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-05-20T10:43:47.997064+00:00",
+  "collected_at": "2026-05-20T10:43:47.997076+00:00",
+  "summary": "文章探讨了在不使用大型语言模型（LLM）的情况下进行文本分类的方法，可能涉及传统机器学习或规则基技术。其价值在于提供了一种轻量级、低成本的替代方案，适用于资源受限或对隐私敏感的场景。",
+  "score": 7,
+  "tags": [
+    "文本分类",
+    "传统机器学习",
+    "无LLM"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "文章探讨了在不使用大型语言模型（LLM）的情况下进行文本分类的方法，可能涉及传统机器学习或规则基技术。其价值在于提供了一种轻量级、低成本的替代方案，适用于资源受限或对隐私敏感的场景。",
+    "score": 7,
+    "tags": [
+      "文本分类",
+      "传统机器学习",
+      "无LLM"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-05-20T10:44:50.057726+00:00"
+}
