@@ -1,0 +1,32 @@
+{
+  "id": "2026-05-21-rss-lobsters-ai-ml-2ality-blog-temporarily-offline",
+  "title": "2ality blog: temporarily offline",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://2ality.com/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-05-21T11:00:27.841506+00:00",
+  "collected_at": "2026-05-21T11:00:27.841508+00:00",
+  "summary": "该内容主要通知2ality博客暂时下线，来自Lobsters AI ML的RSS源，可能涉及AI或机器学习相关讨论，但具体技术价值有限。",
+  "score": 3,
+  "tags": [
+    "博客",
+    "离线通知",
+    "AI"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该内容主要通知2ality博客暂时下线，来自Lobsters AI ML的RSS源，可能涉及AI或机器学习相关讨论，但具体技术价值有限。",
+    "score": 3,
+    "tags": [
+      "博客",
+      "离线通知",
+      "AI"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-05-21T11:01:39.587990+00:00"
+}

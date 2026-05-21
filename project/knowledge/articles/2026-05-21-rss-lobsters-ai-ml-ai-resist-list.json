@@ -1,0 +1,32 @@
+{
+  "id": "2026-05-21-rss-lobsters-ai-ml-ai-resist-list",
+  "title": "AI Resist List",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://airesistlist.org/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-05-21T11:00:27.841476+00:00",
+  "collected_at": "2026-05-21T11:00:27.841478+00:00",
+  "summary": "该内容是一个关于AI抵制列表的讨论帖，来自Lobsters的AI/ML板块，旨在收集和分享对AI技术的抵制或批评观点。其价值在于引发对AI伦理和社会影响的反思。",
+  "score": 7,
+  "tags": [
+    "AI伦理",
+    "社会影响",
+    "讨论"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该内容是一个关于AI抵制列表的讨论帖，来自Lobsters的AI/ML板块，旨在收集和分享对AI技术的抵制或批评观点。其价值在于引发对AI伦理和社会影响的反思。",
+    "score": 7,
+    "tags": [
+      "AI伦理",
+      "社会影响",
+      "讨论"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-05-21T11:01:39.587983+00:00"
+}
