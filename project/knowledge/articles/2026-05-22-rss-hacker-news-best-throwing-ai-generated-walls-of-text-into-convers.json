@@ -1,0 +1,32 @@
+{
+  "id": "2026-05-22-rss-hacker-news-best-throwing-ai-generated-walls-of-text-into-convers",
+  "title": "Throwing AI-generated walls of text into conversations",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://noslopgrenade.com/",
+  "author": "Hacker News Best",
+  "published_at": "2026-05-22T10:43:37.524242+00:00",
+  "collected_at": "2026-05-22T10:43:37.524244+00:00",
+  "summary": "该文章探讨了在对话中大量使用AI生成文本的现象，分析了其可能带来的沟通效率问题和信息质量风险。文章通过实例和评论区的讨论，揭示了这种做法的潜在负面影响，并提出了更有效的对话策略。",
+  "score": 7,
+  "tags": [
+    "AI生成文本",
+    "对话质量",
+    "沟通效率"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该文章探讨了在对话中大量使用AI生成文本的现象，分析了其可能带来的沟通效率问题和信息质量风险。文章通过实例和评论区的讨论，揭示了这种做法的潜在负面影响，并提出了更有效的对话策略。",
+    "score": 7,
+    "tags": [
+      "AI生成文本",
+      "对话质量",
+      "沟通效率"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-05-22T10:44:49.305872+00:00"
+}

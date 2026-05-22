@@ -1,0 +1,32 @@
+{
+  "id": "2026-05-22-rss-hacker-news-best-college-students-drown-out-ai-praising-commencem",
+  "title": "College students drown out AI-praising commencement speeches with boos",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/college-students-drown-out-ai-praising-commencement-speeches-with-boos-deal-with-it-one-speaker-fires-back-as-students-heckle-positive-pitches-for-ais-role",
+  "author": "Hacker News Best",
+  "published_at": "2026-05-22T10:43:37.524296+00:00",
+  "collected_at": "2026-05-22T10:43:37.524298+00:00",
+  "summary": "文章报道了大学生在毕业典礼上对赞扬AI的演讲者发出嘘声，反映了公众对AI技术的怀疑态度。该事件凸显了AI在社会接受度上的挑战，具有讨论技术伦理和社会影响的参考价值。",
+  "score": 7,
+  "tags": [
+    "AI伦理",
+    "社会接受度",
+    "技术争议"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "文章报道了大学生在毕业典礼上对赞扬AI的演讲者发出嘘声，反映了公众对AI技术的怀疑态度。该事件凸显了AI在社会接受度上的挑战，具有讨论技术伦理和社会影响的参考价值。",
+    "score": 7,
+    "tags": [
+      "AI伦理",
+      "社会接受度",
+      "技术争议"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-05-22T10:44:49.305880+00:00"
+}

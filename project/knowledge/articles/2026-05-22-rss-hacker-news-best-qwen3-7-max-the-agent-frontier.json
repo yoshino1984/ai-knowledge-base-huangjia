@@ -1,0 +1,32 @@
+{
+  "id": "2026-05-22-rss-hacker-news-best-qwen3-7-max-the-agent-frontier",
+  "title": "Qwen3.7-Max: The Agent Frontier",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://qwen.ai/blog?id=qwen3.7",
+  "author": "Hacker News Best",
+  "published_at": "2026-05-22T10:43:37.524393+00:00",
+  "collected_at": "2026-05-22T10:43:37.524395+00:00",
+  "summary": "Qwen3.7-Max 是阿里云推出的新一代 AI 模型，专注于提升智能体（Agent）能力，在复杂任务执行和工具使用方面取得显著进展。该模型在 Hacker News 上获得高分和大量讨论，表明其技术突破和社区关注度。",
+  "score": 8,
+  "tags": [
+    "AI模型",
+    "智能体",
+    "阿里云"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "Qwen3.7-Max 是阿里云推出的新一代 AI 模型，专注于提升智能体（Agent）能力，在复杂任务执行和工具使用方面取得显著进展。该模型在 Hacker News 上获得高分和大量讨论，表明其技术突破和社区关注度。",
+    "score": 8,
+    "tags": [
+      "AI模型",
+      "智能体",
+      "阿里云"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-05-22T10:44:49.305899+00:00"
+}

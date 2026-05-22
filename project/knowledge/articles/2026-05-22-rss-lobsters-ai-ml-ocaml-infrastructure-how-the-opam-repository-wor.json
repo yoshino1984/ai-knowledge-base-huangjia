@@ -1,0 +1,34 @@
+{
+  "id": "2026-05-22-rss-lobsters-ai-ml-ocaml-infrastructure-how-the-opam-repository-wor",
+  "title": "OCaml Infrastructure: How the opam-repository Works",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://ocaml.org/backstage/2025-11-05-how-the-opam-repository-works",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-05-22T10:43:38.035778+00:00",
+  "collected_at": "2026-05-22T10:43:38.035780+00:00",
+  "summary": "本文介绍了 OCaml 的 opam 包仓库作为公共资源而非发布平台的特点，强调其手动审核和社区维护的机制，旨在确保包质量与协作性。",
+  "score": 7,
+  "tags": [
+    "OCaml",
+    "opam",
+    "package management",
+    "open source"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "本文介绍了 OCaml 的 opam 包仓库作为公共资源而非发布平台的特点，强调其手动审核和社区维护的机制，旨在确保包质量与协作性。",
+    "score": 7,
+    "tags": [
+      "OCaml",
+      "opam",
+      "package management",
+      "open source"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-05-22T10:44:49.305932+00:00"
+}

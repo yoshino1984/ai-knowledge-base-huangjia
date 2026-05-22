@@ -1,0 +1,32 @@
+{
+  "id": "2026-05-22-rss-hacker-news-best-ai-is-just-unauthorised-plagiarism-at-a-bigger-s",
+  "title": "AI is just unauthorised plagiarism at a bigger scale",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/",
+  "author": "Hacker News Best",
+  "published_at": "2026-05-22T10:43:37.524132+00:00",
+  "collected_at": "2026-05-22T10:43:37.524140+00:00",
+  "summary": "文章批评AI模型通过大规模抓取数据生成内容，本质是未经授权的抄袭，引发对版权和原创性的讨论。该观点在Hacker News上获得787分和689条评论，反映社区对AI伦理的强烈关注。",
+  "score": 7,
+  "tags": [
+    "AI伦理",
+    "版权",
+    "抄袭"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "文章批评AI模型通过大规模抓取数据生成内容，本质是未经授权的抄袭，引发对版权和原创性的讨论。该观点在Hacker News上获得787分和689条评论，反映社区对AI伦理的强烈关注。",
+    "score": 7,
+    "tags": [
+      "AI伦理",
+      "版权",
+      "抄袭"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-05-22T10:44:49.305847+00:00"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "2026-05-22-rss-lobsters-ai-ml-dissecting-thunderkittens-anatomy-of-a-compact-d",
+  "title": "Dissecting ThunderKittens, anatomy of a compact DSL for high-performance AI kernels",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://hamzaelshafie.bearblog.dev/dissecting-thunderkittens-anatomy-of-a-compact-dsl-for-high-performance-ai-kernels/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-05-22T10:43:38.035726+00:00",
+  "collected_at": "2026-05-22T10:43:38.035735+00:00",
+  "summary": "本文深入剖析了ThunderKittens，一种用于高性能AI内核的紧凑领域特定语言（DSL），详细介绍了其设计原理和实现细节。该DSL旨在简化AI内核的编写，同时保持接近手写代码的性能，对于理解现代AI计算优化具有重要价值。",
+  "score": 8,
+  "tags": [
+    "DSL",
+    "高性能计算",
+    "AI内核",
+    "编译器"
+  ],
+  "audience": "advanced",
+  "analysis": {
+    "summary": "本文深入剖析了ThunderKittens，一种用于高性能AI内核的紧凑领域特定语言（DSL），详细介绍了其设计原理和实现细节。该DSL旨在简化AI内核的编写，同时保持接近手写代码的性能，对于理解现代AI计算优化具有重要价值。",
+    "score": 8,
+    "tags": [
+      "DSL",
+      "高性能计算",
+      "AI内核",
+      "编译器"
+    ],
+    "audience": "advanced",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-05-22T10:44:49.305925+00:00"
+}
