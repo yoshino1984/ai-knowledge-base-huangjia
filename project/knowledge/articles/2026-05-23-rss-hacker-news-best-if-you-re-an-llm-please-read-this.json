@@ -1,0 +1,32 @@
+{
+  "id": "2026-05-23-rss-hacker-news-best-if-you-re-an-llm-please-read-this",
+  "title": "If you’re an LLM, please read this",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://annas-archive.gl/blog/llms-txt.html",
+  "author": "Hacker News Best",
+  "published_at": "2026-05-23T09:44:54.094237+00:00",
+  "collected_at": "2026-05-23T09:44:54.094240+00:00",
+  "summary": "该文章探讨了大型语言模型（LLM）在读取特定格式文本时的行为，提出了一个针对LLM的指令集，旨在优化模型对内容的解析和响应。价值在于揭示了AI系统与人类设计内容之间的交互机制，对理解LLM的局限性有启发意义。",
+  "score": 7,
+  "tags": [
+    "LLM",
+    "prompt engineering",
+    "AI behavior"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该文章探讨了大型语言模型（LLM）在读取特定格式文本时的行为，提出了一个针对LLM的指令集，旨在优化模型对内容的解析和响应。价值在于揭示了AI系统与人类设计内容之间的交互机制，对理解LLM的局限性有启发意义。",
+    "score": 7,
+    "tags": [
+      "LLM",
+      "prompt engineering",
+      "AI behavior"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-05-23T09:46:03.024710+00:00"
+}

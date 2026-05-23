@@ -1,0 +1,36 @@
+{
+  "id": "2026-05-23-rss-hacker-news-best-antigravity-2-0-tops-the-openscad-architectural",
+  "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://modelrift.com/blog/openscad-llm-benchmark/",
+  "author": "Hacker News Best",
+  "published_at": "2026-05-23T09:44:54.094318+00:00",
+  "collected_at": "2026-05-23T09:44:54.094321+00:00",
+  "summary": "Antigravity 2.0 在 OpenSCAD 架构 3D LLM 基准测试中排名第一，展示了其在生成复杂 3D 模型方面的卓越能力。该基准测试评估了多个 LLM 在 OpenSCAD 代码生成上的表现，Antigravity 2.0 以高精度和效率领先，为 AI 辅助设计提供了新标杆。",
+  "score": 8,
+  "tags": [
+    "AI",
+    "3D建模",
+    "OpenSCAD",
+    "基准测试",
+    "LLM"
+  ],
+  "audience": "advanced",
+  "analysis": {
+    "summary": "Antigravity 2.0 在 OpenSCAD 架构 3D LLM 基准测试中排名第一，展示了其在生成复杂 3D 模型方面的卓越能力。该基准测试评估了多个 LLM 在 OpenSCAD 代码生成上的表现，Antigravity 2.0 以高精度和效率领先，为 AI 辅助设计提供了新标杆。",
+    "score": 8,
+    "tags": [
+      "AI",
+      "3D建模",
+      "OpenSCAD",
+      "基准测试",
+      "LLM"
+    ],
+    "audience": "advanced",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-05-23T09:46:03.024720+00:00"
+}
