@@ -1,0 +1,32 @@
+{
+  "id": "2026-05-24-rss-lobsters-ai-ml-a-network-allow-list-won-t-stop-exfiltration",
+  "title": "A Network Allow-List Won't Stop Exfiltration",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://www.dergraf.org/notes/canister-egress-proxy-dlp/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-05-24T09:49:23.420574+00:00",
+  "collected_at": "2026-05-24T09:49:23.420582+00:00",
+  "summary": "文章指出仅依赖网络白名单无法有效防止数据泄露，因为攻击者可通过应用层协议或加密隧道绕过限制。它强调了多层安全策略的重要性，对网络安全实践具有警示价值。",
+  "score": 7,
+  "tags": [
+    "网络安全",
+    "数据泄露",
+    "白名单"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "文章指出仅依赖网络白名单无法有效防止数据泄露，因为攻击者可通过应用层协议或加密隧道绕过限制。它强调了多层安全策略的重要性，对网络安全实践具有警示价值。",
+    "score": 7,
+    "tags": [
+      "网络安全",
+      "数据泄露",
+      "白名单"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-05-24T09:50:31.552565+00:00"
+}
