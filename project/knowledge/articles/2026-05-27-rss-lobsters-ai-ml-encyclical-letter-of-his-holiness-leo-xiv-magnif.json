@@ -1,0 +1,32 @@
+{
+  "id": "2026-05-27-rss-lobsters-ai-ml-encyclical-letter-of-his-holiness-leo-xiv-magnif",
+  "title": "Encyclical Letter of His Holiness Leo XIV Magnifica Humanitas",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "http://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-05-27T11:31:42.255914+00:00",
+  "collected_at": "2026-05-27T11:31:42.255918+00:00",
+  "summary": "该内容为教皇Leo XIV的通谕《Magnifica Humanitas》，涉及AI与伦理的讨论，但来源为技术社区Lobsters，可能聚焦于技术视角下的宗教与AI交叉议题。价值在于引发对AI伦理的宗教维度思考。",
+  "score": 7,
+  "tags": [
+    "AI伦理",
+    "宗教",
+    "技术评论"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该内容为教皇Leo XIV的通谕《Magnifica Humanitas》，涉及AI与伦理的讨论，但来源为技术社区Lobsters，可能聚焦于技术视角下的宗教与AI交叉议题。价值在于引发对AI伦理的宗教维度思考。",
+    "score": 7,
+    "tags": [
+      "AI伦理",
+      "宗教",
+      "技术评论"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-05-27T11:32:56.648823+00:00"
+}

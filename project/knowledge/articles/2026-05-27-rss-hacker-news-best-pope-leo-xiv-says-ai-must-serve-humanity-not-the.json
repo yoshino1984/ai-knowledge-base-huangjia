@@ -1,0 +1,32 @@
+{
+  "id": "2026-05-27-rss-hacker-news-best-pope-leo-xiv-says-ai-must-serve-humanity-not-the",
+  "title": "Pope Leo XIV says AI must serve humanity, not the powerful few",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/",
+  "author": "Hacker News Best",
+  "published_at": "2026-05-27T11:31:41.927917+00:00",
+  "collected_at": "2026-05-27T11:31:41.927919+00:00",
+  "summary": "教皇方济各在首份通谕中强调人工智能必须服务于全人类而非少数权贵，呼吁伦理监管和公平分配技术红利。该文结合宗教视角与科技伦理，引发关于AI治理的广泛讨论。",
+  "score": 7,
+  "tags": [
+    "AI伦理",
+    "宗教与科技",
+    "社会影响"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "教皇方济各在首份通谕中强调人工智能必须服务于全人类而非少数权贵，呼吁伦理监管和公平分配技术红利。该文结合宗教视角与科技伦理，引发关于AI治理的广泛讨论。",
+    "score": 7,
+    "tags": [
+      "AI伦理",
+      "宗教与科技",
+      "社会影响"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-05-27T11:32:56.648795+00:00"
+}

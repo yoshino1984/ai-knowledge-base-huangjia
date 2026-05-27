@@ -1,0 +1,32 @@
+{
+  "id": "2026-05-27-rss-hacker-news-best-uber-president-says-ai-spending-is-getting-harde",
+  "title": "Uber president says AI spending is getting 'harder to justify'",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify",
+  "author": "Hacker News Best",
+  "published_at": "2026-05-27T11:31:41.927754+00:00",
+  "collected_at": "2026-05-27T11:31:41.927756+00:00",
+  "summary": "Uber总裁指出，随着AI投资回报的不确定性增加，证明其合理性变得愈发困难。文章探讨了AI支出在企业中的实际价值与市场预期之间的差距，引发了对当前AI热潮可持续性的反思。",
+  "score": 7,
+  "tags": [
+    "AI投资",
+    "企业战略",
+    "Uber"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "Uber总裁指出，随着AI投资回报的不确定性增加，证明其合理性变得愈发困难。文章探讨了AI支出在企业中的实际价值与市场预期之间的差距，引发了对当前AI热潮可持续性的反思。",
+    "score": 7,
+    "tags": [
+      "AI投资",
+      "企业战略",
+      "Uber"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-05-27T11:32:56.648768+00:00"
+}

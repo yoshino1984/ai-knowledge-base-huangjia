@@ -1,0 +1,34 @@
+{
+  "id": "2026-05-27-rss-lobsters-ai-ml-the-open-closed-problem-in-ai",
+  "title": "The Open/Closed Problem in AI",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://blog.mempko.com/the-open-closed-problem-in-ai/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-05-27T11:31:42.255960+00:00",
+  "collected_at": "2026-05-27T11:31:42.255962+00:00",
+  "summary": "文章讨论了AI领域中的开放/封闭问题，即开源与闭源AI模型之间的权衡。核心价值在于引发对AI发展路径的思考，适合技术决策者参考。",
+  "score": 7,
+  "tags": [
+    "AI",
+    "开源",
+    "闭源",
+    "技术讨论"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "文章讨论了AI领域中的开放/封闭问题，即开源与闭源AI模型之间的权衡。核心价值在于引发对AI发展路径的思考，适合技术决策者参考。",
+    "score": 7,
+    "tags": [
+      "AI",
+      "开源",
+      "闭源",
+      "技术讨论"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-05-27T11:32:56.648830+00:00"
+}

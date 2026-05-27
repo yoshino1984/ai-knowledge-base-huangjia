@@ -1,0 +1,32 @@
+{
+  "id": "2026-05-27-rss-hacker-news-best-using-ai-to-write-better-code-more-slowly",
+  "title": "Using AI to write better code more slowly",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+  "author": "Hacker News Best",
+  "published_at": "2026-05-27T11:31:41.927823+00:00",
+  "collected_at": "2026-05-27T11:31:41.927825+00:00",
+  "summary": "文章探讨了如何通过谨慎使用AI辅助编程来提升代码质量，而非追求速度。作者提出慢速编码策略，强调AI应作为思考工具而非替代品，以写出更健壮、可维护的代码。",
+  "score": 8,
+  "tags": [
+    "AI辅助编程",
+    "代码质量",
+    "慢速开发"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "文章探讨了如何通过谨慎使用AI辅助编程来提升代码质量，而非追求速度。作者提出慢速编码策略，强调AI应作为思考工具而非替代品，以写出更健壮、可维护的代码。",
+    "score": 8,
+    "tags": [
+      "AI辅助编程",
+      "代码质量",
+      "慢速开发"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-05-27T11:32:56.648778+00:00"
+}
