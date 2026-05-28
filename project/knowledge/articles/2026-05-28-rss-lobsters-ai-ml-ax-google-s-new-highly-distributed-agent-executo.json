@@ -1,0 +1,34 @@
+{
+  "id": "2026-05-28-rss-lobsters-ai-ml-ax-google-s-new-highly-distributed-agent-executo",
+  "title": "ax, Google’s new highly distributed agent executor",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://github.com/google/ax",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-05-28T11:31:30.435343+00:00",
+  "collected_at": "2026-05-28T11:31:30.435355+00:00",
+  "summary": "Google 发布了名为 ax 的高度分布式智能体执行器，旨在提升 AI 代理的扩展性和执行效率。该技术可能对分布式 AI 系统架构产生重要影响。",
+  "score": 7,
+  "tags": [
+    "Google",
+    "分布式系统",
+    "AI代理",
+    "执行器"
+  ],
+  "audience": "advanced",
+  "analysis": {
+    "summary": "Google 发布了名为 ax 的高度分布式智能体执行器，旨在提升 AI 代理的扩展性和执行效率。该技术可能对分布式 AI 系统架构产生重要影响。",
+    "score": 7,
+    "tags": [
+      "Google",
+      "分布式系统",
+      "AI代理",
+      "执行器"
+    ],
+    "audience": "advanced",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-05-28T11:34:18.029318+00:00"
+}

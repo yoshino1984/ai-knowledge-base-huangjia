@@ -1,0 +1,32 @@
+{
+  "id": "2026-05-28-rss-hacker-news-best-youtube-to-automatically-label-ai-generated-vide",
+  "title": "YouTube to automatically label AI-generated videos",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+  "author": "Hacker News Best",
+  "published_at": "2026-05-28T11:31:29.913967+00:00",
+  "collected_at": "2026-05-28T11:31:29.913979+00:00",
+  "summary": "YouTube 将要求创作者标注 AI 生成的视频内容，以提升透明度和用户信任。该政策旨在应对深度伪造和误导性内容，但引发了关于执行难度和创作者负担的讨论。",
+  "score": 7,
+  "tags": [
+    "AI regulation",
+    "content moderation",
+    "YouTube policy"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "YouTube 将要求创作者标注 AI 生成的视频内容，以提升透明度和用户信任。该政策旨在应对深度伪造和误导性内容，但引发了关于执行难度和创作者负担的讨论。",
+    "score": 7,
+    "tags": [
+      "AI regulation",
+      "content moderation",
+      "YouTube policy"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-05-28T11:34:18.029273+00:00"
+}

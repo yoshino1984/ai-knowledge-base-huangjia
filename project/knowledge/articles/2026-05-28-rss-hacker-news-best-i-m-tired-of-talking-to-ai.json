@@ -1,0 +1,32 @@
+{
+  "id": "2026-05-28-rss-hacker-news-best-i-m-tired-of-talking-to-ai",
+  "title": "I'm Tired of Talking to AI",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
+  "author": "Hacker News Best",
+  "published_at": "2026-05-28T11:31:29.914243+00:00",
+  "collected_at": "2026-05-28T11:31:29.914246+00:00",
+  "summary": "文章表达了作者对AI生成答案的厌倦，认为AI回复缺乏真实性和深度，可能影响人类交流质量。评论中讨论了AI在信息检索和对话中的局限性，以及用户对更自然交互的期待。",
+  "score": 7,
+  "tags": [
+    "AI交互",
+    "用户体验",
+    "技术反思"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "文章表达了作者对AI生成答案的厌倦，认为AI回复缺乏真实性和深度，可能影响人类交流质量。评论中讨论了AI在信息检索和对话中的局限性，以及用户对更自然交互的期待。",
+    "score": 7,
+    "tags": [
+      "AI交互",
+      "用户体验",
+      "技术反思"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-05-28T11:34:18.029307+00:00"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "2026-05-28-rss-hacker-news-best-duckduckgo-search-saw-28-more-visits-after-googl",
+  "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
+  "author": "Hacker News Best",
+  "published_at": "2026-05-28T11:31:29.914081+00:00",
+  "collected_at": "2026-05-28T11:31:29.914084+00:00",
+  "summary": "DuckDuckGo 在 Google 声称用户喜爱 AI 模式后，其无 AI 搜索访问量一周内增长近 28%，反映了用户对隐私和传统搜索的偏好。该事件凸显了 AI 搜索的争议性及市场分化趋势。",
+  "score": 8,
+  "tags": [
+    "AI搜索",
+    "隐私",
+    "搜索引擎",
+    "用户偏好"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "DuckDuckGo 在 Google 声称用户喜爱 AI 模式后，其无 AI 搜索访问量一周内增长近 28%，反映了用户对隐私和传统搜索的偏好。该事件凸显了 AI 搜索的争议性及市场分化趋势。",
+    "score": 8,
+    "tags": [
+      "AI搜索",
+      "隐私",
+      "搜索引擎",
+      "用户偏好"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-05-28T11:34:18.029291+00:00"
+}
