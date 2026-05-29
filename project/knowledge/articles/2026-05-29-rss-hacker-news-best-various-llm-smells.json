@@ -1,0 +1,32 @@
+{
+  "id": "2026-05-29-rss-hacker-news-best-various-llm-smells",
+  "title": "Various LLM Smells",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://shvbsle.in/various-llm-smells/",
+  "author": "Hacker News Best",
+  "published_at": "2026-05-29T11:21:40.067031+00:00",
+  "collected_at": "2026-05-29T11:21:40.067043+00:00",
+  "summary": "文章探讨了大型语言模型（LLM）在生成文本时可能出现的各种“气味”（即常见问题或缺陷），如重复、逻辑不一致、事实错误等，并提供了识别和缓解这些问题的实用建议。该内容对开发者优化LLM输出质量具有参考价值。",
+  "score": 7,
+  "tags": [
+    "LLM",
+    "文本生成",
+    "质量评估"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "文章探讨了大型语言模型（LLM）在生成文本时可能出现的各种“气味”（即常见问题或缺陷），如重复、逻辑不一致、事实错误等，并提供了识别和缓解这些问题的实用建议。该内容对开发者优化LLM输出质量具有参考价值。",
+    "score": 7,
+    "tags": [
+      "LLM",
+      "文本生成",
+      "质量评估"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-05-29T11:22:41.420425+00:00"
+}
