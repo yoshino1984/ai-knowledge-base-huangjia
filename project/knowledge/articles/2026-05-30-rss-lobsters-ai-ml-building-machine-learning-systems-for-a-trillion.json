@@ -1,0 +1,32 @@
+{
+  "id": "2026-05-30-rss-lobsters-ai-ml-building-machine-learning-systems-for-a-trillion",
+  "title": "Building Machine Learning Systems for a Trillion Trillion Floating Point Operations (2024)",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://www.youtube.com/watch?v=139UPjoq7Kw",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-05-30T09:52:22.726386+00:00",
+  "collected_at": "2026-05-30T09:52:22.726390+00:00",
+  "summary": "文章探讨了为支持高达一万亿万亿次浮点运算而构建机器学习系统的挑战与设计策略，强调了在超大规模计算中硬件与软件协同优化的重要性。该内容对理解前沿AI基础设施的扩展性具有参考价值。",
+  "score": 7,
+  "tags": [
+    "machine learning",
+    "high-performance computing",
+    "scalability"
+  ],
+  "audience": "advanced",
+  "analysis": {
+    "summary": "文章探讨了为支持高达一万亿万亿次浮点运算而构建机器学习系统的挑战与设计策略，强调了在超大规模计算中硬件与软件协同优化的重要性。该内容对理解前沿AI基础设施的扩展性具有参考价值。",
+    "score": 7,
+    "tags": [
+      "machine learning",
+      "high-performance computing",
+      "scalability"
+    ],
+    "audience": "advanced",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-05-30T09:53:23.848177+00:00"
+}

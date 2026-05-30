@@ -1,0 +1,32 @@
+{
+  "id": "2026-05-30-rss-hacker-news-best-please-use-ai",
+  "title": "Please Use AI",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://shawnsmucker.substack.com/p/please-use-ai",
+  "author": "Hacker News Best",
+  "published_at": "2026-05-30T09:52:22.049993+00:00",
+  "collected_at": "2026-05-30T09:52:22.049996+00:00",
+  "summary": "文章探讨了AI在日常工作与创作中的实用价值，强调其作为辅助工具能显著提升效率与创造力，同时提醒用户需保持批判性思维以避免过度依赖。",
+  "score": 7,
+  "tags": [
+    "AI应用",
+    "效率提升",
+    "批判性思维"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "文章探讨了AI在日常工作与创作中的实用价值，强调其作为辅助工具能显著提升效率与创造力，同时提醒用户需保持批判性思维以避免过度依赖。",
+    "score": 7,
+    "tags": [
+      "AI应用",
+      "效率提升",
+      "批判性思维"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-05-30T09:53:23.848144+00:00"
+}
