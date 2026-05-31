@@ -1,0 +1,34 @@
+{
+  "id": "2026-05-31-rss-lobsters-ai-ml-i-put-a-datacenter-gpu-in-my-gaming-pc-for-200",
+  "title": "I Put a Datacenter GPU in My Gaming PC for £200",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://blog.tymscar.com/posts/v100localllm/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-05-31T10:08:37.635512+00:00",
+  "collected_at": "2026-05-31T10:08:37.635522+00:00",
+  "summary": "文章介绍了作者以200英镑将数据中心GPU安装到游戏PC中的实践，探讨了成本效益与性能表现，为DIY硬件爱好者提供了有价值的参考。",
+  "score": 7,
+  "tags": [
+    "GPU",
+    "DIY",
+    "数据中心",
+    "游戏PC"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "文章介绍了作者以200英镑将数据中心GPU安装到游戏PC中的实践，探讨了成本效益与性能表现，为DIY硬件爱好者提供了有价值的参考。",
+    "score": 7,
+    "tags": [
+      "GPU",
+      "DIY",
+      "数据中心",
+      "游戏PC"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-05-31T10:09:38.362722+00:00"
+}

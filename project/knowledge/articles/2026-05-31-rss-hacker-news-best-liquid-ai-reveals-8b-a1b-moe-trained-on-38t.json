@@ -1,0 +1,32 @@
+{
+  "id": "2026-05-31-rss-hacker-news-best-liquid-ai-reveals-8b-a1b-moe-trained-on-38t",
+  "title": "Liquid AI reveals 8B-A1B MoE trained on 38T",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
+  "author": "Hacker News Best",
+  "published_at": "2026-05-31T10:08:37.419626+00:00",
+  "collected_at": "2026-05-31T10:08:37.419629+00:00",
+  "summary": "Liquid AI 发布了 8B-A1B 混合专家模型，在 38T 数据上训练，旨在提升效率与性能。该模型通过稀疏激活机制，在保持较小计算成本的同时实现高容量，适用于资源受限场景。",
+  "score": 8,
+  "tags": [
+    "MoE",
+    "Liquid AI",
+    "模型训练"
+  ],
+  "audience": "advanced",
+  "analysis": {
+    "summary": "Liquid AI 发布了 8B-A1B 混合专家模型，在 38T 数据上训练，旨在提升效率与性能。该模型通过稀疏激活机制，在保持较小计算成本的同时实现高容量，适用于资源受限场景。",
+    "score": 8,
+    "tags": [
+      "MoE",
+      "Liquid AI",
+      "模型训练"
+    ],
+    "audience": "advanced",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-05-31T10:09:38.362708+00:00"
+}
