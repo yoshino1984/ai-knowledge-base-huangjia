@@ -1,0 +1,30 @@
+{
+  "id": "2026-06-01-rss-lobsters-ai-ml-it-s-not-just-x-it-s-y",
+  "title": "It's Not Just X. It's Y",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://mail.cyberneticforests.com/its-not-just-data-its-post-training/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-06-01T13:29:31.690219+00:00",
+  "collected_at": "2026-06-01T13:29:31.690229+00:00",
+  "summary": "该内容标题暗示一种对比或纠正观点，可能探讨AI领域中的常见误解或关键区别。来源为Lobsters AI ML社区，描述仅包含评论链接，缺乏具体技术细节，价值有限。",
+  "score": 5,
+  "tags": [
+    "AI",
+    "观点"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该内容标题暗示一种对比或纠正观点，可能探讨AI领域中的常见误解或关键区别。来源为Lobsters AI ML社区，描述仅包含评论链接，缺乏具体技术细节，价值有限。",
+    "score": 5,
+    "tags": [
+      "AI",
+      "观点"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-01T13:30:38.069066+00:00"
+}
