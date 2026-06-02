@@ -1,0 +1,32 @@
+{
+  "id": "2026-06-02-rss-lobsters-ai-ml-thunderbolt-ibverbs-we-have-infiniband-at-home",
+  "title": "thunderbolt-ibverbs: We have InfiniBand at home",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://blog.hellas.ai/blog/thunderbolt-ibverbs/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-06-02T11:58:53.777355+00:00",
+  "collected_at": "2026-06-02T11:58:53.777410+00:00",
+  "summary": "本文探讨了通过Thunderbolt接口实现InfiniBand功能的技术方案，展示了如何利用现有硬件模拟高性能网络特性。该方案为低成本获取类似InfiniBand的性能提供了可能，但存在兼容性和性能限制。",
+  "score": 7,
+  "tags": [
+    "InfiniBand",
+    "Thunderbolt",
+    "网络技术"
+  ],
+  "audience": "advanced",
+  "analysis": {
+    "summary": "本文探讨了通过Thunderbolt接口实现InfiniBand功能的技术方案，展示了如何利用现有硬件模拟高性能网络特性。该方案为低成本获取类似InfiniBand的性能提供了可能，但存在兼容性和性能限制。",
+    "score": 7,
+    "tags": [
+      "InfiniBand",
+      "Thunderbolt",
+      "网络技术"
+    ],
+    "audience": "advanced",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-02T11:59:54.619411+00:00"
+}

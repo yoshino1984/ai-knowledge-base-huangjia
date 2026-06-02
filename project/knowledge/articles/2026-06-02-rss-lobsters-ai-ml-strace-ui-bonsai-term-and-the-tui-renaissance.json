@@ -1,0 +1,34 @@
+{
+  "id": "2026-06-02-rss-lobsters-ai-ml-strace-ui-bonsai-term-and-the-tui-renaissance",
+  "title": "strace-ui, Bonsai_term, and the TUI renaissance",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://blog.janestreet.com/strace-ui-bonsai-term-and-the-tui-renaissance/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-06-02T11:58:53.777813+00:00",
+  "collected_at": "2026-06-02T11:58:53.777836+00:00",
+  "summary": "本文讨论了 strace-ui 和 Bonsai_term 等工具，标志着终端用户界面（TUI）的复兴。这些工具通过提供更直观的界面，提升了系统调试和监控的效率，对开发者社区具有实用价值。",
+  "score": 7,
+  "tags": [
+    "TUI",
+    "strace",
+    "Bonsai_term",
+    "系统调试"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "本文讨论了 strace-ui 和 Bonsai_term 等工具，标志着终端用户界面（TUI）的复兴。这些工具通过提供更直观的界面，提升了系统调试和监控的效率，对开发者社区具有实用价值。",
+    "score": 7,
+    "tags": [
+      "TUI",
+      "strace",
+      "Bonsai_term",
+      "系统调试"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-02T11:59:54.619506+00:00"
+}
