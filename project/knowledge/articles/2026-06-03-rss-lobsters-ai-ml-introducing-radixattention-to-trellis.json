@@ -1,0 +1,34 @@
+{
+  "id": "2026-06-03-rss-lobsters-ai-ml-introducing-radixattention-to-trellis",
+  "title": "Introducing RadixAttention to Trellis",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://trellis.unfoldml.com/blog/radix-attention-intro",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-06-03T12:35:56.245183+00:00",
+  "collected_at": "2026-06-03T12:35:56.245186+00:00",
+  "summary": "Trellis 引入了 RadixAttention，一种新的注意力机制，旨在提升 AI 模型的推理效率和性能。该技术通过优化注意力计算，可能对长序列处理和大规模模型部署产生重要影响。",
+  "score": 7,
+  "tags": [
+    "RadixAttention",
+    "Trellis",
+    "AI推理",
+    "注意力机制"
+  ],
+  "audience": "advanced",
+  "analysis": {
+    "summary": "Trellis 引入了 RadixAttention，一种新的注意力机制，旨在提升 AI 模型的推理效率和性能。该技术通过优化注意力计算，可能对长序列处理和大规模模型部署产生重要影响。",
+    "score": 7,
+    "tags": [
+      "RadixAttention",
+      "Trellis",
+      "AI推理",
+      "注意力机制"
+    ],
+    "audience": "advanced",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-03T12:36:59.983972+00:00"
+}

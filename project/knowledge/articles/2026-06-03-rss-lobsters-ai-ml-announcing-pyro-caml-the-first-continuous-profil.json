@@ -1,0 +1,32 @@
+{
+  "id": "2026-06-03-rss-lobsters-ai-ml-announcing-pyro-caml-the-first-continuous-profil",
+  "title": "Announcing Pyro Caml: The First Continuous Profiler for OCaml",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://semgrep.dev/blog/2026/announcing-pyro-caml-continuous-profiler-ocaml",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-06-03T12:35:56.245137+00:00",
+  "collected_at": "2026-06-03T12:35:56.245147+00:00",
+  "summary": "Pyro Caml 是首个针对 OCaml 语言的连续性能分析器，旨在帮助开发者实时监控和优化 OCaml 程序的性能。该工具通过持续采样和分析，提供低开销的性能洞察，对 OCaml 生态系统的工具链完善有重要价值。",
+  "score": 7,
+  "tags": [
+    "OCaml",
+    "性能分析",
+    "连续分析器"
+  ],
+  "audience": "advanced",
+  "analysis": {
+    "summary": "Pyro Caml 是首个针对 OCaml 语言的连续性能分析器，旨在帮助开发者实时监控和优化 OCaml 程序的性能。该工具通过持续采样和分析，提供低开销的性能洞察，对 OCaml 生态系统的工具链完善有重要价值。",
+    "score": 7,
+    "tags": [
+      "OCaml",
+      "性能分析",
+      "连续分析器"
+    ],
+    "audience": "advanced",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-03T12:36:59.983966+00:00"
+}

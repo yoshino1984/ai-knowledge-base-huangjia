@@ -1,0 +1,32 @@
+{
+  "id": "2026-06-03-rss-hacker-news-best-adafruit-receives-demand-letter-from-fenwick-leg",
+  "title": "Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://blog.adafruit.com/",
+  "author": "Hacker News Best",
+  "published_at": "2026-06-03T12:35:55.921192+00:00",
+  "collected_at": "2026-06-03T12:35:55.921195+00:00",
+  "summary": "Adafruit 收到来自 Fenwick 律师事务所代表 Flux.ai 的律师函，涉及知识产权或法律纠纷。该事件在 Hacker News 上引发热议，获得 655 分和 268 条评论，反映了开源硬件社区对法律干预的关注。",
+  "score": 7,
+  "tags": [
+    "开源硬件",
+    "知识产权",
+    "法律纠纷"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "Adafruit 收到来自 Fenwick 律师事务所代表 Flux.ai 的律师函，涉及知识产权或法律纠纷。该事件在 Hacker News 上引发热议，获得 655 分和 268 条评论，反映了开源硬件社区对法律干预的关注。",
+    "score": 7,
+    "tags": [
+      "开源硬件",
+      "知识产权",
+      "法律纠纷"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-03T12:36:59.983937+00:00"
+}

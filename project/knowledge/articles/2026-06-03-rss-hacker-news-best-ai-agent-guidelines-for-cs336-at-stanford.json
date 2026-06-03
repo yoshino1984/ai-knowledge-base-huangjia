@@ -1,0 +1,32 @@
+{
+  "id": "2026-06-03-rss-hacker-news-best-ai-agent-guidelines-for-cs336-at-stanford",
+  "title": "AI Agent Guidelines for CS336 at Stanford",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
+  "author": "Hacker News Best",
+  "published_at": "2026-06-03T12:35:55.921266+00:00",
+  "collected_at": "2026-06-03T12:35:55.921270+00:00",
+  "summary": "该内容为斯坦福大学CS336课程关于AI Agent使用的指南，详细说明了学生在作业中如何合规使用AI工具。其价值在于为学术界提供了明确的AI使用规范，平衡了技术辅助与学术诚信。",
+  "score": 7,
+  "tags": [
+    "AI Agent",
+    "学术规范",
+    "教育指南"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该内容为斯坦福大学CS336课程关于AI Agent使用的指南，详细说明了学生在作业中如何合规使用AI工具。其价值在于为学术界提供了明确的AI使用规范，平衡了技术辅助与学术诚信。",
+    "score": 7,
+    "tags": [
+      "AI Agent",
+      "学术规范",
+      "教育指南"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-03T12:36:59.983947+00:00"
+}

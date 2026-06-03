@@ -1,0 +1,34 @@
+{
+  "id": "2026-06-03-rss-hacker-news-best-ai-outperforms-law-professors-in-stanford-law-st",
+  "title": "AI outperforms law professors in Stanford Law study",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
+  "author": "Hacker News Best",
+  "published_at": "2026-06-03T12:35:55.921105+00:00",
+  "collected_at": "2026-06-03T12:35:55.921116+00:00",
+  "summary": "斯坦福法学院研究显示，AI在法律任务中的表现超越了法学教授，引发对AI在法律领域应用潜力的讨论。该研究通过对比AI与教授在合同分析、法律推理等任务上的表现，揭示了AI的高效性和准确性。",
+  "score": 8,
+  "tags": [
+    "AI",
+    "法律",
+    "斯坦福",
+    "研究"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "斯坦福法学院研究显示，AI在法律任务中的表现超越了法学教授，引发对AI在法律领域应用潜力的讨论。该研究通过对比AI与教授在合同分析、法律推理等任务上的表现，揭示了AI的高效性和准确性。",
+    "score": 8,
+    "tags": [
+      "AI",
+      "法律",
+      "斯坦福",
+      "研究"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-03T12:36:59.983919+00:00"
+}
