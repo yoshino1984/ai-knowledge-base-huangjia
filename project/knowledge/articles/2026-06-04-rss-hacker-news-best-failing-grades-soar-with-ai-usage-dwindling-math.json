@@ -1,0 +1,32 @@
+{
+  "id": "2026-06-04-rss-hacker-news-best-failing-grades-soar-with-ai-usage-dwindling-math",
+  "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
+  "author": "Hacker News Best",
+  "published_at": "2026-06-04T10:56:54.899213+00:00",
+  "collected_at": "2026-06-04T10:56:54.899221+00:00",
+  "summary": "文章报道了加州大学伯克利分校计算机科学课程中，随着学生使用AI工具增多，数学技能下降和不及格率上升的现象。这引发了对AI辅助学习可能削弱基础能力的担忧，并促使教育者重新评估教学方法。",
+  "score": 7,
+  "tags": [
+    "AI教育",
+    "学术影响",
+    "数学技能"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "文章报道了加州大学伯克利分校计算机科学课程中，随着学生使用AI工具增多，数学技能下降和不及格率上升的现象。这引发了对AI辅助学习可能削弱基础能力的担忧，并促使教育者重新评估教学方法。",
+    "score": 7,
+    "tags": [
+      "AI教育",
+      "学术影响",
+      "数学技能"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-04T10:57:58.011841+00:00"
+}

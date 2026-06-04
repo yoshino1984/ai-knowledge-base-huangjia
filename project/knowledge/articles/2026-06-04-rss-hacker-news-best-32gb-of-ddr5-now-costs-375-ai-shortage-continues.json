@@ -1,0 +1,32 @@
+{
+  "id": "2026-06-04-rss-hacker-news-best-32gb-of-ddr5-now-costs-375-ai-shortage-continues",
+  "title": "32GB of DDR5 now costs $375 – AI shortage continues to squeeze PC building",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building",
+  "author": "Hacker News Best",
+  "published_at": "2026-06-04T10:56:54.899290+00:00",
+  "collected_at": "2026-06-04T10:56:54.899292+00:00",
+  "summary": "DDR5 内存因 AI 需求导致供应短缺，32GB 价格飙升至 375 美元，影响 PC 组装成本。文章揭示了 AI 硬件需求对消费市场的挤压效应。",
+  "score": 7,
+  "tags": [
+    "AI shortage",
+    "DDR5",
+    "PC building"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "DDR5 内存因 AI 需求导致供应短缺，32GB 价格飙升至 375 美元，影响 PC 组装成本。文章揭示了 AI 硬件需求对消费市场的挤压效应。",
+    "score": 7,
+    "tags": [
+      "AI shortage",
+      "DDR5",
+      "PC building"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-04T10:57:58.011861+00:00"
+}

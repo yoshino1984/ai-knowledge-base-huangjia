@@ -1,0 +1,32 @@
+{
+  "id": "2026-06-04-rss-hacker-news-best-uber-s-1-500-month-ai-limit-is-a-useful-signal-f",
+  "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
+  "author": "Hacker News Best",
+  "published_at": "2026-06-04T10:56:54.899349+00:00",
+  "collected_at": "2026-06-04T10:56:54.899352+00:00",
+  "summary": "Uber 将 AI 工具使用上限设为每月 1500 美元，这一举措为 AI 工具定价提供了重要参考信号。文章分析了该定价策略对市场的影响，并探讨了企业如何平衡 AI 成本与收益。",
+  "score": 7,
+  "tags": [
+    "AI定价",
+    "企业策略",
+    "成本控制"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "Uber 将 AI 工具使用上限设为每月 1500 美元，这一举措为 AI 工具定价提供了重要参考信号。文章分析了该定价策略对市场的影响，并探讨了企业如何平衡 AI 成本与收益。",
+    "score": 7,
+    "tags": [
+      "AI定价",
+      "企业策略",
+      "成本控制"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-04T10:57:58.011872+00:00"
+}
