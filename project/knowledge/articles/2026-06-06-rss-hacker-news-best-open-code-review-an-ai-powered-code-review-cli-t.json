@@ -1,0 +1,36 @@
+{
+  "id": "2026-06-06-rss-hacker-news-best-open-code-review-an-ai-powered-code-review-cli-t",
+  "title": "Open Code Review – An AI-powered code review CLI tool",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://github.com/alibaba/open-code-review",
+  "author": "Hacker News Best",
+  "published_at": "2026-06-06T09:56:09.370071+00:00",
+  "collected_at": "2026-06-06T09:56:09.370079+00:00",
+  "summary": "Open Code Review 是阿里巴巴开源的一款基于 AI 的代码审查命令行工具，旨在通过自动化分析提升代码质量和审查效率。该工具在 Hacker News 上获得 265 分和 67 条评论，显示出社区对其高度关注。",
+  "score": 7,
+  "tags": [
+    "AI",
+    "代码审查",
+    "开源",
+    "CLI",
+    "阿里巴巴"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "Open Code Review 是阿里巴巴开源的一款基于 AI 的代码审查命令行工具，旨在通过自动化分析提升代码质量和审查效率。该工具在 Hacker News 上获得 265 分和 67 条评论，显示出社区对其高度关注。",
+    "score": 7,
+    "tags": [
+      "AI",
+      "代码审查",
+      "开源",
+      "CLI",
+      "阿里巴巴"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-06T09:57:21.643951+00:00"
+}

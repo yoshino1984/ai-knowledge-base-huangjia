@@ -1,0 +1,32 @@
+{
+  "id": "2026-06-06-rss-lobsters-ai-ml-zml-model-to-metal",
+  "title": "ZML: Model to Metal",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://zml.ai/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-06-06T09:56:09.951569+00:00",
+  "collected_at": "2026-06-06T09:56:09.951579+00:00",
+  "summary": "ZML 是一个将机器学习模型转换为 Metal 性能着色器（MPS）的工具，旨在提升在 Apple 设备上的推理效率。它通过优化模型到 Metal 的映射，降低延迟并利用 GPU 加速，适合需要高性能本地推理的场景。",
+  "score": 7,
+  "tags": [
+    "ZML",
+    "Metal",
+    "模型优化"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "ZML 是一个将机器学习模型转换为 Metal 性能着色器（MPS）的工具，旨在提升在 Apple 设备上的推理效率。它通过优化模型到 Metal 的映射，降低延迟并利用 GPU 加速，适合需要高性能本地推理的场景。",
+    "score": 7,
+    "tags": [
+      "ZML",
+      "Metal",
+      "模型优化"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-06T09:57:21.643978+00:00"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "2026-06-06-rss-hacker-news-best-south-korean-forums-will-need-to-scan-every-imag",
+  "title": "South Korean forums will need to scan every images with AI censorship tools",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341",
+  "author": "Hacker News Best",
+  "published_at": "2026-06-06T09:56:09.370140+00:00",
+  "collected_at": "2026-06-06T09:56:09.370143+00:00",
+  "summary": "韩国要求在线社区使用AI审查工具扫描所有上传图片，引发隐私和审查担忧。该政策旨在打击非法内容，但可能过度监控用户数据。",
+  "score": 8,
+  "tags": [
+    "AI审查",
+    "隐私",
+    "韩国",
+    "内容审核"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "韩国要求在线社区使用AI审查工具扫描所有上传图片，引发隐私和审查担忧。该政策旨在打击非法内容，但可能过度监控用户数据。",
+    "score": 8,
+    "tags": [
+      "AI审查",
+      "隐私",
+      "韩国",
+      "内容审核"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-06T09:57:21.643968+00:00"
+}
