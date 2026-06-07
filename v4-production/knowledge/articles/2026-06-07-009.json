@@ -1,0 +1,19 @@
+{
+  "id": "2026-06-07-009",
+  "title": "earendil-works/pi",
+  "source": "github",
+  "url": "https://github.com/earendil-works/pi",
+  "collected_at": "2026-06-07T04:22:41.239973+00:00",
+  "summary": "Pi 是一个 AI 代理工具包，包含编码代理 CLI、统一 LLM API、TUI 和 Web UI 库、Slack 机器人以及 vLLM 集群支持。它旨在简化 AI 代理的构建和部署，提供从命令行到图形界面的多种交互方式，并支持多种 LLM 后端。",
+  "tags": [
+    "AI agent",
+    "LLM API",
+    "CLI",
+    "TUI",
+    "Slack bot",
+    "vLLM"
+  ],
+  "relevance_score": 0.85,
+  "category": "tool",
+  "key_insight": "Pi 通过提供统一的 LLM API 和多种交互界面，降低了构建和部署 AI 代理的复杂性，尤其适合需要快速集成多种 LLM 后端的开发场景。"
+}
