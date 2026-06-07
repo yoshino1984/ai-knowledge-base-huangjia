@@ -1,0 +1,32 @@
+{
+  "id": "2026-06-07-rss-lobsters-ai-ml-ai-worm",
+  "title": "AI Worm",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://arxiv.org/abs/2606.03811",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-06-07T10:22:51.021169+00:00",
+  "collected_at": "2026-06-07T10:22:51.021172+00:00",
+  "summary": "AI Worm 是一个关于人工智能蠕虫的讨论，源自 Lobsters AI ML 社区，可能涉及 AI 安全或恶意软件问题。核心价值在于引发对 AI 系统潜在风险的关注。",
+  "score": 7,
+  "tags": [
+    "AI",
+    "security",
+    "malware"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "AI Worm 是一个关于人工智能蠕虫的讨论，源自 Lobsters AI ML 社区，可能涉及 AI 安全或恶意软件问题。核心价值在于引发对 AI 系统潜在风险的关注。",
+    "score": 7,
+    "tags": [
+      "AI",
+      "security",
+      "malware"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-07T10:23:54.165382+00:00"
+}

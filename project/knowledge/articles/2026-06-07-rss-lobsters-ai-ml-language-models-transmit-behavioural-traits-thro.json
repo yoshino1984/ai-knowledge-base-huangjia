@@ -1,0 +1,34 @@
+{
+  "id": "2026-06-07-rss-lobsters-ai-ml-language-models-transmit-behavioural-traits-thro",
+  "title": "Language models transmit behavioural traits through hidden signals in data",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://www.nature.com/articles/s41586-026-10319-8",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-06-07T10:22:51.021217+00:00",
+  "collected_at": "2026-06-07T10:22:51.021220+00:00",
+  "summary": "该文章探讨了语言模型如何通过数据中的隐藏信号传递行为特征，揭示了模型训练数据中隐含的行为模式对模型输出的影响。这一发现对理解AI模型的偏见传播和安全性具有重要意义。",
+  "score": 7,
+  "tags": [
+    "语言模型",
+    "行为特征",
+    "数据信号",
+    "AI安全"
+  ],
+  "audience": "advanced",
+  "analysis": {
+    "summary": "该文章探讨了语言模型如何通过数据中的隐藏信号传递行为特征，揭示了模型训练数据中隐含的行为模式对模型输出的影响。这一发现对理解AI模型的偏见传播和安全性具有重要意义。",
+    "score": 7,
+    "tags": [
+      "语言模型",
+      "行为特征",
+      "数据信号",
+      "AI安全"
+    ],
+    "audience": "advanced",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-07T10:23:54.165389+00:00"
+}

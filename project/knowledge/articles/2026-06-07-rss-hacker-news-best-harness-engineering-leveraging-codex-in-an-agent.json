@@ -1,0 +1,32 @@
+{
+  "id": "2026-06-07-rss-hacker-news-best-harness-engineering-leveraging-codex-in-an-agent",
+  "title": "Harness engineering: Leveraging Codex in an agent-first world",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://openai.com/index/harness-engineering/",
+  "author": "Hacker News Best",
+  "published_at": "2026-06-07T10:22:50.701332+00:00",
+  "collected_at": "2026-06-07T10:22:50.701335+00:00",
+  "summary": "文章探讨了在AI代理优先的世界中如何利用Codex进行工程管理，强调通过自动化工具和智能代理提升开发效率与代码质量。核心价值在于提供一种新的工程范式，帮助团队适应AI驱动的开发环境。",
+  "score": 8,
+  "tags": [
+    "AI代理",
+    "Codex",
+    "工程自动化"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "文章探讨了在AI代理优先的世界中如何利用Codex进行工程管理，强调通过自动化工具和智能代理提升开发效率与代码质量。核心价值在于提供一种新的工程范式，帮助团队适应AI驱动的开发环境。",
+    "score": 8,
+    "tags": [
+      "AI代理",
+      "Codex",
+      "工程自动化"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-07T10:23:54.165370+00:00"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "2026-06-07-rss-hacker-news-best-hacker-news-sans-ai",
+  "title": "Hacker News, Sans AI",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://elijahpotter.dev/articles/hacker-news-sans-AI",
+  "author": "Hacker News Best",
+  "published_at": "2026-06-07T10:22:50.701280+00:00",
+  "collected_at": "2026-06-07T10:22:50.701282+00:00",
+  "summary": "这篇文章探讨了在Hacker News上过滤掉AI相关内容的可能性，并提出了一个技术方案来移除AI话题，以恢复传统技术讨论的纯粹性。文章引发了关于AI内容泛滥对社区影响的讨论，价值在于反思技术社区的信息筛选机制。",
+  "score": 7,
+  "tags": [
+    "Hacker News",
+    "AI过滤",
+    "社区讨论"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "这篇文章探讨了在Hacker News上过滤掉AI相关内容的可能性，并提出了一个技术方案来移除AI话题，以恢复传统技术讨论的纯粹性。文章引发了关于AI内容泛滥对社区影响的讨论，价值在于反思技术社区的信息筛选机制。",
+    "score": 7,
+    "tags": [
+      "Hacker News",
+      "AI过滤",
+      "社区讨论"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-07T10:23:54.165363+00:00"
+}

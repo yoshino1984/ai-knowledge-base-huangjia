@@ -1,0 +1,32 @@
+{
+  "id": "2026-06-07-rss-hacker-news-best-meta-confirms-1000s-of-instagram-accounts-were-h",
+  "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+  "author": "Hacker News Best",
+  "published_at": "2026-06-07T10:22:50.701110+00:00",
+  "collected_at": "2026-06-07T10:22:50.701119+00:00",
+  "summary": "Meta 确认数千个 Instagram 账户因滥用其 AI 聊天机器人功能而被黑客攻击，揭示了 AI 系统在安全防护上的漏洞。该事件强调了 AI 技术部署中需加强安全审计和用户保护措施。",
+  "score": 8,
+  "tags": [
+    "AI安全",
+    "账户劫持",
+    "Meta"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "Meta 确认数千个 Instagram 账户因滥用其 AI 聊天机器人功能而被黑客攻击，揭示了 AI 系统在安全防护上的漏洞。该事件强调了 AI 技术部署中需加强安全审计和用户保护措施。",
+    "score": 8,
+    "tags": [
+      "AI安全",
+      "账户劫持",
+      "Meta"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-07T10:23:54.165342+00:00"
+}

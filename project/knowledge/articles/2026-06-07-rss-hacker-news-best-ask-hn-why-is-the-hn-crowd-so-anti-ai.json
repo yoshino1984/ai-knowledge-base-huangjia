@@ -1,0 +1,32 @@
+{
+  "id": "2026-06-07-rss-hacker-news-best-ask-hn-why-is-the-hn-crowd-so-anti-ai",
+  "title": "Ask HN: Why is the HN crowd so anti-AI?",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://news.ycombinator.com/item?id=48420827",
+  "author": "Hacker News Best",
+  "published_at": "2026-06-07T10:22:50.701224+00:00",
+  "collected_at": "2026-06-07T10:22:50.701227+00:00",
+  "summary": "文章质疑Hacker News社区对AI生成代码的普遍负面态度，认为代码质量不如产品交付速度重要，并基于20年经验提出AI辅助开发可显著加速迭代。",
+  "score": 7,
+  "tags": [
+    "AI代码生成",
+    "开发者社区",
+    "效率与质量"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "文章质疑Hacker News社区对AI生成代码的普遍负面态度，认为代码质量不如产品交付速度重要，并基于20年经验提出AI辅助开发可显著加速迭代。",
+    "score": 7,
+    "tags": [
+      "AI代码生成",
+      "开发者社区",
+      "效率与质量"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-07T10:23:54.165356+00:00"
+}

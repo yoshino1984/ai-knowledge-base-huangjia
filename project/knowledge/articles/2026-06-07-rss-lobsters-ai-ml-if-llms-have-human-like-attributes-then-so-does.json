@@ -1,0 +1,34 @@
+{
+  "id": "2026-06-07-rss-lobsters-ai-ml-if-llms-have-human-like-attributes-then-so-does",
+  "title": "If LLMs Have Human-Like Attributes, Then So Does Age of Empires II",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://arxiv.org/pdf/2605.31514",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-06-07T10:22:51.021119+00:00",
+  "collected_at": "2026-06-07T10:22:51.021129+00:00",
+  "summary": "文章通过类比《帝国时代 II》中AI的行为，质疑将人类属性（如意图、理解）归因于大型语言模型（LLM）的合理性。核心价值在于提醒读者避免过度拟人化AI，并强调LLM与人类认知的本质区别。",
+  "score": 7,
+  "tags": [
+    "LLM",
+    "AI拟人化",
+    "认知科学",
+    "游戏AI"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "文章通过类比《帝国时代 II》中AI的行为，质疑将人类属性（如意图、理解）归因于大型语言模型（LLM）的合理性。核心价值在于提醒读者避免过度拟人化AI，并强调LLM与人类认知的本质区别。",
+    "score": 7,
+    "tags": [
+      "LLM",
+      "AI拟人化",
+      "认知科学",
+      "游戏AI"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-07T10:23:54.165377+00:00"
+}
