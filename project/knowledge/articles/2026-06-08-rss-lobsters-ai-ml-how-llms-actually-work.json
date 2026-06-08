@@ -1,0 +1,32 @@
+{
+  "id": "2026-06-08-rss-lobsters-ai-ml-how-llms-actually-work",
+  "title": "How LLMs Actually Work",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://0xkato.xyz/how-llms-actually-work/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-06-08T12:23:10.901629+00:00",
+  "collected_at": "2026-06-08T12:23:10.901640+00:00",
+  "summary": "文章解释了大型语言模型（LLMs）的工作原理，包括其训练过程和推理机制，适合对AI技术感兴趣的读者了解基础概念。",
+  "score": 7,
+  "tags": [
+    "LLM",
+    "机器学习",
+    "自然语言处理"
+  ],
+  "audience": "beginner",
+  "analysis": {
+    "summary": "文章解释了大型语言模型（LLMs）的工作原理，包括其训练过程和推理机制，适合对AI技术感兴趣的读者了解基础概念。",
+    "score": 7,
+    "tags": [
+      "LLM",
+      "机器学习",
+      "自然语言处理"
+    ],
+    "audience": "beginner",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-08T12:24:24.158434+00:00"
+}
