@@ -1,0 +1,32 @@
+{
+  "id": "2026-06-09-rss-hacker-news-best-siri-ai",
+  "title": "Siri AI",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://www.apple.com/apple-intelligence/",
+  "author": "Hacker News Best",
+  "published_at": "2026-06-09T10:53:32.432001+00:00",
+  "collected_at": "2026-06-09T10:53:32.432005+00:00",
+  "summary": "Apple 发布了 Siri AI 功能，集成于 Apple Intelligence 平台，旨在提升语音助手的智能化和个性化体验。该技术利用设备端处理增强隐私保护，并支持多模态交互，但评论中对其创新性和实用性存在争议。",
+  "score": 7,
+  "tags": [
+    "Siri",
+    "Apple Intelligence",
+    "语音助手"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "Apple 发布了 Siri AI 功能，集成于 Apple Intelligence 平台，旨在提升语音助手的智能化和个性化体验。该技术利用设备端处理增强隐私保护，并支持多模态交互，但评论中对其创新性和实用性存在争议。",
+    "score": 7,
+    "tags": [
+      "Siri",
+      "Apple Intelligence",
+      "语音助手"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-09T10:54:43.634814+00:00"
+}

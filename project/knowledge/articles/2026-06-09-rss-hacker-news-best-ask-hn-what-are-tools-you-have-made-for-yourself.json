@@ -1,0 +1,32 @@
+{
+  "id": "2026-06-09-rss-hacker-news-best-ask-hn-what-are-tools-you-have-made-for-yourself",
+  "title": "Ask HN: What are tools you have made for yourself since the advent of AI?",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://news.ycombinator.com/item?id=48449187",
+  "author": "Hacker News Best",
+  "published_at": "2026-06-09T10:53:32.431929+00:00",
+  "collected_at": "2026-06-09T10:53:32.431934+00:00",
+  "summary": "该帖子在 Hacker News 上询问用户自 AI 兴起以来为自己构建了哪些工具，收集了 513 条评论，展示了社区在 AI 辅助下的个人工具创新实践。这些工具可能涵盖自动化、代码生成、数据分析等领域，反映了 AI 技术如何赋能个人开发者解决实际问题。",
+  "score": 8,
+  "tags": [
+    "AI工具",
+    "个人开发",
+    "社区讨论"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该帖子在 Hacker News 上询问用户自 AI 兴起以来为自己构建了哪些工具，收集了 513 条评论，展示了社区在 AI 辅助下的个人工具创新实践。这些工具可能涵盖自动化、代码生成、数据分析等领域，反映了 AI 技术如何赋能个人开发者解决实际问题。",
+    "score": 8,
+    "tags": [
+      "AI工具",
+      "个人开发",
+      "社区讨论"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-09T10:54:43.634807+00:00"
+}

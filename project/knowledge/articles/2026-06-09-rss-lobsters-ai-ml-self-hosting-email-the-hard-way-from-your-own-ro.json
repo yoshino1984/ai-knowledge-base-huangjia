@@ -1,0 +1,36 @@
+{
+  "id": "2026-06-09-rss-lobsters-ai-ml-self-hosting-email-the-hard-way-from-your-own-ro",
+  "title": "Self-hosting email the hard way from your own routable IPv4 block up",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://anil.recoil.org/notes/recoil-self-hosting-2026",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-06-09T10:53:32.921678+00:00",
+  "collected_at": "2026-06-09T10:53:32.921687+00:00",
+  "summary": "本文详细介绍了如何从零开始自建邮件服务器，包括获取自己的IPv4地址段、配置DNS、设置邮件传输代理等步骤。内容深入技术细节，适合有网络和系统管理经验的读者，强调了对邮件系统完全控制的价值。",
+  "score": 7,
+  "tags": [
+    "self-hosting",
+    "email",
+    "IPv4",
+    "DNS",
+    "mail server"
+  ],
+  "audience": "advanced",
+  "analysis": {
+    "summary": "本文详细介绍了如何从零开始自建邮件服务器，包括获取自己的IPv4地址段、配置DNS、设置邮件传输代理等步骤。内容深入技术细节，适合有网络和系统管理经验的读者，强调了对邮件系统完全控制的价值。",
+    "score": 7,
+    "tags": [
+      "self-hosting",
+      "email",
+      "IPv4",
+      "DNS",
+      "mail server"
+    ],
+    "audience": "advanced",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-09T10:54:43.634828+00:00"
+}
