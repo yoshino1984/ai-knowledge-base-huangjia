@@ -1,0 +1,34 @@
+{
+  "id": "2026-06-10-rss-lobsters-ai-ml-chromiumfish-a-stealth-chromium-build-with-a-dro",
+  "title": "chromiumfish: A stealth Chromium build with a drop-in Playwright harness for Python and Node",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://github.com/arman-bd/chromiumfish",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-06-10T11:32:16.829549+00:00",
+  "collected_at": "2026-06-10T11:32:16.829551+00:00",
+  "summary": "该项目提供了一个隐蔽的 Chromium 构建版本，并集成了 Playwright 工具，支持 Python 和 Node.js，旨在帮助开发者进行自动化测试或爬虫时规避检测。其核心价值在于降低反爬虫机制对自动化脚本的干扰。",
+  "score": 7,
+  "tags": [
+    "Chromium",
+    "Playwright",
+    "自动化测试",
+    "反爬虫"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该项目提供了一个隐蔽的 Chromium 构建版本，并集成了 Playwright 工具，支持 Python 和 Node.js，旨在帮助开发者进行自动化测试或爬虫时规避检测。其核心价值在于降低反爬虫机制对自动化脚本的干扰。",
+    "score": 7,
+    "tags": [
+      "Chromium",
+      "Playwright",
+      "自动化测试",
+      "反爬虫"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-10T11:33:40.374378+00:00"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "2026-06-10-rss-hacker-news-best-ceos-who-think-ai-replaces-their-employees-are-j",
+  "title": "CEOs who think AI replaces their employees are just bad CEOs",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/",
+  "author": "Hacker News Best",
+  "published_at": "2026-06-10T11:32:16.277062+00:00",
+  "collected_at": "2026-06-10T11:32:16.277065+00:00",
+  "summary": "文章批评那些认为AI可以完全取代员工的CEO，指出这种观点是管理不善的表现，强调AI应作为辅助工具而非替代品。内容结合了技术伦理与管理实践，引发了对AI在职场中角色的深度讨论。",
+  "score": 8,
+  "tags": [
+    "AI伦理",
+    "管理策略",
+    "职场影响"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "文章批评那些认为AI可以完全取代员工的CEO，指出这种观点是管理不善的表现，强调AI应作为辅助工具而非替代品。内容结合了技术伦理与管理实践，引发了对AI在职场中角色的深度讨论。",
+    "score": 8,
+    "tags": [
+      "AI伦理",
+      "管理策略",
+      "职场影响"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-10T11:33:40.374319+00:00"
+}

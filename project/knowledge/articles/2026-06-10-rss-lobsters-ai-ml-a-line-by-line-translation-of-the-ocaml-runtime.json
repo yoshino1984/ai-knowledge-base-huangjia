@@ -1,0 +1,36 @@
+{
+  "id": "2026-06-10-rss-lobsters-ai-ml-a-line-by-line-translation-of-the-ocaml-runtime",
+  "title": "A line-by-line translation of the OCaml runtime from C to Rust",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://discuss.ocaml.org/t/a-line-by-line-translation-of-the-ocaml-runtime-from-c-to-rust/18247",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-06-10T11:32:16.829430+00:00",
+  "collected_at": "2026-06-10T11:32:16.829439+00:00",
+  "summary": "该项目将OCaml运行时系统逐行从C语言翻译为Rust，旨在提升内存安全性和并发性能。核心价值在于展示如何通过Rust重写关键系统组件，同时保持与OCaml的兼容性。",
+  "score": 8,
+  "tags": [
+    "OCaml",
+    "Rust",
+    "运行时系统",
+    "内存安全",
+    "系统编程"
+  ],
+  "audience": "advanced",
+  "analysis": {
+    "summary": "该项目将OCaml运行时系统逐行从C语言翻译为Rust，旨在提升内存安全性和并发性能。核心价值在于展示如何通过Rust重写关键系统组件，同时保持与OCaml的兼容性。",
+    "score": 8,
+    "tags": [
+      "OCaml",
+      "Rust",
+      "运行时系统",
+      "内存安全",
+      "系统编程"
+    ],
+    "audience": "advanced",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-10T11:33:40.374350+00:00"
+}

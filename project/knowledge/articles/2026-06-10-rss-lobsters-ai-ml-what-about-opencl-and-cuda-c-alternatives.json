@@ -1,0 +1,32 @@
+{
+  "id": "2026-06-10-rss-lobsters-ai-ml-what-about-opencl-and-cuda-c-alternatives",
+  "title": "What about OpenCL and CUDA C++ alternatives?",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://www.modular.com/blog/democratizing-ai-compute-part-5-what-about-cuda-c-alternatives",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-06-10T11:32:16.829580+00:00",
+  "collected_at": "2026-06-10T11:32:16.829582+00:00",
+  "summary": "该内容讨论了OpenCL和CUDA C++的替代方案，可能涉及GPU编程的多种选择。核心价值在于为开发者提供技术选型参考，比较不同框架的优缺点。",
+  "score": 7,
+  "tags": [
+    "OpenCL",
+    "CUDA",
+    "GPU编程"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该内容讨论了OpenCL和CUDA C++的替代方案，可能涉及GPU编程的多种选择。核心价值在于为开发者提供技术选型参考，比较不同框架的优缺点。",
+    "score": 7,
+    "tags": [
+      "OpenCL",
+      "CUDA",
+      "GPU编程"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-10T11:33:40.374385+00:00"
+}

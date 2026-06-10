@@ -1,0 +1,32 @@
+{
+  "id": "2026-06-10-rss-hacker-news-best-cleaning-up-after-ai-rockstar-developers",
+  "title": "Cleaning up after AI rockstar developers",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://www.codingwithjesse.com/blog/rockstar-developers/",
+  "author": "Hacker News Best",
+  "published_at": "2026-06-10T11:32:16.277110+00:00",
+  "collected_at": "2026-06-10T11:32:16.277112+00:00",
+  "summary": "文章探讨了AI领域明星开发者带来的技术债务和团队协作问题，指出过度依赖个人能力会导致系统脆弱性和维护困难。核心价值在于警示团队需平衡创新与可持续开发实践。",
+  "score": 7,
+  "tags": [
+    "AI开发",
+    "技术债务",
+    "团队协作"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "文章探讨了AI领域明星开发者带来的技术债务和团队协作问题，指出过度依赖个人能力会导致系统脆弱性和维护困难。核心价值在于警示团队需平衡创新与可持续开发实践。",
+    "score": 7,
+    "tags": [
+      "AI开发",
+      "技术债务",
+      "团队协作"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-10T11:33:40.374329+00:00"
+}

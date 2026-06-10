@@ -1,0 +1,32 @@
+{
+  "id": "2026-06-10-rss-lobsters-ai-ml-claude-fable-5-and-claude-mythos-5",
+  "title": "Claude Fable 5 and Claude Mythos 5",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-06-10T11:32:16.829516+00:00",
+  "collected_at": "2026-06-10T11:32:16.829518+00:00",
+  "summary": "文章介绍了Claude Fable 5和Claude Mythos 5两个AI模型，可能涉及它们的性能或应用场景。来源为Lobsters AI ML社区，提供了评论链接，但描述简短，缺乏具体技术细节。",
+  "score": 5,
+  "tags": [
+    "Claude",
+    "AI模型",
+    "Lobsters"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "文章介绍了Claude Fable 5和Claude Mythos 5两个AI模型，可能涉及它们的性能或应用场景。来源为Lobsters AI ML社区，提供了评论链接，但描述简短，缺乏具体技术细节。",
+    "score": 5,
+    "tags": [
+      "Claude",
+      "AI模型",
+      "Lobsters"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-10T11:33:40.374370+00:00"
+}

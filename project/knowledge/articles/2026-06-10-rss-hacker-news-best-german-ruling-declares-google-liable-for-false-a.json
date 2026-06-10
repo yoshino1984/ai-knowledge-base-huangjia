@@ -1,0 +1,32 @@
+{
+  "id": "2026-06-10-rss-hacker-news-best-german-ruling-declares-google-liable-for-false-a",
+  "title": "German ruling declares Google liable for false answers in AI Overviews",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
+  "author": "Hacker News Best",
+  "published_at": "2026-06-10T11:32:16.277000+00:00",
+  "collected_at": "2026-06-10T11:32:16.277007+00:00",
+  "summary": "德国法院裁定谷歌对其AI概览中的错误回答承担责任，认为这些内容属于谷歌自身言论。这一判决可能对AI生成内容的版权和法律责任产生重要影响，引发业界对AI内容监管的讨论。",
+  "score": 7,
+  "tags": [
+    "AI法律",
+    "谷歌",
+    "内容责任"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "德国法院裁定谷歌对其AI概览中的错误回答承担责任，认为这些内容属于谷歌自身言论。这一判决可能对AI生成内容的版权和法律责任产生重要影响，引发业界对AI内容监管的讨论。",
+    "score": 7,
+    "tags": [
+      "AI法律",
+      "谷歌",
+      "内容责任"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-10T11:33:40.374303+00:00"
+}
