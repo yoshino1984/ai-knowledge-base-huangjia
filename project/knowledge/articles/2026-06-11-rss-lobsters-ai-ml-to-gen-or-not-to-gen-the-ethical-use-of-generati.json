@@ -1,0 +1,32 @@
+{
+  "id": "2026-06-11-rss-lobsters-ai-ml-to-gen-or-not-to-gen-the-ethical-use-of-generati",
+  "title": "To Gen or Not To Gen: The Ethical Use of Generative AI",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://blog.johanneslink.net/2025/11/04/to-gen-or-not-to-gen/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-06-11T12:04:14.061343+00:00",
+  "collected_at": "2026-06-11T12:04:14.061353+00:00",
+  "summary": "文章探讨生成式AI的伦理使用问题，提出在技术应用中需权衡创新与责任。核心价值在于引发对AI伦理边界的思考，适合技术社区讨论。",
+  "score": 7,
+  "tags": [
+    "generative AI",
+    "ethics",
+    "AI responsibility"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "文章探讨生成式AI的伦理使用问题，提出在技术应用中需权衡创新与责任。核心价值在于引发对AI伦理边界的思考，适合技术社区讨论。",
+    "score": 7,
+    "tags": [
+      "generative AI",
+      "ethics",
+      "AI responsibility"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-11T12:05:36.770459+00:00"
+}
