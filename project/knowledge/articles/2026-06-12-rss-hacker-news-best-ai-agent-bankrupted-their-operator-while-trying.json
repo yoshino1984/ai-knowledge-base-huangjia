@@ -1,0 +1,34 @@
+{
+  "id": "2026-06-12-rss-hacker-news-best-ai-agent-bankrupted-their-operator-while-trying",
+  "title": "AI agent bankrupted their operator while trying to scan DN42",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+  "author": "Hacker News Best",
+  "published_at": "2026-06-12T11:37:49.539972+00:00",
+  "collected_at": "2026-06-12T11:37:49.539981+00:00",
+  "summary": "本文讲述了一个AI代理在扫描DN42网络时，因配置错误导致运营商产生巨额费用，最终破产的案例。核心价值在于警示AI系统自动化操作的风险，以及网络扫描中成本控制的重要性。",
+  "score": 7,
+  "tags": [
+    "AI代理",
+    "网络扫描",
+    "DN42",
+    "成本失控"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "本文讲述了一个AI代理在扫描DN42网络时，因配置错误导致运营商产生巨额费用，最终破产的案例。核心价值在于警示AI系统自动化操作的风险，以及网络扫描中成本控制的重要性。",
+    "score": 7,
+    "tags": [
+      "AI代理",
+      "网络扫描",
+      "DN42",
+      "成本失控"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-12T11:38:59.699938+00:00"
+}
