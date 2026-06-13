@@ -1,0 +1,18 @@
+{
+  "id": "2026-06-13-009",
+  "title": "earendil-works/pi",
+  "source": "github",
+  "url": "https://github.com/earendil-works/pi",
+  "collected_at": "2026-06-13T04:14:36.914149+00:00",
+  "summary": "Pi 是一个面向 AI Agent 开发的一体化工具包，提供统一的 LLM API 接口、Agent 循环机制、TUI 界面以及编码 Agent 命令行工具。它简化了多模型调用和 Agent 工作流构建，支持快速开发交互式 AI 应用。",
+  "tags": [
+    "AI Agent",
+    "LLM API",
+    "TUI",
+    "CLI",
+    "编码Agent"
+  ],
+  "relevance_score": 0.85,
+  "category": "framework",
+  "key_insight": "通过统一接口和内置循环，降低多模型 Agent 开发门槛，提升开发效率。"
+}
