@@ -1,0 +1,32 @@
+{
+  "id": "2026-06-13-rss-lobsters-ai-ml-what-s-new-in-weathermesh-6",
+  "title": "What’s New in WeatherMesh-6",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://windbornesystems.com/blog/introducing-wm-6",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-06-13T10:22:40.518768+00:00",
+  "collected_at": "2026-06-13T10:22:40.518774+00:00",
+  "summary": "WeatherMesh-6 是天气预测模型的新版本，可能提升了精度或效率。该内容来自 Lobsters 社区，讨论了其技术改进。",
+  "score": 7,
+  "tags": [
+    "WeatherMesh",
+    "AI",
+    "天气预测"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "WeatherMesh-6 是天气预测模型的新版本，可能提升了精度或效率。该内容来自 Lobsters 社区，讨论了其技术改进。",
+    "score": 7,
+    "tags": [
+      "WeatherMesh",
+      "AI",
+      "天气预测"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-13T10:23:59.748896+00:00"
+}

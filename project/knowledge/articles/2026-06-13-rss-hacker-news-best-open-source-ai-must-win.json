@@ -1,0 +1,32 @@
+{
+  "id": "2026-06-13-rss-hacker-news-best-open-source-ai-must-win",
+  "title": "Open source AI must win",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://opensourceaimustwin.com/?share=v2",
+  "author": "Hacker News Best",
+  "published_at": "2026-06-13T10:22:40.274496+00:00",
+  "collected_at": "2026-06-13T10:22:40.274506+00:00",
+  "summary": "文章主张开源AI必须获胜，强调其对于创新、透明度和民主化的重要性，反对封闭的专有AI系统。该内容在Hacker News上获得高关注和大量讨论，反映了社区对开源AI未来的强烈兴趣。",
+  "score": 8,
+  "tags": [
+    "开源AI",
+    "AI民主化",
+    "技术政策"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "文章主张开源AI必须获胜，强调其对于创新、透明度和民主化的重要性，反对封闭的专有AI系统。该内容在Hacker News上获得高关注和大量讨论，反映了社区对开源AI未来的强烈兴趣。",
+    "score": 8,
+    "tags": [
+      "开源AI",
+      "AI民主化",
+      "技术政策"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-13T10:23:59.748859+00:00"
+}
