@@ -1,0 +1,30 @@
+{
+  "id": "2026-06-14-rss-lobsters-ai-ml-ai-economics-for-dummies",
+  "title": "AI Economics for Dummies",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://www.mcsweeneys.net/articles/ai-economics-for-dummies",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-06-14T10:44:47.811388+00:00",
+  "collected_at": "2026-06-14T10:44:47.811391+00:00",
+  "summary": "这篇文章以通俗易懂的方式解释AI经济学的基本概念，帮助读者理解AI技术对经济的影响。其价值在于为非专业读者提供入门级的经济学视角，分析AI的潜在成本和收益。",
+  "score": 7,
+  "tags": [
+    "AI经济学",
+    "入门指南"
+  ],
+  "audience": "beginner",
+  "analysis": {
+    "summary": "这篇文章以通俗易懂的方式解释AI经济学的基本概念，帮助读者理解AI技术对经济的影响。其价值在于为非专业读者提供入门级的经济学视角，分析AI的潜在成本和收益。",
+    "score": 7,
+    "tags": [
+      "AI经济学",
+      "入门指南"
+    ],
+    "audience": "beginner",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-14T10:46:00.473459+00:00"
+}

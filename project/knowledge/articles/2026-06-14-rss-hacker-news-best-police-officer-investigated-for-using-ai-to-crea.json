@@ -1,0 +1,32 @@
+{
+  "id": "2026-06-14-rss-hacker-news-best-police-officer-investigated-for-using-ai-to-crea",
+  "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
+  "author": "Hacker News Best",
+  "published_at": "2026-06-14T10:44:47.498153+00:00",
+  "collected_at": "2026-06-14T10:44:47.498167+00:00",
+  "summary": "一名英国警察因在多起案件中使用AI生成虚假证据而被调查，这引发了关于AI在司法系统中滥用的严重伦理和法律问题。该事件突显了AI技术可能被用于伪造证据的风险，对法律公正性构成威胁。",
+  "score": 7,
+  "tags": [
+    "AI伦理",
+    "法律风险",
+    "虚假证据"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "一名英国警察因在多起案件中使用AI生成虚假证据而被调查，这引发了关于AI在司法系统中滥用的严重伦理和法律问题。该事件突显了AI技术可能被用于伪造证据的风险，对法律公正性构成威胁。",
+    "score": 7,
+    "tags": [
+      "AI伦理",
+      "法律风险",
+      "虚假证据"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-14T10:46:00.473403+00:00"
+}

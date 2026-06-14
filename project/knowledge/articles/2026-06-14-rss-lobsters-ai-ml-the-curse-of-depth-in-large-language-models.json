@@ -1,0 +1,32 @@
+{
+  "id": "2026-06-14-rss-lobsters-ai-ml-the-curse-of-depth-in-large-language-models",
+  "title": "The Curse of Depth in Large Language Models",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://arxiv.org/pdf/2502.05795",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-06-14T10:44:47.811343+00:00",
+  "collected_at": "2026-06-14T10:44:47.811346+00:00",
+  "summary": "该文章探讨了大型语言模型中深度带来的挑战，即随着模型层数增加，训练和推理效率可能下降，并提出了缓解这一问题的潜在方法。内容对理解LLM架构的局限性具有参考价值。",
+  "score": 7,
+  "tags": [
+    "Large Language Models",
+    "Deep Learning",
+    "Model Architecture"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该文章探讨了大型语言模型中深度带来的挑战，即随着模型层数增加，训练和推理效率可能下降，并提出了缓解这一问题的潜在方法。内容对理解LLM架构的局限性具有参考价值。",
+    "score": 7,
+    "tags": [
+      "Large Language Models",
+      "Deep Learning",
+      "Model Architecture"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-14T10:46:00.473453+00:00"
+}

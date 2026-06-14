@@ -1,0 +1,32 @@
+{
+  "id": "2026-06-14-rss-lobsters-ai-ml-the-future-of-siri-or-why-private-inference-isn",
+  "title": "The future of Siri, or: why private inference isn’t private enough",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://blog.cryptographyengineering.com/2026/06/09/apples-siri-ai-or-more-shouting-into-the-void-about-private-agents/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-06-14T10:44:47.811275+00:00",
+  "collected_at": "2026-06-14T10:44:47.811287+00:00",
+  "summary": "文章探讨了Siri等语音助手的未来，指出私有推理（private inference）在隐私保护上存在不足，可能无法完全防止数据泄露。核心价值在于引发对AI隐私技术局限性的思考。",
+  "score": 7,
+  "tags": [
+    "Siri",
+    "隐私推理",
+    "AI安全"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "文章探讨了Siri等语音助手的未来，指出私有推理（private inference）在隐私保护上存在不足，可能无法完全防止数据泄露。核心价值在于引发对AI隐私技术局限性的思考。",
+    "score": 7,
+    "tags": [
+      "Siri",
+      "隐私推理",
+      "AI安全"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-14T10:46:00.473444+00:00"
+}
