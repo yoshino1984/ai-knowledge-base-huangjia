@@ -1,0 +1,32 @@
+{
+  "id": "2026-06-15-rss-lobsters-ai-ml-crankgpt-local-human-powered-ai",
+  "title": "CrankGPT — Local Human-powered AI",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://crankgpt.com",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-06-15T13:48:30.014526+00:00",
+  "collected_at": "2026-06-15T13:48:30.014538+00:00",
+  "summary": "CrankGPT 是一个本地运行、由人类驱动的 AI 系统，旨在通过人工参与替代传统计算资源，提供类似 GPT 的交互体验。其核心价值在于探索低资源环境下的 AI 实现方式，强调去中心化和人类协作。",
+  "score": 7,
+  "tags": [
+    "human-powered AI",
+    "local AI",
+    "decentralized"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "CrankGPT 是一个本地运行、由人类驱动的 AI 系统，旨在通过人工参与替代传统计算资源，提供类似 GPT 的交互体验。其核心价值在于探索低资源环境下的 AI 实现方式，强调去中心化和人类协作。",
+    "score": 7,
+    "tags": [
+      "human-powered AI",
+      "local AI",
+      "decentralized"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-15T13:49:43.604148+00:00"
+}
