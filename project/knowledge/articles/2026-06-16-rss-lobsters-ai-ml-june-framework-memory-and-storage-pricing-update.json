@@ -1,0 +1,34 @@
+{
+  "id": "2026-06-16-rss-lobsters-ai-ml-june-framework-memory-and-storage-pricing-update",
+  "title": "June Framework Memory and storage pricing updates",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://frame.work/ca/en/blog/updates-on-memory-pricing-and-navigating-the-volatile-memory-market",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-06-16T12:47:10.544663+00:00",
+  "collected_at": "2026-06-16T12:47:10.544666+00:00",
+  "summary": "Framework Desktop 的 128GB 内存版本价格大幅上涨，从发布时的 2000 美元涨至 4839 美元，涨幅达 1660 美元。这一更新反映了内存和存储定价的显著变化，可能影响用户对高性能 AI 工作站的购买决策。",
+  "score": 7,
+  "tags": [
+    "Framework",
+    "pricing",
+    "memory",
+    "storage"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "Framework Desktop 的 128GB 内存版本价格大幅上涨，从发布时的 2000 美元涨至 4839 美元，涨幅达 1660 美元。这一更新反映了内存和存储定价的显著变化，可能影响用户对高性能 AI 工作站的购买决策。",
+    "score": 7,
+    "tags": [
+      "Framework",
+      "pricing",
+      "memory",
+      "storage"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-16T12:48:17.941882+00:00"
+}

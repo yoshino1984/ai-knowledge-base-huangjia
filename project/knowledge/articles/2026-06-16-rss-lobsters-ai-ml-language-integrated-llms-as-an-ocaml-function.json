@@ -1,0 +1,34 @@
+{
+  "id": "2026-06-16-rss-lobsters-ai-ml-language-integrated-llms-as-an-ocaml-function",
+  "title": "Language integrated LLMs as an OCaml function",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://anil.recoil.org/notes/language-integrated-llms",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-06-16T12:47:10.544550+00:00",
+  "collected_at": "2026-06-16T12:47:10.544561+00:00",
+  "summary": "该文章探讨了将大型语言模型（LLMs）作为OCaml函数进行语言集成的方法，旨在提升OCaml中AI功能的可组合性和易用性。核心价值在于通过函数式编程范式简化LLM的调用与集成，为OCaml开发者提供更自然的AI开发体验。",
+  "score": 7,
+  "tags": [
+    "OCaml",
+    "LLM",
+    "语言集成",
+    "函数式编程"
+  ],
+  "audience": "advanced",
+  "analysis": {
+    "summary": "该文章探讨了将大型语言模型（LLMs）作为OCaml函数进行语言集成的方法，旨在提升OCaml中AI功能的可组合性和易用性。核心价值在于通过函数式编程范式简化LLM的调用与集成，为OCaml开发者提供更自然的AI开发体验。",
+    "score": 7,
+    "tags": [
+      "OCaml",
+      "LLM",
+      "语言集成",
+      "函数式编程"
+    ],
+    "audience": "advanced",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-16T12:48:17.941866+00:00"
+}

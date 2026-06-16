@@ -1,0 +1,32 @@
+{
+  "id": "2026-06-16-rss-lobsters-ai-ml-building-llm-driven-ai-still-requires-domain-kno",
+  "title": "Building llm-driven “ai” still requires domain knowledge",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://lobste.rs/s/q9sd1m/building_llm_driven_ai_still_requires",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-06-16T12:47:10.544738+00:00",
+  "collected_at": "2026-06-16T12:47:10.544741+00:00",
+  "summary": "文章讨论了构建基于LLM的工具时，领域知识的重要性依然不可替代，尽管LLM降低了知识结构化的门槛，但知识捕获仍是关键挑战。",
+  "score": 7,
+  "tags": [
+    "LLM",
+    "领域知识",
+    "AI应用"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "文章讨论了构建基于LLM的工具时，领域知识的重要性依然不可替代，尽管LLM降低了知识结构化的门槛，但知识捕获仍是关键挑战。",
+    "score": 7,
+    "tags": [
+      "LLM",
+      "领域知识",
+      "AI应用"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-16T12:48:17.941894+00:00"
+}
