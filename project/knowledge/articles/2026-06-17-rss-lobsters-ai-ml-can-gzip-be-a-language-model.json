@@ -1,0 +1,34 @@
+{
+  "id": "2026-06-17-rss-lobsters-ai-ml-can-gzip-be-a-language-model",
+  "title": "Can gzip be a language model?",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://nathan.rs/posts/gzip-lm/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-06-17T12:10:58.788419+00:00",
+  "collected_at": "2026-06-17T12:10:58.788430+00:00",
+  "summary": "探讨gzip压缩算法是否具备语言模型能力，分析其文本预测与生成潜力，挑战传统神经网络语言模型范式。",
+  "score": 7,
+  "tags": [
+    "gzip",
+    "语言模型",
+    "压缩算法",
+    "AI"
+  ],
+  "audience": "advanced",
+  "analysis": {
+    "summary": "探讨gzip压缩算法是否具备语言模型能力，分析其文本预测与生成潜力，挑战传统神经网络语言模型范式。",
+    "score": 7,
+    "tags": [
+      "gzip",
+      "语言模型",
+      "压缩算法",
+      "AI"
+    ],
+    "audience": "advanced",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-17T12:12:18.218915+00:00"
+}
