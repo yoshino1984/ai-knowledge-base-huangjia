@@ -1,0 +1,36 @@
+{
+  "id": "2026-06-18-rss-hacker-news-best-has-ai-already-killed-self-help-nonfiction-books",
+  "title": "Has AI already killed self-help nonfiction books?",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
+  "author": "Hacker News Best",
+  "published_at": "2026-06-18T11:46:04.365231+00:00",
+  "collected_at": "2026-06-18T11:46:04.365235+00:00",
+  "summary": "文章探讨了AI对非虚构自助类书籍的冲击，认为AI生成内容可能取代传统书籍，引发对知识价值和创作模式的反思。评论中讨论了AI在信息整合与个性化建议方面的优势，以及人类作者面临的挑战。",
+  "score": 7,
+  "tags": [
+    "AI",
+    "非虚构书籍",
+    "自助类",
+    "内容创作",
+    "知识经济"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "文章探讨了AI对非虚构自助类书籍的冲击，认为AI生成内容可能取代传统书籍，引发对知识价值和创作模式的反思。评论中讨论了AI在信息整合与个性化建议方面的优势，以及人类作者面临的挑战。",
+    "score": 7,
+    "tags": [
+      "AI",
+      "非虚构书籍",
+      "自助类",
+      "内容创作",
+      "知识经济"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-18T11:47:19.131229+00:00"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "2026-06-18-rss-hacker-news-best-ai-demands-more-engineering-discipline-not-less",
+  "title": "AI demands more engineering discipline. Not less",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline",
+  "author": "Hacker News Best",
+  "published_at": "2026-06-18T11:46:04.365043+00:00",
+  "collected_at": "2026-06-18T11:46:04.365046+00:00",
+  "summary": "文章强调AI开发需要更强的工程纪律，而非减少。它指出，随着AI系统复杂性增加，严谨的工程实践对确保可靠性和可维护性至关重要。",
+  "score": 8,
+  "tags": [
+    "AI工程",
+    "工程纪律",
+    "系统可靠性"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "文章强调AI开发需要更强的工程纪律，而非减少。它指出，随着AI系统复杂性增加，严谨的工程实践对确保可靠性和可维护性至关重要。",
+    "score": 8,
+    "tags": [
+      "AI工程",
+      "工程纪律",
+      "系统可靠性"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-18T11:47:19.131210+00:00"
+}
