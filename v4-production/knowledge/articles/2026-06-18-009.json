@@ -1,0 +1,18 @@
+{
+  "id": "2026-06-18-009",
+  "title": "earendil-works/pi",
+  "source": "github",
+  "url": "https://github.com/earendil-works/pi",
+  "collected_at": "2026-06-18T04:25:38.351720+00:00",
+  "summary": "Pi 是一个 AI 代理工具包，提供统一的 LLM API 接口、代理循环机制、基于 TUI 的交互界面以及编码代理 CLI。它旨在简化 AI 代理的开发流程，支持多种 LLM 后端，并集成代理循环逻辑，方便开发者快速构建和调试智能代理应用。",
+  "tags": [
+    "AI Agent",
+    "LLM API",
+    "TUI",
+    "CLI",
+    "工具包"
+  ],
+  "relevance_score": 0.85,
+  "category": "framework",
+  "key_insight": "通过统一 API 和内置代理循环，降低 AI 代理开发门槛，提升开发效率。"
+}
