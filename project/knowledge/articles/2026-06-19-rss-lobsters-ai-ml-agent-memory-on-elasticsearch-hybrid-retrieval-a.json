@@ -1,0 +1,36 @@
+{
+  "id": "2026-06-19-rss-lobsters-ai-ml-agent-memory-on-elasticsearch-hybrid-retrieval-a",
+  "title": "Agent memory on Elasticsearch: hybrid retrieval and DLS",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-06-19T11:59:58.719825+00:00",
+  "collected_at": "2026-06-19T11:59:58.719833+00:00",
+  "summary": "本文探讨了在 Elasticsearch 上实现 AI 代理记忆的混合检索方法，结合了向量搜索和传统搜索技术，并引入了文档级别安全（DLS）来增强数据访问控制。核心价值在于为构建具有记忆能力的 AI 代理提供了高效且安全的存储与检索方案。",
+  "score": 7,
+  "tags": [
+    "Elasticsearch",
+    "AI Agent",
+    "Hybrid Retrieval",
+    "Memory",
+    "DLS"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "本文探讨了在 Elasticsearch 上实现 AI 代理记忆的混合检索方法，结合了向量搜索和传统搜索技术，并引入了文档级别安全（DLS）来增强数据访问控制。核心价值在于为构建具有记忆能力的 AI 代理提供了高效且安全的存储与检索方案。",
+    "score": 7,
+    "tags": [
+      "Elasticsearch",
+      "AI Agent",
+      "Hybrid Retrieval",
+      "Memory",
+      "DLS"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-19T12:01:20.269630+00:00"
+}

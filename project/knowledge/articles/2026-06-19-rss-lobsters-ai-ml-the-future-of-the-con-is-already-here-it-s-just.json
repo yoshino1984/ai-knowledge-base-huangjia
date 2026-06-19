@@ -1,0 +1,32 @@
+{
+  "id": "2026-06-19-rss-lobsters-ai-ml-the-future-of-the-con-is-already-here-it-s-just",
+  "title": "The Future of the Con Is Already Here, It's Just Not Evenly Distributed",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "http://manishearth.github.io/blog/2026/06/17/the-future-of-the-con-is-already-here/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-06-19T11:59:58.719873+00:00",
+  "collected_at": "2026-06-19T11:59:58.719876+00:00",
+  "summary": "文章探讨了AI技术如何被用于制造和放大欺诈行为，指出当前AI的滥用已远超公众认知，且分布不均。核心价值在于警示技术社区关注AI的负面应用，并呼吁加强监管与伦理讨论。",
+  "score": 7,
+  "tags": [
+    "AI ethics",
+    "fraud",
+    "technology abuse"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "文章探讨了AI技术如何被用于制造和放大欺诈行为，指出当前AI的滥用已远超公众认知，且分布不均。核心价值在于警示技术社区关注AI的负面应用，并呼吁加强监管与伦理讨论。",
+    "score": 7,
+    "tags": [
+      "AI ethics",
+      "fraud",
+      "technology abuse"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-19T12:01:20.269641+00:00"
+}
