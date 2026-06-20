@@ -1,0 +1,32 @@
+{
+  "id": "2026-06-20-rss-hacker-news-best-norway-imposes-near-ban-on-ai-in-elementary-scho",
+  "title": "Norway imposes near ban on AI in elementary school",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
+  "author": "Hacker News Best",
+  "published_at": "2026-06-20T10:27:44.777653+00:00",
+  "collected_at": "2026-06-20T10:27:44.777657+00:00",
+  "summary": "挪威对小学实施近乎全面的人工智能禁令，反映了对儿童隐私和认知发展的担忧。该政策引发了对AI在教育中角色和伦理边界的广泛讨论，具有重要的政策参考价值。",
+  "score": 7,
+  "tags": [
+    "AI政策",
+    "教育",
+    "儿童隐私"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "挪威对小学实施近乎全面的人工智能禁令，反映了对儿童隐私和认知发展的担忧。该政策引发了对AI在教育中角色和伦理边界的广泛讨论，具有重要的政策参考价值。",
+    "score": 7,
+    "tags": [
+      "AI政策",
+      "教育",
+      "儿童隐私"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-20T10:29:00.859446+00:00"
+}

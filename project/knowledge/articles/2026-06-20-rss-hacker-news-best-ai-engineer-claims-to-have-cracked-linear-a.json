@@ -1,0 +1,34 @@
+{
+  "id": "2026-06-20-rss-hacker-news-best-ai-engineer-claims-to-have-cracked-linear-a",
+  "title": "AI Engineer Claims to Have Cracked Linear A",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://aiclambake.com/clamtakes/linear-a/",
+  "author": "Hacker News Best",
+  "published_at": "2026-06-20T10:27:44.777566+00:00",
+  "collected_at": "2026-06-20T10:27:44.777570+00:00",
+  "summary": "一位AI工程师声称破解了未解读的古代文字Linear A，引发了技术社区的热议。该内容展示了AI在考古学领域的潜在应用，但需谨慎对待其真实性。",
+  "score": 7,
+  "tags": [
+    "AI",
+    "考古学",
+    "Linear A",
+    "自然语言处理"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "一位AI工程师声称破解了未解读的古代文字Linear A，引发了技术社区的热议。该内容展示了AI在考古学领域的潜在应用，但需谨慎对待其真实性。",
+    "score": 7,
+    "tags": [
+      "AI",
+      "考古学",
+      "Linear A",
+      "自然语言处理"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-20T10:29:00.859436+00:00"
+}

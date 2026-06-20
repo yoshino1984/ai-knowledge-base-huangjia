@@ -1,0 +1,34 @@
+{
+  "id": "2026-06-20-rss-hacker-news-best-is-ai-ruining-our-skills-early-results-are-in-an",
+  "title": "Is AI ruining our skills? Early results are in – and they're not good",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://www.nature.com/articles/d41586-026-01947-1",
+  "author": "Hacker News Best",
+  "published_at": "2026-06-20T10:27:44.777474+00:00",
+  "collected_at": "2026-06-20T10:27:44.777486+00:00",
+  "summary": "文章探讨了AI工具对人类技能的潜在负面影响，基于初步研究结果指出过度依赖AI可能导致认知能力下降和专业技能退化。内容结合了Nature的报道和Hacker News上的社区讨论，反映了技术伦理与教育领域的关注。",
+  "score": 8,
+  "tags": [
+    "AI技能退化",
+    "认知影响",
+    "技术伦理",
+    "教育"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "文章探讨了AI工具对人类技能的潜在负面影响，基于初步研究结果指出过度依赖AI可能导致认知能力下降和专业技能退化。内容结合了Nature的报道和Hacker News上的社区讨论，反映了技术伦理与教育领域的关注。",
+    "score": 8,
+    "tags": [
+      "AI技能退化",
+      "认知影响",
+      "技术伦理",
+      "教育"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-20T10:29:00.859411+00:00"
+}
