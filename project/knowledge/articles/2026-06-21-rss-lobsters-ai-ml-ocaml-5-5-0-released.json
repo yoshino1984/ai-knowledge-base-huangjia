@@ -1,0 +1,32 @@
+{
+  "id": "2026-06-21-rss-lobsters-ai-ml-ocaml-5-5-0-released",
+  "title": "OCaml 5.5.0 released",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://discuss.ocaml.org/t/ocaml-5-5-0-released/18265",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-06-21T11:11:21.330711+00:00",
+  "collected_at": "2026-06-21T11:11:21.330714+00:00",
+  "summary": "OCaml 5.5.0 版本发布，带来了性能改进和语言特性更新，增强了并发支持。该版本对函数式编程和系统编程开发者具有重要价值。",
+  "score": 7,
+  "tags": [
+    "OCaml",
+    "编程语言",
+    "版本发布"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "OCaml 5.5.0 版本发布，带来了性能改进和语言特性更新，增强了并发支持。该版本对函数式编程和系统编程开发者具有重要价值。",
+    "score": 7,
+    "tags": [
+      "OCaml",
+      "编程语言",
+      "版本发布"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-21T11:12:35.279341+00:00"
+}

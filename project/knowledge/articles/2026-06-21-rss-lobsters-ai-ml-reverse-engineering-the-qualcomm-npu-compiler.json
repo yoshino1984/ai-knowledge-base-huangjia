@@ -1,0 +1,34 @@
+{
+  "id": "2026-06-21-rss-lobsters-ai-ml-reverse-engineering-the-qualcomm-npu-compiler",
+  "title": "Reverse Engineering the Qualcomm NPU Compiler",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://datavorous.github.io/writing/qairt/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-06-21T11:11:21.330772+00:00",
+  "collected_at": "2026-06-21T11:11:21.330776+00:00",
+  "summary": "本文探讨了逆向工程高通NPU编译器的过程，揭示了其内部工作原理和优化策略。对于理解移动端AI加速器的底层机制具有重要参考价值。",
+  "score": 7,
+  "tags": [
+    "Qualcomm",
+    "NPU",
+    "逆向工程",
+    "编译器"
+  ],
+  "audience": "advanced",
+  "analysis": {
+    "summary": "本文探讨了逆向工程高通NPU编译器的过程，揭示了其内部工作原理和优化策略。对于理解移动端AI加速器的底层机制具有重要参考价值。",
+    "score": 7,
+    "tags": [
+      "Qualcomm",
+      "NPU",
+      "逆向工程",
+      "编译器"
+    ],
+    "audience": "advanced",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-21T11:12:35.279349+00:00"
+}
