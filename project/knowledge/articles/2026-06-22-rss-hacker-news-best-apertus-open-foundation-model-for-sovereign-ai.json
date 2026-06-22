@@ -1,0 +1,32 @@
+{
+  "id": "2026-06-22-rss-hacker-news-best-apertus-open-foundation-model-for-sovereign-ai",
+  "title": "Apertus – Open Foundation Model for Sovereign AI",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://apertvs.ai/",
+  "author": "Hacker News Best",
+  "published_at": "2026-06-22T13:28:35.668957+00:00",
+  "collected_at": "2026-06-22T13:28:35.668966+00:00",
+  "summary": "Apertus 是一个开放的基础模型项目，旨在推动主权 AI 的发展，强调开源和自主可控。该项目在 Hacker News 上获得高关注度，反映了社区对开放 AI 模型的强烈兴趣。",
+  "score": 8,
+  "tags": [
+    "open source",
+    "foundation model",
+    "sovereign AI"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "Apertus 是一个开放的基础模型项目，旨在推动主权 AI 的发展，强调开源和自主可控。该项目在 Hacker News 上获得高关注度，反映了社区对开放 AI 模型的强烈兴趣。",
+    "score": 8,
+    "tags": [
+      "open source",
+      "foundation model",
+      "sovereign AI"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-22T13:29:55.245391+00:00"
+}

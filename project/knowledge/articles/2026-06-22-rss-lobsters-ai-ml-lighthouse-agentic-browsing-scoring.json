@@ -1,0 +1,32 @@
+{
+  "id": "2026-06-22-rss-lobsters-ai-ml-lighthouse-agentic-browsing-scoring",
+  "title": "Lighthouse agentic browsing scoring",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://developer.chrome.com/docs/lighthouse/agentic-browsing/scoring",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-06-22T13:28:36.996290+00:00",
+  "collected_at": "2026-06-22T13:28:36.996292+00:00",
+  "summary": "Lighthouse 引入了一种针对代理式浏览的评分机制，用于评估 AI 代理在网页导航和任务执行中的表现。该机制可能通过自动化测试衡量代理的准确性、效率和鲁棒性，为开发者提供优化方向。",
+  "score": 7,
+  "tags": [
+    "AI代理",
+    "网页浏览",
+    "评分系统"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "Lighthouse 引入了一种针对代理式浏览的评分机制，用于评估 AI 代理在网页导航和任务执行中的表现。该机制可能通过自动化测试衡量代理的准确性、效率和鲁棒性，为开发者提供优化方向。",
+    "score": 7,
+    "tags": [
+      "AI代理",
+      "网页浏览",
+      "评分系统"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-22T13:29:55.245419+00:00"
+}

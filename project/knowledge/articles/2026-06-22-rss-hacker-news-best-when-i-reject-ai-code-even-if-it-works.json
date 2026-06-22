@@ -1,0 +1,32 @@
+{
+  "id": "2026-06-22-rss-hacker-news-best-when-i-reject-ai-code-even-if-it-works",
+  "title": "When I reject AI code even if it works",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
+  "author": "Hacker News Best",
+  "published_at": "2026-06-22T13:28:35.669019+00:00",
+  "collected_at": "2026-06-22T13:28:35.669022+00:00",
+  "summary": "文章讨论了即使AI生成的代码功能正确，开发者仍可能拒绝它的原因，强调代码质量、可维护性和团队协作的重要性。作者通过个人经验指出，AI代码可能缺乏上下文理解、过度复杂或不符合项目规范，因此需要人工审查和调整。",
+  "score": 8,
+  "tags": [
+    "AI代码审查",
+    "代码质量",
+    "开发者经验"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "文章讨论了即使AI生成的代码功能正确，开发者仍可能拒绝它的原因，强调代码质量、可维护性和团队协作的重要性。作者通过个人经验指出，AI代码可能缺乏上下文理解、过度复杂或不符合项目规范，因此需要人工审查和调整。",
+    "score": 8,
+    "tags": [
+      "AI代码审查",
+      "代码质量",
+      "开发者经验"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-22T13:29:55.245401+00:00"
+}
