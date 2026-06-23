@@ -1,0 +1,32 @@
+{
+  "id": "2026-06-23-rss-lobsters-ai-ml-tirx-an-open-compiler-stack-for-evolving-frontie",
+  "title": "TIRx: An Open Compiler Stack for Evolving Frontier ML Kernels",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://tvm.apache.org/2026/06/22/tirx",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-06-23T10:56:33.295955+00:00",
+  "collected_at": "2026-06-23T10:56:33.295958+00:00",
+  "summary": "TIRx 是一个开放的编译器栈，旨在支持不断发展的前沿机器学习内核。它通过提供灵活的编译基础设施，帮助开发者高效优化和部署新型 ML 模型。",
+  "score": 8,
+  "tags": [
+    "compiler",
+    "machine learning",
+    "open source"
+  ],
+  "audience": "advanced",
+  "analysis": {
+    "summary": "TIRx 是一个开放的编译器栈，旨在支持不断发展的前沿机器学习内核。它通过提供灵活的编译基础设施，帮助开发者高效优化和部署新型 ML 模型。",
+    "score": 8,
+    "tags": [
+      "compiler",
+      "machine learning",
+      "open source"
+    ],
+    "audience": "advanced",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-23T10:57:48.196427+00:00"
+}

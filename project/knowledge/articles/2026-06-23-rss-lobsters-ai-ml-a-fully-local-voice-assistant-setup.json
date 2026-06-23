@@ -1,0 +1,32 @@
+{
+  "id": "2026-06-23-rss-lobsters-ai-ml-a-fully-local-voice-assistant-setup",
+  "title": "A fully local voice assistant setup",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://blog.platypush.tech/article/Local-voice-assistant",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-06-23T10:56:33.295994+00:00",
+  "collected_at": "2026-06-23T10:56:33.295996+00:00",
+  "summary": "该内容介绍了一个完全本地化的语音助手设置方案，强调隐私保护和离线运行能力。核心价值在于无需依赖云端服务，适合对数据安全有高要求的用户。",
+  "score": 7,
+  "tags": [
+    "voice assistant",
+    "local AI",
+    "privacy"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该内容介绍了一个完全本地化的语音助手设置方案，强调隐私保护和离线运行能力。核心价值在于无需依赖云端服务，适合对数据安全有高要求的用户。",
+    "score": 7,
+    "tags": [
+      "voice assistant",
+      "local AI",
+      "privacy"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-23T10:57:48.196436+00:00"
+}

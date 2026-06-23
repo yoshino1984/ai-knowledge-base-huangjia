@@ -1,0 +1,32 @@
+{
+  "id": "2026-06-23-rss-lobsters-ai-ml-prompt-injection-as-role-confusion",
+  "title": "Prompt Injection as Role Confusion",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://role-confusion.github.io",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-06-23T10:56:33.296025+00:00",
+  "collected_at": "2026-06-23T10:56:33.296027+00:00",
+  "summary": "该文章探讨了提示注入攻击中的角色混淆问题，分析了攻击者如何通过操纵提示来混淆AI模型的角色，从而绕过安全限制。内容对理解AI安全漏洞和防御策略具有参考价值。",
+  "score": 7,
+  "tags": [
+    "prompt injection",
+    "AI security",
+    "role confusion"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该文章探讨了提示注入攻击中的角色混淆问题，分析了攻击者如何通过操纵提示来混淆AI模型的角色，从而绕过安全限制。内容对理解AI安全漏洞和防御策略具有参考价值。",
+    "score": 7,
+    "tags": [
+      "prompt injection",
+      "AI security",
+      "role confusion"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-23T10:57:48.196443+00:00"
+}
