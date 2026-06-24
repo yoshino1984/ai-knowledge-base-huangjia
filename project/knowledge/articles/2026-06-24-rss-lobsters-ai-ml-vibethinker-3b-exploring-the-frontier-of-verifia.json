@@ -1,0 +1,32 @@
+{
+  "id": "2026-06-24-rss-lobsters-ai-ml-vibethinker-3b-exploring-the-frontier-of-verifia",
+  "title": "VibeThinker-3B: Exploring the Frontier of Verifiable Reasoning in Small Language Models",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://arxiv.org/abs/2606.16140",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-06-24T10:42:14.772865+00:00",
+  "collected_at": "2026-06-24T10:42:14.772868+00:00",
+  "summary": "该文章探讨了VibeThinker-3B这一小型语言模型在可验证推理方面的前沿进展，展示了小模型在推理能力上的潜力。其核心价值在于为资源受限场景提供高效推理方案，推动AI民主化。",
+  "score": 7,
+  "tags": [
+    "small language model",
+    "verifiable reasoning",
+    "AI frontier"
+  ],
+  "audience": "advanced",
+  "analysis": {
+    "summary": "该文章探讨了VibeThinker-3B这一小型语言模型在可验证推理方面的前沿进展，展示了小模型在推理能力上的潜力。其核心价值在于为资源受限场景提供高效推理方案，推动AI民主化。",
+    "score": 7,
+    "tags": [
+      "small language model",
+      "verifiable reasoning",
+      "AI frontier"
+    ],
+    "audience": "advanced",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-24T10:43:35.312278+00:00"
+}

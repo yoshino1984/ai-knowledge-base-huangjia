@@ -1,0 +1,32 @@
+{
+  "id": "2026-06-24-rss-hacker-news-best-ai-s-affordability-crisis",
+  "title": "AI's Affordability Crisis",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
+  "author": "Hacker News Best",
+  "published_at": "2026-06-24T10:42:14.436122+00:00",
+  "collected_at": "2026-06-24T10:42:14.436134+00:00",
+  "summary": "文章探讨了AI技术发展中的成本危机，指出当前AI模型训练和部署的高昂成本可能限制其普及和可持续发展。文章通过分析经济因素，提出了对AI行业未来可负担性的担忧。",
+  "score": 7,
+  "tags": [
+    "AI成本",
+    "经济分析",
+    "技术挑战"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "文章探讨了AI技术发展中的成本危机，指出当前AI模型训练和部署的高昂成本可能限制其普及和可持续发展。文章通过分析经济因素，提出了对AI行业未来可负担性的担忧。",
+    "score": 7,
+    "tags": [
+      "AI成本",
+      "经济分析",
+      "技术挑战"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-24T10:43:35.312247+00:00"
+}

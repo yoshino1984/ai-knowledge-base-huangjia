@@ -1,0 +1,32 @@
+{
+  "id": "2026-06-24-rss-lobsters-ai-ml-unlimited-ocr-one-shot-long-horizon-ocr",
+  "title": "Unlimited-OCR: One-shot Long-horizon OCR",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://github.com/baidu/Unlimited-OCR",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-06-24T10:42:14.772795+00:00",
+  "collected_at": "2026-06-24T10:42:14.772807+00:00",
+  "summary": "Unlimited-OCR 提出了一种一次性长视野 OCR 方法，旨在解决传统 OCR 在长文档或连续文本识别中的局限性。其核心价值在于通过单次处理即可高效识别大量文本，提升 OCR 在复杂场景下的实用性和准确性。",
+  "score": 7,
+  "tags": [
+    "OCR",
+    "长视野识别",
+    "一次性学习"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "Unlimited-OCR 提出了一种一次性长视野 OCR 方法，旨在解决传统 OCR 在长文档或连续文本识别中的局限性。其核心价值在于通过单次处理即可高效识别大量文本，提升 OCR 在复杂场景下的实用性和准确性。",
+    "score": 7,
+    "tags": [
+      "OCR",
+      "长视野识别",
+      "一次性学习"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-24T10:43:35.312266+00:00"
+}
