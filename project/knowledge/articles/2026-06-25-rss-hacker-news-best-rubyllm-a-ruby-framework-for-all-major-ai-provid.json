@@ -1,0 +1,32 @@
+{
+  "id": "2026-06-25-rss-hacker-news-best-rubyllm-a-ruby-framework-for-all-major-ai-provid",
+  "title": "RubyLLM: A Ruby framework for all major AI providers",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://rubyllm.com/",
+  "author": "Hacker News Best",
+  "published_at": "2026-06-25T10:36:00.093747+00:00",
+  "collected_at": "2026-06-25T10:36:00.093750+00:00",
+  "summary": "RubyLLM 是一个为 Ruby 语言设计的框架，旨在统一对接所有主流 AI 提供商（如 OpenAI、Anthropic 等），简化 AI 功能集成。该项目在 Hacker News 上获得 392 分和 68 条评论，表明社区关注度较高，但可能因 Ruby 生态的局限性而影响其广泛采用。",
+  "score": 7,
+  "tags": [
+    "Ruby",
+    "AI framework",
+    "multi-provider"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "RubyLLM 是一个为 Ruby 语言设计的框架，旨在统一对接所有主流 AI 提供商（如 OpenAI、Anthropic 等），简化 AI 功能集成。该项目在 Hacker News 上获得 392 分和 68 条评论，表明社区关注度较高，但可能因 Ruby 生态的局限性而影响其广泛采用。",
+    "score": 7,
+    "tags": [
+      "Ruby",
+      "AI framework",
+      "multi-provider"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-25T10:37:09.176732+00:00"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "2026-06-25-rss-lobsters-ai-ml-using-the-gini-coefficient-to-plan-edge-capacity",
+  "title": "Using the Gini Coefficient to Plan Edge Capacity",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://www.fastly.com/blog/using-gini-coefficient-plan-edge-capacity",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-06-25T10:36:00.379516+00:00",
+  "collected_at": "2026-06-25T10:36:00.379518+00:00",
+  "summary": "本文探讨了使用基尼系数来规划边缘计算容量的方法，通过衡量资源分配的不均衡性来优化部署策略。该方法有助于提高资源利用率和系统效率，为边缘计算领域的容量规划提供了新的视角。",
+  "score": 7,
+  "tags": [
+    "边缘计算",
+    "基尼系数",
+    "容量规划"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "本文探讨了使用基尼系数来规划边缘计算容量的方法，通过衡量资源分配的不均衡性来优化部署策略。该方法有助于提高资源利用率和系统效率，为边缘计算领域的容量规划提供了新的视角。",
+    "score": 7,
+    "tags": [
+      "边缘计算",
+      "基尼系数",
+      "容量规划"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-25T10:37:09.176751+00:00"
+}

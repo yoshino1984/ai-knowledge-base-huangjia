@@ -1,0 +1,34 @@
+{
+  "id": "2026-06-25-rss-lobsters-ai-ml-flow-s-ocaml-to-rust-port",
+  "title": "Flow’s OCaml to Rust Port",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://medium.com/flow-type/flows-ocaml-to-rust-port-78b95bcf49e9",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-06-25T10:36:00.379469+00:00",
+  "collected_at": "2026-06-25T10:36:00.379478+00:00",
+  "summary": "Flow 项目将其 OCaml 代码库移植到 Rust，旨在提升性能和安全性。该移植展示了 Rust 在大型系统中的应用价值，对编译器开发有参考意义。",
+  "score": 7,
+  "tags": [
+    "OCaml",
+    "Rust",
+    "编译器",
+    "系统编程"
+  ],
+  "audience": "advanced",
+  "analysis": {
+    "summary": "Flow 项目将其 OCaml 代码库移植到 Rust，旨在提升性能和安全性。该移植展示了 Rust 在大型系统中的应用价值，对编译器开发有参考意义。",
+    "score": 7,
+    "tags": [
+      "OCaml",
+      "Rust",
+      "编译器",
+      "系统编程"
+    ],
+    "audience": "advanced",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-25T10:37:09.176743+00:00"
+}
