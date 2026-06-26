@@ -1,0 +1,32 @@
+{
+  "id": "2026-06-26-rss-hacker-news-best-ford-ai-hiccups-push-carmaker-to-rehire-gray-bea",
+  "title": "Ford AI hiccups push carmaker to rehire ‘gray beard’ inspectors",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short",
+  "author": "Hacker News Best",
+  "published_at": "2026-06-26T10:44:53.416751+00:00",
+  "collected_at": "2026-06-26T10:44:53.416753+00:00",
+  "summary": "福特汽车在尝试用AI替代资深质检员后，因AI系统频繁出错导致质量问题，不得不重新雇佣经验丰富的‘灰胡子’质检员。这一事件凸显了AI在复杂工业场景中的局限性，以及人类经验与直觉的不可替代性。",
+  "score": 7,
+  "tags": [
+    "AI",
+    "工业质检",
+    "人机协作"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "福特汽车在尝试用AI替代资深质检员后，因AI系统频繁出错导致质量问题，不得不重新雇佣经验丰富的‘灰胡子’质检员。这一事件凸显了AI在复杂工业场景中的局限性，以及人类经验与直觉的不可替代性。",
+    "score": 7,
+    "tags": [
+      "AI",
+      "工业质检",
+      "人机协作"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-26T10:46:14.087241+00:00"
+}

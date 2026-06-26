@@ -1,0 +1,32 @@
+{
+  "id": "2026-06-26-rss-lobsters-ai-ml-echoes-of-the-ai-winter",
+  "title": "Echoes of the AI Winter",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://netzhansa.com/echoes-of-the-ai-winter/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-06-26T10:44:55.321583+00:00",
+  "collected_at": "2026-06-26T10:44:55.321585+00:00",
+  "summary": "文章探讨了AI寒冬的历史现象及其对当前AI发展的启示，分析了技术泡沫与周期性衰退的风险。内容具有历史参考价值，帮助读者理解AI领域的波动性。",
+  "score": 7,
+  "tags": [
+    "AI Winter",
+    "history",
+    "technology cycles"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "文章探讨了AI寒冬的历史现象及其对当前AI发展的启示，分析了技术泡沫与周期性衰退的风险。内容具有历史参考价值，帮助读者理解AI领域的波动性。",
+    "score": 7,
+    "tags": [
+      "AI Winter",
+      "history",
+      "technology cycles"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-26T10:46:14.087254+00:00"
+}

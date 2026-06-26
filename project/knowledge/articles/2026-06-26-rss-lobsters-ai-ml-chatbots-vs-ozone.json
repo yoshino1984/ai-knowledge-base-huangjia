@@ -1,0 +1,32 @@
+{
+  "id": "2026-06-26-rss-lobsters-ai-ml-chatbots-vs-ozone",
+  "title": "Chatbots vs Ozone",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://blog.dshr.org/2026/05/chatbots-vs-ozone.html",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-06-26T10:44:55.321542+00:00",
+  "collected_at": "2026-06-26T10:44:55.321551+00:00",
+  "summary": "本文对比了聊天机器人与臭氧技术，探讨了AI在环境监测中的应用潜力。核心价值在于揭示AI技术如何辅助臭氧层保护与污染治理。",
+  "score": 7,
+  "tags": [
+    "AI",
+    "环境监测",
+    "臭氧"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "本文对比了聊天机器人与臭氧技术，探讨了AI在环境监测中的应用潜力。核心价值在于揭示AI技术如何辅助臭氧层保护与污染治理。",
+    "score": 7,
+    "tags": [
+      "AI",
+      "环境监测",
+      "臭氧"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-26T10:46:14.087249+00:00"
+}
