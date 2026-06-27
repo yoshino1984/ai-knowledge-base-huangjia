@@ -1,0 +1,34 @@
+{
+  "id": "2026-06-27-rss-hacker-news-best-u-s-allows-anthropic-to-release-mythos-ai-to-tru",
+  "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+  "author": "Hacker News Best",
+  "published_at": "2026-06-27T09:57:50.597074+00:00",
+  "collected_at": "2026-06-27T09:57:50.597081+00:00",
+  "summary": "美国允许Anthropic向受信任的美国组织发布Mythos AI模型，这标志着AI监管与安全部署的重要进展。该模型可能具有高级能力，但访问受限，引发对AI安全与控制的讨论。",
+  "score": 8,
+  "tags": [
+    "AI监管",
+    "Anthropic",
+    "Mythos AI",
+    "安全部署"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "美国允许Anthropic向受信任的美国组织发布Mythos AI模型，这标志着AI监管与安全部署的重要进展。该模型可能具有高级能力，但访问受限，引发对AI安全与控制的讨论。",
+    "score": 8,
+    "tags": [
+      "AI监管",
+      "Anthropic",
+      "Mythos AI",
+      "安全部署"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-27T09:59:11.591694+00:00"
+}

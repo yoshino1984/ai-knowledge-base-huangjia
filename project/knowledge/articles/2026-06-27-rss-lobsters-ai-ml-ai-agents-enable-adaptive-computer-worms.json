@@ -1,0 +1,32 @@
+{
+  "id": "2026-06-27-rss-lobsters-ai-ml-ai-agents-enable-adaptive-computer-worms",
+  "title": "AI Agents Enable Adaptive Computer Worms",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://cleverhans.io/worm.html",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-06-27T09:57:50.954890+00:00",
+  "collected_at": "2026-06-27T09:57:50.954892+00:00",
+  "summary": "该论文探讨了利用AI代理实现自适应计算机蠕虫的技术，展示了AI在网络安全领域的潜在应用与风险。核心价值在于揭示了AI如何增强恶意软件的适应性和隐蔽性，对安全研究具有警示意义。",
+  "score": 7,
+  "tags": [
+    "AI安全",
+    "自适应蠕虫",
+    "网络安全"
+  ],
+  "audience": "advanced",
+  "analysis": {
+    "summary": "该论文探讨了利用AI代理实现自适应计算机蠕虫的技术，展示了AI在网络安全领域的潜在应用与风险。核心价值在于揭示了AI如何增强恶意软件的适应性和隐蔽性，对安全研究具有警示意义。",
+    "score": 7,
+    "tags": [
+      "AI安全",
+      "自适应蠕虫",
+      "网络安全"
+    ],
+    "audience": "advanced",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-27T09:59:11.591743+00:00"
+}

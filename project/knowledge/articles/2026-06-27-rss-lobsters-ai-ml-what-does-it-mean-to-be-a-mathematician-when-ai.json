@@ -1,0 +1,34 @@
+{
+  "id": "2026-06-27-rss-lobsters-ai-ml-what-does-it-mean-to-be-a-mathematician-when-ai",
+  "title": "What does it mean to be a mathematician when AI does the math?",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://spectrum.ieee.org/ai-in-mathematics",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-06-27T09:57:50.954854+00:00",
+  "collected_at": "2026-06-27T09:57:50.954857+00:00",
+  "summary": "探讨当AI能够执行数学计算时，数学家的角色和意义将如何转变。文章引发对数学本质和人类在AI时代价值的思考。",
+  "score": 7,
+  "tags": [
+    "AI",
+    "数学",
+    "职业影响",
+    "哲学"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "探讨当AI能够执行数学计算时，数学家的角色和意义将如何转变。文章引发对数学本质和人类在AI时代价值的思考。",
+    "score": 7,
+    "tags": [
+      "AI",
+      "数学",
+      "职业影响",
+      "哲学"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-27T09:59:11.591735+00:00"
+}
