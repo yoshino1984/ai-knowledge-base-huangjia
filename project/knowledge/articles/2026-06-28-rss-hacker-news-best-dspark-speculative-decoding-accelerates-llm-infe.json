@@ -1,0 +1,32 @@
+{
+  "id": "2026-06-28-rss-hacker-news-best-dspark-speculative-decoding-accelerates-llm-infe",
+  "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+  "author": "Hacker News Best",
+  "published_at": "2026-06-28T10:21:50.927052+00:00",
+  "collected_at": "2026-06-28T10:21:50.927056+00:00",
+  "summary": "DSpark 是一种通过推测解码技术加速大型语言模型推理的方法，显著提升生成速度。该论文来自 DeepSeek，展示了在保持输出质量的同时降低延迟的实用方案。",
+  "score": 8,
+  "tags": [
+    "LLM",
+    "推理加速",
+    "推测解码"
+  ],
+  "audience": "advanced",
+  "analysis": {
+    "summary": "DSpark 是一种通过推测解码技术加速大型语言模型推理的方法，显著提升生成速度。该论文来自 DeepSeek，展示了在保持输出质量的同时降低延迟的实用方案。",
+    "score": 8,
+    "tags": [
+      "LLM",
+      "推理加速",
+      "推测解码"
+    ],
+    "audience": "advanced",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-28T10:23:04.770022+00:00"
+}

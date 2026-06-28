@@ -1,0 +1,32 @@
+{
+  "id": "2026-06-28-rss-lobsters-ai-ml-comparing-transformers-and-hybrid-models-at-the",
+  "title": "Comparing Transformers and Hybrid Models at the Token Level",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://arxiv.org/pdf/2606.20936",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-06-28T10:21:51.499742+00:00",
+  "collected_at": "2026-06-28T10:21:51.499744+00:00",
+  "summary": "本文在 token 级别上比较了 Transformer 和混合模型的性能，探讨了不同架构在处理序列数据时的效率与准确性差异，为模型选择提供了有价值的参考。",
+  "score": 7,
+  "tags": [
+    "Transformer",
+    "混合模型",
+    "token级别"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "本文在 token 级别上比较了 Transformer 和混合模型的性能，探讨了不同架构在处理序列数据时的效率与准确性差异，为模型选择提供了有价值的参考。",
+    "score": 7,
+    "tags": [
+      "Transformer",
+      "混合模型",
+      "token级别"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-28T10:23:04.770053+00:00"
+}

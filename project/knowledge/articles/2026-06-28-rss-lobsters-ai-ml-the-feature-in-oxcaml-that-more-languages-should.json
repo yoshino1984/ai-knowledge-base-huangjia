@@ -1,0 +1,32 @@
+{
+  "id": "2026-06-28-rss-lobsters-ai-ml-the-feature-in-oxcaml-that-more-languages-should",
+  "title": "The feature in OxCaml that more languages should steal",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://theconsensus.dev/p/2026/06/27/the-feature-in-oxcaml-more-languages-should-steal.html",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-06-28T10:21:51.499679+00:00",
+  "collected_at": "2026-06-28T10:21:51.499682+00:00",
+  "summary": "文章讨论了OxCaml语言中一个值得其他编程语言借鉴的特性，强调了该特性在提升代码安全性和表达能力方面的价值。内容引发了技术社区对语言设计创新的思考。",
+  "score": 7,
+  "tags": [
+    "编程语言",
+    "OxCaml",
+    "语言特性"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "文章讨论了OxCaml语言中一个值得其他编程语言借鉴的特性，强调了该特性在提升代码安全性和表达能力方面的价值。内容引发了技术社区对语言设计创新的思考。",
+    "score": 7,
+    "tags": [
+      "编程语言",
+      "OxCaml",
+      "语言特性"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-28T10:23:04.770039+00:00"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "2026-06-28-rss-lobsters-ai-ml-max-models-can-now-run-on-apple-silicon-gpus",
+  "title": "MAX models can now run on Apple silicon GPUs",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://forum.modular.com/t/max-models-can-now-run-on-apple-silicon-gpus/3283",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-06-28T10:21:51.499633+00:00",
+  "collected_at": "2026-06-28T10:21:51.499641+00:00",
+  "summary": "MAX 模型现在可以在 Apple Silicon GPU 上运行，这显著提升了在苹果硬件上的 AI 推理性能。该进展为开发者提供了更高效的本地模型部署选项，尤其适合 Mac 用户。",
+  "score": 7,
+  "tags": [
+    "Apple Silicon",
+    "GPU",
+    "MAX models",
+    "AI inference"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "MAX 模型现在可以在 Apple Silicon GPU 上运行，这显著提升了在苹果硬件上的 AI 推理性能。该进展为开发者提供了更高效的本地模型部署选项，尤其适合 Mac 用户。",
+    "score": 7,
+    "tags": [
+      "Apple Silicon",
+      "GPU",
+      "MAX models",
+      "AI inference"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-28T10:23:04.770031+00:00"
+}

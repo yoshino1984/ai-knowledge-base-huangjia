@@ -1,0 +1,34 @@
+{
+  "id": "2026-06-28-rss-lobsters-ai-ml-gpt2-basic-portable-machine-intelligence-in-basi",
+  "title": "GPT2-BASIC: Portable Machine Intelligence in BASIC",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://github.com/tsotchke/gpt2-basic",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-06-28T10:21:51.499772+00:00",
+  "collected_at": "2026-06-28T10:21:51.499774+00:00",
+  "summary": "该项目展示了如何在BASIC语言中实现GPT-2模型，使得机器学习模型能够在极低资源的环境下运行，具有极高的可移植性和教育价值。",
+  "score": 7,
+  "tags": [
+    "GPT-2",
+    "BASIC",
+    "可移植性",
+    "低资源"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该项目展示了如何在BASIC语言中实现GPT-2模型，使得机器学习模型能够在极低资源的环境下运行，具有极高的可移植性和教育价值。",
+    "score": 7,
+    "tags": [
+      "GPT-2",
+      "BASIC",
+      "可移植性",
+      "低资源"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-28T10:23:04.770059+00:00"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "2026-06-28-rss-lobsters-ai-ml-ai-learns-the-dark-art-of-rf-chip-design",
+  "title": "AI Learns the \"Dark Art\" of RF Chip Design",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://spectrum.ieee.org/ai-radio-chip-design",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-06-28T10:21:51.499712+00:00",
+  "collected_at": "2026-06-28T10:21:51.499714+00:00",
+  "summary": "文章介绍了AI在射频芯片设计领域的应用，展示了AI如何学习并掌握这一传统上依赖专家经验的复杂设计过程。该技术有望加速芯片开发周期并优化性能。",
+  "score": 7,
+  "tags": [
+    "AI",
+    "RF芯片设计",
+    "硬件设计"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "文章介绍了AI在射频芯片设计领域的应用，展示了AI如何学习并掌握这一传统上依赖专家经验的复杂设计过程。该技术有望加速芯片开发周期并优化性能。",
+    "score": 7,
+    "tags": [
+      "AI",
+      "RF芯片设计",
+      "硬件设计"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-28T10:23:04.770046+00:00"
+}
