@@ -1,0 +1,32 @@
+{
+  "id": "2026-06-29-rss-hacker-news-best-professor-denounces-mass-ai-fraud-on-an-exam-at",
+  "title": "Professor denounces mass AI fraud on an exam at Brown",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
+  "author": "Hacker News Best",
+  "published_at": "2026-06-29T12:24:21.433597+00:00",
+  "collected_at": "2026-06-29T12:24:21.433605+00:00",
+  "summary": "布朗大学教授公开谴责大规模AI作弊事件，指出学术诚信面临严重风险。该事件引发广泛讨论，凸显AI在教育领域带来的伦理挑战。",
+  "score": 7,
+  "tags": [
+    "AI作弊",
+    "学术诚信",
+    "教育伦理"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "布朗大学教授公开谴责大规模AI作弊事件，指出学术诚信面临严重风险。该事件引发广泛讨论，凸显AI在教育领域带来的伦理挑战。",
+    "score": 7,
+    "tags": [
+      "AI作弊",
+      "学术诚信",
+      "教育伦理"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-29T12:25:31.397252+00:00"
+}
