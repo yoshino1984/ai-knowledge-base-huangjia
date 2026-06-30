@@ -1,0 +1,34 @@
+{
+  "id": "2026-06-30-rss-lobsters-ai-ml-robust-ai-security-and-alignment-a-sisyphean-end",
+  "title": "Robust AI Security and Alignment: A Sisyphean Endeavor?",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://ieeexplore.ieee.org/document/11475847/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-06-30T10:49:39.965000+00:00",
+  "collected_at": "2026-06-30T10:49:39.965004+00:00",
+  "summary": "该内容讨论了一篇关于AI安全与对齐的论文，指出实现鲁棒的AI安全与对齐可能是一项永无止境的任务（西西弗斯式努力）。NIST的文章提供了数学证明支持持续监控和更新的必要性，强调了动态安全策略的重要性。",
+  "score": 7,
+  "tags": [
+    "AI安全",
+    "对齐",
+    "NIST",
+    "数学证明"
+  ],
+  "audience": "advanced",
+  "analysis": {
+    "summary": "该内容讨论了一篇关于AI安全与对齐的论文，指出实现鲁棒的AI安全与对齐可能是一项永无止境的任务（西西弗斯式努力）。NIST的文章提供了数学证明支持持续监控和更新的必要性，强调了动态安全策略的重要性。",
+    "score": 7,
+    "tags": [
+      "AI安全",
+      "对齐",
+      "NIST",
+      "数学证明"
+    ],
+    "audience": "advanced",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-30T10:50:50.727475+00:00"
+}

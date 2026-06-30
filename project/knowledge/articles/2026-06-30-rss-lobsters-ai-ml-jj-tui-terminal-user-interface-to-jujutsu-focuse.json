@@ -1,0 +1,30 @@
+{
+  "id": "2026-06-30-rss-lobsters-ai-ml-jj-tui-terminal-user-interface-to-jujutsu-focuse",
+  "title": "jj_tui: terminal user interface to jujutsu focused on speed and clarity",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://tangled.org/elidowling.com/jj_tui",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-06-30T10:49:39.964926+00:00",
+  "collected_at": "2026-06-30T10:49:39.964936+00:00",
+  "summary": "jj_tui 是一个为 jujutsu 版本控制系统设计的终端用户界面，专注于提升操作速度和界面清晰度。该项目旨在通过高效的交互方式改善开发者使用 jujutsu 的体验。",
+  "score": 7,
+  "tags": [
+    "terminal user interface",
+    "version control"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "jj_tui 是一个为 jujutsu 版本控制系统设计的终端用户界面，专注于提升操作速度和界面清晰度。该项目旨在通过高效的交互方式改善开发者使用 jujutsu 的体验。",
+    "score": 7,
+    "tags": [
+      "terminal user interface",
+      "version control"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-06-30T10:50:50.727456+00:00"
+}
