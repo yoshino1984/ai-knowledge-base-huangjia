@@ -1,0 +1,32 @@
+{
+  "id": "2026-07-02-rss-lobsters-ai-ml-matrix-orthogonalization-improves-memory-in-recu",
+  "title": "Matrix Orthogonalization Improves Memory in Recurrent Models",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-07-02T10:30:08.785209+00:00",
+  "collected_at": "2026-07-02T10:30:08.785213+00:00",
+  "summary": "该研究提出通过矩阵正交化改进递归模型的记忆能力，实验证明正交化约束能缓解梯度消失问题，提升长序列任务性能。价值在于为递归神经网络提供简单有效的优化方法。",
+  "score": 7,
+  "tags": [
+    "递归神经网络",
+    "矩阵正交化",
+    "记忆增强"
+  ],
+  "audience": "advanced",
+  "analysis": {
+    "summary": "该研究提出通过矩阵正交化改进递归模型的记忆能力，实验证明正交化约束能缓解梯度消失问题，提升长序列任务性能。价值在于为递归神经网络提供简单有效的优化方法。",
+    "score": 7,
+    "tags": [
+      "递归神经网络",
+      "矩阵正交化",
+      "记忆增强"
+    ],
+    "audience": "advanced",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-07-02T10:31:07.288359+00:00"
+}

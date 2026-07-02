@@ -1,0 +1,34 @@
+{
+  "id": "2026-07-02-rss-lobsters-ai-ml-the-control-plane-was-the-point-revisiting-autof",
+  "title": "The Control Plane Was the Point: Revisiting autofz in the LLM Era",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://yfu.tw/blog/en/autofz-revisited/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-07-02T10:30:08.785137+00:00",
+  "collected_at": "2026-07-02T10:30:08.785146+00:00",
+  "summary": "文章重新审视了在LLM时代自动模糊测试（autofz）中控制平面的核心作用，强调控制平面设计比单纯依赖LLM生成测试用例更为关键。该分析为AI驱动的软件测试提供了新的视角，具有实践指导价值。",
+  "score": 7,
+  "tags": [
+    "LLM",
+    "fuzzing",
+    "control plane",
+    "software testing"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "文章重新审视了在LLM时代自动模糊测试（autofz）中控制平面的核心作用，强调控制平面设计比单纯依赖LLM生成测试用例更为关键。该分析为AI驱动的软件测试提供了新的视角，具有实践指导价值。",
+    "score": 7,
+    "tags": [
+      "LLM",
+      "fuzzing",
+      "control plane",
+      "software testing"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-07-02T10:31:07.288350+00:00"
+}

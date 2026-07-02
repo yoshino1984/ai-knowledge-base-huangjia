@@ -1,0 +1,32 @@
+{
+  "id": "2026-07-02-rss-hacker-news-best-godot-will-no-longer-accept-ai-authored-code-con",
+  "title": "Godot will no longer accept AI-authored code contributions",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
+  "author": "Hacker News Best",
+  "published_at": "2026-07-02T10:30:08.557393+00:00",
+  "collected_at": "2026-07-02T10:30:08.557403+00:00",
+  "summary": "Godot 引擎宣布不再接受 AI 生成的代码贡献，因为无法信任重度 AI 用户能充分理解其代码以进行修复。这一决策反映了开源社区对 AI 辅助编程的信任与质量控制挑战。",
+  "score": 7,
+  "tags": [
+    "AI",
+    "开源",
+    "代码质量"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "Godot 引擎宣布不再接受 AI 生成的代码贡献，因为无法信任重度 AI 用户能充分理解其代码以进行修复。这一决策反映了开源社区对 AI 辅助编程的信任与质量控制挑战。",
+    "score": 7,
+    "tags": [
+      "AI",
+      "开源",
+      "代码质量"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-07-02T10:31:07.288333+00:00"
+}
