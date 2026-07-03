@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-03-008",
+  "title": "DietrichGebert/ponytail",
+  "source": "github",
+  "url": "https://github.com/DietrichGebert/ponytail",
+  "collected_at": "2026-07-03T03:42:17.769605+00:00",
+  "summary": "Ponytail 是一个轻量级 AI 代理工具，通过注入“懒惰资深开发者”的思维模式，让 AI 在生成代码时优先考虑不写代码或写最少代码，从而减少不必要的复杂性和维护成本。它通过 prompt 工程和策略约束，引导 AI 输出更简洁、高效的解决方案，适用于代码生成、重构和自动化任务。",
+  "tags": [
+    "AI Agent",
+    "代码生成",
+    "Prompt Engineering",
+    "效率工具",
+    "懒惰编程"
+  ],
+  "relevance_score": 0.85,
+  "category": "agent",
+  "key_insight": "通过模拟资深开发者的“懒惰”思维，Ponytail 让 AI 优先选择不写代码，从而提升代码质量和开发效率。"
+}
