@@ -1,0 +1,32 @@
+{
+  "id": "2026-07-04-rss-lobsters-ai-ml-investigating-idiosyncrasies-in-ai-fiction",
+  "title": "Investigating idiosyncrasies in AI fiction",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://arxiv.org/abs/2604.03136",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-07-04T10:01:10.401588+00:00",
+  "collected_at": "2026-07-04T10:01:10.401597+00:00",
+  "summary": "该文章探讨了AI生成小说中的独特模式与怪癖，分析其与人类写作的差异。内容对理解AI文本生成特性有参考价值，但具体细节需进一步阅读。",
+  "score": 7,
+  "tags": [
+    "AI",
+    "fiction",
+    "text generation"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该文章探讨了AI生成小说中的独特模式与怪癖，分析其与人类写作的差异。内容对理解AI文本生成特性有参考价值，但具体细节需进一步阅读。",
+    "score": 7,
+    "tags": [
+      "AI",
+      "fiction",
+      "text generation"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-07-04T10:02:33.360659+00:00"
+}
