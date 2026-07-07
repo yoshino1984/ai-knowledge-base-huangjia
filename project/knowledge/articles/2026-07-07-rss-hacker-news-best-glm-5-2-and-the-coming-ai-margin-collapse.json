@@ -1,0 +1,32 @@
+{
+  "id": "2026-07-07-rss-hacker-news-best-glm-5-2-and-the-coming-ai-margin-collapse",
+  "title": "GLM 5.2 and the coming AI margin collapse",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+  "author": "Hacker News Best",
+  "published_at": "2026-07-07T10:48:01.933871+00:00",
+  "collected_at": "2026-07-07T10:48:01.933884+00:00",
+  "summary": "文章探讨了GLM 5.2模型发布后AI行业可能面临的利润率崩溃，分析了开源模型竞争和成本下降对商业AI公司的冲击。核心价值在于揭示技术迭代与市场动态的潜在风险。",
+  "score": 8,
+  "tags": [
+    "AI经济",
+    "模型竞争",
+    "利润率"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "文章探讨了GLM 5.2模型发布后AI行业可能面临的利润率崩溃，分析了开源模型竞争和成本下降对商业AI公司的冲击。核心价值在于揭示技术迭代与市场动态的潜在风险。",
+    "score": 8,
+    "tags": [
+      "AI经济",
+      "模型竞争",
+      "利润率"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-07-07T10:49:10.359227+00:00"
+}
