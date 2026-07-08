@@ -1,0 +1,32 @@
+{
+  "id": "2026-07-08-rss-lobsters-ai-ml-a-global-workspace-in-language-models",
+  "title": "A global workspace in language models",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://www.anthropic.com/research/global-workspace",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-07-08T10:09:24.895159+00:00",
+  "collected_at": "2026-07-08T10:09:24.895168+00:00",
+  "summary": "该文章探讨了语言模型中的全局工作空间概念，提出一种新的架构改进以增强模型的推理和整合能力。其价值在于为提升AI系统的认知灵活性提供了理论框架。",
+  "score": 7,
+  "tags": [
+    "语言模型",
+    "全局工作空间",
+    "架构改进"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该文章探讨了语言模型中的全局工作空间概念，提出一种新的架构改进以增强模型的推理和整合能力。其价值在于为提升AI系统的认知灵活性提供了理论框架。",
+    "score": 7,
+    "tags": [
+      "语言模型",
+      "全局工作空间",
+      "架构改进"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-07-08T10:10:37.408669+00:00"
+}

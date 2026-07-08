@@ -1,0 +1,32 @@
+{
+  "id": "2026-07-08-rss-hacker-news-best-we-charge-10k-a-week-to-delete-ai-generated-code",
+  "title": "We charge $10k a week to delete AI-generated code",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://odra.dev/slopfix/",
+  "author": "Hacker News Best",
+  "published_at": "2026-07-08T10:09:24.448011+00:00",
+  "collected_at": "2026-07-08T10:09:24.448023+00:00",
+  "summary": "文章讨论了一家初创公司提供每周1万美元的服务，专门删除AI生成的代码，反映了AI代码质量问题和人工审查的价值。该服务针对企业级项目，强调AI代码的维护成本和潜在风险。",
+  "score": 7,
+  "tags": [
+    "AI代码",
+    "代码审查",
+    "企业服务"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "文章讨论了一家初创公司提供每周1万美元的服务，专门删除AI生成的代码，反映了AI代码质量问题和人工审查的价值。该服务针对企业级项目，强调AI代码的维护成本和潜在风险。",
+    "score": 7,
+    "tags": [
+      "AI代码",
+      "代码审查",
+      "企业服务"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-07-08T10:10:37.408651+00:00"
+}
