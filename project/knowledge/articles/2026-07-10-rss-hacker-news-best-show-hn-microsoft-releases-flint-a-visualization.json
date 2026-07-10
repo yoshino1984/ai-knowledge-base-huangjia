@@ -1,0 +1,32 @@
+{
+  "id": "2026-07-10-rss-hacker-news-best-show-hn-microsoft-releases-flint-a-visualization",
+  "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://microsoft.github.io/flint-chart/#/",
+  "author": "Hacker News Best",
+  "published_at": "2026-07-10T10:45:37.359241+00:00",
+  "collected_at": "2026-07-10T10:45:37.359243+00:00",
+  "summary": "微软发布了Flint，一种面向AI代理的可视化中间语言，通过语义类型规范和布局优化引擎，解决了AI代理生成高质量图表时可靠性与美观性难以兼得的问题。该开源项目已集成MCP服务器，可直接用于代理应用。",
+  "score": 8,
+  "tags": [
+    "AI代理",
+    "数据可视化",
+    "开源"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "微软发布了Flint，一种面向AI代理的可视化中间语言，通过语义类型规范和布局优化引擎，解决了AI代理生成高质量图表时可靠性与美观性难以兼得的问题。该开源项目已集成MCP服务器，可直接用于代理应用。",
+    "score": 8,
+    "tags": [
+      "AI代理",
+      "数据可视化",
+      "开源"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-07-10T10:46:52.156376+00:00"
+}

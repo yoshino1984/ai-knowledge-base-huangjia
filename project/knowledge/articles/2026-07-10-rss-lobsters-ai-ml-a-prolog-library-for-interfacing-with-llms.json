@@ -1,0 +1,34 @@
+{
+  "id": "2026-07-10-rss-lobsters-ai-ml-a-prolog-library-for-interfacing-with-llms",
+  "title": "A Prolog library for interfacing with LLMs",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://github.com/vagos/llmpl",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-07-10T10:45:37.698403+00:00",
+  "collected_at": "2026-07-10T10:45:37.698412+00:00",
+  "summary": "该内容介绍了一个用于与大型语言模型（LLMs）交互的Prolog库，旨在将逻辑编程与AI语言模型结合，扩展Prolog在自然语言处理等领域的应用能力。其核心价值在于为Prolog开发者提供便捷的LLM接口，促进符号推理与神经网络的融合。",
+  "score": 7,
+  "tags": [
+    "Prolog",
+    "LLM",
+    "AI库",
+    "逻辑编程"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该内容介绍了一个用于与大型语言模型（LLMs）交互的Prolog库，旨在将逻辑编程与AI语言模型结合，扩展Prolog在自然语言处理等领域的应用能力。其核心价值在于为Prolog开发者提供便捷的LLM接口，促进符号推理与神经网络的融合。",
+    "score": 7,
+    "tags": [
+      "Prolog",
+      "LLM",
+      "AI库",
+      "逻辑编程"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-07-10T10:46:52.156386+00:00"
+}
