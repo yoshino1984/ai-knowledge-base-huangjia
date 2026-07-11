@@ -1,0 +1,32 @@
+{
+  "id": "2026-07-11-rss-hacker-news-best-ai-generated-videos-to-maximally-drive-a-target",
+  "title": "AI-generated videos to maximally drive a target brain region",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://nevo-project.epfl.ch/",
+  "author": "Hacker News Best",
+  "published_at": "2026-07-11T09:19:33.228614+00:00",
+  "collected_at": "2026-07-11T09:19:33.228623+00:00",
+  "summary": "该研究利用AI生成视频，通过视觉刺激最大化激活特定脑区，探索神经调控的新方法。其价值在于为脑机接口和神经疾病治疗提供潜在工具，但伦理和实用性仍需验证。",
+  "score": 7,
+  "tags": [
+    "AI视频",
+    "脑区调控",
+    "神经科学"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该研究利用AI生成视频，通过视觉刺激最大化激活特定脑区，探索神经调控的新方法。其价值在于为脑机接口和神经疾病治疗提供潜在工具，但伦理和实用性仍需验证。",
+    "score": 7,
+    "tags": [
+      "AI视频",
+      "脑区调控",
+      "神经科学"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-07-11T09:20:46.477321+00:00"
+}

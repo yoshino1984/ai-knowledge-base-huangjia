@@ -1,0 +1,34 @@
+{
+  "id": "2026-07-11-rss-hacker-news-best-ai-content-is-everywhere-on-social-media-especia",
+  "title": "AI content is everywhere on social media, especially LinkedIn",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://www.pangram.com/blog/ai-in-your-feed",
+  "author": "Hacker News Best",
+  "published_at": "2026-07-11T09:19:33.228723+00:00",
+  "collected_at": "2026-07-11T09:19:33.228725+00:00",
+  "summary": "文章探讨了AI生成内容在社交媒体（尤其是LinkedIn）上的泛滥现象，分析了其对用户信任和平台生态的影响，并提供了识别AI内容的实用建议。",
+  "score": 7,
+  "tags": [
+    "AI content",
+    "social media",
+    "LinkedIn",
+    "content authenticity"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "文章探讨了AI生成内容在社交媒体（尤其是LinkedIn）上的泛滥现象，分析了其对用户信任和平台生态的影响，并提供了识别AI内容的实用建议。",
+    "score": 7,
+    "tags": [
+      "AI content",
+      "social media",
+      "LinkedIn",
+      "content authenticity"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-07-11T09:20:46.477347+00:00"
+}
