@@ -1,0 +1,32 @@
+{
+  "id": "2026-07-12-rss-lobsters-ai-ml-an-agent-in-100-lines-of-lisp",
+  "title": "An Agent in 100 Lines of Lisp",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://thebeach.dev/posts/lisp-agent/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-07-12T09:44:40.587440+00:00",
+  "collected_at": "2026-07-12T09:44:40.587450+00:00",
+  "summary": "本文介绍如何用约100行Lisp代码实现一个AI Agent，展示了Lisp在AI开发中的简洁性和灵活性。内容适合对Lisp和AI代理实现感兴趣的开发者，具有教学和参考价值。",
+  "score": 7,
+  "tags": [
+    "Lisp",
+    "AI Agent",
+    "编程实现"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "本文介绍如何用约100行Lisp代码实现一个AI Agent，展示了Lisp在AI开发中的简洁性和灵活性。内容适合对Lisp和AI代理实现感兴趣的开发者，具有教学和参考价值。",
+    "score": 7,
+    "tags": [
+      "Lisp",
+      "AI Agent",
+      "编程实现"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-07-12T09:46:08.072810+00:00"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "2026-07-12-rss-hacker-news-best-ghost-font-a-font-that-humans-can-read-but-ai-ca",
+  "title": "Ghost Font: A font that humans can read but AI cannot",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://www.mixfont.com/ghost-font",
+  "author": "Hacker News Best",
+  "published_at": "2026-07-12T09:44:40.076056+00:00",
+  "collected_at": "2026-07-12T09:44:40.076059+00:00",
+  "summary": "Ghost Font 是一种设计用于人类可读但 AI 难以识别的字体，通过视觉扭曲和噪声干扰 OCR 系统。该项目展示了对抗性字体在保护隐私或防止自动内容抓取方面的潜在应用，但也引发了关于可访问性和伦理的讨论。",
+  "score": 7,
+  "tags": [
+    "对抗性字体",
+    "OCR",
+    "隐私保护"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "Ghost Font 是一种设计用于人类可读但 AI 难以识别的字体，通过视觉扭曲和噪声干扰 OCR 系统。该项目展示了对抗性字体在保护隐私或防止自动内容抓取方面的潜在应用，但也引发了关于可访问性和伦理的讨论。",
+    "score": 7,
+    "tags": [
+      "对抗性字体",
+      "OCR",
+      "隐私保护"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-07-12T09:46:08.072795+00:00"
+}

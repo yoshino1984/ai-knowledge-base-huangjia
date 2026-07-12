@@ -1,0 +1,32 @@
+{
+  "id": "2026-07-12-rss-lobsters-ai-ml-ai-surveillance-and-social-progress",
+  "title": "AI Surveillance and Social Progress",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-07-12T09:44:40.587600+00:00",
+  "collected_at": "2026-07-12T09:44:40.587604+00:00",
+  "summary": "文章探讨了AI监控技术与社会进步之间的关系，分析了其潜在的双刃剑效应。核心价值在于引发对技术伦理和社会影响的思考。",
+  "score": 7,
+  "tags": [
+    "AI监控",
+    "社会进步",
+    "技术伦理"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "文章探讨了AI监控技术与社会进步之间的关系，分析了其潜在的双刃剑效应。核心价值在于引发对技术伦理和社会影响的思考。",
+    "score": 7,
+    "tags": [
+      "AI监控",
+      "社会进步",
+      "技术伦理"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-07-12T09:46:08.072824+00:00"
+}

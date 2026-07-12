@@ -1,0 +1,32 @@
+{
+  "id": "2026-07-12-rss-lobsters-ai-ml-full-pipeline-inference-optimization-for-mimo-v2",
+  "title": "Full-Pipeline Inference Optimization for MiMo-V2.5 Series",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://mimo.xiaomi.com/blog/mimo-v2-5-inference",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-07-12T09:44:40.587512+00:00",
+  "collected_at": "2026-07-12T09:44:40.587516+00:00",
+  "summary": "该文章讨论了MiMo-V2.5系列模型的完整流水线推理优化策略，旨在提升推理效率和性能。核心价值在于为大规模AI模型部署提供实用的优化方法。",
+  "score": 7,
+  "tags": [
+    "推理优化",
+    "MiMo",
+    "AI部署"
+  ],
+  "audience": "advanced",
+  "analysis": {
+    "summary": "该文章讨论了MiMo-V2.5系列模型的完整流水线推理优化策略，旨在提升推理效率和性能。核心价值在于为大规模AI模型部署提供实用的优化方法。",
+    "score": 7,
+    "tags": [
+      "推理优化",
+      "MiMo",
+      "AI部署"
+    ],
+    "audience": "advanced",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-07-12T09:46:08.072817+00:00"
+}
