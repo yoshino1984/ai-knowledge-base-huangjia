@@ -1,0 +1,34 @@
+{
+  "id": "2026-07-13-rss-hacker-news-best-migrating-a-production-ai-agent-to-gpt-5-6-2-2x",
+  "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+  "author": "Hacker News Best",
+  "published_at": "2026-07-13T10:51:42.704413+00:00",
+  "collected_at": "2026-07-13T10:51:42.704415+00:00",
+  "summary": "该文章介绍了将生产环境中的AI代理迁移到GPT-5.6后，性能提升2.2倍，成本降低27%的实践经验。核心价值在于展示了模型升级对实际业务效率与成本优化的显著影响。",
+  "score": 7,
+  "tags": [
+    "AI代理",
+    "GPT-5.6",
+    "性能优化",
+    "成本控制"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该文章介绍了将生产环境中的AI代理迁移到GPT-5.6后，性能提升2.2倍，成本降低27%的实践经验。核心价值在于展示了模型升级对实际业务效率与成本优化的显著影响。",
+    "score": 7,
+    "tags": [
+      "AI代理",
+      "GPT-5.6",
+      "性能优化",
+      "成本控制"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-07-13T10:53:01.839305+00:00"
+}
