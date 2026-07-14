@@ -1,0 +1,32 @@
+{
+  "id": "2026-07-14-rss-lobsters-ai-ml-syntax-with-purpose-in-a-programming-language",
+  "title": "Syntax with Purpose in a Programming Language",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://www.youtube.com/watch?v=_HLZoeFREFo",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-07-14T09:48:47.771279+00:00",
+  "collected_at": "2026-07-14T09:48:47.771289+00:00",
+  "summary": "本文探讨了编程语言中语法设计的目的性，强调语法应服务于表达清晰和代码可读性，而非仅为技术实现。通过分析不同语言案例，展示了有目的性的语法如何提升开发效率和代码质量。",
+  "score": 7,
+  "tags": [
+    "编程语言设计",
+    "语法",
+    "代码可读性"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "本文探讨了编程语言中语法设计的目的性，强调语法应服务于表达清晰和代码可读性，而非仅为技术实现。通过分析不同语言案例，展示了有目的性的语法如何提升开发效率和代码质量。",
+    "score": 7,
+    "tags": [
+      "编程语言设计",
+      "语法",
+      "代码可读性"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-07-14T09:50:01.939090+00:00"
+}

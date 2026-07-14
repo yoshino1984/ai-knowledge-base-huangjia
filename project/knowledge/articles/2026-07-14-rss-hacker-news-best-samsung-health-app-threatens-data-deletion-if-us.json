@@ -1,0 +1,32 @@
+{
+  "id": "2026-07-14-rss-hacker-news-best-samsung-health-app-threatens-data-deletion-if-us",
+  "title": "Samsung Health app threatens data deletion if users opt out AI training",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://neow.in/cWsyMTV3",
+  "author": "Hacker News Best",
+  "published_at": "2026-07-14T09:48:47.599023+00:00",
+  "collected_at": "2026-07-14T09:48:47.599033+00:00",
+  "summary": "三星健康应用威胁称，如果用户选择退出AI训练，将删除其数据，引发隐私争议。该事件凸显了用户数据控制权与AI训练需求之间的冲突，对科技公司的数据政策提出质疑。",
+  "score": 7,
+  "tags": [
+    "AI训练",
+    "数据隐私",
+    "三星健康"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "三星健康应用威胁称，如果用户选择退出AI训练，将删除其数据，引发隐私争议。该事件凸显了用户数据控制权与AI训练需求之间的冲突，对科技公司的数据政策提出质疑。",
+    "score": 7,
+    "tags": [
+      "AI训练",
+      "数据隐私",
+      "三星健康"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-07-14T09:50:01.939068+00:00"
+}
