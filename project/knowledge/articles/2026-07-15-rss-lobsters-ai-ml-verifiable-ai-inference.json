@@ -1,0 +1,34 @@
+{
+  "id": "2026-07-15-rss-lobsters-ai-ml-verifiable-ai-inference",
+  "title": "Verifiable AI inference",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://blog.vrypan.net/2026/07/14/verifiable-ai-inference/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-07-15T09:53:01.196551+00:00",
+  "collected_at": "2026-07-15T09:53:01.196553+00:00",
+  "summary": "该内容讨论了可验证的AI推理，即确保AI模型推理过程的结果可被验证和信任，这对于提高AI系统的透明度和可靠性至关重要。它可能涉及零知识证明、可信执行环境等技术，以在保护隐私的同时验证推理的正确性。",
+  "score": 7,
+  "tags": [
+    "AI推理",
+    "可验证性",
+    "隐私保护",
+    "零知识证明"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该内容讨论了可验证的AI推理，即确保AI模型推理过程的结果可被验证和信任，这对于提高AI系统的透明度和可靠性至关重要。它可能涉及零知识证明、可信执行环境等技术，以在保护隐私的同时验证推理的正确性。",
+    "score": 7,
+    "tags": [
+      "AI推理",
+      "可验证性",
+      "隐私保护",
+      "零知识证明"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-07-15T09:54:09.657907+00:00"
+}

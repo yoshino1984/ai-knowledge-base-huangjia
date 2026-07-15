@@ -1,0 +1,32 @@
+{
+  "id": "2026-07-15-rss-hacker-news-best-are-we-offloading-too-much-of-our-thinking-to-ai",
+  "title": "Are we offloading too much of our thinking to AI?",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
+  "author": "Hacker News Best",
+  "published_at": "2026-07-15T09:53:00.971671+00:00",
+  "collected_at": "2026-07-15T09:53:00.971681+00:00",
+  "summary": "文章探讨了过度依赖AI进行思考的风险，指出这可能削弱人类的批判性思维和决策能力。通过分析AI辅助与人类独立思考的平衡，文章呼吁谨慎使用AI工具以保持认知自主性。",
+  "score": 7,
+  "tags": [
+    "AI ethics",
+    "cognitive offloading",
+    "critical thinking"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "文章探讨了过度依赖AI进行思考的风险，指出这可能削弱人类的批判性思维和决策能力。通过分析AI辅助与人类独立思考的平衡，文章呼吁谨慎使用AI工具以保持认知自主性。",
+    "score": 7,
+    "tags": [
+      "AI ethics",
+      "cognitive offloading",
+      "critical thinking"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-07-15T09:54:09.657875+00:00"
+}

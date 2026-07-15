@@ -1,0 +1,32 @@
+{
+  "id": "2026-07-15-rss-hacker-news-best-codex-starts-encrypting-sub-agent-prompts",
+  "title": "Codex starts encrypting sub-agent prompts",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://github.com/openai/codex/issues/28058",
+  "author": "Hacker News Best",
+  "published_at": "2026-07-15T09:53:00.971783+00:00",
+  "collected_at": "2026-07-15T09:53:00.971788+00:00",
+  "summary": "OpenAI 的 Codex 开始对子代理提示进行加密，以增强安全性和隐私保护。该举措旨在防止提示被中间人攻击或泄露，对 AI 系统的安全部署有重要意义。",
+  "score": 7,
+  "tags": [
+    "AI安全",
+    "加密",
+    "Codex"
+  ],
+  "audience": "advanced",
+  "analysis": {
+    "summary": "OpenAI 的 Codex 开始对子代理提示进行加密，以增强安全性和隐私保护。该举措旨在防止提示被中间人攻击或泄露，对 AI 系统的安全部署有重要意义。",
+    "score": 7,
+    "tags": [
+      "AI安全",
+      "加密",
+      "Codex"
+    ],
+    "audience": "advanced",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-07-15T09:54:09.657892+00:00"
+}

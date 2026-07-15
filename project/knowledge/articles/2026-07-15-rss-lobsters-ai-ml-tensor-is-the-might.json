@@ -1,0 +1,32 @@
+{
+  "id": "2026-07-15-rss-lobsters-ai-ml-tensor-is-the-might",
+  "title": "Tensor is the might",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://zserge.com/posts/tensor/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-07-15T09:53:01.196581+00:00",
+  "collected_at": "2026-07-15T09:53:01.196583+00:00",
+  "summary": "文章探讨了张量在AI和机器学习中的核心作用，强调了其作为数据表示和计算基础的重要性。内容可能涉及张量的定义、操作及其在深度学习框架中的应用，对理解现代AI系统有启发价值。",
+  "score": 7,
+  "tags": [
+    "tensor",
+    "machine learning",
+    "deep learning"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "文章探讨了张量在AI和机器学习中的核心作用，强调了其作为数据表示和计算基础的重要性。内容可能涉及张量的定义、操作及其在深度学习框架中的应用，对理解现代AI系统有启发价值。",
+    "score": 7,
+    "tags": [
+      "tensor",
+      "machine learning",
+      "deep learning"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-07-15T09:54:09.657914+00:00"
+}
