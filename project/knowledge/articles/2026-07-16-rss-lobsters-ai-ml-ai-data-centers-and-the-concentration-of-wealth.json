@@ -1,0 +1,32 @@
+{
+  "id": "2026-07-16-rss-lobsters-ai-ml-ai-data-centers-and-the-concentration-of-wealth",
+  "title": "AI Data Centers and the Concentration of Wealth",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://www.schneier.com/blog/archives/2026/07/ai-data-centers-and-the-concentration-of-wealth.html",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-07-16T09:59:48.304171+00:00",
+  "collected_at": "2026-07-16T09:59:48.304182+00:00",
+  "summary": "文章探讨了AI数据中心建设与财富集中现象之间的关系，指出大型科技公司通过控制AI基础设施加剧了经济不平等。内容具有批判性视角，适合关注AI社会影响的读者。",
+  "score": 7,
+  "tags": [
+    "AI数据中心",
+    "财富集中",
+    "经济不平等"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "文章探讨了AI数据中心建设与财富集中现象之间的关系，指出大型科技公司通过控制AI基础设施加剧了经济不平等。内容具有批判性视角，适合关注AI社会影响的读者。",
+    "score": 7,
+    "tags": [
+      "AI数据中心",
+      "财富集中",
+      "经济不平等"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-07-16T10:00:49.062398+00:00"
+}

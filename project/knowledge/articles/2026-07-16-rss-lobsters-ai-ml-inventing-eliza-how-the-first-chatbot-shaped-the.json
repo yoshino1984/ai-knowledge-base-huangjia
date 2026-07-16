@@ -1,0 +1,32 @@
+{
+  "id": "2026-07-16-rss-lobsters-ai-ml-inventing-eliza-how-the-first-chatbot-shaped-the",
+  "title": "Inventing ELIZA - How the First Chatbot Shaped the Future of AI",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://mitpress.mit.edu/9780262052481/inventing-eliza/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-07-16T09:59:48.304249+00:00",
+  "collected_at": "2026-07-16T09:59:48.304252+00:00",
+  "summary": "介绍《Inventing ELIZA》一书，该书以开放获取形式出版，探讨首个聊天机器人ELIZA的发明及其对AI发展的影响，并附有配套网站和相关播客讨论。",
+  "score": 7,
+  "tags": [
+    "ELIZA",
+    "AI历史",
+    "聊天机器人"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "介绍《Inventing ELIZA》一书，该书以开放获取形式出版，探讨首个聊天机器人ELIZA的发明及其对AI发展的影响，并附有配套网站和相关播客讨论。",
+    "score": 7,
+    "tags": [
+      "ELIZA",
+      "AI历史",
+      "聊天机器人"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-07-16T10:00:49.062419+00:00"
+}
