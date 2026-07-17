@@ -1,0 +1,34 @@
+{
+  "id": "2026-07-17-rss-lobsters-ai-ml-a-novel-computer-scrabble-engine-based-on-probab",
+  "title": "A novel computer Scrabble engine based on probability that performs at championship level (2021)",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://upcommons.upc.edu/server/api/core/bitstreams/1339ae43-3d65-4015-8e11-3689e5572b23/content",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-07-17T09:49:39.751986+00:00",
+  "collected_at": "2026-07-17T09:49:39.751996+00:00",
+  "summary": "本文介绍了一种基于概率的新型计算机拼字游戏引擎，能够在冠军级别水平上运行。该引擎利用概率模型优化单词选择和棋盘策略，展示了AI在特定游戏领域的应用价值。",
+  "score": 7,
+  "tags": [
+    "AI",
+    "Scrabble",
+    "概率模型",
+    "游戏引擎"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "本文介绍了一种基于概率的新型计算机拼字游戏引擎，能够在冠军级别水平上运行。该引擎利用概率模型优化单词选择和棋盘策略，展示了AI在特定游戏领域的应用价值。",
+    "score": 7,
+    "tags": [
+      "AI",
+      "Scrabble",
+      "概率模型",
+      "游戏引擎"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-07-17T09:50:54.167837+00:00"
+}

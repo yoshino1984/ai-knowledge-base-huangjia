@@ -1,0 +1,32 @@
+{
+  "id": "2026-07-17-rss-hacker-news-best-100-ai-music-video-claude-fable-5-vs-gpt-5-6-sol",
+  "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
+  "author": "Hacker News Best",
+  "published_at": "2026-07-17T09:49:38.994843+00:00",
+  "collected_at": "2026-07-17T09:49:38.994846+00:00",
+  "summary": "该文章对比了Claude Fable 5和GPT-5.6在生成AI音乐视频方面的能力，通过实际案例展示了两种模型的创意输出和成本效益。内容对AI艺术创作领域具有参考价值，尤其适合关注多模态AI应用的开发者。",
+  "score": 7,
+  "tags": [
+    "AI音乐视频",
+    "Claude vs GPT",
+    "多模态AI"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该文章对比了Claude Fable 5和GPT-5.6在生成AI音乐视频方面的能力，通过实际案例展示了两种模型的创意输出和成本效益。内容对AI艺术创作领域具有参考价值，尤其适合关注多模态AI应用的开发者。",
+    "score": 7,
+    "tags": [
+      "AI音乐视频",
+      "Claude vs GPT",
+      "多模态AI"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-07-17T09:50:54.167805+00:00"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "2026-07-17-rss-hacker-news-best-governments-companies-nonprofits-should-invest-i",
+  "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+  "author": "Hacker News Best",
+  "published_at": "2026-07-17T09:49:38.994990+00:00",
+  "collected_at": "2026-07-17T09:49:38.994992+00:00",
+  "summary": "该文章主张政府、企业和非营利组织应投资于免费、开源的AI技术，以促进创新和公平访问。它强调了开源AI在避免垄断、降低成本和增强透明度方面的价值。",
+  "score": 7,
+  "tags": [
+    "开源AI",
+    "政策建议",
+    "投资策略"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该文章主张政府、企业和非营利组织应投资于免费、开源的AI技术，以促进创新和公平访问。它强调了开源AI在避免垄断、降低成本和增强透明度方面的价值。",
+    "score": 7,
+    "tags": [
+      "开源AI",
+      "政策建议",
+      "投资策略"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-07-17T09:50:54.167826+00:00"
+}

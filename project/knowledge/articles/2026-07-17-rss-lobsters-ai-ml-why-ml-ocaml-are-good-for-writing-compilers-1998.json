@@ -1,0 +1,34 @@
+{
+  "id": "2026-07-17-rss-lobsters-ai-ml-why-ml-ocaml-are-good-for-writing-compilers-1998",
+  "title": "Why ML/OCaml are good for writing compilers (1998)",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://flint.cs.yale.edu/cs421/case-for-ml.html",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-07-17T09:49:39.752032+00:00",
+  "collected_at": "2026-07-17T09:49:39.752035+00:00",
+  "summary": "该文章讨论了ML和OCaml语言在编写编译器方面的优势，强调了其类型系统、模式匹配和函数式特性如何提高编译器开发的效率和可靠性。尽管发布于1998年，其观点对理解现代编译器设计仍有参考价值。",
+  "score": 7,
+  "tags": [
+    "compiler",
+    "OCaml",
+    "ML",
+    "programming languages"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该文章讨论了ML和OCaml语言在编写编译器方面的优势，强调了其类型系统、模式匹配和函数式特性如何提高编译器开发的效率和可靠性。尽管发布于1998年，其观点对理解现代编译器设计仍有参考价值。",
+    "score": 7,
+    "tags": [
+      "compiler",
+      "OCaml",
+      "ML",
+      "programming languages"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-07-17T09:50:54.167845+00:00"
+}
