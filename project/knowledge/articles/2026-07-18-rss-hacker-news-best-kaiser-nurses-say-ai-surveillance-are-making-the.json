@@ -1,0 +1,36 @@
+{
+  "id": "2026-07-18-rss-hacker-news-best-kaiser-nurses-say-ai-surveillance-are-making-the",
+  "title": "Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+  "author": "Hacker News Best",
+  "published_at": "2026-07-18T09:16:31.230917+00:00",
+  "collected_at": "2026-07-18T09:16:31.230927+00:00",
+  "summary": "文章报道了凯撒医疗的护士们对AI和监控技术的不满，认为这些技术增加了工作负担并降低了患者护理质量。该内容反映了AI在医疗领域应用中的现实挑战，具有行业警示价值。",
+  "score": 8,
+  "tags": [
+    "AI",
+    "医疗",
+    "护士",
+    "监控",
+    "工作质量"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "文章报道了凯撒医疗的护士们对AI和监控技术的不满，认为这些技术增加了工作负担并降低了患者护理质量。该内容反映了AI在医疗领域应用中的现实挑战，具有行业警示价值。",
+    "score": 8,
+    "tags": [
+      "AI",
+      "医疗",
+      "护士",
+      "监控",
+      "工作质量"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-07-18T09:17:36.452113+00:00"
+}

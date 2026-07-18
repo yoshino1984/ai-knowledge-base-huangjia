@@ -1,0 +1,32 @@
+{
+  "id": "2026-07-18-rss-hacker-news-best-detecting-llm-generated-texts-with-classical-mac",
+  "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://blog.lyc8503.net/en/post/llm-classifier/",
+  "author": "Hacker News Best",
+  "published_at": "2026-07-18T09:16:31.231274+00:00",
+  "collected_at": "2026-07-18T09:16:31.231279+00:00",
+  "summary": "该文章探讨了使用传统机器学习方法（如逻辑回归、支持向量机等）来检测由大型语言模型生成的文本，并与基于深度学习的检测方法进行了比较。文章提供了实验数据和实际案例，展示了经典方法在特定场景下的有效性和效率。",
+  "score": 7,
+  "tags": [
+    "LLM检测",
+    "机器学习",
+    "文本分类"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该文章探讨了使用传统机器学习方法（如逻辑回归、支持向量机等）来检测由大型语言模型生成的文本，并与基于深度学习的检测方法进行了比较。文章提供了实验数据和实际案例，展示了经典方法在特定场景下的有效性和效率。",
+    "score": 7,
+    "tags": [
+      "LLM检测",
+      "机器学习",
+      "文本分类"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-07-18T09:17:36.452147+00:00"
+}

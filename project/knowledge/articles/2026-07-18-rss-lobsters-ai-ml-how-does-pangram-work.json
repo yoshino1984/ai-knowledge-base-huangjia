@@ -1,0 +1,32 @@
+{
+  "id": "2026-07-18-rss-lobsters-ai-ml-how-does-pangram-work",
+  "title": "How does Pangram work?",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://pangram.substack.com/p/how-does-pangram-work",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-07-18T09:16:31.537959+00:00",
+  "collected_at": "2026-07-18T09:16:31.537968+00:00",
+  "summary": "该内容来自Lobsters社区，标题询问Pangram的工作原理，可能涉及AI或机器学习相关技术。描述仅包含评论链接，未提供具体技术细节，需进一步查看评论获取核心内容。",
+  "score": 5,
+  "tags": [
+    "Pangram",
+    "AI",
+    "机器学习"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该内容来自Lobsters社区，标题询问Pangram的工作原理，可能涉及AI或机器学习相关技术。描述仅包含评论链接，未提供具体技术细节，需进一步查看评论获取核心内容。",
+    "score": 5,
+    "tags": [
+      "Pangram",
+      "AI",
+      "机器学习"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-07-18T09:17:36.452156+00:00"
+}
