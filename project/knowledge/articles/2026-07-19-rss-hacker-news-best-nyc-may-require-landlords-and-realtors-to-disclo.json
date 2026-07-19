@@ -1,0 +1,32 @@
+{
+  "id": "2026-07-19-rss-hacker-news-best-nyc-may-require-landlords-and-realtors-to-disclo",
+  "title": "NYC may require landlords and realtors to disclose the use of AI in listings",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+  "author": "Hacker News Best",
+  "published_at": "2026-07-19T09:45:43.273637+00:00",
+  "collected_at": "2026-07-19T09:45:43.273639+00:00",
+  "summary": "纽约市拟要求房东和中介在房产广告中披露AI使用情况，旨在防止虚假宣传。该政策涉及AI生成图像的透明度，对房产市场和消费者权益有重要影响。",
+  "score": 7,
+  "tags": [
+    "AI regulation",
+    "real estate",
+    "consumer protection"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "纽约市拟要求房东和中介在房产广告中披露AI使用情况，旨在防止虚假宣传。该政策涉及AI生成图像的透明度，对房产市场和消费者权益有重要影响。",
+    "score": 7,
+    "tags": [
+      "AI regulation",
+      "real estate",
+      "consumer protection"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-07-19T09:46:57.588350+00:00"
+}

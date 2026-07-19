@@ -1,0 +1,32 @@
+{
+  "id": "2026-07-19-rss-hacker-news-best-what-ai-did-to-stackoverflow-in-a-graph",
+  "title": "What AI did to stackoverflow in a graph",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
+  "author": "Hacker News Best",
+  "published_at": "2026-07-19T09:45:43.273681+00:00",
+  "collected_at": "2026-07-19T09:45:43.273683+00:00",
+  "summary": "该内容通过数据可视化展示了AI对Stack Overflow问答平台的影响，核心价值在于量化分析AI工具如何改变用户行为与平台生态。",
+  "score": 7,
+  "tags": [
+    "AI impact",
+    "Stack Overflow",
+    "data analysis"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该内容通过数据可视化展示了AI对Stack Overflow问答平台的影响，核心价值在于量化分析AI工具如何改变用户行为与平台生态。",
+    "score": 7,
+    "tags": [
+      "AI impact",
+      "Stack Overflow",
+      "data analysis"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-07-19T09:46:57.588358+00:00"
+}

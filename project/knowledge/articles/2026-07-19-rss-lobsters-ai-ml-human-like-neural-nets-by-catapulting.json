@@ -1,0 +1,32 @@
+{
+  "id": "2026-07-19-rss-lobsters-ai-ml-human-like-neural-nets-by-catapulting",
+  "title": "Human-like Neural Nets by Catapulting",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://gwern.net/llm-catapult",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-07-19T09:45:43.597966+00:00",
+  "collected_at": "2026-07-19T09:45:43.597977+00:00",
+  "summary": "该文章探讨了一种通过“弹射”机制使神经网络更接近人类学习方式的方法，可能涉及动态调整网络结构或训练策略。其价值在于为提升AI的泛化能力和效率提供新思路。",
+  "score": 7,
+  "tags": [
+    "神经网络",
+    "人类学习",
+    "AI技术"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该文章探讨了一种通过“弹射”机制使神经网络更接近人类学习方式的方法，可能涉及动态调整网络结构或训练策略。其价值在于为提升AI的泛化能力和效率提供新思路。",
+    "score": 7,
+    "tags": [
+      "神经网络",
+      "人类学习",
+      "AI技术"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-07-19T09:46:57.588376+00:00"
+}
