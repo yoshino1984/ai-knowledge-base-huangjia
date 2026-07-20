@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-20-005",
+  "title": "DietrichGebert/ponytail",
+  "source": "github",
+  "url": "https://github.com/DietrichGebert/ponytail",
+  "collected_at": "2026-07-20T03:34:49.499226+00:00",
+  "summary": "Ponytail 是一个让 AI 代理模拟“最懒高级开发者”思维模式的开源项目，核心哲学是“最好的代码是没写出来的代码”。它通过提示工程或行为约束，使 AI 在生成代码时优先考虑简洁性、避免冗余，并倾向于复用现有解决方案而非从头编写。适用于减少 AI 生成代码的过度工程化问题，提升效率。",
+  "tags": [
+    "AI代理",
+    "代码生成",
+    "懒人哲学",
+    "提示工程",
+    "效率优化"
+  ],
+  "relevance_score": 0.85,
+  "category": "agent",
+  "key_insight": "通过模拟资深开发者的“懒惰”思维，引导 AI 代理生成更简洁、更高效的代码，减少不必要的复杂度。"
+}
