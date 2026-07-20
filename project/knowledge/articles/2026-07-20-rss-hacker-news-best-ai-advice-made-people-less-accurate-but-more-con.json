@@ -1,0 +1,34 @@
+{
+  "id": "2026-07-20-rss-hacker-news-best-ai-advice-made-people-less-accurate-but-more-con",
+  "title": "AI advice made people less accurate but more confident – sudy",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+  "author": "Hacker News Best",
+  "published_at": "2026-07-20T10:43:20.893623+00:00",
+  "collected_at": "2026-07-20T10:43:20.893632+00:00",
+  "summary": "研究表明，依赖AI建议会降低人们的准确性，但增强其自信，这可能导致批判性思维被抑制。该研究揭示了AI辅助决策的潜在风险，即用户可能过度信任AI而忽视自身判断。",
+  "score": 8,
+  "tags": [
+    "AI",
+    "决策",
+    "批判性思维",
+    "研究"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "研究表明，依赖AI建议会降低人们的准确性，但增强其自信，这可能导致批判性思维被抑制。该研究揭示了AI辅助决策的潜在风险，即用户可能过度信任AI而忽视自身判断。",
+    "score": 8,
+    "tags": [
+      "AI",
+      "决策",
+      "批判性思维",
+      "研究"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-07-20T10:44:29.442086+00:00"
+}

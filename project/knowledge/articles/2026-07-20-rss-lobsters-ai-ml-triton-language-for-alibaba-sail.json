@@ -1,0 +1,36 @@
+{
+  "id": "2026-07-20-rss-lobsters-ai-ml-triton-language-for-alibaba-sail",
+  "title": "Triton language for Alibaba SAIL",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://github.com/t-head/triton-for-sail",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-07-20T10:43:21.228660+00:00",
+  "collected_at": "2026-07-20T10:43:21.228669+00:00",
+  "summary": "Triton语言被用于阿里巴巴的SAIL项目，展示了其在AI和机器学习领域的应用价值。该内容来自Lobsters社区，可能涉及技术讨论或实践分享。",
+  "score": 7,
+  "tags": [
+    "Triton",
+    "Alibaba",
+    "SAIL",
+    "AI",
+    "机器学习"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "Triton语言被用于阿里巴巴的SAIL项目，展示了其在AI和机器学习领域的应用价值。该内容来自Lobsters社区，可能涉及技术讨论或实践分享。",
+    "score": 7,
+    "tags": [
+      "Triton",
+      "Alibaba",
+      "SAIL",
+      "AI",
+      "机器学习"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-07-20T10:44:29.442117+00:00"
+}

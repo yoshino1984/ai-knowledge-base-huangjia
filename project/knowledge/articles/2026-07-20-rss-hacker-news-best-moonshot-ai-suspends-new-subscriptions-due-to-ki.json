@@ -1,0 +1,34 @@
+{
+  "id": "2026-07-20-rss-hacker-news-best-moonshot-ai-suspends-new-subscriptions-due-to-ki",
+  "title": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
+  "author": "Hacker News Best",
+  "published_at": "2026-07-20T10:43:20.893685+00:00",
+  "collected_at": "2026-07-20T10:43:20.893687+00:00",
+  "summary": "Moonshot AI 因 Kimi K3 需求激增暂停新订阅，反映其 AI 产品市场热度高，但可能面临基础设施或资源瓶颈。该事件凸显了 AI 领域需求与供应之间的动态平衡挑战。",
+  "score": 7,
+  "tags": [
+    "AI",
+    "Moonshot AI",
+    "Kimi K3",
+    "订阅暂停"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "Moonshot AI 因 Kimi K3 需求激增暂停新订阅，反映其 AI 产品市场热度高，但可能面临基础设施或资源瓶颈。该事件凸显了 AI 领域需求与供应之间的动态平衡挑战。",
+    "score": 7,
+    "tags": [
+      "AI",
+      "Moonshot AI",
+      "Kimi K3",
+      "订阅暂停"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-07-20T10:44:29.442105+00:00"
+}
