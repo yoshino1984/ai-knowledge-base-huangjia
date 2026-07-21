@@ -1,0 +1,34 @@
+{
+  "id": "2026-07-21-rss-hacker-news-best-how-we-measured-ai-writing-across-arxiv-and-wher",
+  "title": "How we measured AI writing across arXiv, and where the measurement breaks",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+  "author": "Hacker News Best",
+  "published_at": "2026-07-21T10:17:39.024866+00:00",
+  "collected_at": "2026-07-21T10:17:39.024869+00:00",
+  "summary": "该文章探讨了如何测量arXiv上AI写作的普及程度，并指出了测量方法的局限性。它提供了对AI在学术写作中影响的定量分析，同时揭示了当前检测技术的不足。",
+  "score": 7,
+  "tags": [
+    "AI写作",
+    "arXiv",
+    "学术诚信",
+    "检测方法"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该文章探讨了如何测量arXiv上AI写作的普及程度，并指出了测量方法的局限性。它提供了对AI在学术写作中影响的定量分析，同时揭示了当前检测技术的不足。",
+    "score": 7,
+    "tags": [
+      "AI写作",
+      "arXiv",
+      "学术诚信",
+      "检测方法"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-07-21T10:18:45.932465+00:00"
+}

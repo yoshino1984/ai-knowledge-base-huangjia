@@ -1,0 +1,34 @@
+{
+  "id": "2026-07-21-rss-lobsters-ai-ml-meta-garbage-collection-using-ocaml-s-gc-to-gc-r",
+  "title": "Meta Garbage Collection: Using OCaml's GC to GC Rust",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://soteria-tools.com/blog/meta-garbage-collection",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-07-21T10:17:39.455329+00:00",
+  "collected_at": "2026-07-21T10:17:39.455337+00:00",
+  "summary": "本文探讨了在Rust中使用OCaml的垃圾回收器来管理Rust内存的元垃圾回收技术，展示了跨语言内存管理的创新方法。该技术通过OCaml的GC处理Rust对象的生命周期，可能为混合语言系统提供更安全的内存管理方案。",
+  "score": 7,
+  "tags": [
+    "Rust",
+    "OCaml",
+    "垃圾回收",
+    "跨语言集成"
+  ],
+  "audience": "advanced",
+  "analysis": {
+    "summary": "本文探讨了在Rust中使用OCaml的垃圾回收器来管理Rust内存的元垃圾回收技术，展示了跨语言内存管理的创新方法。该技术通过OCaml的GC处理Rust对象的生命周期，可能为混合语言系统提供更安全的内存管理方案。",
+    "score": 7,
+    "tags": [
+      "Rust",
+      "OCaml",
+      "垃圾回收",
+      "跨语言集成"
+    ],
+    "audience": "advanced",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-07-21T10:18:45.932487+00:00"
+}
