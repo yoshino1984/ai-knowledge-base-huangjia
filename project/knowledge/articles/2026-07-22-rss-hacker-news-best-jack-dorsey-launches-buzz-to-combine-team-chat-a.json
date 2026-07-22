@@ -1,0 +1,34 @@
+{
+  "id": "2026-07-22-rss-hacker-news-best-jack-dorsey-launches-buzz-to-combine-team-chat-a",
+  "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
+  "author": "Hacker News Best",
+  "published_at": "2026-07-22T10:17:55.471364+00:00",
+  "collected_at": "2026-07-22T10:17:55.471374+00:00",
+  "summary": "Jack Dorsey 推出 Buzz，一个整合团队聊天、AI 代理和 Git 托管的平台，旨在提升开发协作效率。该消息在 Hacker News 上获得 321 分和 274 条评论，显示社区高度关注。",
+  "score": 7,
+  "tags": [
+    "AI",
+    "团队协作",
+    "Git托管",
+    "Jack Dorsey"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "Jack Dorsey 推出 Buzz，一个整合团队聊天、AI 代理和 Git 托管的平台，旨在提升开发协作效率。该消息在 Hacker News 上获得 321 分和 274 条评论，显示社区高度关注。",
+    "score": 7,
+    "tags": [
+      "AI",
+      "团队协作",
+      "Git托管",
+      "Jack Dorsey"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-07-22T10:19:00.328965+00:00"
+}

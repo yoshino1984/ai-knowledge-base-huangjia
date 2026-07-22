@@ -1,0 +1,32 @@
+{
+  "id": "2026-07-22-rss-lobsters-ai-ml-two-years-of-vector-search-at-notion-10x-scale-1",
+  "title": "Two years of vector search at Notion: 10x scale, 1/10th cost",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://www.notion.com/blog/two-years-of-vector-search-at-notion",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-07-22T10:17:55.869573+00:00",
+  "collected_at": "2026-07-22T10:17:55.869581+00:00",
+  "summary": "Notion 分享了其向量搜索系统两年来的演进，实现了10倍规模扩展和成本降低至原来的1/10，展示了大规模向量搜索的优化实践。",
+  "score": 8,
+  "tags": [
+    "vector search",
+    "scalability",
+    "cost optimization"
+  ],
+  "audience": "advanced",
+  "analysis": {
+    "summary": "Notion 分享了其向量搜索系统两年来的演进，实现了10倍规模扩展和成本降低至原来的1/10，展示了大规模向量搜索的优化实践。",
+    "score": 8,
+    "tags": [
+      "vector search",
+      "scalability",
+      "cost optimization"
+    ],
+    "audience": "advanced",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-07-22T10:19:00.328981+00:00"
+}
