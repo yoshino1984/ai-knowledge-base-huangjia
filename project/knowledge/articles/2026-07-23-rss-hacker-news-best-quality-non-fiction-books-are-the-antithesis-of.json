@@ -1,0 +1,32 @@
+{
+  "id": "2026-07-23-rss-hacker-news-best-quality-non-fiction-books-are-the-antithesis-of",
+  "title": "Quality non-fiction books are the antithesis of AI slop",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
+  "author": "Hacker News Best",
+  "published_at": "2026-07-23T10:12:54.264613+00:00",
+  "collected_at": "2026-07-23T10:12:54.264616+00:00",
+  "summary": "文章指出高质量非虚构书籍与AI生成的低质量内容形成鲜明对比，强调真实、深度内容的价值。通过一个书籍索引网站展示优质非虚构作品，引发对AI内容泛滥的反思。",
+  "score": 7,
+  "tags": [
+    "非虚构书籍",
+    "AI内容质量",
+    "信息筛选"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "文章指出高质量非虚构书籍与AI生成的低质量内容形成鲜明对比，强调真实、深度内容的价值。通过一个书籍索引网站展示优质非虚构作品，引发对AI内容泛滥的反思。",
+    "score": 7,
+    "tags": [
+      "非虚构书籍",
+      "AI内容质量",
+      "信息筛选"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-07-23T10:14:02.690852+00:00"
+}

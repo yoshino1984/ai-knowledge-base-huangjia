@@ -1,0 +1,34 @@
+{
+  "id": "2026-07-23-rss-lobsters-ai-ml-what-rose-petals-teach-us-about-induction",
+  "title": "What Rose Petals Teach Us about Induction",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://www.oranlooney.com/post/rose-petals/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-07-23T10:12:54.400806+00:00",
+  "collected_at": "2026-07-23T10:12:54.400815+00:00",
+  "summary": "文章通过玫瑰花瓣的比喻，探讨了归纳推理在AI和机器学习中的核心作用，强调了从有限数据中学习一般规律的本质挑战。它提供了对归纳偏见的深刻见解，有助于理解模型泛化能力的基础。",
+  "score": 7,
+  "tags": [
+    "induction",
+    "machine learning",
+    "generalization",
+    "philosophy of AI"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "文章通过玫瑰花瓣的比喻，探讨了归纳推理在AI和机器学习中的核心作用，强调了从有限数据中学习一般规律的本质挑战。它提供了对归纳偏见的深刻见解，有助于理解模型泛化能力的基础。",
+    "score": 7,
+    "tags": [
+      "induction",
+      "machine learning",
+      "generalization",
+      "philosophy of AI"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-07-23T10:14:02.690875+00:00"
+}

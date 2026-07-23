@@ -1,0 +1,32 @@
+{
+  "id": "2026-07-23-rss-lobsters-ai-ml-taking-ocaml-and-eio-for-a-spin",
+  "title": "Taking OCaml and Eio for a spin",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://mattjhall.co.uk/posts/taking-ocaml-eio-for-a-spin.html",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-07-23T10:12:54.400851+00:00",
+  "collected_at": "2026-07-23T10:12:54.400853+00:00",
+  "summary": "该文章介绍了OCaml语言及其并发库Eio的实践体验，展示了OCaml在系统编程中的潜力。内容适合对函数式编程和并发模型感兴趣的开发者参考。",
+  "score": 7,
+  "tags": [
+    "OCaml",
+    "Eio",
+    "并发编程"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该文章介绍了OCaml语言及其并发库Eio的实践体验，展示了OCaml在系统编程中的潜力。内容适合对函数式编程和并发模型感兴趣的开发者参考。",
+    "score": 7,
+    "tags": [
+      "OCaml",
+      "Eio",
+      "并发编程"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-07-23T10:14:02.690883+00:00"
+}
