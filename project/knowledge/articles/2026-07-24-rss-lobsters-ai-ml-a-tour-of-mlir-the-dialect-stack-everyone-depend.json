@@ -1,0 +1,34 @@
+{
+  "id": "2026-07-24-rss-lobsters-ai-ml-a-tour-of-mlir-the-dialect-stack-everyone-depend",
+  "title": "A tour of MLIR: The Dialect Stack Everyone Depends On",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://hiraditya.github.io/posts/mlir-dialect-stack-for-ml/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-07-24T10:09:19.852435+00:00",
+  "collected_at": "2026-07-24T10:09:19.852443+00:00",
+  "summary": "文章介绍了MLIR（多级中间表示）的方言栈架构，强调其作为AI编译器基础设施的核心地位，以及如何通过分层方言实现硬件无关的优化与代码生成。价值在于揭示MLIR如何统一不同框架和硬件的编译需求。",
+  "score": 8,
+  "tags": [
+    "MLIR",
+    "编译器",
+    "AI基础设施",
+    "方言"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "文章介绍了MLIR（多级中间表示）的方言栈架构，强调其作为AI编译器基础设施的核心地位，以及如何通过分层方言实现硬件无关的优化与代码生成。价值在于揭示MLIR如何统一不同框架和硬件的编译需求。",
+    "score": 8,
+    "tags": [
+      "MLIR",
+      "编译器",
+      "AI基础设施",
+      "方言"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-07-24T10:10:28.790456+00:00"
+}

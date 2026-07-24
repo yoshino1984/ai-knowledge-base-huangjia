@@ -1,0 +1,32 @@
+{
+  "id": "2026-07-24-rss-lobsters-ai-ml-not-just-development-distribution-of-software-ma",
+  "title": "Not just development, distribution of software may change as well",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://antirez.com/news/170",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-07-24T10:09:19.852486+00:00",
+  "collected_at": "2026-07-24T10:09:19.852489+00:00",
+  "summary": "文章探讨了AI对软件开发的影响不仅限于开发过程，还可能改变软件的分发方式。核心价值在于引发对AI如何重塑软件生态的思考。",
+  "score": 7,
+  "tags": [
+    "AI",
+    "software distribution",
+    "development"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "文章探讨了AI对软件开发的影响不仅限于开发过程，还可能改变软件的分发方式。核心价值在于引发对AI如何重塑软件生态的思考。",
+    "score": 7,
+    "tags": [
+      "AI",
+      "software distribution",
+      "development"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-07-24T10:10:28.790465+00:00"
+}
