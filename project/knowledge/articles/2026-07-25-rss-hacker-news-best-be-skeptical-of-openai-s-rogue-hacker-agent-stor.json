@@ -1,0 +1,28 @@
+{
+  "id": "2026-07-25-rss-hacker-news-best-be-skeptical-of-openai-s-rogue-hacker-agent-stor",
+  "title": "Be skeptical of OpenAI's rogue hacker agent story",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
+  "author": "Hacker News Best",
+  "published_at": "2026-07-25T09:31:25.936120+00:00",
+  "collected_at": "2026-07-25T09:31:25.936129+00:00",
+  "summary": "Article URL: https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker\nComments URL: https://news.ycombinator.com/item?id=49038060\nPoints: 488\n# Comments: 281",
+  "score": 5,
+  "tags": [
+    "ai"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "Article URL: https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker\nComments URL: https://news.ycombinator.com/item?id=49038060\nPoints: 488\n# Comments: 281",
+    "score": 5,
+    "tags": [
+      "ai"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "review_pending",
+  "updated_at": "2026-07-25T09:34:05.755098+00:00"
+}

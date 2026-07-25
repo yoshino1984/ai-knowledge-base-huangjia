@@ -1,0 +1,28 @@
+{
+  "id": "2026-07-25-rss-hacker-news-best-the-arguments-against-open-source-ai-are-bad",
+  "title": "The arguments against open source AI are bad",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
+  "author": "Hacker News Best",
+  "published_at": "2026-07-25T09:31:25.936207+00:00",
+  "collected_at": "2026-07-25T09:31:25.936210+00:00",
+  "summary": "Article URL: https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/\nComments URL: https://news.ycombinator.com/item?id=49024643\nPoints: 309\n# Comments: 211",
+  "score": 5,
+  "tags": [
+    "ai"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "Article URL: https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/\nComments URL: https://news.ycombinator.com/item?id=49024643\nPoints: 309\n# Comments: 211",
+    "score": 5,
+    "tags": [
+      "ai"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "review_pending",
+  "updated_at": "2026-07-25T09:34:05.755116+00:00"
+}
