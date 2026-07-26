@@ -1,0 +1,28 @@
+{
+  "id": "2026-07-26-rss-hacker-news-best-running-a-28-9m-parameter-llm-on-an-8-microcontr",
+  "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://github.com/slvDev/esp32-ai",
+  "author": "Hacker News Best",
+  "published_at": "2026-07-26T09:51:44.181424+00:00",
+  "collected_at": "2026-07-26T09:51:44.181434+00:00",
+  "summary": "Article URL: https://github.com/slvDev/esp32-ai\nComments URL: https://news.ycombinator.com/item?id=49050512\nPoints: 185\n# Comments: 41",
+  "score": 5,
+  "tags": [
+    "ai"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "Article URL: https://github.com/slvDev/esp32-ai\nComments URL: https://news.ycombinator.com/item?id=49050512\nPoints: 185\n# Comments: 41",
+    "score": 5,
+    "tags": [
+      "ai"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "review_pending",
+  "updated_at": "2026-07-26T09:54:35.879662+00:00"
+}
