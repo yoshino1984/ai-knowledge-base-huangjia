@@ -1,0 +1,32 @@
+{
+  "id": "2026-07-27-rss-hacker-news-best-what-is-happening-to-jobs-separating-ai-hype-fro",
+  "title": "What is happening to jobs? Separating AI hype from reality",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
+  "author": "Hacker News Best",
+  "published_at": "2026-07-27T11:11:55.636893+00:00",
+  "collected_at": "2026-07-27T11:11:55.636902+00:00",
+  "summary": "该文章探讨了AI对就业市场的实际影响，区分了炒作与现实，基于斯坦福研究指出AI目前更多是辅助而非替代人类工作，但需关注长期结构性变化。",
+  "score": 8,
+  "tags": [
+    "AI就业影响",
+    "经济分析",
+    "政策研究"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该文章探讨了AI对就业市场的实际影响，区分了炒作与现实，基于斯坦福研究指出AI目前更多是辅助而非替代人类工作，但需关注长期结构性变化。",
+    "score": 8,
+    "tags": [
+      "AI就业影响",
+      "经济分析",
+      "政策研究"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-07-27T11:13:01.208492+00:00"
+}

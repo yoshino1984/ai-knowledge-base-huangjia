@@ -1,0 +1,32 @@
+{
+  "id": "2026-07-27-github-rohitg00-ai-engineering-from-scratch",
+  "title": "rohitg00/ai-engineering-from-scratch",
+  "source": "github",
+  "source_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+  "author": "rohitg00",
+  "published_at": "2026-07-26T11:07:40Z",
+  "collected_at": "2026-07-27T11:11:51.119272+00:00",
+  "summary": "该项目是一个从零开始学习AI工程的资源库，强调通过实践构建和部署AI应用。它适合希望掌握AI工程基础并动手实践的开发者。",
+  "score": 7,
+  "tags": [
+    "AI工程",
+    "实践学习",
+    "开源项目"
+  ],
+  "audience": "beginner",
+  "analysis": {
+    "summary": "该项目是一个从零开始学习AI工程的资源库，强调通过实践构建和部署AI应用。它适合希望掌握AI工程基础并动手实践的开发者。",
+    "score": 7,
+    "tags": [
+      "AI工程",
+      "实践学习",
+      "开源项目"
+    ],
+    "audience": "beginner",
+    "technical_category": "open-source",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-07-27T11:13:01.208472+00:00"
+}

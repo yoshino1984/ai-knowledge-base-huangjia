@@ -1,0 +1,32 @@
+{
+  "id": "2026-07-27-rss-lobsters-ai-ml-xavier-leroy-on-programming-languages-and-formal",
+  "title": "Xavier Leroy on programming, languages and formal verification",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://www.youtube.com/watch?v=9Cswiqrq6So",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-07-27T11:11:56.127771+00:00",
+  "collected_at": "2026-07-27T11:11:56.127784+00:00",
+  "summary": "Xavier Leroy 讨论编程语言与形式化验证，强调其在提升软件可靠性中的关键作用。内容深入探讨了形式化方法在编程语言设计中的应用，适合对语言理论和验证技术感兴趣的读者。",
+  "score": 7,
+  "tags": [
+    "programming languages",
+    "formal verification",
+    "Xavier Leroy"
+  ],
+  "audience": "advanced",
+  "analysis": {
+    "summary": "Xavier Leroy 讨论编程语言与形式化验证，强调其在提升软件可靠性中的关键作用。内容深入探讨了形式化方法在编程语言设计中的应用，适合对语言理论和验证技术感兴趣的读者。",
+    "score": 7,
+    "tags": [
+      "programming languages",
+      "formal verification",
+      "Xavier Leroy"
+    ],
+    "audience": "advanced",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-07-27T11:13:01.208502+00:00"
+}
