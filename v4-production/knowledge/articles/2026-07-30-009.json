@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-30-009",
+  "title": "headroomlabs-ai/headroom",
+  "source": "github",
+  "url": "https://github.com/headroomlabs-ai/headroom",
+  "collected_at": "2026-07-30T02:43:13.627335+00:00",
+  "summary": "Headroom 是一个开源工具，用于在数据到达大语言模型之前压缩工具输出、日志、文件和 RAG 块。它声称对编码代理可减少 20% 的 token，对 JSON 可减少 60-95% 的 token，同时保持答案质量不变。提供库、代理和 MCP 服务器三种使用方式。",
+  "tags": [
+    "token压缩",
+    "LLM优化",
+    "RAG",
+    "编码代理",
+    "MCP服务器"
+  ],
+  "relevance_score": 0.85,
+  "category": "tool",
+  "key_insight": "通过预压缩输入数据，显著降低 LLM 调用成本，尤其适合 JSON 密集型场景，且不影响输出质量。"
+}
