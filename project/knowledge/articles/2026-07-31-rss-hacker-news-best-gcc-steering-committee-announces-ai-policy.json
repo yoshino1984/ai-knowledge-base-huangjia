@@ -1,0 +1,34 @@
+{
+  "id": "2026-07-31-rss-hacker-news-best-gcc-steering-committee-announces-ai-policy",
+  "title": "GCC steering committee announces AI policy",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://lwn.net/Articles/1086041/",
+  "author": "Hacker News Best",
+  "published_at": "2026-07-31T10:29:43.861928+00:00",
+  "collected_at": "2026-07-31T10:29:43.861930+00:00",
+  "summary": "GCC 指导委员会宣布了关于 AI 的政策，涉及 AI 生成代码的贡献和版权问题。该政策旨在规范开发者使用 AI 工具的方式，确保代码质量和法律合规性。此消息在 Hacker News 上引发广泛讨论，反映了社区对 AI 在开源开发中应用的关注。",
+  "score": 8,
+  "tags": [
+    "GCC",
+    "AI政策",
+    "开源社区",
+    "版权"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "GCC 指导委员会宣布了关于 AI 的政策，涉及 AI 生成代码的贡献和版权问题。该政策旨在规范开发者使用 AI 工具的方式，确保代码质量和法律合规性。此消息在 Hacker News 上引发广泛讨论，反映了社区对 AI 在开源开发中应用的关注。",
+    "score": 8,
+    "tags": [
+      "GCC",
+      "AI政策",
+      "开源社区",
+      "版权"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-07-31T10:30:56.792542+00:00"
+}

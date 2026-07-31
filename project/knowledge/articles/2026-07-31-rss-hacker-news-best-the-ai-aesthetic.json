@@ -1,0 +1,32 @@
+{
+  "id": "2026-07-31-rss-hacker-news-best-the-ai-aesthetic",
+  "title": "The AI Aesthetic",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+  "author": "Hacker News Best",
+  "published_at": "2026-07-31T10:29:43.861820+00:00",
+  "collected_at": "2026-07-31T10:29:43.861830+00:00",
+  "summary": "这篇文章探讨了AI生成内容的美学特征，分析其视觉风格、设计趋势及其对创意产业的影响。文章结合实例和评论，提供了对AI美学现象的深入见解，适合对AI与设计交叉领域感兴趣的读者。",
+  "score": 8,
+  "tags": [
+    "AI美学",
+    "设计趋势",
+    "创意产业"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "这篇文章探讨了AI生成内容的美学特征，分析其视觉风格、设计趋势及其对创意产业的影响。文章结合实例和评论，提供了对AI美学现象的深入见解，适合对AI与设计交叉领域感兴趣的读者。",
+    "score": 8,
+    "tags": [
+      "AI美学",
+      "设计趋势",
+      "创意产业"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-07-31T10:30:56.792512+00:00"
+}

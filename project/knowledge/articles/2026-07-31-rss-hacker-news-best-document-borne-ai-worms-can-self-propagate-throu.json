@@ -1,0 +1,34 @@
+{
+  "id": "2026-07-31-rss-hacker-news-best-document-borne-ai-worms-can-self-propagate-throu",
+  "title": "Document-borne AI worms can self-propagate through Copilot for Word",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
+  "author": "Hacker News Best",
+  "published_at": "2026-07-31T10:29:43.862055+00:00",
+  "collected_at": "2026-07-31T10:29:43.862056+00:00",
+  "summary": "本文揭示了通过文档传播的AI蠕虫能够利用Microsoft Copilot for Word的上下文理解能力实现自我复制和传播，展示了AI系统在集成到办公软件时面临的新型安全威胁。该研究对AI安全领域具有重要警示价值，提醒开发者关注AI代理的潜在漏洞。",
+  "score": 8,
+  "tags": [
+    "AI安全",
+    "网络安全",
+    "Copilot",
+    "恶意软件"
+  ],
+  "audience": "advanced",
+  "analysis": {
+    "summary": "本文揭示了通过文档传播的AI蠕虫能够利用Microsoft Copilot for Word的上下文理解能力实现自我复制和传播，展示了AI系统在集成到办公软件时面临的新型安全威胁。该研究对AI安全领域具有重要警示价值，提醒开发者关注AI代理的潜在漏洞。",
+    "score": 8,
+    "tags": [
+      "AI安全",
+      "网络安全",
+      "Copilot",
+      "恶意软件"
+    ],
+    "audience": "advanced",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-07-31T10:30:56.792577+00:00"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "2026-07-31-rss-hacker-news-best-llm-honeypot",
+  "title": "LLM Honeypot",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://llm2human.pages.dev/",
+  "author": "Hacker News Best",
+  "published_at": "2026-07-31T10:29:43.861966+00:00",
+  "collected_at": "2026-07-31T10:29:43.861968+00:00",
+  "summary": "LLM Honeypot 是一个针对大型语言模型（LLM）的蜜罐项目，旨在通过部署诱饵来检测和捕获恶意AI行为，如提示注入或数据抓取。该项目提供了技术实现细节和部署指南，帮助安全研究人员理解并防御针对LLM的攻击。",
+  "score": 7,
+  "tags": [
+    "LLM",
+    "安全",
+    "蜜罐"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "LLM Honeypot 是一个针对大型语言模型（LLM）的蜜罐项目，旨在通过部署诱饵来检测和捕获恶意AI行为，如提示注入或数据抓取。该项目提供了技术实现细节和部署指南，帮助安全研究人员理解并防御针对LLM的攻击。",
+    "score": 7,
+    "tags": [
+      "LLM",
+      "安全",
+      "蜜罐"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-07-31T10:30:56.792549+00:00"
+}

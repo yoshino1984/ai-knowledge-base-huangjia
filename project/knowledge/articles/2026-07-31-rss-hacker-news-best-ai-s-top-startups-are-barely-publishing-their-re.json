@@ -1,0 +1,34 @@
+{
+  "id": "2026-07-31-rss-hacker-news-best-ai-s-top-startups-are-barely-publishing-their-re",
+  "title": "AI's top startups are barely publishing their research",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+  "author": "Hacker News Best",
+  "published_at": "2026-07-31T10:29:43.862011+00:00",
+  "collected_at": "2026-07-31T10:29:43.862013+00:00",
+  "summary": "文章指出顶级AI初创公司（如OpenAI、Anthropic等）几乎不再公开发表研究论文，导致AI领域透明度下降，可能阻碍学术进步和公共监督。文章分析了这一趋势的原因和潜在影响，引发对AI研究开放性的讨论。",
+  "score": 8,
+  "tags": [
+    "AI研究",
+    "透明度",
+    "初创公司",
+    "学术出版"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "文章指出顶级AI初创公司（如OpenAI、Anthropic等）几乎不再公开发表研究论文，导致AI领域透明度下降，可能阻碍学术进步和公共监督。文章分析了这一趋势的原因和潜在影响，引发对AI研究开放性的讨论。",
+    "score": 8,
+    "tags": [
+      "AI研究",
+      "透明度",
+      "初创公司",
+      "学术出版"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-07-31T10:30:56.792557+00:00"
+}
