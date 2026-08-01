@@ -1,0 +1,34 @@
+{
+  "id": "2026-08-01-rss-hacker-news-best-google-fixed-more-chrome-bugs-in-june-than-over",
+  "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://blog.google/security/chrome-stronger-with-every-update/",
+  "author": "Hacker News Best",
+  "published_at": "2026-08-01T09:51:01.092590+00:00",
+  "collected_at": "2026-08-01T09:51:01.092592+00:00",
+  "summary": "Google 通过 AI 工具在 6 月份修复了比过去两年更多的 Chrome 漏洞，展示了 AI 在提升软件安全性和修复效率方面的显著作用。文章强调了 AI 辅助漏洞检测和修复的潜力，以及 Chrome 浏览器在安全更新上的持续改进。",
+  "score": 8,
+  "tags": [
+    "AI",
+    "Chrome",
+    "安全",
+    "漏洞修复"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "Google 通过 AI 工具在 6 月份修复了比过去两年更多的 Chrome 漏洞，展示了 AI 在提升软件安全性和修复效率方面的显著作用。文章强调了 AI 辅助漏洞检测和修复的潜力，以及 Chrome 浏览器在安全更新上的持续改进。",
+    "score": 8,
+    "tags": [
+      "AI",
+      "Chrome",
+      "安全",
+      "漏洞修复"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-08-01T09:52:41.338723+00:00"
+}
