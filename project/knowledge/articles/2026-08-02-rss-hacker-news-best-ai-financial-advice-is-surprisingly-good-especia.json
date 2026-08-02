@@ -1,0 +1,34 @@
+{
+  "id": "2026-08-02-rss-hacker-news-best-ai-financial-advice-is-surprisingly-good-especia",
+  "title": "AI financial advice is surprisingly good, especially if you ask right questions",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+  "author": "Hacker News Best",
+  "published_at": "2026-08-02T09:49:15.333480+00:00",
+  "collected_at": "2026-08-02T09:49:15.333489+00:00",
+  "summary": "麻省理工学院斯隆管理学院的研究表明，AI 提供的财务建议质量出人意料地高，尤其是在用户提出正确问题的情况下。文章探讨了 AI 在金融咨询领域的潜力与局限性，并强调了提问技巧对获取有效建议的重要性。",
+  "score": 8,
+  "tags": [
+    "AI",
+    "金融",
+    "财务建议",
+    "MIT"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "麻省理工学院斯隆管理学院的研究表明，AI 提供的财务建议质量出人意料地高，尤其是在用户提出正确问题的情况下。文章探讨了 AI 在金融咨询领域的潜力与局限性，并强调了提问技巧对获取有效建议的重要性。",
+    "score": 8,
+    "tags": [
+      "AI",
+      "金融",
+      "财务建议",
+      "MIT"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-08-02T09:50:25.717908+00:00"
+}

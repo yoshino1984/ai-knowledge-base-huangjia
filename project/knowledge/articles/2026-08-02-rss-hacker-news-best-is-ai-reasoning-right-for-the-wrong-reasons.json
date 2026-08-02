@@ -1,0 +1,32 @@
+{
+  "id": "2026-08-02-rss-hacker-news-best-is-ai-reasoning-right-for-the-wrong-reasons",
+  "title": "Is AI reasoning right for the wrong reasons?",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
+  "author": "Hacker News Best",
+  "published_at": "2026-08-02T09:49:15.333691+00:00",
+  "collected_at": "2026-08-02T09:49:15.333692+00:00",
+  "summary": "本文探讨了AI推理能力是否基于正确逻辑而非偶然模式匹配的问题，通过具体案例和实验分析揭示了当前AI模型在推理中的潜在缺陷。文章为理解AI推理的可靠性提供了重要视角，并引发对AI安全性和可解释性的深入思考。",
+  "score": 8,
+  "tags": [
+    "AI推理",
+    "可解释性",
+    "模型可靠性"
+  ],
+  "audience": "advanced",
+  "analysis": {
+    "summary": "本文探讨了AI推理能力是否基于正确逻辑而非偶然模式匹配的问题，通过具体案例和实验分析揭示了当前AI模型在推理中的潜在缺陷。文章为理解AI推理的可靠性提供了重要视角，并引发对AI安全性和可解释性的深入思考。",
+    "score": 8,
+    "tags": [
+      "AI推理",
+      "可解释性",
+      "模型可靠性"
+    ],
+    "audience": "advanced",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-08-02T09:50:25.717944+00:00"
+}

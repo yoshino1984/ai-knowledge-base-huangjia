@@ -1,0 +1,32 @@
+{
+  "id": "2026-08-02-rss-hacker-news-best-ai-doesn-t-generate-working-products-that-s-stil",
+  "title": "AI doesn't generate working products, that's still your job",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://weeraman.com/the-prototype-isnt-the-product/",
+  "author": "Hacker News Best",
+  "published_at": "2026-08-02T09:49:15.333540+00:00",
+  "collected_at": "2026-08-02T09:49:15.333542+00:00",
+  "summary": "文章指出AI生成的原型并非最终产品，开发者仍需负责将原型转化为可工作的产品。核心价值在于提醒开发者不要过度依赖AI，而应专注于产品工程和调试。",
+  "score": 7,
+  "tags": [
+    "AI辅助开发",
+    "产品工程",
+    "开发者责任"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "文章指出AI生成的原型并非最终产品，开发者仍需负责将原型转化为可工作的产品。核心价值在于提醒开发者不要过度依赖AI，而应专注于产品工程和调试。",
+    "score": 7,
+    "tags": [
+      "AI辅助开发",
+      "产品工程",
+      "开发者责任"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-08-02T09:50:25.717926+00:00"
+}
