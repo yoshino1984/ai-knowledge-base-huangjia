@@ -1,0 +1,32 @@
+{
+  "id": "2026-08-03-rss-lobsters-ai-ml-guarded-methods-in-ocaml",
+  "title": "Guarded methods in OCaml",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://xvw.lol/en/articles/oop-refl.html",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-08-03T11:14:22.015814+00:00",
+  "collected_at": "2026-08-03T11:14:22.015825+00:00",
+  "summary": "这篇文章讨论了OCaml语言中的受保护方法（guarded methods），这是一种通过条件检查来增强方法安全性的编程技术。文章可能提供了实现示例和最佳实践，对于OCaml开发者理解如何编写更健壮的代码具有参考价值。",
+  "score": 7,
+  "tags": [
+    "OCaml",
+    "编程语言",
+    "方法安全"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "这篇文章讨论了OCaml语言中的受保护方法（guarded methods），这是一种通过条件检查来增强方法安全性的编程技术。文章可能提供了实现示例和最佳实践，对于OCaml开发者理解如何编写更健壮的代码具有参考价值。",
+    "score": 7,
+    "tags": [
+      "OCaml",
+      "编程语言",
+      "方法安全"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-08-03T11:15:36.679654+00:00"
+}

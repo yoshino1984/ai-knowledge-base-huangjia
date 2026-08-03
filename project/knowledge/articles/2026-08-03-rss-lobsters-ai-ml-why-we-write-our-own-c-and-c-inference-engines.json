@@ -1,0 +1,32 @@
+{
+  "id": "2026-08-03-rss-lobsters-ai-ml-why-we-write-our-own-c-and-c-inference-engines",
+  "title": "Why we write our own C and C++ inference engines",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://localai.io/blog/why-we-write-our-own-engines/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-08-03T11:14:22.015888+00:00",
+  "collected_at": "2026-08-03T11:14:22.015892+00:00",
+  "summary": "文章解释了为什么团队选择自研C和C++推理引擎，而非依赖现成框架，强调了对性能、可控性和特定硬件优化的需求。核心价值在于展示了在AI部署中定制化底层引擎的工程权衡。",
+  "score": 7,
+  "tags": [
+    "C++",
+    "推理引擎",
+    "性能优化"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "文章解释了为什么团队选择自研C和C++推理引擎，而非依赖现成框架，强调了对性能、可控性和特定硬件优化的需求。核心价值在于展示了在AI部署中定制化底层引擎的工程权衡。",
+    "score": 7,
+    "tags": [
+      "C++",
+      "推理引擎",
+      "性能优化"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-08-03T11:15:36.679670+00:00"
+}

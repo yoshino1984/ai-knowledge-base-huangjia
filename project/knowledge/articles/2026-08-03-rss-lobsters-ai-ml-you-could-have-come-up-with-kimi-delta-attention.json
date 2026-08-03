@@ -1,0 +1,32 @@
+{
+  "id": "2026-08-03-rss-lobsters-ai-ml-you-could-have-come-up-with-kimi-delta-attention",
+  "title": "You Could Have Come Up With Kimi Delta Attention",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-08-03T11:14:22.015993+00:00",
+  "collected_at": "2026-08-03T11:14:22.015995+00:00",
+  "summary": "这篇文章探讨了Kimi Delta Attention机制，指出其设计思路并非高不可攀，而是可以通过逻辑推导得出。文章旨在降低读者对前沿AI技术的畏惧感，鼓励独立思考和探索。",
+  "score": 7,
+  "tags": [
+    "attention mechanism",
+    "Kimi",
+    "AI research"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "这篇文章探讨了Kimi Delta Attention机制，指出其设计思路并非高不可攀，而是可以通过逻辑推导得出。文章旨在降低读者对前沿AI技术的畏惧感，鼓励独立思考和探索。",
+    "score": 7,
+    "tags": [
+      "attention mechanism",
+      "Kimi",
+      "AI research"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-08-03T11:15:36.679707+00:00"
+}
