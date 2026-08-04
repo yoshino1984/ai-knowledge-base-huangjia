@@ -1,0 +1,32 @@
+{
+  "id": "2026-08-04-rss-lobsters-ai-ml-why-do-cognitive-scientists-hate-llms-2023",
+  "title": "Why Do Cognitive Scientists Hate LLMs? (2023)",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://minihf.com/posts/2023-10-16-hermes-lecture-3-why-do-cognitive-scientists-hate-llms/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-08-04T10:28:40.067516+00:00",
+  "collected_at": "2026-08-04T10:28:40.067518+00:00",
+  "summary": "这篇文章探讨了认知科学家对大型语言模型（LLMs）持怀疑态度的原因，分析了LLMs与人类认知之间的差异，并讨论了其作为认知模型的局限性。文章对于理解AI与认知科学的交叉领域具有启发性价值。",
+  "score": 7,
+  "tags": [
+    "LLM",
+    "认知科学",
+    "AI批评"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "这篇文章探讨了认知科学家对大型语言模型（LLMs）持怀疑态度的原因，分析了LLMs与人类认知之间的差异，并讨论了其作为认知模型的局限性。文章对于理解AI与认知科学的交叉领域具有启发性价值。",
+    "score": 7,
+    "tags": [
+      "LLM",
+      "认知科学",
+      "AI批评"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-08-04T10:32:35.233423+00:00"
+}

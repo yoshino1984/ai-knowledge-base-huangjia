@@ -1,0 +1,34 @@
+{
+  "id": "2026-08-04-rss-hacker-news-best-prevent-cognitive-debt-by-manually-retyping-llm",
+  "title": "Prevent cognitive debt by manually retyping LLM-generated code",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
+  "author": "Hacker News Best",
+  "published_at": "2026-08-04T10:28:39.843362+00:00",
+  "collected_at": "2026-08-04T10:28:39.843363+00:00",
+  "summary": "本文提出通过手动重新输入 LLM 生成的代码来防止认知债务，强调在复制粘贴前理解代码逻辑的重要性。该方法旨在提升开发者对代码的掌握度，减少未来维护成本，但可能牺牲效率。",
+  "score": 7,
+  "tags": [
+    "LLM",
+    "认知债务",
+    "代码质量",
+    "开发实践"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "本文提出通过手动重新输入 LLM 生成的代码来防止认知债务，强调在复制粘贴前理解代码逻辑的重要性。该方法旨在提升开发者对代码的掌握度，减少未来维护成本，但可能牺牲效率。",
+    "score": 7,
+    "tags": [
+      "LLM",
+      "认知债务",
+      "代码质量",
+      "开发实践"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-08-04T10:32:35.233402+00:00"
+}

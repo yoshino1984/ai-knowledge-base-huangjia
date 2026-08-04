@@ -1,0 +1,36 @@
+{
+  "id": "2026-08-04-rss-lobsters-ai-ml-bonsai-a-library-for-building-dynamic-webapps-us",
+  "title": "bonsai: A library for building dynamic webapps, using Js_of_ocaml",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://github.com/janestreet/bonsai",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-08-04T10:28:40.067570+00:00",
+  "collected_at": "2026-08-04T10:28:40.067572+00:00",
+  "summary": "Bonsai 是一个基于 Js_of_ocaml 的库，用于构建动态 Web 应用，它将 OCaml 的类型安全性与 JavaScript 的灵活性相结合，为开发者提供了一种函数式、类型安全的前端开发方案。该库旨在简化复杂 UI 的状态管理和组件化开发，适合追求类型安全和函数式编程的 OCaml 开发者。",
+  "score": 7,
+  "tags": [
+    "OCaml",
+    "Web开发",
+    "Js_of_ocaml",
+    "函数式编程",
+    "前端框架"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "Bonsai 是一个基于 Js_of_ocaml 的库，用于构建动态 Web 应用，它将 OCaml 的类型安全性与 JavaScript 的灵活性相结合，为开发者提供了一种函数式、类型安全的前端开发方案。该库旨在简化复杂 UI 的状态管理和组件化开发，适合追求类型安全和函数式编程的 OCaml 开发者。",
+    "score": 7,
+    "tags": [
+      "OCaml",
+      "Web开发",
+      "Js_of_ocaml",
+      "函数式编程",
+      "前端框架"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-08-04T10:32:35.233435+00:00"
+}

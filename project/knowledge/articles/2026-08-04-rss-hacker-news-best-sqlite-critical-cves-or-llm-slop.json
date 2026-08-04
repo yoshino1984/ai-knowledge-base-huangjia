@@ -1,0 +1,36 @@
+{
+  "id": "2026-08-04-rss-hacker-news-best-sqlite-critical-cves-or-llm-slop",
+  "title": "SQLite Critical CVEs or LLM Slop?",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+  "author": "Hacker News Best",
+  "published_at": "2026-08-04T10:28:39.843310+00:00",
+  "collected_at": "2026-08-04T10:28:39.843318+00:00",
+  "summary": "该文章探讨了SQLite中所谓的“严重CVE”是否被夸大，并质疑这些漏洞是否源于LLM生成的代码质量问题。它分析了漏洞的真实影响，并讨论了AI生成代码在安全领域的潜在风险，为开发者提供了关于漏洞评估和AI代码安全的重要见解。",
+  "score": 8,
+  "tags": [
+    "SQLite",
+    "CVE",
+    "LLM",
+    "安全漏洞",
+    "AI代码"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该文章探讨了SQLite中所谓的“严重CVE”是否被夸大，并质疑这些漏洞是否源于LLM生成的代码质量问题。它分析了漏洞的真实影响，并讨论了AI生成代码在安全领域的潜在风险，为开发者提供了关于漏洞评估和AI代码安全的重要见解。",
+    "score": 8,
+    "tags": [
+      "SQLite",
+      "CVE",
+      "LLM",
+      "安全漏洞",
+      "AI代码"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-08-04T10:32:35.233387+00:00"
+}

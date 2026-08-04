@@ -1,0 +1,36 @@
+{
+  "id": "2026-08-04-rss-hacker-news-best-openai-s-super-pac-is-funding-ai-generated-news",
+  "title": "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
+  "author": "Hacker News Best",
+  "published_at": "2026-08-04T10:28:39.843409+00:00",
+  "collected_at": "2026-08-04T10:28:39.843411+00:00",
+  "summary": "该报道揭露OpenAI的超级政治行动委员会资助一个由AI生成的新闻网站，用以攻击行业批评者并推进其政治议程。这一事件引发了对AI伦理、政治透明度和媒体可信度的严重关切，对AI行业和社会具有重要警示意义。",
+  "score": 8,
+  "tags": [
+    "AI伦理",
+    "政治影响",
+    "媒体操纵",
+    "OpenAI",
+    "透明度"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该报道揭露OpenAI的超级政治行动委员会资助一个由AI生成的新闻网站，用以攻击行业批评者并推进其政治议程。这一事件引发了对AI伦理、政治透明度和媒体可信度的严重关切，对AI行业和社会具有重要警示意义。",
+    "score": 8,
+    "tags": [
+      "AI伦理",
+      "政治影响",
+      "媒体操纵",
+      "OpenAI",
+      "透明度"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-08-04T10:32:35.233411+00:00"
+}
