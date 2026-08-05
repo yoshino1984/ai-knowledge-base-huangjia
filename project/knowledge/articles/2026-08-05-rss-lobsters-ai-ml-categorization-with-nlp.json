@@ -1,0 +1,30 @@
+{
+  "id": "2026-08-05-rss-lobsters-ai-ml-categorization-with-nlp",
+  "title": "Categorization with NLP",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://softwaremaniacs.org/blog/2026/07/30/categorization-with-nlp/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-08-05T10:27:41.523425+00:00",
+  "collected_at": "2026-08-05T10:27:41.523435+00:00",
+  "summary": "本文探讨了使用自然语言处理（NLP）技术进行文本分类的方法，可能涉及特征提取、模型选择或实际应用案例。内容对希望了解NLP分类任务的开发者具有参考价值，但未提供具体细节。",
+  "score": 6,
+  "tags": [
+    "NLP",
+    "text classification"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "本文探讨了使用自然语言处理（NLP）技术进行文本分类的方法，可能涉及特征提取、模型选择或实际应用案例。内容对希望了解NLP分类任务的开发者具有参考价值，但未提供具体细节。",
+    "score": 6,
+    "tags": [
+      "NLP",
+      "text classification"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-08-05T10:28:49.328754+00:00"
+}
