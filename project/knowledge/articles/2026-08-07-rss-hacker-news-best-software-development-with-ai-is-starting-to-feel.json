@@ -1,0 +1,32 @@
+{
+  "id": "2026-08-07-rss-hacker-news-best-software-development-with-ai-is-starting-to-feel",
+  "title": "Software development with AI is starting to feel like cooking steak",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
+  "author": "Hacker News Best",
+  "published_at": "2026-08-07T08:48:05.174372+00:00",
+  "collected_at": "2026-08-07T08:48:05.174379+00:00",
+  "summary": "文章将AI辅助软件开发比作烹饪牛排，指出虽然AI降低了编码门槛，但开发者仍需掌握核心技能和判断力才能确保质量。文章探讨了AI工具在开发流程中的角色，强调其作为辅助而非替代品的价值。",
+  "score": 7,
+  "tags": [
+    "AI辅助开发",
+    "技能要求",
+    "开发流程"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "文章将AI辅助软件开发比作烹饪牛排，指出虽然AI降低了编码门槛，但开发者仍需掌握核心技能和判断力才能确保质量。文章探讨了AI工具在开发流程中的角色，强调其作为辅助而非替代品的价值。",
+    "score": 7,
+    "tags": [
+      "AI辅助开发",
+      "技能要求",
+      "开发流程"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-08-07T08:49:12.681203+00:00"
+}

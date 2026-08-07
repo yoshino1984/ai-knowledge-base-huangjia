@@ -1,0 +1,32 @@
+{
+  "id": "2026-08-07-rss-hacker-news-best-humans-missed-1-in-3-threats-approving-ai-agent",
+  "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
+  "author": "Hacker News Best",
+  "published_at": "2026-08-07T08:48:05.174418+00:00",
+  "collected_at": "2026-08-07T08:48:05.174419+00:00",
+  "summary": "该文章报告了一项关于AI代理权限批准的研究，在4万次游戏运行中，人类用户遗漏了三分之一的威胁性命令审批，揭示了人类监督AI代理时的严重漏洞。文章提供了具体数据和案例分析，对AI安全领域具有重要参考价值。",
+  "score": 8,
+  "tags": [
+    "AI安全",
+    "权限管理",
+    "人类监督"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该文章报告了一项关于AI代理权限批准的研究，在4万次游戏运行中，人类用户遗漏了三分之一的威胁性命令审批，揭示了人类监督AI代理时的严重漏洞。文章提供了具体数据和案例分析，对AI安全领域具有重要参考价值。",
+    "score": 8,
+    "tags": [
+      "AI安全",
+      "权限管理",
+      "人类监督"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-08-07T08:49:12.681222+00:00"
+}

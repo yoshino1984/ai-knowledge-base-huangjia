@@ -1,0 +1,34 @@
+{
+  "id": "2026-08-07-rss-hacker-news-best-time-is-serving-ai-bots-a-different-website-with",
+  "title": "TIME Is Serving AI Bots a Different Website, with Ads Built In",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/",
+  "author": "Hacker News Best",
+  "published_at": "2026-08-07T08:48:05.174564+00:00",
+  "collected_at": "2026-08-07T08:48:05.174565+00:00",
+  "summary": "TIME 杂志为 AI 爬虫提供包含广告的定制化网页版本，以应对 AI 内容抓取并探索新的变现方式。该做法引发关于内容公平性和 AI 生态影响的讨论。",
+  "score": 8,
+  "tags": [
+    "AI",
+    "内容变现",
+    "广告",
+    "爬虫"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "TIME 杂志为 AI 爬虫提供包含广告的定制化网页版本，以应对 AI 内容抓取并探索新的变现方式。该做法引发关于内容公平性和 AI 生态影响的讨论。",
+    "score": 8,
+    "tags": [
+      "AI",
+      "内容变现",
+      "广告",
+      "爬虫"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-08-07T08:49:12.681247+00:00"
+}
