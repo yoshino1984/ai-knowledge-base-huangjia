@@ -1,0 +1,34 @@
+{
+  "id": "2026-08-08-rss-hacker-news-best-managing-ai-coding-costs-at-scale",
+  "title": "Managing AI Coding Costs at Scale",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+  "author": "Hacker News Best",
+  "published_at": "2026-08-08T08:30:09.106700+00:00",
+  "collected_at": "2026-08-08T08:30:09.106710+00:00",
+  "summary": "本文探讨了在规模化环境中管理AI编码成本的方法，重点介绍了Databricks如何通过优化模型调用、缓存和资源分配来降低费用，同时保持开发效率。文章提供了实用的成本控制策略和架构建议，适合技术团队参考。",
+  "score": 8,
+  "tags": [
+    "AI编码",
+    "成本管理",
+    "规模化",
+    "Databricks"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "本文探讨了在规模化环境中管理AI编码成本的方法，重点介绍了Databricks如何通过优化模型调用、缓存和资源分配来降低费用，同时保持开发效率。文章提供了实用的成本控制策略和架构建议，适合技术团队参考。",
+    "score": 8,
+    "tags": [
+      "AI编码",
+      "成本管理",
+      "规模化",
+      "Databricks"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-08-08T08:31:18.897803+00:00"
+}

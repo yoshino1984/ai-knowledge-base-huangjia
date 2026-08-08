@@ -1,0 +1,32 @@
+{
+  "id": "2026-08-08-rss-lobsters-ai-ml-social-media-rabbit-holes-clusters-and-the-relat",
+  "title": "social media rabbit holes, clusters, and the relative mixing times of random walks",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://notes.hella.cheap/twitter-isnt-a-town-square-its-a-high-school-cafeteria.html",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-08-08T08:30:10.011140+00:00",
+  "collected_at": "2026-08-08T08:30:10.011152+00:00",
+  "summary": "该内容探讨社交媒体中的信息茧房现象，通过随机游走模型分析用户在不同内容集群间的移动时间，以理解算法推荐如何导致用户陷入特定信息循环。其价值在于为社交媒体平台设计提供理论依据，帮助优化内容推荐机制以减少信息隔离。",
+  "score": 7,
+  "tags": [
+    "social media",
+    "random walk",
+    "algorithm"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该内容探讨社交媒体中的信息茧房现象，通过随机游走模型分析用户在不同内容集群间的移动时间，以理解算法推荐如何导致用户陷入特定信息循环。其价值在于为社交媒体平台设计提供理论依据，帮助优化内容推荐机制以减少信息隔离。",
+    "score": 7,
+    "tags": [
+      "social media",
+      "random walk",
+      "algorithm"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-08-08T08:31:18.897833+00:00"
+}

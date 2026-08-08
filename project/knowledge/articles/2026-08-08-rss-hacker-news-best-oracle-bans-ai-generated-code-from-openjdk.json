@@ -1,0 +1,32 @@
+{
+  "id": "2026-08-08-rss-hacker-news-best-oracle-bans-ai-generated-code-from-openjdk",
+  "title": "Oracle bans AI-generated code from OpenJDK",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+  "author": "Hacker News Best",
+  "published_at": "2026-08-08T08:30:09.106768+00:00",
+  "collected_at": "2026-08-08T08:30:09.106770+00:00",
+  "summary": "Oracle 禁止在 OpenJDK 中使用 AI 生成的代码，尽管其 CEO 声称 Oracle 自身不编写代码。这一政策引发了对 AI 在开源项目中应用边界的讨论，并可能影响开发者对 AI 工具的使用。",
+  "score": 7,
+  "tags": [
+    "OpenJDK",
+    "AI代码生成",
+    "政策"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "Oracle 禁止在 OpenJDK 中使用 AI 生成的代码，尽管其 CEO 声称 Oracle 自身不编写代码。这一政策引发了对 AI 在开源项目中应用边界的讨论，并可能影响开发者对 AI 工具的使用。",
+    "score": 7,
+    "tags": [
+      "OpenJDK",
+      "AI代码生成",
+      "政策"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-08-08T08:31:18.897821+00:00"
+}
