@@ -1,0 +1,32 @@
+{
+  "id": "2026-08-10-rss-lobsters-ai-ml-how-do-programming-languages-impact-token-effici",
+  "title": "How do programming languages impact token efficiency and correctness?",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://danluu.com/pl-tokens/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-08-10T09:09:25.865745+00:00",
+  "collected_at": "2026-08-10T09:09:25.865754+00:00",
+  "summary": "本文探讨编程语言选择对AI模型token效率与生成代码正确性的影响，分析不同语言在token消耗和错误率上的差异，为开发者优化AI辅助编程提供参考。",
+  "score": 7,
+  "tags": [
+    "programming languages",
+    "token efficiency",
+    "AI correctness"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "本文探讨编程语言选择对AI模型token效率与生成代码正确性的影响，分析不同语言在token消耗和错误率上的差异，为开发者优化AI辅助编程提供参考。",
+    "score": 7,
+    "tags": [
+      "programming languages",
+      "token efficiency",
+      "AI correctness"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-08-10T09:10:26.244742+00:00"
+}
