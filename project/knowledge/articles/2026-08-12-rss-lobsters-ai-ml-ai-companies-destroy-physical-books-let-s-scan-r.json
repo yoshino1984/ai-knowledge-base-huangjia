@@ -1,0 +1,32 @@
+{
+  "id": "2026-08-12-rss-lobsters-ai-ml-ai-companies-destroy-physical-books-let-s-scan-r",
+  "title": "AI companies destroy physical books — let’s scan rare books before it’s too late",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://fr.annas-archive.gl/blog/physical-destruction.html",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-08-12T09:04:02.278078+00:00",
+  "collected_at": "2026-08-12T09:04:02.278079+00:00",
+  "summary": "文章讨论了AI公司为训练模型而扫描实体书籍，可能导致稀有书籍被破坏，呼吁在书籍消失前进行数字化保存。内容涉及AI数据采集的伦理和文化遗产保护问题，具有紧迫性和社会价值。",
+  "score": 7,
+  "tags": [
+    "AI ethics",
+    "data collection",
+    "digital preservation"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "文章讨论了AI公司为训练模型而扫描实体书籍，可能导致稀有书籍被破坏，呼吁在书籍消失前进行数字化保存。内容涉及AI数据采集的伦理和文化遗产保护问题，具有紧迫性和社会价值。",
+    "score": 7,
+    "tags": [
+      "AI ethics",
+      "data collection",
+      "digital preservation"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-08-12T09:05:02.116120+00:00"
+}

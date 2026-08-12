@@ -1,0 +1,32 @@
+{
+  "id": "2026-08-12-rss-lobsters-ai-ml-cloudflare-os-is-it-worth",
+  "title": "Cloudflare OS, is it worth?",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://blog.emre.xyz/posts/2be69f5e/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-08-12T09:04:02.278005+00:00",
+  "collected_at": "2026-08-12T09:04:02.278012+00:00",
+  "summary": "该内容讨论 Cloudflare 操作系统（Cloudflare OS）是否值得使用，可能涉及其在 AI/ML 领域的应用价值、性能或成本效益。评论链接提供了社区讨论，有助于了解不同观点。",
+  "score": 7,
+  "tags": [
+    "Cloudflare",
+    "OS",
+    "AI/ML"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该内容讨论 Cloudflare 操作系统（Cloudflare OS）是否值得使用，可能涉及其在 AI/ML 领域的应用价值、性能或成本效益。评论链接提供了社区讨论，有助于了解不同观点。",
+    "score": 7,
+    "tags": [
+      "Cloudflare",
+      "OS",
+      "AI/ML"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-08-12T09:05:02.116095+00:00"
+}

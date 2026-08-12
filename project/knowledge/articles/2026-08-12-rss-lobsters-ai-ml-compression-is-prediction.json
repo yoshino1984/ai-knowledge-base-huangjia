@@ -1,0 +1,34 @@
+{
+  "id": "2026-08-12-rss-lobsters-ai-ml-compression-is-prediction",
+  "title": "Compression is prediction",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://ngrok.com/blog/compression-is-prediction",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-08-12T09:04:02.278041+00:00",
+  "collected_at": "2026-08-12T09:04:02.278042+00:00",
+  "summary": "文章探讨了压缩与预测之间的深层联系，指出压缩算法本质上是在进行预测，这一观点对理解机器学习和大语言模型的工作原理具有启发意义。内容可能涉及信息论、数据压缩与AI模型的交叉领域，适合对AI基础理论感兴趣的读者。",
+  "score": 7,
+  "tags": [
+    "compression",
+    "prediction",
+    "information theory",
+    "machine learning"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "文章探讨了压缩与预测之间的深层联系，指出压缩算法本质上是在进行预测，这一观点对理解机器学习和大语言模型的工作原理具有启发意义。内容可能涉及信息论、数据压缩与AI模型的交叉领域，适合对AI基础理论感兴趣的读者。",
+    "score": 7,
+    "tags": [
+      "compression",
+      "prediction",
+      "information theory",
+      "machine learning"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-08-12T09:05:02.116108+00:00"
+}
