@@ -1,0 +1,32 @@
+{
+  "id": "2026-08-13-rss-hacker-news-best-ai-is-removing-the-middle-class-of-software-engi",
+  "title": "AI is removing the middle class of software engineering?",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+  "author": "Hacker News Best",
+  "published_at": "2026-08-13T09:04:01.791403+00:00",
+  "collected_at": "2026-08-13T09:04:01.791407+00:00",
+  "summary": "文章探讨了AI对软件工程行业结构的影响，认为AI正在消除中级工程师的岗位，同时增加初级和高级工程师的需求。这一观点引发了广泛讨论，反映了行业对AI重塑职业路径的担忧与期待。",
+  "score": 8,
+  "tags": [
+    "AI",
+    "软件工程",
+    "职业影响"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "文章探讨了AI对软件工程行业结构的影响，认为AI正在消除中级工程师的岗位，同时增加初级和高级工程师的需求。这一观点引发了广泛讨论，反映了行业对AI重塑职业路径的担忧与期待。",
+    "score": 8,
+    "tags": [
+      "AI",
+      "软件工程",
+      "职业影响"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-08-13T09:05:08.145509+00:00"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "2026-08-13-rss-hacker-news-best-apple-silicon-and-macos-vms-faster-llm-inference",
+  "title": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+  "author": "Hacker News Best",
+  "published_at": "2026-08-13T09:04:01.791564+00:00",
+  "collected_at": "2026-08-13T09:04:01.791568+00:00",
+  "summary": "本文介绍如何在 macOS 虚拟机中通过 GPU 直通技术，利用 llama.cpp 实现更快的 LLM 推理。文章提供了技术细节和配置方法，旨在提升虚拟化环境下的 AI 性能。",
+  "score": 7,
+  "tags": [
+    "Apple Silicon",
+    "macOS VM",
+    "GPU passthrough",
+    "llama.cpp",
+    "LLM inference"
+  ],
+  "audience": "advanced",
+  "analysis": {
+    "summary": "本文介绍如何在 macOS 虚拟机中通过 GPU 直通技术，利用 llama.cpp 实现更快的 LLM 推理。文章提供了技术细节和配置方法，旨在提升虚拟化环境下的 AI 性能。",
+    "score": 7,
+    "tags": [
+      "Apple Silicon",
+      "macOS VM",
+      "GPU passthrough",
+      "llama.cpp",
+      "LLM inference"
+    ],
+    "audience": "advanced",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-08-13T09:05:08.145527+00:00"
+}

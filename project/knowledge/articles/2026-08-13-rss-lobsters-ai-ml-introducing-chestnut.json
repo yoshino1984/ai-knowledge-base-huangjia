@@ -1,0 +1,32 @@
+{
+  "id": "2026-08-13-rss-lobsters-ai-ml-introducing-chestnut",
+  "title": "Introducing chestnut",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://blog.comma.ai/chestnut/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-08-13T09:04:02.365261+00:00",
+  "collected_at": "2026-08-13T09:04:02.365270+00:00",
+  "summary": "该内容介绍了名为 Chestnut 的新项目或工具，但描述信息有限，仅包含标题和来源链接。核心价值可能在于为 AI/ML 社区提供一个新的技术解决方案或资源，具体细节需进一步查看评论或原文。",
+  "score": 5,
+  "tags": [
+    "AI",
+    "ML",
+    "new-tool"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该内容介绍了名为 Chestnut 的新项目或工具，但描述信息有限，仅包含标题和来源链接。核心价值可能在于为 AI/ML 社区提供一个新的技术解决方案或资源，具体细节需进一步查看评论或原文。",
+    "score": 5,
+    "tags": [
+      "AI",
+      "ML",
+      "new-tool"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-08-13T09:05:08.145542+00:00"
+}

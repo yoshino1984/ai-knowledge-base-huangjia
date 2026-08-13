@@ -1,0 +1,32 @@
+{
+  "id": "2026-08-13-rss-lobsters-ai-ml-the-breaking-news-the-openai-hugging-face-incide",
+  "title": "The 'Breaking' News: The OpenAI–Hugging Face Incident",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://youtu.be/87DyyMV0kCY",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-08-13T09:04:02.365355+00:00",
+  "collected_at": "2026-08-13T09:04:02.365357+00:00",
+  "summary": "该内容报道了OpenAI与Hugging Face之间发生的一起事件，可能涉及技术合作或竞争动态。对于关注AI行业动态的从业者而言，该事件具有信息价值，但具体细节需进一步查看原文。",
+  "score": 6,
+  "tags": [
+    "OpenAI",
+    "Hugging Face",
+    "AI行业动态"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该内容报道了OpenAI与Hugging Face之间发生的一起事件，可能涉及技术合作或竞争动态。对于关注AI行业动态的从业者而言，该事件具有信息价值，但具体细节需进一步查看原文。",
+    "score": 6,
+    "tags": [
+      "OpenAI",
+      "Hugging Face",
+      "AI行业动态"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-08-13T09:05:08.145552+00:00"
+}
