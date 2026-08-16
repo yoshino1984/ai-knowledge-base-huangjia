@@ -1,0 +1,32 @@
+{
+  "id": "2026-08-16-rss-hacker-news-best-ai-by-hand",
+  "title": "AI by Hand",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://www.byhand.ai/",
+  "author": "Hacker News Best",
+  "published_at": "2026-08-16T08:18:46.115142+00:00",
+  "collected_at": "2026-08-16T08:18:46.115144+00:00",
+  "summary": "AI by Hand 是一个通过手工方式（如手写或可视化）来理解和实现 AI 算法的项目，强调从基础原理出发，不依赖现成框架，帮助学习者深入掌握 AI 核心概念。该资源在 Hacker News 上获得较高关注，适合希望扎实理解 AI 底层机制的人群。",
+  "score": 8,
+  "tags": [
+    "AI 教育",
+    "手写实现",
+    "算法原理"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "AI by Hand 是一个通过手工方式（如手写或可视化）来理解和实现 AI 算法的项目，强调从基础原理出发，不依赖现成框架，帮助学习者深入掌握 AI 核心概念。该资源在 Hacker News 上获得较高关注，适合希望扎实理解 AI 底层机制的人群。",
+    "score": 8,
+    "tags": [
+      "AI 教育",
+      "手写实现",
+      "算法原理"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-08-16T08:19:48.648266+00:00"
+}

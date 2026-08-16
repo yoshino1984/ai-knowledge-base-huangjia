@@ -1,0 +1,32 @@
+{
+  "id": "2026-08-16-rss-hacker-news-best-ai-has-access-to-a-vastly-larger-working-memory",
+  "title": "AI has access to a vastly larger working memory than the human brain",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+  "author": "Hacker News Best",
+  "published_at": "2026-08-16T08:18:46.115035+00:00",
+  "collected_at": "2026-08-16T08:18:46.115042+00:00",
+  "summary": "文章探讨了AI在数学推理上的局限性，指出尽管AI拥有比人脑更大的工作记忆，但并未超越数学家的思考能力。核心价值在于澄清AI能力的边界，强调其与人类认知的本质差异。",
+  "score": 7,
+  "tags": [
+    "AI",
+    "数学推理",
+    "认知科学"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "文章探讨了AI在数学推理上的局限性，指出尽管AI拥有比人脑更大的工作记忆，但并未超越数学家的思考能力。核心价值在于澄清AI能力的边界，强调其与人类认知的本质差异。",
+    "score": 7,
+    "tags": [
+      "AI",
+      "数学推理",
+      "认知科学"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-08-16T08:19:48.648240+00:00"
+}

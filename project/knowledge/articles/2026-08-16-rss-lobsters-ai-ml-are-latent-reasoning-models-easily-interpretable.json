@@ -1,0 +1,32 @@
+{
+  "id": "2026-08-16-rss-lobsters-ai-ml-are-latent-reasoning-models-easily-interpretable",
+  "title": "Are Latent Reasoning Models Easily Interpretable?",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://arxiv.org/abs/2604.04902",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-08-16T08:18:46.580845+00:00",
+  "collected_at": "2026-08-16T08:18:46.580853+00:00",
+  "summary": "该研究测试了 Coconut 和 CODI 等潜在推理模型，发现它们在逻辑任务上的高性能主要来自训练数据而非隐藏推理步骤，但在数学问题中，模型隐藏状态确实包含可解码的标准中间步骤，且正确率高达 93%，表明模型比预期更可解释。",
+  "score": 8,
+  "tags": [
+    "interpretability",
+    "latent reasoning",
+    "AI models"
+  ],
+  "audience": "advanced",
+  "analysis": {
+    "summary": "该研究测试了 Coconut 和 CODI 等潜在推理模型，发现它们在逻辑任务上的高性能主要来自训练数据而非隐藏推理步骤，但在数学问题中，模型隐藏状态确实包含可解码的标准中间步骤，且正确率高达 93%，表明模型比预期更可解释。",
+    "score": 8,
+    "tags": [
+      "interpretability",
+      "latent reasoning",
+      "AI models"
+    ],
+    "audience": "advanced",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-08-16T08:19:48.648281+00:00"
+}

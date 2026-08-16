@@ -1,0 +1,34 @@
+{
+  "id": "2026-08-16-rss-hacker-news-best-working-with-ai-feels-more-like-leadership-than",
+  "title": "Working with AI feels more like leadership than coding",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
+  "author": "Hacker News Best",
+  "published_at": "2026-08-16T08:18:46.115097+00:00",
+  "collected_at": "2026-08-16T08:18:46.115099+00:00",
+  "summary": "文章探讨了与AI协作的体验，认为其更像领导而非编码，强调AI时代需要新的技能如任务分解、结果验证和沟通，而非传统编程能力。文章为开发者和管理者提供了关于AI协作的深刻见解，引发对工作角色转变的思考。",
+  "score": 7,
+  "tags": [
+    "AI协作",
+    "领导力",
+    "编程",
+    "技能转变"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "文章探讨了与AI协作的体验，认为其更像领导而非编码，强调AI时代需要新的技能如任务分解、结果验证和沟通，而非传统编程能力。文章为开发者和管理者提供了关于AI协作的深刻见解，引发对工作角色转变的思考。",
+    "score": 7,
+    "tags": [
+      "AI协作",
+      "领导力",
+      "编程",
+      "技能转变"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-08-16T08:19:48.648257+00:00"
+}

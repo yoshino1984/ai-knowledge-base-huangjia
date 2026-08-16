@@ -1,0 +1,32 @@
+{
+  "id": "2026-08-16-rss-hacker-news-best-google-is-making-private-ai-practical-with-homom",
+  "title": "Google is making private AI practical with homomorphic encryption",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+  "author": "Hacker News Best",
+  "published_at": "2026-08-16T08:18:46.115189+00:00",
+  "collected_at": "2026-08-16T08:18:46.115191+00:00",
+  "summary": "Google 正在推进同态加密技术的实际应用，使 AI 能够在加密数据上直接进行计算，从而保护用户隐私。该技术有望解决 AI 隐私保护的难题，实现私有 AI 的实用化。",
+  "score": 8,
+  "tags": [
+    "同态加密",
+    "隐私保护",
+    "AI安全"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "Google 正在推进同态加密技术的实际应用，使 AI 能够在加密数据上直接进行计算，从而保护用户隐私。该技术有望解决 AI 隐私保护的难题，实现私有 AI 的实用化。",
+    "score": 8,
+    "tags": [
+      "同态加密",
+      "隐私保护",
+      "AI安全"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-08-16T08:19:48.648274+00:00"
+}
