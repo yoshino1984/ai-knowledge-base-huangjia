@@ -1,0 +1,36 @@
+{
+  "id": "2026-08-17-rss-hacker-news-best-ai-in-drug-discovery-what-it-is-where-we-stand-a",
+  "title": "AI in drug discovery – what it is, where we stand and the path forward",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+  "author": "Hacker News Best",
+  "published_at": "2026-08-17T08:33:35.667412+00:00",
+  "collected_at": "2026-08-17T08:33:35.667414+00:00",
+  "summary": "本文是Nature Reviews Drug Discovery上的一篇综述，系统梳理了AI在药物发现中的应用现状、挑战与未来方向，涵盖从靶点识别到临床试验的全流程。文章基于最新数据与案例，评估了AI技术的实际成效与局限，为行业提供了务实的路线图。",
+  "score": 8,
+  "tags": [
+    "AI",
+    "drug discovery",
+    "pharmaceutical",
+    "review",
+    "Nature"
+  ],
+  "audience": "advanced",
+  "analysis": {
+    "summary": "本文是Nature Reviews Drug Discovery上的一篇综述，系统梳理了AI在药物发现中的应用现状、挑战与未来方向，涵盖从靶点识别到临床试验的全流程。文章基于最新数据与案例，评估了AI技术的实际成效与局限，为行业提供了务实的路线图。",
+    "score": 8,
+    "tags": [
+      "AI",
+      "drug discovery",
+      "pharmaceutical",
+      "review",
+      "Nature"
+    ],
+    "audience": "advanced",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-08-17T08:34:36.763185+00:00"
+}
