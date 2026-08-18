@@ -1,0 +1,32 @@
+{
+  "id": "2026-08-18-rss-hacker-news-best-ai-dr-ai-didn-t-read",
+  "title": "AI;DR (AI; Didn't Read)",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+  "author": "Hacker News Best",
+  "published_at": "2026-08-18T08:25:44.917702+00:00",
+  "collected_at": "2026-08-18T08:25:44.917707+00:00",
+  "summary": "该文章探讨了AI在信息过载时代中的角色，提出“AI;DR”概念，即AI帮助用户快速摘要长文，但可能引发对深度阅读和批判性思维的担忧。文章结合Hacker News社区的高讨论度，反映了技术界对AI辅助阅读的复杂态度。",
+  "score": 8,
+  "tags": [
+    "AI摘要",
+    "信息过载",
+    "阅读习惯"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该文章探讨了AI在信息过载时代中的角色，提出“AI;DR”概念，即AI帮助用户快速摘要长文，但可能引发对深度阅读和批判性思维的担忧。文章结合Hacker News社区的高讨论度，反映了技术界对AI辅助阅读的复杂态度。",
+    "score": 8,
+    "tags": [
+      "AI摘要",
+      "信息过载",
+      "阅读习惯"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-08-18T08:26:54.749475+00:00"
+}

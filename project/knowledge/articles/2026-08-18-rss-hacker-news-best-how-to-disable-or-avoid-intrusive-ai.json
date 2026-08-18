@@ -1,0 +1,32 @@
+{
+  "id": "2026-08-18-rss-hacker-news-best-how-to-disable-or-avoid-intrusive-ai",
+  "title": "How to disable or avoid intrusive AI",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://www.librarian.net/notoai/",
+  "author": "Hacker News Best",
+  "published_at": "2026-08-18T08:25:44.917871+00:00",
+  "collected_at": "2026-08-18T08:25:44.917875+00:00",
+  "summary": "这篇文章提供了关于如何禁用或避免侵入性AI的实用指南，涵盖了浏览器设置、扩展程序和隐私工具等具体方法。其价值在于帮助用户重新掌控数字环境，减少AI干扰，适合对AI隐私问题关注的普通用户。",
+  "score": 7,
+  "tags": [
+    "AI隐私",
+    "禁用AI",
+    "实用指南"
+  ],
+  "audience": "beginner",
+  "analysis": {
+    "summary": "这篇文章提供了关于如何禁用或避免侵入性AI的实用指南，涵盖了浏览器设置、扩展程序和隐私工具等具体方法。其价值在于帮助用户重新掌控数字环境，减少AI干扰，适合对AI隐私问题关注的普通用户。",
+    "score": 7,
+    "tags": [
+      "AI隐私",
+      "禁用AI",
+      "实用指南"
+    ],
+    "audience": "beginner",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-08-18T08:26:54.749496+00:00"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "2026-08-18-rss-lobsters-ai-ml-we-tracked-a-shipment-of-rare-books-it-ended-at",
+  "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-08-18T08:25:45.267811+00:00",
+  "collected_at": "2026-08-18T08:25:45.267814+00:00",
+  "summary": "该报道追踪了一批稀有书籍的运输过程，发现其最终被送往亚马逊的AI训练设施，揭示了大型科技公司为训练AI模型而收集数据（包括实体书籍）的行为。内容引发对AI训练数据来源和版权问题的关注。",
+  "score": 8,
+  "tags": [
+    "AI训练",
+    "数据来源",
+    "亚马逊",
+    "版权"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该报道追踪了一批稀有书籍的运输过程，发现其最终被送往亚马逊的AI训练设施，揭示了大型科技公司为训练AI模型而收集数据（包括实体书籍）的行为。内容引发对AI训练数据来源和版权问题的关注。",
+    "score": 8,
+    "tags": [
+      "AI训练",
+      "数据来源",
+      "亚马逊",
+      "版权"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-08-18T08:26:54.749513+00:00"
+}

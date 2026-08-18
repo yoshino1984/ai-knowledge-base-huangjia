@@ -1,0 +1,32 @@
+{
+  "id": "2026-08-18-rss-lobsters-ai-ml-retrofitting-a-build-system-into-a-compiler",
+  "title": "Retrofitting a build system into a compiler",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://www.dra27.uk/blog/platform/2025/09/25/building-with-effects.html",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-08-18T08:25:45.267738+00:00",
+  "collected_at": "2026-08-18T08:25:45.267748+00:00",
+  "summary": "本文探讨了将构建系统功能集成到编译器中的方法，通过改造编译器来优化构建流程，减少构建时间并提高效率。该内容对编译器设计和构建系统优化具有参考价值，适合对编译原理和开发工具链感兴趣的开发者。",
+  "score": 7,
+  "tags": [
+    "compiler",
+    "build system",
+    "optimization"
+  ],
+  "audience": "advanced",
+  "analysis": {
+    "summary": "本文探讨了将构建系统功能集成到编译器中的方法，通过改造编译器来优化构建流程，减少构建时间并提高效率。该内容对编译器设计和构建系统优化具有参考价值，适合对编译原理和开发工具链感兴趣的开发者。",
+    "score": 7,
+    "tags": [
+      "compiler",
+      "build system",
+      "optimization"
+    ],
+    "audience": "advanced",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-08-18T08:26:54.749504+00:00"
+}
