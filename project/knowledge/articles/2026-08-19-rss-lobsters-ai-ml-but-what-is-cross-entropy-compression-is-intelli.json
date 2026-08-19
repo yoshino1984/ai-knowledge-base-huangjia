@@ -1,0 +1,34 @@
+{
+  "id": "2026-08-19-rss-lobsters-ai-ml-but-what-is-cross-entropy-compression-is-intelli",
+  "title": "But what is cross-entropy? | Compression is Intelligence Part 2 - YouTube",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://www.youtube.com/watch?v=GlYgs6v2YfU",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-08-19T08:26:20.437573+00:00",
+  "collected_at": "2026-08-19T08:26:20.437582+00:00",
+  "summary": "该视频深入浅出地解释了交叉熵的概念，并将其与压缩和智能联系起来，帮助观众理解信息论在机器学习中的核心作用。内容适合希望夯实理论基础的学习者。",
+  "score": 7,
+  "tags": [
+    "交叉熵",
+    "信息论",
+    "机器学习",
+    "压缩"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该视频深入浅出地解释了交叉熵的概念，并将其与压缩和智能联系起来，帮助观众理解信息论在机器学习中的核心作用。内容适合希望夯实理论基础的学习者。",
+    "score": 7,
+    "tags": [
+      "交叉熵",
+      "信息论",
+      "机器学习",
+      "压缩"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-08-19T08:27:23.974332+00:00"
+}
