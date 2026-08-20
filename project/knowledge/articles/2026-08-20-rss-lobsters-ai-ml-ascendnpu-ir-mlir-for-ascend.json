@@ -1,0 +1,32 @@
+{
+  "id": "2026-08-20-rss-lobsters-ai-ml-ascendnpu-ir-mlir-for-ascend",
+  "title": "AscendNPU-IR: MLIR for Ascend",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://gitcode.com/Ascend/AscendNPU-IR",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-08-20T08:27:47.538808+00:00",
+  "collected_at": "2026-08-20T08:27:47.538816+00:00",
+  "summary": "AscendNPU-IR 是一个基于 MLIR 的编译器项目，旨在为华为 Ascend NPU 提供统一的中间表示和优化能力。该项目通过 MLIR 框架简化了 AI 模型在 Ascend 硬件上的部署，提升了编译效率和可移植性。",
+  "score": 7,
+  "tags": [
+    "MLIR",
+    "Ascend NPU",
+    "编译器"
+  ],
+  "audience": "advanced",
+  "analysis": {
+    "summary": "AscendNPU-IR 是一个基于 MLIR 的编译器项目，旨在为华为 Ascend NPU 提供统一的中间表示和优化能力。该项目通过 MLIR 框架简化了 AI 模型在 Ascend 硬件上的部署，提升了编译效率和可移植性。",
+    "score": 7,
+    "tags": [
+      "MLIR",
+      "Ascend NPU",
+      "编译器"
+    ],
+    "audience": "advanced",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-08-20T08:28:52.201750+00:00"
+}

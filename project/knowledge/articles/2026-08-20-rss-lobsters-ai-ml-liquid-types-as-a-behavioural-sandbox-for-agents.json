@@ -1,0 +1,34 @@
+{
+  "id": "2026-08-20-rss-lobsters-ai-ml-liquid-types-as-a-behavioural-sandbox-for-agents",
+  "title": "Liquid Types as a behavioural sandbox for agents",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://wiki.alcidesfonseca.com/blog/aeonbox-logical-guardrails-for-agents/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-08-20T08:27:47.538872+00:00",
+  "collected_at": "2026-08-20T08:27:47.538873+00:00",
+  "summary": "本文探讨了将液体类型（Liquid Types）作为智能体行为沙箱的概念，旨在通过类型系统约束智能体行为，提高安全性和可预测性。该内容为AI安全与形式化方法交叉领域提供了新颖思路，具有潜在研究价值。",
+  "score": 7,
+  "tags": [
+    "Liquid Types",
+    "AI安全",
+    "形式化方法",
+    "智能体"
+  ],
+  "audience": "advanced",
+  "analysis": {
+    "summary": "本文探讨了将液体类型（Liquid Types）作为智能体行为沙箱的概念，旨在通过类型系统约束智能体行为，提高安全性和可预测性。该内容为AI安全与形式化方法交叉领域提供了新颖思路，具有潜在研究价值。",
+    "score": 7,
+    "tags": [
+      "Liquid Types",
+      "AI安全",
+      "形式化方法",
+      "智能体"
+    ],
+    "audience": "advanced",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-08-20T08:28:52.201774+00:00"
+}
