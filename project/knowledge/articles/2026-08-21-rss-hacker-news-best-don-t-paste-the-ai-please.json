@@ -1,0 +1,32 @@
+{
+  "id": "2026-08-21-rss-hacker-news-best-don-t-paste-the-ai-please",
+  "title": "Don't paste the AI, please",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://dontpastetheai.com/",
+  "author": "Hacker News Best",
+  "published_at": "2026-08-21T08:29:46.637868+00:00",
+  "collected_at": "2026-08-21T08:29:46.637870+00:00",
+  "summary": "这篇文章批评了将AI生成的文本直接粘贴到代码库中的做法，强调这种做法可能导致代码质量下降、维护困难以及潜在的安全风险。文章建议开发者应谨慎使用AI工具，并确保对生成内容进行审查和测试。",
+  "score": 7,
+  "tags": [
+    "AI代码生成",
+    "代码质量",
+    "开发实践"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "这篇文章批评了将AI生成的文本直接粘贴到代码库中的做法，强调这种做法可能导致代码质量下降、维护困难以及潜在的安全风险。文章建议开发者应谨慎使用AI工具，并确保对生成内容进行审查和测试。",
+    "score": 7,
+    "tags": [
+      "AI代码生成",
+      "代码质量",
+      "开发实践"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-08-21T08:30:57.370961+00:00"
+}

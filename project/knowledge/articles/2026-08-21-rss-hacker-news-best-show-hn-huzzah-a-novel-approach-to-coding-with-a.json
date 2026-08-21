@@ -1,0 +1,36 @@
+{
+  "id": "2026-08-21-rss-hacker-news-best-show-hn-huzzah-a-novel-approach-to-coding-with-a",
+  "title": "Show HN: Huzzah – a novel approach to coding with AI",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://www.danielvaughn.dev/posts/huzzah/",
+  "author": "Hacker News Best",
+  "published_at": "2026-08-21T08:29:46.637818+00:00",
+  "collected_at": "2026-08-21T08:29:46.637821+00:00",
+  "summary": "Huzzah 是一个实验性编辑器，提出了一种新的 AI 编程交互范式：用户编写伪代码，保存时自动同步生成真实源代码，并持久化伪代码作为意图记录。该工具旨在解决编码代理在复杂代码库中的局限性和用户对繁琐提示的厌倦，提供介于手动编码和全自动代理之间的中间体验。",
+  "score": 8,
+  "tags": [
+    "AI编程",
+    "伪代码",
+    "编辑器",
+    "开发者工具",
+    "人机交互"
+  ],
+  "audience": "advanced",
+  "analysis": {
+    "summary": "Huzzah 是一个实验性编辑器，提出了一种新的 AI 编程交互范式：用户编写伪代码，保存时自动同步生成真实源代码，并持久化伪代码作为意图记录。该工具旨在解决编码代理在复杂代码库中的局限性和用户对繁琐提示的厌倦，提供介于手动编码和全自动代理之间的中间体验。",
+    "score": 8,
+    "tags": [
+      "AI编程",
+      "伪代码",
+      "编辑器",
+      "开发者工具",
+      "人机交互"
+    ],
+    "audience": "advanced",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-08-21T08:30:57.370950+00:00"
+}

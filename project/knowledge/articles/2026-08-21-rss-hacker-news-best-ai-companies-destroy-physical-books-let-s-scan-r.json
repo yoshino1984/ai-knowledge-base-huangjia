@@ -1,0 +1,36 @@
+{
+  "id": "2026-08-21-rss-hacker-news-best-ai-companies-destroy-physical-books-let-s-scan-r",
+  "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://annas-archive.gl/blog/physical-destruction.html",
+  "author": "Hacker News Best",
+  "published_at": "2026-08-21T08:29:46.637720+00:00",
+  "collected_at": "2026-08-21T08:29:46.637728+00:00",
+  "summary": "文章指出AI公司为训练模型而大规模扫描图书，导致实体书被物理销毁，尤其是稀有书籍面临永久性损失。作者呼吁在珍贵书籍被毁前进行数字化保存，并批评AI行业对文化遗产的忽视。内容具有紧迫性和社会价值，引发对技术发展与文化保护冲突的讨论。",
+  "score": 8,
+  "tags": [
+    "AI训练",
+    "文化遗产",
+    "数字化保存",
+    "稀有书籍",
+    "伦理争议"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "文章指出AI公司为训练模型而大规模扫描图书，导致实体书被物理销毁，尤其是稀有书籍面临永久性损失。作者呼吁在珍贵书籍被毁前进行数字化保存，并批评AI行业对文化遗产的忽视。内容具有紧迫性和社会价值，引发对技术发展与文化保护冲突的讨论。",
+    "score": 8,
+    "tags": [
+      "AI训练",
+      "文化遗产",
+      "数字化保存",
+      "稀有书籍",
+      "伦理争议"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-08-21T08:30:57.370930+00:00"
+}
