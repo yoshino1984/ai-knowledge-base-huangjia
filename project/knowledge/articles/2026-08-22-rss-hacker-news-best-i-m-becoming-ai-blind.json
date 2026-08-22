@@ -1,0 +1,32 @@
+{
+  "id": "2026-08-22-rss-hacker-news-best-i-m-becoming-ai-blind",
+  "title": "I'm becoming AI-blind",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://cymerys.com/w/im-becoming-ai-blind",
+  "author": "Hacker News Best",
+  "published_at": "2026-08-22T08:18:45.276769+00:00",
+  "collected_at": "2026-08-22T08:18:45.276779+00:00",
+  "summary": "作者反思自己因过度接触AI生成内容而逐渐失去对AI的敏感度，变得难以区分人类与AI创作。文章探讨了这种“AI失明”现象对信息消费和创作的影响，并呼吁重新审视AI在内容生产中的角色。价值在于引发对AI内容泛滥的批判性思考。",
+  "score": 7,
+  "tags": [
+    "AI生成内容",
+    "认知偏差",
+    "内容消费"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "作者反思自己因过度接触AI生成内容而逐渐失去对AI的敏感度，变得难以区分人类与AI创作。文章探讨了这种“AI失明”现象对信息消费和创作的影响，并呼吁重新审视AI在内容生产中的角色。价值在于引发对AI内容泛滥的批判性思考。",
+    "score": 7,
+    "tags": [
+      "AI生成内容",
+      "认知偏差",
+      "内容消费"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-08-22T08:19:48.908751+00:00"
+}

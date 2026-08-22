@@ -1,0 +1,36 @@
+{
+  "id": "2026-08-22-rss-hacker-news-best-vomit-clean-up-claude-5-s-token-output-with-a-se",
+  "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://github.com/zachahn/vomit",
+  "author": "Hacker News Best",
+  "published_at": "2026-08-22T08:18:45.277197+00:00",
+  "collected_at": "2026-08-22T08:18:45.277203+00:00",
+  "summary": "该项目提出使用另一个LLM来清理Claude 5的token输出，以提高输出质量或降低成本。它通过分离生成与清理过程，优化了token使用效率，并可能改善最终文本的连贯性。该工具在Hacker News上获得较高关注，表明其创新性和实用性受到认可。",
+  "score": 7,
+  "tags": [
+    "LLM",
+    "token优化",
+    "Claude",
+    "文本清理",
+    "工具"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该项目提出使用另一个LLM来清理Claude 5的token输出，以提高输出质量或降低成本。它通过分离生成与清理过程，优化了token使用效率，并可能改善最终文本的连贯性。该工具在Hacker News上获得较高关注，表明其创新性和实用性受到认可。",
+    "score": 7,
+    "tags": [
+      "LLM",
+      "token优化",
+      "Claude",
+      "文本清理",
+      "工具"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-08-22T08:19:48.908784+00:00"
+}
