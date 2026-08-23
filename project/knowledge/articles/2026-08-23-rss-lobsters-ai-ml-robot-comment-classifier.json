@@ -1,0 +1,32 @@
+{
+  "id": "2026-08-23-rss-lobsters-ai-ml-robot-comment-classifier",
+  "title": "Robot comment classifier",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://entropicthoughts.com/ai-comment-classifier",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-08-23T08:20:15.667134+00:00",
+  "collected_at": "2026-08-23T08:20:15.667146+00:00",
+  "summary": "本文介绍了一个机器人评论分类器，该分类器基于逻辑回归或支持向量机模型，对大型语言模型生成的评论进行识别和分类。文章的核心价值在于展示了如何利用传统机器学习方法对AI生成内容进行检测，为内容审核和反垃圾信息提供了技术方案。",
+  "score": 7,
+  "tags": [
+    "机器学习",
+    "内容审核",
+    "AI检测"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "本文介绍了一个机器人评论分类器，该分类器基于逻辑回归或支持向量机模型，对大型语言模型生成的评论进行识别和分类。文章的核心价值在于展示了如何利用传统机器学习方法对AI生成内容进行检测，为内容审核和反垃圾信息提供了技术方案。",
+    "score": 7,
+    "tags": [
+      "机器学习",
+      "内容审核",
+      "AI检测"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-08-23T08:21:31.632403+00:00"
+}
