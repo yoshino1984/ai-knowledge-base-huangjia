@@ -1,0 +1,36 @@
+{
+  "id": "2026-08-24-rss-hacker-news-best-munder-difflin-agent-harness-to-run-an-office-of",
+  "title": "Munder Difflin – Agent harness to run an office of your clones",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://munderdiffl.in/",
+  "author": "Hacker News Best",
+  "published_at": "2026-08-24T08:37:54.587389+00:00",
+  "collected_at": "2026-08-24T08:37:54.587391+00:00",
+  "summary": "Munder Difflin 是一个 AI 代理工具，允许用户运行和管理多个 AI 克隆体（clones）来模拟办公室环境，用于自动化任务或协作。该项目在 Hacker News 上获得高关注度，表明其对开发者社区有吸引力，可能用于测试、模拟或自动化工作流。",
+  "score": 8,
+  "tags": [
+    "AI代理",
+    "自动化",
+    "多智能体",
+    "模拟",
+    "开发者工具"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "Munder Difflin 是一个 AI 代理工具，允许用户运行和管理多个 AI 克隆体（clones）来模拟办公室环境，用于自动化任务或协作。该项目在 Hacker News 上获得高关注度，表明其对开发者社区有吸引力，可能用于测试、模拟或自动化工作流。",
+    "score": 8,
+    "tags": [
+      "AI代理",
+      "自动化",
+      "多智能体",
+      "模拟",
+      "开发者工具"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-08-24T08:39:03.513583+00:00"
+}

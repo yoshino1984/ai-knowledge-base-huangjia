@@ -1,0 +1,32 @@
+{
+  "id": "2026-08-24-rss-hacker-news-best-why-your-local-llm-feels-dumber-than-it-is",
+  "title": "Why your local LLM feels dumber than it is",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+  "author": "Hacker News Best",
+  "published_at": "2026-08-24T08:37:54.587328+00:00",
+  "collected_at": "2026-08-24T08:37:54.587330+00:00",
+  "summary": "本文探讨了本地运行的LLM（大语言模型）在性能上可能不如预期，但并非模型本身能力不足，而是由于推理设置、上下文管理或硬件配置等外部因素导致。文章提供了优化建议，帮助用户提升本地LLM的实际表现，具有实用价值。",
+  "score": 7,
+  "tags": [
+    "LLM",
+    "本地部署",
+    "性能优化"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "本文探讨了本地运行的LLM（大语言模型）在性能上可能不如预期，但并非模型本身能力不足，而是由于推理设置、上下文管理或硬件配置等外部因素导致。文章提供了优化建议，帮助用户提升本地LLM的实际表现，具有实用价值。",
+    "score": 7,
+    "tags": [
+      "LLM",
+      "本地部署",
+      "性能优化"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-08-24T08:39:03.513572+00:00"
+}

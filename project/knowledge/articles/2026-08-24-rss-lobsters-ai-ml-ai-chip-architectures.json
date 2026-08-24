@@ -1,0 +1,32 @@
+{
+  "id": "2026-08-24-rss-lobsters-ai-ml-ai-chip-architectures",
+  "title": "AI Chip Architectures",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://www.jepeake.com/ai-chip-architectures",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-08-24T08:37:55.013093+00:00",
+  "collected_at": "2026-08-24T08:37:55.013101+00:00",
+  "summary": "本文探讨了AI芯片架构的设计与演进，涵盖了从传统CPU/GPU到专用AI加速器的技术路径，并分析了不同架构在性能、能效和成本上的权衡。内容对理解AI硬件发展趋势具有参考价值，适合关注AI基础设施的读者。",
+  "score": 7,
+  "tags": [
+    "AI芯片",
+    "硬件架构",
+    "加速器"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "本文探讨了AI芯片架构的设计与演进，涵盖了从传统CPU/GPU到专用AI加速器的技术路径，并分析了不同架构在性能、能效和成本上的权衡。内容对理解AI硬件发展趋势具有参考价值，适合关注AI基础设施的读者。",
+    "score": 7,
+    "tags": [
+      "AI芯片",
+      "硬件架构",
+      "加速器"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-08-24T08:39:03.513589+00:00"
+}
