@@ -1,0 +1,32 @@
+{
+  "id": "2026-08-26-rss-lobsters-ai-ml-apple-s-new-desktop-computers-are-designed-speci",
+  "title": "Apple's new desktop computers are designed specifically for local AI development",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-08-26T08:33:33.659245+00:00",
+  "collected_at": "2026-08-26T08:33:33.659246+00:00",
+  "summary": "苹果新发布的桌面电脑专为本地AI开发设计，旨在提供强大的本地计算能力，减少对云端的依赖。该产品对AI开发者具有重要价值，可提升开发效率和隐私保护。",
+  "score": 7,
+  "tags": [
+    "Apple",
+    "AI开发",
+    "本地计算"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "苹果新发布的桌面电脑专为本地AI开发设计，旨在提供强大的本地计算能力，减少对云端的依赖。该产品对AI开发者具有重要价值，可提升开发效率和隐私保护。",
+    "score": 7,
+    "tags": [
+      "Apple",
+      "AI开发",
+      "本地计算"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-08-26T08:34:41.945584+00:00"
+}

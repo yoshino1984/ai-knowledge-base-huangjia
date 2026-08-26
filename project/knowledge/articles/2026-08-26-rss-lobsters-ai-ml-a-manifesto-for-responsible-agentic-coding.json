@@ -1,0 +1,32 @@
+{
+  "id": "2026-08-26-rss-lobsters-ai-ml-a-manifesto-for-responsible-agentic-coding",
+  "title": "A Manifesto for Responsible Agentic Coding",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://www.techwerkers.nl/en/posts/manifesto-responsible-agentic-coding/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-08-26T08:33:33.659219+00:00",
+  "collected_at": "2026-08-26T08:33:33.659221+00:00",
+  "summary": "该内容是一篇关于负责任智能体编码的宣言，强调在AI辅助编程中应遵循的伦理和工程原则，旨在引导开发者合理使用智能体工具，确保代码质量与安全性。其价值在于为AI编程实践提供规范性指导，促进技术应用的可靠性。",
+  "score": 7,
+  "tags": [
+    "AI编程",
+    "负责任开发",
+    "智能体"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该内容是一篇关于负责任智能体编码的宣言，强调在AI辅助编程中应遵循的伦理和工程原则，旨在引导开发者合理使用智能体工具，确保代码质量与安全性。其价值在于为AI编程实践提供规范性指导，促进技术应用的可靠性。",
+    "score": 7,
+    "tags": [
+      "AI编程",
+      "负责任开发",
+      "智能体"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-08-26T08:34:41.945577+00:00"
+}

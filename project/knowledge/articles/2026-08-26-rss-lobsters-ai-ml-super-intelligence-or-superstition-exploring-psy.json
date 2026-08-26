@@ -1,0 +1,34 @@
+{
+  "id": "2026-08-26-rss-lobsters-ai-ml-super-intelligence-or-superstition-exploring-psy",
+  "title": "Super-intelligence or Superstition? Exploring Psychological Factors Influencing Belief in AI Predictions about Personal Behavior",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://arxiv.org/abs/2408.06602",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-08-26T08:33:33.659269+00:00",
+  "collected_at": "2026-08-26T08:33:33.659271+00:00",
+  "summary": "该研究探讨了影响人们相信AI对其个人行为预测的心理因素，质疑AI是否被视为超智能或迷信。文章提供了对AI信任度的心理学见解，对理解用户与AI互动有参考价值。",
+  "score": 7,
+  "tags": [
+    "AI预测",
+    "心理学",
+    "信任",
+    "用户行为"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该研究探讨了影响人们相信AI对其个人行为预测的心理因素，质疑AI是否被视为超智能或迷信。文章提供了对AI信任度的心理学见解，对理解用户与AI互动有参考价值。",
+    "score": 7,
+    "tags": [
+      "AI预测",
+      "心理学",
+      "信任",
+      "用户行为"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-08-26T08:34:41.945593+00:00"
+}

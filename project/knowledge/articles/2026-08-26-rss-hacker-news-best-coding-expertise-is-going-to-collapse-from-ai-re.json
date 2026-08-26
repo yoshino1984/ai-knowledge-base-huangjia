@@ -1,0 +1,32 @@
+{
+  "id": "2026-08-26-rss-hacker-news-best-coding-expertise-is-going-to-collapse-from-ai-re",
+  "title": "Coding expertise is going to collapse from AI reliance",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+  "author": "Hacker News Best",
+  "published_at": "2026-08-26T08:33:33.238207+00:00",
+  "collected_at": "2026-08-26T08:33:33.238210+00:00",
+  "summary": "这篇文章探讨了过度依赖AI编码工具可能导致开发者专业技能衰退的风险，指出虽然AI能提升效率，但长期依赖会削弱问题解决和代码审查能力。文章引发了广泛讨论，反映了技术社区对AI影响职业发展的深切关注。",
+  "score": 8,
+  "tags": [
+    "AI编码",
+    "技能退化",
+    "开发者职业发展"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "这篇文章探讨了过度依赖AI编码工具可能导致开发者专业技能衰退的风险，指出虽然AI能提升效率，但长期依赖会削弱问题解决和代码审查能力。文章引发了广泛讨论，反映了技术社区对AI影响职业发展的深切关注。",
+    "score": 8,
+    "tags": [
+      "AI编码",
+      "技能退化",
+      "开发者职业发展"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-08-26T08:34:41.945563+00:00"
+}

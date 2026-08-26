@@ -1,0 +1,32 @@
+{
+  "id": "2026-08-26-rss-hacker-news-best-how-much-of-hn-is-ai",
+  "title": "How much of HN is AI?",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
+  "author": "Hacker News Best",
+  "published_at": "2026-08-26T08:33:33.238138+00:00",
+  "collected_at": "2026-08-26T08:33:33.238146+00:00",
+  "summary": "这篇文章分析了 Hacker News 上 AI 相关内容的占比，通过数据统计和趋势观察，揭示了 AI 话题在社区中的热度及其变化。文章提供了有价值的量化视角，帮助读者理解 AI 在技术社区中的影响力。",
+  "score": 7,
+  "tags": [
+    "AI",
+    "Hacker News",
+    "数据分析"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "这篇文章分析了 Hacker News 上 AI 相关内容的占比，通过数据统计和趋势观察，揭示了 AI 话题在社区中的热度及其变化。文章提供了有价值的量化视角，帮助读者理解 AI 在技术社区中的影响力。",
+    "score": 7,
+    "tags": [
+      "AI",
+      "Hacker News",
+      "数据分析"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-08-26T08:34:41.945543+00:00"
+}

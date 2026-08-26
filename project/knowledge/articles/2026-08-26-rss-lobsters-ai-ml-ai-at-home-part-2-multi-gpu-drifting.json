@@ -1,0 +1,32 @@
+{
+  "id": "2026-08-26-rss-lobsters-ai-ml-ai-at-home-part-2-multi-gpu-drifting",
+  "title": "AI At Home Part 2: Multi GPU Drifting",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-08-26T08:33:33.659160+00:00",
+  "collected_at": "2026-08-26T08:33:33.659169+00:00",
+  "summary": "本文是《AI At Home》系列的第二部分，聚焦于多GPU环境下的模型漂移问题，探讨了在家庭或小型集群中配置多GPU进行AI训练或推理时可能遇到的技术挑战与解决方案。内容对实践者具有参考价值，有助于优化多GPU部署的稳定性和性能。",
+  "score": 7,
+  "tags": [
+    "多GPU",
+    "模型漂移",
+    "AI基础设施"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "本文是《AI At Home》系列的第二部分，聚焦于多GPU环境下的模型漂移问题，探讨了在家庭或小型集群中配置多GPU进行AI训练或推理时可能遇到的技术挑战与解决方案。内容对实践者具有参考价值，有助于优化多GPU部署的稳定性和性能。",
+    "score": 7,
+    "tags": [
+      "多GPU",
+      "模型漂移",
+      "AI基础设施"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-08-26T08:34:41.945571+00:00"
+}
