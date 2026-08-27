@@ -1,0 +1,36 @@
+{
+  "id": "2026-08-27-rss-hacker-news-best-z-ai-confirms-ox-alpha-is-a-new-glm-series-model",
+  "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+  "author": "Hacker News Best",
+  "published_at": "2026-08-27T18:40:43.776404+00:00",
+  "collected_at": "2026-08-27T18:40:43.776407+00:00",
+  "summary": "Z.ai 确认其新模型 Ox Alpha 属于 GLM 系列，并计划开源权重，该模型在性能上可与 DeepSeek 竞争。这一消息对 AI 社区具有重要意义，表明中国 AI 公司在开源模型方面持续发力，可能推动行业竞争和创新。",
+  "score": 8,
+  "tags": [
+    "AI模型",
+    "开源",
+    "GLM",
+    "Z.ai",
+    "DeepSeek"
+  ],
+  "audience": "advanced",
+  "analysis": {
+    "summary": "Z.ai 确认其新模型 Ox Alpha 属于 GLM 系列，并计划开源权重，该模型在性能上可与 DeepSeek 竞争。这一消息对 AI 社区具有重要意义，表明中国 AI 公司在开源模型方面持续发力，可能推动行业竞争和创新。",
+    "score": 8,
+    "tags": [
+      "AI模型",
+      "开源",
+      "GLM",
+      "Z.ai",
+      "DeepSeek"
+    ],
+    "audience": "advanced",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-08-27T18:41:53.982416+00:00"
+}
