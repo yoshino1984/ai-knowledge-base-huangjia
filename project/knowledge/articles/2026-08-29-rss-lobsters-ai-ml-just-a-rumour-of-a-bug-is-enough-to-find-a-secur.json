@@ -1,0 +1,32 @@
+{
+  "id": "2026-08-29-rss-lobsters-ai-ml-just-a-rumour-of-a-bug-is-enough-to-find-a-secur",
+  "title": "Just a rumour of a bug is enough to find a security exploit these days",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-08-29T13:30:43.084742+00:00",
+  "collected_at": "2026-08-29T13:30:43.084751+00:00",
+  "summary": "该文章讨论了一个安全现象：仅凭关于漏洞的传闻就足以发现安全漏洞，强调了安全社区中信息传播的潜在风险。内容对安全研究人员和开发者有警示价值，提醒他们关注漏洞披露前的信息泄露。",
+  "score": 7,
+  "tags": [
+    "security",
+    "vulnerability",
+    "AI"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该文章讨论了一个安全现象：仅凭关于漏洞的传闻就足以发现安全漏洞，强调了安全社区中信息传播的潜在风险。内容对安全研究人员和开发者有警示价值，提醒他们关注漏洞披露前的信息泄露。",
+    "score": 7,
+    "tags": [
+      "security",
+      "vulnerability",
+      "AI"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-08-29T13:31:50.486159+00:00"
+}
