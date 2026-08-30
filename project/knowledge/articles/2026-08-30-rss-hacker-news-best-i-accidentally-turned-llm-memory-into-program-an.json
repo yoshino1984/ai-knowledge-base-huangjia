@@ -1,0 +1,34 @@
+{
+  "id": "2026-08-30-rss-hacker-news-best-i-accidentally-turned-llm-memory-into-program-an",
+  "title": "I accidentally turned LLM memory into program analysis",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://pwning.systems/posts/llm-memory-program-analysis/",
+  "author": "Hacker News Best",
+  "published_at": "2026-08-30T13:26:20.092590+00:00",
+  "collected_at": "2026-08-30T13:26:20.092591+00:00",
+  "summary": "作者意外发现将LLM内存机制用于程序分析，可能揭示了一种新的分析范式。文章探讨了LLM内部状态如何映射到程序行为，为调试和漏洞检测提供新思路。价值在于启发AI与软件工程交叉领域的研究。",
+  "score": 7,
+  "tags": [
+    "LLM",
+    "program-analysis",
+    "memory",
+    "debugging"
+  ],
+  "audience": "advanced",
+  "analysis": {
+    "summary": "作者意外发现将LLM内存机制用于程序分析，可能揭示了一种新的分析范式。文章探讨了LLM内部状态如何映射到程序行为，为调试和漏洞检测提供新思路。价值在于启发AI与软件工程交叉领域的研究。",
+    "score": 7,
+    "tags": [
+      "LLM",
+      "program-analysis",
+      "memory",
+      "debugging"
+    ],
+    "audience": "advanced",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-08-30T13:27:20.471395+00:00"
+}

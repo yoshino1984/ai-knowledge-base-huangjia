@@ -1,0 +1,32 @@
+{
+  "id": "2026-08-30-rss-hacker-news-best-debian-votes-to-allow-responsible-use-of-generat",
+  "title": "Debian votes to allow \"responsible use of generative AI\"",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://lwn.net/Articles/1091231/",
+  "author": "Hacker News Best",
+  "published_at": "2026-08-30T13:26:20.092496+00:00",
+  "collected_at": "2026-08-30T13:26:20.092498+00:00",
+  "summary": "Debian 项目投票决定允许在特定条件下“负责任地使用”生成式 AI，这一决定反映了开源社区对 AI 工具态度的演变。文章讨论了该政策的细节、社区内的争议以及对 Debian 项目未来发展的潜在影响。",
+  "score": 8,
+  "tags": [
+    "Debian",
+    "生成式AI",
+    "开源政策"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "Debian 项目投票决定允许在特定条件下“负责任地使用”生成式 AI，这一决定反映了开源社区对 AI 工具态度的演变。文章讨论了该政策的细节、社区内的争议以及对 Debian 项目未来发展的潜在影响。",
+    "score": 8,
+    "tags": [
+      "Debian",
+      "生成式AI",
+      "开源政策"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-08-30T13:27:20.471378+00:00"
+}

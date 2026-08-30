@@ -1,0 +1,36 @@
+{
+  "id": "2026-08-30-rss-hacker-news-best-stemdeck-a-free-open-source-and-local-ai-stem-se",
+  "title": "StemDeck, a free, open-source and local AI stem separator",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://github.com/stemdeckapp/stemdeck",
+  "author": "Hacker News Best",
+  "published_at": "2026-08-30T13:26:20.092546+00:00",
+  "collected_at": "2026-08-30T13:26:20.092548+00:00",
+  "summary": "StemDeck 是一个免费、开源且本地运行的 AI 音频分离工具，可将音乐或音频中的不同音轨（如人声、乐器）分离出来。该项目在 Hacker News 上获得较高关注（229 分、61 条评论），体现了社区对本地化 AI 工具的兴趣。",
+  "score": 7,
+  "tags": [
+    "AI",
+    "audio",
+    "open-source",
+    "local",
+    "stem-separation"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "StemDeck 是一个免费、开源且本地运行的 AI 音频分离工具，可将音乐或音频中的不同音轨（如人声、乐器）分离出来。该项目在 Hacker News 上获得较高关注（229 分、61 条评论），体现了社区对本地化 AI 工具的兴趣。",
+    "score": 7,
+    "tags": [
+      "AI",
+      "audio",
+      "open-source",
+      "local",
+      "stem-separation"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-08-30T13:27:20.471388+00:00"
+}
