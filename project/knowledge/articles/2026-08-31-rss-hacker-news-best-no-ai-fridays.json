@@ -1,0 +1,32 @@
+{
+  "id": "2026-08-31-rss-hacker-news-best-no-ai-fridays",
+  "title": "No AI Fridays",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://noaifridays.com/",
+  "author": "Hacker News Best",
+  "published_at": "2026-08-31T15:42:41.492237+00:00",
+  "collected_at": "2026-08-31T15:42:41.492247+00:00",
+  "summary": "该内容介绍了一个名为“No AI Fridays”的倡议，鼓励人们在每周五暂停使用AI工具，以反思AI对工作和生活的影响。文章在Hacker News上获得较高关注，引发了关于AI依赖性和伦理使用的讨论。",
+  "score": 7,
+  "tags": [
+    "AI伦理",
+    "数字健康",
+    "社区倡议"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该内容介绍了一个名为“No AI Fridays”的倡议，鼓励人们在每周五暂停使用AI工具，以反思AI对工作和生活的影响。文章在Hacker News上获得较高关注，引发了关于AI依赖性和伦理使用的讨论。",
+    "score": 7,
+    "tags": [
+      "AI伦理",
+      "数字健康",
+      "社区倡议"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-08-31T15:43:46.502187+00:00"
+}

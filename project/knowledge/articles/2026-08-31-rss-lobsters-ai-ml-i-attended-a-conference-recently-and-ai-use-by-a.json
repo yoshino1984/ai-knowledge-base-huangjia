@@ -1,0 +1,36 @@
+{
+  "id": "2026-08-31-rss-lobsters-ai-ml-i-attended-a-conference-recently-and-ai-use-by-a",
+  "title": "I attended a conference recently and AI use by academics was absurd",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://lobste.rs/s/qn7jtv/i_attended_conference_recently_ai_use_by",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-08-31T15:42:41.871612+00:00",
+  "collected_at": "2026-08-31T15:42:41.871621+00:00",
+  "summary": "作者在学术会议上观察到，大多数与会者使用AI记录问题和生成回答，而非亲自思考，这反映了AI在学术环境中被滥用的现象，引发了关于智力劳动和学术诚信的讨论。文章提出了对AI在学术和课堂中使用的反思，并寻求社区意见。",
+  "score": 7,
+  "tags": [
+    "AI in academia",
+    "academic integrity",
+    "AI misuse",
+    "intellectual labor",
+    "conference behavior"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "作者在学术会议上观察到，大多数与会者使用AI记录问题和生成回答，而非亲自思考，这反映了AI在学术环境中被滥用的现象，引发了关于智力劳动和学术诚信的讨论。文章提出了对AI在学术和课堂中使用的反思，并寻求社区意见。",
+    "score": 7,
+    "tags": [
+      "AI in academia",
+      "academic integrity",
+      "AI misuse",
+      "intellectual labor",
+      "conference behavior"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-08-31T15:43:46.502209+00:00"
+}
