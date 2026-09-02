@@ -1,0 +1,32 @@
+{
+  "id": "2026-09-02-rss-lobsters-ai-ml-44-on-arc-agi-1-in-67-cents",
+  "title": "44% on ARC-AGI-1 in 67 cents",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://mvakde.github.io/blog/44-on-arc-1/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-09-02T12:25:03.571522+00:00",
+  "collected_at": "2026-09-02T12:25:03.571524+00:00",
+  "summary": "该内容报道了一个AI系统在ARC-AGI-1基准测试中达到44%的准确率，且成本仅为67美分，展示了高效低成本解决抽象推理任务的进展。其价值在于可能推动AGI评估的实用化，并引发对AI推理能力与成本效率的讨论。",
+  "score": 7,
+  "tags": [
+    "ARC-AGI",
+    "AI推理",
+    "成本效率"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该内容报道了一个AI系统在ARC-AGI-1基准测试中达到44%的准确率，且成本仅为67美分，展示了高效低成本解决抽象推理任务的进展。其价值在于可能推动AGI评估的实用化，并引发对AI推理能力与成本效率的讨论。",
+    "score": 7,
+    "tags": [
+      "ARC-AGI",
+      "AI推理",
+      "成本效率"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-09-02T12:26:29.075865+00:00"
+}
