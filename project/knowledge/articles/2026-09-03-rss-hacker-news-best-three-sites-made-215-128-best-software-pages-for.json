@@ -1,0 +1,36 @@
+{
+  "id": "2026-09-03-rss-hacker-news-best-three-sites-made-215-128-best-software-pages-for",
+  "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+  "author": "Hacker News Best",
+  "published_at": "2026-09-03T12:24:26.195216+00:00",
+  "collected_at": "2026-09-03T12:24:26.195224+00:00",
+  "summary": "该文章揭露了三个网站制造了超过21.5万个“最佳软件”页面，这些页面被Perplexity等AI推荐系统引用，从而影响AI生成的产品推荐结果。文章揭示了AI推荐系统中存在的虚假信息来源问题，对理解AI生态中的信息操纵具有重要价值。",
+  "score": 7,
+  "tags": [
+    "AI推荐系统",
+    "信息操纵",
+    "SEO滥用",
+    "Perplexity",
+    "虚假内容"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该文章揭露了三个网站制造了超过21.5万个“最佳软件”页面，这些页面被Perplexity等AI推荐系统引用，从而影响AI生成的产品推荐结果。文章揭示了AI推荐系统中存在的虚假信息来源问题，对理解AI生态中的信息操纵具有重要价值。",
+    "score": 7,
+    "tags": [
+      "AI推荐系统",
+      "信息操纵",
+      "SEO滥用",
+      "Perplexity",
+      "虚假内容"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-09-03T12:25:24.675377+00:00"
+}

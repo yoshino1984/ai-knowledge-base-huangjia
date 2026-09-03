@@ -1,0 +1,32 @@
+{
+  "id": "2026-09-03-rss-lobsters-ai-ml-researchers-use-ai-to-democratize-3d-printing-of",
+  "title": "Researchers use AI to ‘democratize’ 3D printing of crucial metal alloy",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://news.wsu.edu/news/2026/08/24/researchers-use-ai-to-democratize-3d-printing-of-crucial-metal-alloy/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-09-03T12:24:26.334397+00:00",
+  "collected_at": "2026-09-03T12:24:26.334402+00:00",
+  "summary": "研究人员利用AI技术降低了关键金属合金3D打印的门槛，使该技术更易于普及。这项创新有望提升合金打印的效率和可及性，对制造业具有潜在价值。",
+  "score": 7,
+  "tags": [
+    "AI",
+    "3D打印",
+    "金属合金"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "研究人员利用AI技术降低了关键金属合金3D打印的门槛，使该技术更易于普及。这项创新有望提升合金打印的效率和可及性，对制造业具有潜在价值。",
+    "score": 7,
+    "tags": [
+      "AI",
+      "3D打印",
+      "金属合金"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-09-03T12:25:24.675397+00:00"
+}
