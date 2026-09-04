@@ -1,0 +1,32 @@
+{
+  "id": "2026-09-04-rss-lobsters-ai-ml-llms-and-self-referentiality",
+  "title": "LLMs and self-referentiality",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://scottaaronson.blog/?p=10046",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-09-04T12:23:51.765134+00:00",
+  "collected_at": "2026-09-04T12:23:51.765136+00:00",
+  "summary": "本文探讨了大型语言模型（LLMs）中的自指性现象，即模型在生成文本时引用或反思自身的能力与局限。该内容可能引发对模型认知边界和潜在风险的讨论，对理解LLM行为具有理论价值。",
+  "score": 7,
+  "tags": [
+    "LLM",
+    "self-referentiality",
+    "AI theory"
+  ],
+  "audience": "advanced",
+  "analysis": {
+    "summary": "本文探讨了大型语言模型（LLMs）中的自指性现象，即模型在生成文本时引用或反思自身的能力与局限。该内容可能引发对模型认知边界和潜在风险的讨论，对理解LLM行为具有理论价值。",
+    "score": 7,
+    "tags": [
+      "LLM",
+      "self-referentiality",
+      "AI theory"
+    ],
+    "audience": "advanced",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-09-04T12:24:48.983474+00:00"
+}

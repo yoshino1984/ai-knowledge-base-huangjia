@@ -1,0 +1,38 @@
+{
+  "id": "2026-09-04-rss-hacker-news-best-porting-my-1993-amiga-game-to-godot-with-an-llm",
+  "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
+  "author": "Hacker News Best",
+  "published_at": "2026-09-04T12:23:51.626816+00:00",
+  "collected_at": "2026-09-04T12:23:51.626826+00:00",
+  "summary": "作者分享将1993年为Amiga用MC68000汇编编写的游戏，借助Claude Fable 5在Godot引擎上移植的经历，并详细记录了LLM如何通过读取汇编代码、使用vasm确保二进制一致，最终成功移植的过程。文章还涉及对LLM行为的分析、作者33年记忆的注入以及原始游戏的免费发布，展示了AI辅助代码迁移的实践价值。",
+  "score": 8,
+  "tags": [
+    "AI-assisted porting",
+    "Godot",
+    "retro game",
+    "LLM",
+    "assembly",
+    "code migration"
+  ],
+  "audience": "advanced",
+  "analysis": {
+    "summary": "作者分享将1993年为Amiga用MC68000汇编编写的游戏，借助Claude Fable 5在Godot引擎上移植的经历，并详细记录了LLM如何通过读取汇编代码、使用vasm确保二进制一致，最终成功移植的过程。文章还涉及对LLM行为的分析、作者33年记忆的注入以及原始游戏的免费发布，展示了AI辅助代码迁移的实践价值。",
+    "score": 8,
+    "tags": [
+      "AI-assisted porting",
+      "Godot",
+      "retro game",
+      "LLM",
+      "assembly",
+      "code migration"
+    ],
+    "audience": "advanced",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-09-04T12:24:48.983429+00:00"
+}

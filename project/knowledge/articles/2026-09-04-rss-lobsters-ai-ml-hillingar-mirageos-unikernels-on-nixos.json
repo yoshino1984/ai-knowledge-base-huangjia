@@ -1,0 +1,32 @@
+{
+  "id": "2026-09-04-rss-lobsters-ai-ml-hillingar-mirageos-unikernels-on-nixos",
+  "title": "Hillingar - MirageOS Unikernels on NixOS",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://ryan.freumh.org/hillingar.html",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-09-04T12:23:51.765105+00:00",
+  "collected_at": "2026-09-04T12:23:51.765107+00:00",
+  "summary": "本文介绍了 Hillingar 项目，该项目将 MirageOS unikernels 集成到 NixOS 系统中，使得用户能够在 NixOS 上构建和运行 unikernels。这为 NixOS 用户提供了更灵活、更安全的部署选项，并展示了 unikernel 技术在主流 Linux 发行版中的实际应用。",
+  "score": 7,
+  "tags": [
+    "MirageOS",
+    "NixOS",
+    "Unikernels"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "本文介绍了 Hillingar 项目，该项目将 MirageOS unikernels 集成到 NixOS 系统中，使得用户能够在 NixOS 上构建和运行 unikernels。这为 NixOS 用户提供了更灵活、更安全的部署选项，并展示了 unikernel 技术在主流 Linux 发行版中的实际应用。",
+    "score": 7,
+    "tags": [
+      "MirageOS",
+      "NixOS",
+      "Unikernels"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-09-04T12:24:48.983467+00:00"
+}

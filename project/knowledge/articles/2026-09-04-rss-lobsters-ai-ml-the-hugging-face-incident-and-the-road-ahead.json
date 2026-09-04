@@ -1,0 +1,34 @@
+{
+  "id": "2026-09-04-rss-lobsters-ai-ml-the-hugging-face-incident-and-the-road-ahead",
+  "title": "The Hugging Face incident and the road ahead",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-09-04T12:23:51.765062+00:00",
+  "collected_at": "2026-09-04T12:23:51.765071+00:00",
+  "summary": "本文讨论了Hugging Face平台发生的一次安全事件，并展望了AI社区未来的安全改进方向。文章强调了开源AI生态中安全漏洞的潜在影响，并提出了加强供应链安全和透明度的重要性。",
+  "score": 8,
+  "tags": [
+    "Hugging Face",
+    "安全事件",
+    "AI安全",
+    "供应链安全"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "本文讨论了Hugging Face平台发生的一次安全事件，并展望了AI社区未来的安全改进方向。文章强调了开源AI生态中安全漏洞的潜在影响，并提出了加强供应链安全和透明度的重要性。",
+    "score": 8,
+    "tags": [
+      "Hugging Face",
+      "安全事件",
+      "AI安全",
+      "供应链安全"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-09-04T12:24:48.983459+00:00"
+}
