@@ -1,0 +1,32 @@
+{
+  "id": "2026-09-05-rss-hacker-news-best-corporate-america-is-getting-hooked-on-open-sour",
+  "title": "Corporate America is getting hooked on open-source AI",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
+  "author": "Hacker News Best",
+  "published_at": "2026-09-05T11:30:23.490598+00:00",
+  "collected_at": "2026-09-05T11:30:23.490602+00:00",
+  "summary": "这篇文章讨论了美国企业界正日益依赖开源AI技术，并分析了其背后的原因、影响及潜在风险。文章通过具体案例和数据，探讨了开源AI如何改变企业技术战略，以及这种趋势对行业竞争格局的深远影响。",
+  "score": 8,
+  "tags": [
+    "开源AI",
+    "企业采用",
+    "技术趋势"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "这篇文章讨论了美国企业界正日益依赖开源AI技术，并分析了其背后的原因、影响及潜在风险。文章通过具体案例和数据，探讨了开源AI如何改变企业技术战略，以及这种趋势对行业竞争格局的深远影响。",
+    "score": 8,
+    "tags": [
+      "开源AI",
+      "企业采用",
+      "技术趋势"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-09-05T11:31:25.471961+00:00"
+}

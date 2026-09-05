@@ -1,0 +1,32 @@
+{
+  "id": "2026-09-05-rss-lobsters-ai-ml-using-machine-learning-on-my-guitar-hero-control",
+  "title": "Using machine learning on my Guitar Hero Controller",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://p0ly.com/ml_strummer.html",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-09-05T11:30:23.835993+00:00",
+  "collected_at": "2026-09-05T11:30:23.836001+00:00",
+  "summary": "这篇文章介绍了一个将机器学习应用于吉他英雄控制器的项目，展示了如何通过ML技术来分析和优化游戏控制器的使用。内容可能涉及数据采集、模型训练和实时预测，为游戏交互和硬件改造提供了创新思路。",
+  "score": 7,
+  "tags": [
+    "机器学习",
+    "游戏控制器",
+    "硬件改造"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "这篇文章介绍了一个将机器学习应用于吉他英雄控制器的项目，展示了如何通过ML技术来分析和优化游戏控制器的使用。内容可能涉及数据采集、模型训练和实时预测，为游戏交互和硬件改造提供了创新思路。",
+    "score": 7,
+    "tags": [
+      "机器学习",
+      "游戏控制器",
+      "硬件改造"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-09-05T11:31:25.471986+00:00"
+}

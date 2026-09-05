@@ -1,0 +1,32 @@
+{
+  "id": "2026-09-05-rss-hacker-news-best-google-ai-mode-shows-same-products-21-6-more-exp",
+  "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
+  "author": "Hacker News Best",
+  "published_at": "2026-09-05T11:30:23.490674+00:00",
+  "collected_at": "2026-09-05T11:30:23.490676+00:00",
+  "summary": "一项分析发现，Google AI Mode 推荐的产品平均比传统搜索结果贵 21.6%，表明其算法可能偏向高利润商品而非性价比。该研究基于实际对比，引发对 AI 搜索公平性和商业动机的讨论。",
+  "score": 8,
+  "tags": [
+    "AI搜索",
+    "电商",
+    "算法偏见"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "一项分析发现，Google AI Mode 推荐的产品平均比传统搜索结果贵 21.6%，表明其算法可能偏向高利润商品而非性价比。该研究基于实际对比，引发对 AI 搜索公平性和商业动机的讨论。",
+    "score": 8,
+    "tags": [
+      "AI搜索",
+      "电商",
+      "算法偏见"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-09-05T11:31:25.471970+00:00"
+}
