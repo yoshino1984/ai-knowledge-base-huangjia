@@ -1,0 +1,34 @@
+{
+  "id": "2026-09-06-rss-hacker-news-best-ai-handles-incidents-engineers-lose-touch-with-t",
+  "title": "AI handles incidents, engineers lose touch with their systems",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+  "author": "Hacker News Best",
+  "published_at": "2026-09-06T11:50:52.107230+00:00",
+  "collected_at": "2026-09-06T11:50:52.107237+00:00",
+  "summary": "文章探讨了AI在事件处理中的广泛应用可能导致工程师与系统脱节的问题，强调过度依赖AI自动化会削弱工程师对系统运行机制的理解和故障排查能力。文章提出了平衡AI辅助与人工参与的重要性，以保持工程师的专业技能和系统掌控力。",
+  "score": 8,
+  "tags": [
+    "AI运维",
+    "工程师技能",
+    "自动化风险",
+    "系统可靠性"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "文章探讨了AI在事件处理中的广泛应用可能导致工程师与系统脱节的问题，强调过度依赖AI自动化会削弱工程师对系统运行机制的理解和故障排查能力。文章提出了平衡AI辅助与人工参与的重要性，以保持工程师的专业技能和系统掌控力。",
+    "score": 8,
+    "tags": [
+      "AI运维",
+      "工程师技能",
+      "自动化风险",
+      "系统可靠性"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-09-06T11:51:47.281752+00:00"
+}

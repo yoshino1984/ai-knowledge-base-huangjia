@@ -1,0 +1,34 @@
+{
+  "id": "2026-09-06-rss-lobsters-ai-ml-terence-tao-on-prematurely-solving-a-maths-probl",
+  "title": "Terence Tao on “prematurely solving [a maths] problem by purely AI-powered methods”",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://mathstodon.xyz/@tao/117207856734787448",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-09-06T11:50:52.351081+00:00",
+  "collected_at": "2026-09-06T11:50:52.351101+00:00",
+  "summary": "该内容讨论了数学家陶哲轩关于使用纯AI方法过早解决数学问题的观点，并类比到编程领域。文章推荐阅读完整讨论串，强调AI在解决复杂问题时的局限性以及人类判断的重要性。",
+  "score": 7,
+  "tags": [
+    "AI",
+    "数学",
+    "编程",
+    "陶哲轩"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该内容讨论了数学家陶哲轩关于使用纯AI方法过早解决数学问题的观点，并类比到编程领域。文章推荐阅读完整讨论串，强调AI在解决复杂问题时的局限性以及人类判断的重要性。",
+    "score": 7,
+    "tags": [
+      "AI",
+      "数学",
+      "编程",
+      "陶哲轩"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-09-06T11:51:47.281777+00:00"
+}
