@@ -1,0 +1,34 @@
+{
+  "id": "2026-09-07-rss-hacker-news-best-your-intellectual-fly-is-open-when-you-use-an-ll",
+  "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+  "author": "Hacker News Best",
+  "published_at": "2026-09-07T13:49:59.485585+00:00",
+  "collected_at": "2026-09-07T13:49:59.485597+00:00",
+  "summary": "这篇文章批评了使用大型语言模型（LLM）撰写帖子会暴露作者的思维漏洞，暗示依赖AI生成内容可能损害智力诚信。文章引发了关于AI写作伦理和认知影响的广泛讨论，具有较高的技术和社会价值。",
+  "score": 7,
+  "tags": [
+    "LLM",
+    "AI写作",
+    "认知影响",
+    "技术伦理"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "这篇文章批评了使用大型语言模型（LLM）撰写帖子会暴露作者的思维漏洞，暗示依赖AI生成内容可能损害智力诚信。文章引发了关于AI写作伦理和认知影响的广泛讨论，具有较高的技术和社会价值。",
+    "score": 7,
+    "tags": [
+      "LLM",
+      "AI写作",
+      "认知影响",
+      "技术伦理"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-09-07T13:51:00.724181+00:00"
+}
