@@ -1,0 +1,32 @@
+{
+  "id": "2026-09-09-rss-hacker-news-best-muse-meta-s-personal-ai-agent",
+  "title": "Muse – Meta’s personal AI agent",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://ai.meta.com/muse/",
+  "author": "Hacker News Best",
+  "published_at": "2026-09-09T12:35:56.908162+00:00",
+  "collected_at": "2026-09-09T12:35:56.908163+00:00",
+  "summary": "Meta 发布了 Muse，一个个人 AI 代理，旨在通过自然语言交互帮助用户完成各种任务，提升生产力。该产品在 Hacker News 上引发了广泛讨论，获得了 550 分和 601 条评论，显示出社区对其高度关注。",
+  "score": 8,
+  "tags": [
+    "AI Agent",
+    "Meta",
+    "Personal Assistant"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "Meta 发布了 Muse，一个个人 AI 代理，旨在通过自然语言交互帮助用户完成各种任务，提升生产力。该产品在 Hacker News 上引发了广泛讨论，获得了 550 分和 601 条评论，显示出社区对其高度关注。",
+    "score": 8,
+    "tags": [
+      "AI Agent",
+      "Meta",
+      "Personal Assistant"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-09-09T12:36:58.989115+00:00"
+}
