@@ -1,0 +1,34 @@
+{
+  "id": "2026-09-10-rss-lobsters-ai-ml-better-ai-code-comment-detector",
+  "title": "Better AI code comment detector",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://entropicthoughts.com/better-ai-comment-classifier",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-09-10T12:32:56.756157+00:00",
+  "collected_at": "2026-09-10T12:32:56.756159+00:00",
+  "summary": "该内容介绍了一种更好的 AI 代码注释检测器，通过训练逻辑回归模型来识别 LLM 生成的代码注释。其价值在于提供了一种基于统计学习的轻量级方法，有助于区分人类与 AI 编写的注释，提升代码审查和 AI 生成内容检测的效率。",
+  "score": 7,
+  "tags": [
+    "AI代码检测",
+    "逻辑回归",
+    "LLM输出分析",
+    "代码注释"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该内容介绍了一种更好的 AI 代码注释检测器，通过训练逻辑回归模型来识别 LLM 生成的代码注释。其价值在于提供了一种基于统计学习的轻量级方法，有助于区分人类与 AI 编写的注释，提升代码审查和 AI 生成内容检测的效率。",
+    "score": 7,
+    "tags": [
+      "AI代码检测",
+      "逻辑回归",
+      "LLM输出分析",
+      "代码注释"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-09-10T12:33:53.382876+00:00"
+}

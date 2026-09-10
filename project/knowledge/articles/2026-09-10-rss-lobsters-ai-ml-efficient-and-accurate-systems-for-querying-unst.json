@@ -1,0 +1,36 @@
+{
+  "id": "2026-09-10-rss-lobsters-ai-ml-efficient-and-accurate-systems-for-querying-unst",
+  "title": "Efficient and accurate systems for querying unstructured data",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://stacks.stanford.edu/file/fk030tb6783/thesis-augmented.pdf",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-09-10T12:32:56.756107+00:00",
+  "collected_at": "2026-09-10T12:32:56.756111+00:00",
+  "summary": "该论文针对非结构化数据查询中机器学习方法成本高昂且不可靠的问题，提出利用应用可容忍近似结果和查询方法成本差异巨大的观察，开发高效可靠的系统与算法，通过廉价近似方法生成统计有效的近似答案，支持选择、聚合和限制查询，成本可降低多个数量级。",
+  "score": 8,
+  "tags": [
+    "非结构化数据",
+    "近似查询处理",
+    "机器学习",
+    "数据系统",
+    "成本优化"
+  ],
+  "audience": "advanced",
+  "analysis": {
+    "summary": "该论文针对非结构化数据查询中机器学习方法成本高昂且不可靠的问题，提出利用应用可容忍近似结果和查询方法成本差异巨大的观察，开发高效可靠的系统与算法，通过廉价近似方法生成统计有效的近似答案，支持选择、聚合和限制查询，成本可降低多个数量级。",
+    "score": 8,
+    "tags": [
+      "非结构化数据",
+      "近似查询处理",
+      "机器学习",
+      "数据系统",
+      "成本优化"
+    ],
+    "audience": "advanced",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-09-10T12:33:53.382867+00:00"
+}
