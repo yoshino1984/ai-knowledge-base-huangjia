@@ -1,0 +1,32 @@
+{
+  "id": "2026-09-12-rss-lobsters-ai-ml-retrospectively-reverse-engineering-apple-s-neur",
+  "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://eiln.github.io/posts/ane.html",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-09-12T11:50:30.231964+00:00",
+  "collected_at": "2026-09-12T11:50:30.231972+00:00",
+  "summary": "该内容是对苹果神经引擎（Neural Engine）进行逆向工程的分析，探讨了其硬件架构和指令集。价值在于为研究人员和开发者提供了对苹果专有AI加速硬件的深入理解，有助于优化模型部署和探索硬件安全。",
+  "score": 7,
+  "tags": [
+    "Apple Neural Engine",
+    "逆向工程",
+    "AI硬件"
+  ],
+  "audience": "advanced",
+  "analysis": {
+    "summary": "该内容是对苹果神经引擎（Neural Engine）进行逆向工程的分析，探讨了其硬件架构和指令集。价值在于为研究人员和开发者提供了对苹果专有AI加速硬件的深入理解，有助于优化模型部署和探索硬件安全。",
+    "score": 7,
+    "tags": [
+      "Apple Neural Engine",
+      "逆向工程",
+      "AI硬件"
+    ],
+    "audience": "advanced",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-09-12T11:51:24.773457+00:00"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "2026-09-12-rss-hacker-news-best-ask-hn-can-we-please-limit-the-ai-news-flood",
+  "title": "Ask HN: Can we please limit the AI news flood?",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://news.ycombinator.com/item?id=49657850",
+  "author": "Hacker News Best",
+  "published_at": "2026-09-12T11:50:30.094113+00:00",
+  "collected_at": "2026-09-12T11:50:30.094115+00:00",
+  "summary": "这是一篇 Hacker News 上的讨论帖，作者指出 HN 首页近几个月几乎被 AI 或 AI 相关新闻淹没，导致其他广泛的黑客类内容（如硬件创新、开源项目）难以获得关注。作者以联想固态空气冷却技术和 Brax Industries 设备为例，认为这些内容在一两年前会引发讨论，并建议 YC 对内容进行策展或引入标签过滤，以提升非 AI 内容的可见性。该讨论获得了 795 分和 373 条评论，反映了社区对内容多样性的关注。",
+  "score": 7,
+  "tags": [
+    "Hacker News",
+    "AI 新闻泛滥",
+    "内容策展",
+    "社区讨论"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "这是一篇 Hacker News 上的讨论帖，作者指出 HN 首页近几个月几乎被 AI 或 AI 相关新闻淹没，导致其他广泛的黑客类内容（如硬件创新、开源项目）难以获得关注。作者以联想固态空气冷却技术和 Brax Industries 设备为例，认为这些内容在一两年前会引发讨论，并建议 YC 对内容进行策展或引入标签过滤，以提升非 AI 内容的可见性。该讨论获得了 795 分和 373 条评论，反映了社区对内容多样性的关注。",
+    "score": 7,
+    "tags": [
+      "Hacker News",
+      "AI 新闻泛滥",
+      "内容策展",
+      "社区讨论"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-09-12T11:51:24.773438+00:00"
+}

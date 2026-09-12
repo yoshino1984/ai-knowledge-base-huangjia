@@ -1,0 +1,32 @@
+{
+  "id": "2026-09-12-rss-hacker-news-best-the-waymo-effect-how-ai-is-quietly-making-resear",
+  "title": "The Waymo effect: how AI is quietly making research less collaborative",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://www.researchagenda.news/articles/the-waymo-effect.html",
+  "author": "Hacker News Best",
+  "published_at": "2026-09-12T11:50:30.094192+00:00",
+  "collected_at": "2026-09-12T11:50:30.094195+00:00",
+  "summary": "本文探讨了AI技术（以Waymo为例）如何悄然改变研究协作模式，指出自动化工具可能减少研究人员之间的互动与合作。文章引发了对AI在科研领域影响的反思，具有较高的讨论价值。",
+  "score": 7,
+  "tags": [
+    "AI伦理",
+    "科研协作",
+    "技术影响"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "本文探讨了AI技术（以Waymo为例）如何悄然改变研究协作模式，指出自动化工具可能减少研究人员之间的互动与合作。文章引发了对AI在科研领域影响的反思，具有较高的讨论价值。",
+    "score": 7,
+    "tags": [
+      "AI伦理",
+      "科研协作",
+      "技术影响"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-09-12T11:51:24.773449+00:00"
+}
