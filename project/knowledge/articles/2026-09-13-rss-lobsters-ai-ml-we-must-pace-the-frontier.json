@@ -1,0 +1,32 @@
+{
+  "id": "2026-09-13-rss-lobsters-ai-ml-we-must-pace-the-frontier",
+  "title": "We Must Pace the Frontier",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://darioamodei.com/post/we-must-pace-the-frontier",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-09-13T12:59:41.975802+00:00",
+  "collected_at": "2026-09-13T12:59:41.975803+00:00",
+  "summary": "这篇文章探讨了AI前沿发展的节奏问题，主张在推进技术边界的同时需要审慎控制速度，避免因过快发展而忽视安全、伦理和社会影响。其价值在于引发对AI发展速度与风险平衡的深入讨论，适合关注AI治理和长期影响的读者。",
+  "score": 7,
+  "tags": [
+    "AI治理",
+    "技术伦理",
+    "发展节奏"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "这篇文章探讨了AI前沿发展的节奏问题，主张在推进技术边界的同时需要审慎控制速度，避免因过快发展而忽视安全、伦理和社会影响。其价值在于引发对AI发展速度与风险平衡的深入讨论，适合关注AI治理和长期影响的读者。",
+    "score": 7,
+    "tags": [
+      "AI治理",
+      "技术伦理",
+      "发展节奏"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-09-13T13:00:42.197005+00:00"
+}

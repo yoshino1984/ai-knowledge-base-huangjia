@@ -1,0 +1,32 @@
+{
+  "id": "2026-09-13-rss-hacker-news-best-show-hn-hacker-news-without-ai",
+  "title": "Show HN: Hacker News, without AI",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://hcker.news/?ai=exclude",
+  "author": "Hacker News Best",
+  "published_at": "2026-09-13T12:59:41.502927+00:00",
+  "collected_at": "2026-09-13T12:59:41.502929+00:00",
+  "summary": "这是一个 Hacker News 的替代前端项目，允许用户通过排除 AI 相关帖子来浏览纯人工内容。它反映了社区对 AI 生成内容泛滥的反思，为偏好传统讨论的用户提供了过滤选项。",
+  "score": 7,
+  "tags": [
+    "Hacker News",
+    "AI过滤",
+    "社区平台"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "这是一个 Hacker News 的替代前端项目，允许用户通过排除 AI 相关帖子来浏览纯人工内容。它反映了社区对 AI 生成内容泛滥的反思，为偏好传统讨论的用户提供了过滤选项。",
+    "score": 7,
+    "tags": [
+      "Hacker News",
+      "AI过滤",
+      "社区平台"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-09-13T13:00:42.196993+00:00"
+}

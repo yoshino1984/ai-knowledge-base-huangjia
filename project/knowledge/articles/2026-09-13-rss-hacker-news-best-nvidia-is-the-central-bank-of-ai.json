@@ -1,0 +1,32 @@
+{
+  "id": "2026-09-13-rss-hacker-news-best-nvidia-is-the-central-bank-of-ai",
+  "title": "Nvidia is the central bank of AI",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+  "author": "Hacker News Best",
+  "published_at": "2026-09-13T12:59:41.502785+00:00",
+  "collected_at": "2026-09-13T12:59:41.502787+00:00",
+  "summary": "该文章将英伟达比作AI领域的中央银行，探讨其在AI算力供应和生态中的核心地位。内容引发Hacker News上510点热度、358条评论的广泛讨论，价值在于揭示英伟达对AI行业发展的关键影响和潜在风险。",
+  "score": 7,
+  "tags": [
+    "Nvidia",
+    "AI基础设施",
+    "行业分析"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该文章将英伟达比作AI领域的中央银行，探讨其在AI算力供应和生态中的核心地位。内容引发Hacker News上510点热度、358条评论的广泛讨论，价值在于揭示英伟达对AI行业发展的关键影响和潜在风险。",
+    "score": 7,
+    "tags": [
+      "Nvidia",
+      "AI基础设施",
+      "行业分析"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-09-13T13:00:42.196980+00:00"
+}

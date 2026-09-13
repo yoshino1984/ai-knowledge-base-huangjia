@@ -1,0 +1,32 @@
+{
+  "id": "2026-09-13-rss-lobsters-ai-ml-after-math",
+  "title": "After Math",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://terrytao.wordpress.com/2026/09/12/after-math/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-09-13T12:59:41.975737+00:00",
+  "collected_at": "2026-09-13T12:59:41.975745+00:00",
+  "summary": "该内容来自 Lobsters AI/ML 社区，标题为 'After Math'，但描述仅包含评论链接，缺乏具体技术细节。其价值在于可能引发关于数学与 AI 关系的讨论，但信息有限，需访问链接获取完整内容。",
+  "score": 5,
+  "tags": [
+    "AI",
+    "数学",
+    "社区讨论"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该内容来自 Lobsters AI/ML 社区，标题为 'After Math'，但描述仅包含评论链接，缺乏具体技术细节。其价值在于可能引发关于数学与 AI 关系的讨论，但信息有限，需访问链接获取完整内容。",
+    "score": 5,
+    "tags": [
+      "AI",
+      "数学",
+      "社区讨论"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-09-13T13:00:42.196999+00:00"
+}
