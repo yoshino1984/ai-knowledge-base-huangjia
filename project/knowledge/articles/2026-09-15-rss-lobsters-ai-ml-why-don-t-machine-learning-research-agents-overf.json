@@ -1,0 +1,34 @@
+{
+  "id": "2026-09-15-rss-lobsters-ai-ml-why-don-t-machine-learning-research-agents-overf",
+  "title": "Why don’t machine learning research agents overfit?",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-09-15T13:01:00.271489+00:00",
+  "collected_at": "2026-09-15T13:01:00.271491+00:00",
+  "summary": "该内容探讨了机器学习研究智能体为何不会过拟合，可能分析了智能体在自动化研究任务中的泛化能力与过拟合风险。对于理解AI智能体的设计原理和评估方法具有参考价值。",
+  "score": 7,
+  "tags": [
+    "机器学习",
+    "智能体",
+    "过拟合",
+    "泛化"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该内容探讨了机器学习研究智能体为何不会过拟合，可能分析了智能体在自动化研究任务中的泛化能力与过拟合风险。对于理解AI智能体的设计原理和评估方法具有参考价值。",
+    "score": 7,
+    "tags": [
+      "机器学习",
+      "智能体",
+      "过拟合",
+      "泛化"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-09-15T13:01:48.882967+00:00"
+}

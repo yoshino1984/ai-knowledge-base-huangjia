@@ -1,0 +1,32 @@
+{
+  "id": "2026-09-15-rss-hacker-news-best-pion-an-agent-designed-to-run-any-company-autono",
+  "title": "Pion, an agent designed to run any company autonomously",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://andonlabs.com/blog/why-we-built-pion",
+  "author": "Hacker News Best",
+  "published_at": "2026-09-15T13:00:59.888245+00:00",
+  "collected_at": "2026-09-15T13:00:59.888255+00:00",
+  "summary": "Andon Labs 发布 Pion，一个旨在自主运营任何公司的 AI 代理，并在 Hacker News 上引发 436 分、537 条评论的热议。该内容探讨了构建自主公司代理的动机、技术挑战与潜在影响，为 AI 代理在商业自动化领域的应用提供了前沿视角。",
+  "score": 7,
+  "tags": [
+    "AI Agent",
+    "Autonomous Company",
+    "Business Automation"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "Andon Labs 发布 Pion，一个旨在自主运营任何公司的 AI 代理，并在 Hacker News 上引发 436 分、537 条评论的热议。该内容探讨了构建自主公司代理的动机、技术挑战与潜在影响，为 AI 代理在商业自动化领域的应用提供了前沿视角。",
+    "score": 7,
+    "tags": [
+      "AI Agent",
+      "Autonomous Company",
+      "Business Automation"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-09-15T13:01:48.882909+00:00"
+}

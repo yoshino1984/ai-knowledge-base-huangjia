@@ -1,0 +1,34 @@
+{
+  "id": "2026-09-15-rss-lobsters-ai-ml-a-letter-from-a-machine-learning-engineer",
+  "title": "A Letter from a Machine Learning Engineer",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://nemin.hu/llm-letter/index.html",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-09-15T13:01:00.271444+00:00",
+  "collected_at": "2026-09-15T13:01:00.271446+00:00",
+  "summary": "这是一篇来自机器学习工程师的公开信，分享了作者在ML工程领域的个人经验、职业反思以及对行业现状的观察。文章通过Lobsters社区讨论引发关注，为从业者提供了实践视角和职业发展参考。",
+  "score": 7,
+  "tags": [
+    "机器学习",
+    "职业发展",
+    "工程实践",
+    "行业观察"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "这是一篇来自机器学习工程师的公开信，分享了作者在ML工程领域的个人经验、职业反思以及对行业现状的观察。文章通过Lobsters社区讨论引发关注，为从业者提供了实践视角和职业发展参考。",
+    "score": 7,
+    "tags": [
+      "机器学习",
+      "职业发展",
+      "工程实践",
+      "行业观察"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-09-15T13:01:48.882956+00:00"
+}

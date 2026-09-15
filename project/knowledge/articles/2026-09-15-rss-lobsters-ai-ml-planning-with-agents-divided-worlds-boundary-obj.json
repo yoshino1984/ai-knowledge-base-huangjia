@@ -1,0 +1,34 @@
+{
+  "id": "2026-09-15-rss-lobsters-ai-ml-planning-with-agents-divided-worlds-boundary-obj",
+  "title": "Planning with Agents: Divided Worlds, Boundary Objects, and Thicker Interfaces",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://maggieappleton.com/planning-agents",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-09-15T13:01:00.271400+00:00",
+  "collected_at": "2026-09-15T13:01:00.271404+00:00",
+  "summary": "本文探讨了AI智能体规划中的协作挑战，提出通过边界对象和更厚接口来连接不同世界。其价值在于为多智能体系统设计提供了跨领域协作的理论框架。",
+  "score": 7,
+  "tags": [
+    "AI Agents",
+    "Multi-Agent Systems",
+    "Planning",
+    "Human-AI Collaboration"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "本文探讨了AI智能体规划中的协作挑战，提出通过边界对象和更厚接口来连接不同世界。其价值在于为多智能体系统设计提供了跨领域协作的理论框架。",
+    "score": 7,
+    "tags": [
+      "AI Agents",
+      "Multi-Agent Systems",
+      "Planning",
+      "Human-AI Collaboration"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-09-15T13:01:48.882948+00:00"
+}

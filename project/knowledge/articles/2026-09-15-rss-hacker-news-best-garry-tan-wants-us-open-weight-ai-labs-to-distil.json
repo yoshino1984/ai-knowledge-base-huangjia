@@ -1,0 +1,34 @@
+{
+  "id": "2026-09-15-rss-hacker-news-best-garry-tan-wants-us-open-weight-ai-labs-to-distil",
+  "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+  "author": "Hacker News Best",
+  "published_at": "2026-09-15T13:00:59.888377+00:00",
+  "collected_at": "2026-09-15T13:00:59.888382+00:00",
+  "summary": "Y Combinator的Garry Tan主张美国开放权重AI实验室也应通过蒸馏前沿模型来加速发展，而非仅依赖自研。该观点引发Hacker News上关于AI开放生态、知识产权与竞争策略的激烈讨论，对理解AI行业政策与开源趋势有参考价值。",
+  "score": 7,
+  "tags": [
+    "AI蒸馏",
+    "开放权重模型",
+    "AI政策",
+    "开源AI"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "Y Combinator的Garry Tan主张美国开放权重AI实验室也应通过蒸馏前沿模型来加速发展，而非仅依赖自研。该观点引发Hacker News上关于AI开放生态、知识产权与竞争策略的激烈讨论，对理解AI行业政策与开源趋势有参考价值。",
+    "score": 7,
+    "tags": [
+      "AI蒸馏",
+      "开放权重模型",
+      "AI政策",
+      "开源AI"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-09-15T13:01:48.882928+00:00"
+}
