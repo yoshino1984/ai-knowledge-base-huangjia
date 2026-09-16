@@ -1,0 +1,34 @@
+{
+  "id": "2026-09-16-rss-lobsters-ai-ml-model-training-incidents-are-negligence",
+  "title": "Model Training Incidents are Negligence",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://taggart-tech.com/lying/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-09-16T12:58:53.130961+00:00",
+  "collected_at": "2026-09-16T12:58:53.130967+00:00",
+  "summary": "该文章主张模型训练事故应被视为疏忽而非不可避免的意外，强调开发团队在数据准备、训练过程和部署中负有主动防范责任。其价值在于推动AI工程实践从被动应对转向主动问责，提升模型训练的安全性和可靠性。",
+  "score": 7,
+  "tags": [
+    "AI安全",
+    "模型训练",
+    "工程责任",
+    "疏忽"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该文章主张模型训练事故应被视为疏忽而非不可避免的意外，强调开发团队在数据准备、训练过程和部署中负有主动防范责任。其价值在于推动AI工程实践从被动应对转向主动问责，提升模型训练的安全性和可靠性。",
+    "score": 7,
+    "tags": [
+      "AI安全",
+      "模型训练",
+      "工程责任",
+      "疏忽"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-09-16T12:59:43.782190+00:00"
+}
