@@ -1,0 +1,34 @@
+{
+  "id": "2026-09-17-rss-hacker-news-best-there-s-a-100-chance-ai-agents-are-ruining-the-i",
+  "title": "There's a 100% Chance AI Agents Are Ruining the Internet",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/",
+  "author": "Hacker News Best",
+  "published_at": "2026-09-17T12:55:01.334790+00:00",
+  "collected_at": "2026-09-17T12:55:01.334794+00:00",
+  "summary": "该文章探讨了 AI 代理（AI Agents）正在对互联网造成负面影响，可能涉及自动化滥用、内容污染或隐私问题。来自 Hacker News 的热门讨论（229 分，168 条评论），反映了技术社区对 AI 代理潜在风险的关注。",
+  "score": 7,
+  "tags": [
+    "AI Agents",
+    "Internet",
+    "Ethics",
+    "Hacker News"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该文章探讨了 AI 代理（AI Agents）正在对互联网造成负面影响，可能涉及自动化滥用、内容污染或隐私问题。来自 Hacker News 的热门讨论（229 分，168 条评论），反映了技术社区对 AI 代理潜在风险的关注。",
+    "score": 7,
+    "tags": [
+      "AI Agents",
+      "Internet",
+      "Ethics",
+      "Hacker News"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-09-17T12:55:52.211313+00:00"
+}
