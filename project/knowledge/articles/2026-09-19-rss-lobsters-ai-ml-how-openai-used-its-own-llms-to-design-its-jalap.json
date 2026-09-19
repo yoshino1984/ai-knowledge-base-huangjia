@@ -1,0 +1,34 @@
+{
+  "id": "2026-09-19-rss-lobsters-ai-ml-how-openai-used-its-own-llms-to-design-its-jalap",
+  "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://spectrum.ieee.org/llms-for-chip-design",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-09-19T12:10:29.031515+00:00",
+  "collected_at": "2026-09-19T12:10:29.031526+00:00",
+  "summary": "OpenAI 利用其自研的大语言模型（LLM）辅助设计了一款名为 Jalapeño 的芯片，展示了 LLM 在硬件设计领域的实际应用。该案例表明 LLM 不仅能处理文本任务，还能在复杂工程设计中提供有效支持，为 AI 驱动的芯片设计流程提供了新思路。",
+  "score": 7,
+  "tags": [
+    "LLM",
+    "芯片设计",
+    "OpenAI",
+    "AI应用"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "OpenAI 利用其自研的大语言模型（LLM）辅助设计了一款名为 Jalapeño 的芯片，展示了 LLM 在硬件设计领域的实际应用。该案例表明 LLM 不仅能处理文本任务，还能在复杂工程设计中提供有效支持，为 AI 驱动的芯片设计流程提供了新思路。",
+    "score": 7,
+    "tags": [
+      "LLM",
+      "芯片设计",
+      "OpenAI",
+      "AI应用"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-09-19T12:11:19.059755+00:00"
+}
