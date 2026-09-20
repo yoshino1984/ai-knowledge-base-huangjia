@@ -1,0 +1,36 @@
+{
+  "id": "2026-09-20-rss-hacker-news-best-us-military-had-close-call-after-using-ai-for-ha",
+  "title": "US Military had close call after using AI for hallucinated intelligence report",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+  "author": "Hacker News Best",
+  "published_at": "2026-09-20T12:46:25.046999+00:00",
+  "collected_at": "2026-09-20T12:46:25.047001+00:00",
+  "summary": "该内容报道了美国军方在使用AI生成情报报告时发生的一次险情，AI产生了幻觉信息，导致基于虚假情报的军事判断。这凸显了在高风险决策场景中部署大语言模型时，幻觉问题可能带来的严重安全后果，对AI可靠性和人机协作流程设计具有重要警示价值。",
+  "score": 8,
+  "tags": [
+    "AI幻觉",
+    "军事AI",
+    "AI安全",
+    "大语言模型",
+    "情报分析"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该内容报道了美国军方在使用AI生成情报报告时发生的一次险情，AI产生了幻觉信息，导致基于虚假情报的军事判断。这凸显了在高风险决策场景中部署大语言模型时，幻觉问题可能带来的严重安全后果，对AI可靠性和人机协作流程设计具有重要警示价值。",
+    "score": 8,
+    "tags": [
+      "AI幻觉",
+      "军事AI",
+      "AI安全",
+      "大语言模型",
+      "情报分析"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-09-20T12:47:13.380719+00:00"
+}

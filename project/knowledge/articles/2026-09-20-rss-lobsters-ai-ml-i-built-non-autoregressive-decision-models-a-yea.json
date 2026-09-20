@@ -1,0 +1,34 @@
+{
+  "id": "2026-09-20-rss-lobsters-ai-ml-i-built-non-autoregressive-decision-models-a-yea",
+  "title": "I Built Non-Autoregressive Decision Models a Year Ago. Then a Frontier Lab Called It a \"Breakthrough\"",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://dev.to/nandakishor_m_6cc0adfde9f/i-built-non-autoregressive-decision-models-a-year-ago-then-a-frontier-lab-called-it-a-18me",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-09-20T12:46:25.416503+00:00",
+  "collected_at": "2026-09-20T12:46:25.416505+00:00",
+  "summary": "作者分享了自己一年前构建的非自回归决策模型，后来被一家前沿实验室称为“突破”。内容探讨了非自回归方法在决策任务中的潜力，以及独立研究与主流认可之间的时间差。",
+  "score": 7,
+  "tags": [
+    "非自回归模型",
+    "决策模型",
+    "前沿实验室",
+    "独立研究"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "作者分享了自己一年前构建的非自回归决策模型，后来被一家前沿实验室称为“突破”。内容探讨了非自回归方法在决策任务中的潜力，以及独立研究与主流认可之间的时间差。",
+    "score": 7,
+    "tags": [
+      "非自回归模型",
+      "决策模型",
+      "前沿实验室",
+      "独立研究"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-09-20T12:47:13.380741+00:00"
+}

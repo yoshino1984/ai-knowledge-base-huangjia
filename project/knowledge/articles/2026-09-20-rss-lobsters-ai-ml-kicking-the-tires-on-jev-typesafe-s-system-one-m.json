@@ -1,0 +1,36 @@
+{
+  "id": "2026-09-20-rss-lobsters-ai-ml-kicking-the-tires-on-jev-typesafe-s-system-one-m",
+  "title": "kicking the tires on jev (TypeSafe's System One model) with 2048",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://gist.github.com/cablehead/bdf9ad946ceb26d9008976e49c9bfbbb",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-09-20T12:46:25.416595+00:00",
+  "collected_at": "2026-09-20T12:46:25.416605+00:00",
+  "summary": "本文介绍了作者使用 2048 游戏来初步体验 Jev（TypeSafe 的 System One 模型）的过程。通过实际构建游戏，作者评估了 Jev 的可用性和潜力，为对新型编程模型感兴趣的开发者提供了第一手参考。",
+  "score": 7,
+  "tags": [
+    "Jev",
+    "TypeSafe",
+    "System One",
+    "2048",
+    "编程模型"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "本文介绍了作者使用 2048 游戏来初步体验 Jev（TypeSafe 的 System One 模型）的过程。通过实际构建游戏，作者评估了 Jev 的可用性和潜力，为对新型编程模型感兴趣的开发者提供了第一手参考。",
+    "score": 7,
+    "tags": [
+      "Jev",
+      "TypeSafe",
+      "System One",
+      "2048",
+      "编程模型"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-09-20T12:47:13.380751+00:00"
+}

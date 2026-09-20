@@ -1,0 +1,36 @@
+{
+  "id": "2026-09-20-rss-lobsters-ai-ml-laya-33ms-multilingual-system-1-decision-engine",
+  "title": "Laya — 33ms Multilingual System 1 Decision Engine",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://laya.convaiinnovations.com/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-09-20T12:46:25.416448+00:00",
+  "collected_at": "2026-09-20T12:46:25.416456+00:00",
+  "summary": "Laya 是一个多语言系统 1 决策引擎，声称能在 33 毫秒内完成决策。该内容来自 Lobsters AI/ML 社区，可能涉及快速推理、多语言处理或认知架构。其价值在于探索低延迟决策系统，可能对实时 AI 应用有启发。",
+  "score": 7,
+  "tags": [
+    "决策引擎",
+    "多语言",
+    "低延迟",
+    "系统1",
+    "AI"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "Laya 是一个多语言系统 1 决策引擎，声称能在 33 毫秒内完成决策。该内容来自 Lobsters AI/ML 社区，可能涉及快速推理、多语言处理或认知架构。其价值在于探索低延迟决策系统，可能对实时 AI 应用有启发。",
+    "score": 7,
+    "tags": [
+      "决策引擎",
+      "多语言",
+      "低延迟",
+      "系统1",
+      "AI"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-09-20T12:47:13.380729+00:00"
+}
