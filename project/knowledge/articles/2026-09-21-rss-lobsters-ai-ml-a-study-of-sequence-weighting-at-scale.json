@@ -1,0 +1,32 @@
+{
+  "id": "2026-09-21-rss-lobsters-ai-ml-a-study-of-sequence-weighting-at-scale",
+  "title": "A study of sequence weighting at scale",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://blog.janestreet.com/a-study-of-sequence-weighting-at-scale/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-09-21T14:43:20.290228+00:00",
+  "collected_at": "2026-09-21T14:43:20.290236+00:00",
+  "summary": "该研究探讨了在大规模机器学习训练中序列加权（sequence weighting）方法的效果与影响，分析了不同加权策略对模型性能的作用。其价值在于为处理大规模序列数据时的训练优化提供了实证指导。",
+  "score": 7,
+  "tags": [
+    "sequence weighting",
+    "large-scale training",
+    "machine learning"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该研究探讨了在大规模机器学习训练中序列加权（sequence weighting）方法的效果与影响，分析了不同加权策略对模型性能的作用。其价值在于为处理大规模序列数据时的训练优化提供了实证指导。",
+    "score": 7,
+    "tags": [
+      "sequence weighting",
+      "large-scale training",
+      "machine learning"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-09-21T14:44:09.400912+00:00"
+}

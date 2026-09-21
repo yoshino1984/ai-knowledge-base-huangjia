@@ -1,0 +1,34 @@
+{
+  "id": "2026-09-21-rss-hacker-news-best-pirate-face-rescues-llm-models-from-deletion",
+  "title": "Pirate Face Rescues LLM Models from Deletion",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://pirateface.co/",
+  "author": "Hacker News Best",
+  "published_at": "2026-09-21T14:43:20.022759+00:00",
+  "collected_at": "2026-09-21T14:43:20.022767+00:00",
+  "summary": "Pirate Face 是一个旨在防止 LLM 模型被删除的项目，可能通过去中心化存储或备份机制来保护模型权重。该内容在 Hacker News 上获得 543 分和 144 条评论，表明社区对模型持久性和开源 AI 安全的高度关注。",
+  "score": 7,
+  "tags": [
+    "LLM",
+    "模型保护",
+    "去中心化",
+    "开源AI"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "Pirate Face 是一个旨在防止 LLM 模型被删除的项目，可能通过去中心化存储或备份机制来保护模型权重。该内容在 Hacker News 上获得 543 分和 144 条评论，表明社区对模型持久性和开源 AI 安全的高度关注。",
+    "score": 7,
+    "tags": [
+      "LLM",
+      "模型保护",
+      "去中心化",
+      "开源AI"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-09-21T14:44:09.400890+00:00"
+}

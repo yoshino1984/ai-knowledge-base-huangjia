@@ -1,0 +1,36 @@
+{
+  "id": "2026-09-21-rss-hacker-news-best-ai-and-the-destruction-of-the-creative-commons",
+  "title": "AI and the Destruction of the Creative Commons",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/",
+  "author": "Hacker News Best",
+  "published_at": "2026-09-21T14:43:20.022800+00:00",
+  "collected_at": "2026-09-21T14:43:20.022801+00:00",
+  "summary": "本文探讨了生成式AI对知识共享（Creative Commons）生态的破坏性影响，指出AI模型在未经授权的情况下大规模使用CC授权内容进行训练，从而削弱了创作者分享作品的动力和CC许可的初衷。文章在Hacker News上引发广泛讨论，获得232个点赞和275条评论，反映了技术社区对AI版权与伦理问题的高度关注。",
+  "score": 7,
+  "tags": [
+    "AI伦理",
+    "版权",
+    "Creative Commons",
+    "生成式AI",
+    "开源"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "本文探讨了生成式AI对知识共享（Creative Commons）生态的破坏性影响，指出AI模型在未经授权的情况下大规模使用CC授权内容进行训练，从而削弱了创作者分享作品的动力和CC许可的初衷。文章在Hacker News上引发广泛讨论，获得232个点赞和275条评论，反映了技术社区对AI版权与伦理问题的高度关注。",
+    "score": 7,
+    "tags": [
+      "AI伦理",
+      "版权",
+      "Creative Commons",
+      "生成式AI",
+      "开源"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-09-21T14:44:09.400905+00:00"
+}

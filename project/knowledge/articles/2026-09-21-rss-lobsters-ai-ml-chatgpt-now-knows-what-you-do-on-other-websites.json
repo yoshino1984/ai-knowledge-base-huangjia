@@ -1,0 +1,34 @@
+{
+  "id": "2026-09-21-rss-lobsters-ai-ml-chatgpt-now-knows-what-you-do-on-other-websites",
+  "title": "ChatGPT now knows what you do on other websites via ad collector",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-09-21T14:43:20.290262+00:00",
+  "collected_at": "2026-09-21T14:43:20.290264+00:00",
+  "summary": "该内容讨论了 ChatGPT 通过广告收集器获取用户在其他网站上的活动信息，可能涉及隐私和数据收集问题。这反映了 AI 助手在个性化服务与用户隐私之间的平衡挑战，对关注 AI 伦理和隐私的读者有参考价值。",
+  "score": 7,
+  "tags": [
+    "隐私",
+    "ChatGPT",
+    "广告追踪",
+    "AI伦理"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该内容讨论了 ChatGPT 通过广告收集器获取用户在其他网站上的活动信息，可能涉及隐私和数据收集问题。这反映了 AI 助手在个性化服务与用户隐私之间的平衡挑战，对关注 AI 伦理和隐私的读者有参考价值。",
+    "score": 7,
+    "tags": [
+      "隐私",
+      "ChatGPT",
+      "广告追踪",
+      "AI伦理"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-09-21T14:44:09.400917+00:00"
+}
