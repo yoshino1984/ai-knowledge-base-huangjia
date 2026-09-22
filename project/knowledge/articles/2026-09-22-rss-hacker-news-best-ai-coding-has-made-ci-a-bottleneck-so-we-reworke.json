@@ -1,0 +1,34 @@
+{
+  "id": "2026-09-22-rss-hacker-news-best-ai-coding-has-made-ci-a-bottleneck-so-we-reworke",
+  "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://linear.app/now/ci-bottleneck-reworked",
+  "author": "Hacker News Best",
+  "published_at": "2026-09-22T12:58:14.777651+00:00",
+  "collected_at": "2026-09-22T12:58:14.777661+00:00",
+  "summary": "本文探讨了AI编码工具普及后，持续集成（CI）流程成为开发瓶颈的问题，并分享了Linear团队如何重构其CI系统以应对AI生成代码带来的更高频率和更大规模的构建需求。文章提供了具体的优化策略和架构调整经验，对面临类似挑战的工程团队具有实践参考价值。",
+  "score": 7,
+  "tags": [
+    "AI编码",
+    "CI/CD",
+    "工程效率",
+    "DevOps"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "本文探讨了AI编码工具普及后，持续集成（CI）流程成为开发瓶颈的问题，并分享了Linear团队如何重构其CI系统以应对AI生成代码带来的更高频率和更大规模的构建需求。文章提供了具体的优化策略和架构调整经验，对面临类似挑战的工程团队具有实践参考价值。",
+    "score": 7,
+    "tags": [
+      "AI编码",
+      "CI/CD",
+      "工程效率",
+      "DevOps"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-09-22T12:59:06.647721+00:00"
+}
