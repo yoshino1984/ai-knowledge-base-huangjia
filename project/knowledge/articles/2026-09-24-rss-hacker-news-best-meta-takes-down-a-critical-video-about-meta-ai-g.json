@@ -1,0 +1,34 @@
+{
+  "id": "2026-09-24-rss-hacker-news-best-meta-takes-down-a-critical-video-about-meta-ai-g",
+  "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
+  "author": "Hacker News Best",
+  "published_at": "2026-09-24T13:03:01.567504+00:00",
+  "collected_at": "2026-09-24T13:03:01.567514+00:00",
+  "summary": "Meta 下架了一段在 Meta 公司内拍摄的批评其 AI 眼镜的视频，引发关于内容审查和平台权力的讨论。该事件在 Hacker News 上获得 317 分和 154 条评论，反映了社区对科技巨头压制批评声音的关注。",
+  "score": 7,
+  "tags": [
+    "Meta",
+    "AI眼镜",
+    "内容审查",
+    "科技伦理"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "Meta 下架了一段在 Meta 公司内拍摄的批评其 AI 眼镜的视频，引发关于内容审查和平台权力的讨论。该事件在 Hacker News 上获得 317 分和 154 条评论，反映了社区对科技巨头压制批评声音的关注。",
+    "score": 7,
+    "tags": [
+      "Meta",
+      "AI眼镜",
+      "内容审查",
+      "科技伦理"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-09-24T13:04:42.665876+00:00"
+}

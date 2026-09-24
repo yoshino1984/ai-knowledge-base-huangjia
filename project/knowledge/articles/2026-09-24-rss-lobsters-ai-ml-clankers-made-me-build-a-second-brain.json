@@ -1,0 +1,34 @@
+{
+  "id": "2026-09-24-rss-lobsters-ai-ml-clankers-made-me-build-a-second-brain",
+  "title": "Clankers Made Me Build a Second Brain",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://jadarma.github.io/blog/posts/2026/09/clankers-made-me-build-a-second-brain/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-09-24T13:03:01.949530+00:00",
+  "collected_at": "2026-09-24T13:03:01.949540+00:00",
+  "summary": "该文章探讨了作者因AI工具（'Clankers'）的局限性而构建'第二大脑'个人知识管理系统的经历，分享了如何利用AI辅助知识管理来弥补其不足。核心价值在于提供了一种人机协作的知识管理实践思路，对关注个人知识管理和AI应用的人有启发意义。",
+  "score": 7,
+  "tags": [
+    "个人知识管理",
+    "第二大脑",
+    "AI工具",
+    "知识管理"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该文章探讨了作者因AI工具（'Clankers'）的局限性而构建'第二大脑'个人知识管理系统的经历，分享了如何利用AI辅助知识管理来弥补其不足。核心价值在于提供了一种人机协作的知识管理实践思路，对关注个人知识管理和AI应用的人有启发意义。",
+    "score": 7,
+    "tags": [
+      "个人知识管理",
+      "第二大脑",
+      "AI工具",
+      "知识管理"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-09-24T13:04:42.665902+00:00"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "2026-09-24-rss-hacker-news-best-feds-target-ai-critics-as-foreign-agents",
+  "title": "Feds Target AI Critics as \"Foreign Agents\"",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
+  "author": "Hacker News Best",
+  "published_at": "2026-09-24T13:03:01.567577+00:00",
+  "collected_at": "2026-09-24T13:03:01.567581+00:00",
+  "summary": "该文章报道了美国联邦机构将AI批评者视为外国代理人的现象，引发了关于AI政策、言论自由和国家安全边界的讨论。在Hacker News上获得313分和328条评论，表明该话题在技术社区中具有高度争议性和关注度。",
+  "score": 7,
+  "tags": [
+    "AI政策",
+    "言论自由",
+    "国家安全"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该文章报道了美国联邦机构将AI批评者视为外国代理人的现象，引发了关于AI政策、言论自由和国家安全边界的讨论。在Hacker News上获得313分和328条评论，表明该话题在技术社区中具有高度争议性和关注度。",
+    "score": 7,
+    "tags": [
+      "AI政策",
+      "言论自由",
+      "国家安全"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-09-24T13:04:42.665893+00:00"
+}
