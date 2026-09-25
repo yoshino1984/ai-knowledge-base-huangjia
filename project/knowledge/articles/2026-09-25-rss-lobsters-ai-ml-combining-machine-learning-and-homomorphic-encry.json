@@ -1,0 +1,34 @@
+{
+  "id": "2026-09-25-rss-lobsters-ai-ml-combining-machine-learning-and-homomorphic-encry",
+  "title": "Combining Machine Learning and Homomorphic Encryption in the Apple Ecosystem",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://machinelearning.apple.com/research/homomorphic-encryption",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-09-25T13:07:55.696414+00:00",
+  "collected_at": "2026-09-25T13:07:55.696416+00:00",
+  "summary": "本文探讨了在苹果生态系统中结合机器学习和同态加密的技术方案，旨在实现隐私保护的机器学习推理。其核心价值在于展示了如何利用同态加密在不解密数据的情况下进行模型预测，从而增强用户数据隐私。",
+  "score": 7,
+  "tags": [
+    "同态加密",
+    "机器学习",
+    "苹果生态",
+    "隐私保护"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "本文探讨了在苹果生态系统中结合机器学习和同态加密的技术方案，旨在实现隐私保护的机器学习推理。其核心价值在于展示了如何利用同态加密在不解密数据的情况下进行模型预测，从而增强用户数据隐私。",
+    "score": 7,
+    "tags": [
+      "同态加密",
+      "机器学习",
+      "苹果生态",
+      "隐私保护"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-09-25T13:08:50.736859+00:00"
+}

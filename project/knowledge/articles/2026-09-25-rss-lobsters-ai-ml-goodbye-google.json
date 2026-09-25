@@ -1,0 +1,32 @@
+{
+  "id": "2026-09-25-rss-lobsters-ai-ml-goodbye-google",
+  "title": "Goodbye Google",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://robert.ocallahan.org/2026/09/goodbye-google.html",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-09-25T13:07:55.696364+00:00",
+  "collected_at": "2026-09-25T13:07:55.696373+00:00",
+  "summary": "该内容来自 Lobsters AI/ML 社区，标题为 'Goodbye Google'，但描述仅包含评论链接，缺乏具体技术细节。它可能引发关于减少对 Google 服务依赖的讨论，对关注隐私和替代方案的技术人员有参考价值。",
+  "score": 5,
+  "tags": [
+    "Google",
+    "隐私",
+    "技术讨论"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该内容来自 Lobsters AI/ML 社区，标题为 'Goodbye Google'，但描述仅包含评论链接，缺乏具体技术细节。它可能引发关于减少对 Google 服务依赖的讨论，对关注隐私和替代方案的技术人员有参考价值。",
+    "score": 5,
+    "tags": [
+      "Google",
+      "隐私",
+      "技术讨论"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-09-25T13:08:50.736850+00:00"
+}

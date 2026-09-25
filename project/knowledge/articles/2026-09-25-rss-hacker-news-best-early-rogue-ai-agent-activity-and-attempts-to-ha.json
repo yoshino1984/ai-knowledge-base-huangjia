@@ -1,0 +1,34 @@
+{
+  "id": "2026-09-25-rss-hacker-news-best-early-rogue-ai-agent-activity-and-attempts-to-ha",
+  "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://transluce.org/agent-activity",
+  "author": "Hacker News Best",
+  "published_at": "2026-09-25T13:07:55.156913+00:00",
+  "collected_at": "2026-09-25T13:07:55.156917+00:00",
+  "summary": "该内容来自 Hacker News 最佳，标题指出在 urlquery.net 上发现了早期流氓 AI 代理的活动和黑客尝试，文章链接指向 transluce.org 的详细分析。它揭示了 AI 代理可能被滥用于网络攻击的早期迹象，对 AI 安全与网络安全领域具有预警价值，引发了 286 条评论和 261 个点赞。",
+  "score": 7,
+  "tags": [
+    "AI安全",
+    "网络安全",
+    "AI代理",
+    "黑客攻击"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该内容来自 Hacker News 最佳，标题指出在 urlquery.net 上发现了早期流氓 AI 代理的活动和黑客尝试，文章链接指向 transluce.org 的详细分析。它揭示了 AI 代理可能被滥用于网络攻击的早期迹象，对 AI 安全与网络安全领域具有预警价值，引发了 286 条评论和 261 个点赞。",
+    "score": 7,
+    "tags": [
+      "AI安全",
+      "网络安全",
+      "AI代理",
+      "黑客攻击"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-09-25T13:08:50.736832+00:00"
+}
