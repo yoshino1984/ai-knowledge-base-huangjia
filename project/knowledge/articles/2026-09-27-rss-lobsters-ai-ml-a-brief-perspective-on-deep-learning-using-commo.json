@@ -1,0 +1,32 @@
+{
+  "id": "2026-09-27-rss-lobsters-ai-ml-a-brief-perspective-on-deep-learning-using-commo",
+  "title": "A Brief Perspective on Deep Learning Using Common Lisp",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://www.youtube.com/watch?v=Yo4eqoRC1o0",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-09-27T13:25:58.981058+00:00",
+  "collected_at": "2026-09-27T13:25:58.981064+00:00",
+  "summary": "本文探讨了使用 Common Lisp 进行深度学习的视角，可能涉及在 Lisp 生态中实现或应用深度学习技术。其价值在于为 Lisp 社区提供深度学习实践参考，并促进函数式编程与深度学习的结合。",
+  "score": 7,
+  "tags": [
+    "Common Lisp",
+    "深度学习",
+    "函数式编程"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "本文探讨了使用 Common Lisp 进行深度学习的视角，可能涉及在 Lisp 生态中实现或应用深度学习技术。其价值在于为 Lisp 社区提供深度学习实践参考，并促进函数式编程与深度学习的结合。",
+    "score": 7,
+    "tags": [
+      "Common Lisp",
+      "深度学习",
+      "函数式编程"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-09-27T13:26:49.517943+00:00"
+}
