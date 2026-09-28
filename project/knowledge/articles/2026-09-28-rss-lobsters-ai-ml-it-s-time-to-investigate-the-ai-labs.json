@@ -1,0 +1,32 @@
+{
+  "id": "2026-09-28-rss-lobsters-ai-ml-it-s-time-to-investigate-the-ai-labs",
+  "title": "It’s Time to Investigate the AI Labs",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-09-28T16:18:11.720793+00:00",
+  "collected_at": "2026-09-28T16:18:11.720802+00:00",
+  "summary": "这篇文章呼吁对AI实验室进行深入调查，探讨其研究实践、安全措施和伦理责任。它提供了对AI行业透明度和问责制的批判性视角，适合关注AI治理的读者。",
+  "score": 7,
+  "tags": [
+    "AI伦理",
+    "AI治理",
+    "行业调查"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "这篇文章呼吁对AI实验室进行深入调查，探讨其研究实践、安全措施和伦理责任。它提供了对AI行业透明度和问责制的批判性视角，适合关注AI治理的读者。",
+    "score": 7,
+    "tags": [
+      "AI伦理",
+      "AI治理",
+      "行业调查"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-09-28T16:18:59.022970+00:00"
+}

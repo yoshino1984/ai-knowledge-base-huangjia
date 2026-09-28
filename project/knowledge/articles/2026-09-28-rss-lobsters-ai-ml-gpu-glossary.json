@@ -1,0 +1,32 @@
+{
+  "id": "2026-09-28-rss-lobsters-ai-ml-gpu-glossary",
+  "title": "GPU Glossary",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://modal.com/gpu-glossary",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-09-28T16:18:11.720823+00:00",
+  "collected_at": "2026-09-28T16:18:11.720825+00:00",
+  "summary": "GPU Glossary 是一个关于 GPU 术语的词汇表，旨在帮助读者理解 GPU 相关的技术概念。它可能涵盖 GPU 架构、编程模型、性能指标等关键术语，为学习 GPU 计算提供基础参考。",
+  "score": 7,
+  "tags": [
+    "GPU",
+    "术语表",
+    "硬件"
+  ],
+  "audience": "beginner",
+  "analysis": {
+    "summary": "GPU Glossary 是一个关于 GPU 术语的词汇表，旨在帮助读者理解 GPU 相关的技术概念。它可能涵盖 GPU 架构、编程模型、性能指标等关键术语，为学习 GPU 计算提供基础参考。",
+    "score": 7,
+    "tags": [
+      "GPU",
+      "术语表",
+      "硬件"
+    ],
+    "audience": "beginner",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-09-28T16:18:59.022975+00:00"
+}

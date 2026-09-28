@@ -1,0 +1,32 @@
+{
+  "id": "2026-09-28-rss-hacker-news-best-there-are-no-rogue-ai-agents",
+  "title": "There are no \"rogue\" AI agents",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+  "author": "Hacker News Best",
+  "published_at": "2026-09-28T16:18:11.444457+00:00",
+  "collected_at": "2026-09-28T16:18:11.444458+00:00",
+  "summary": "该文章探讨了所谓“流氓AI代理”的概念，认为真正自主且不受控制的AI代理并不存在，其行为仍受人类设计、训练数据和部署环境的约束。文章通过分析AI系统的实际运作机制，帮助读者理性看待AI风险，避免被科幻叙事误导。",
+  "score": 7,
+  "tags": [
+    "AI安全",
+    "AI代理",
+    "技术评论"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该文章探讨了所谓“流氓AI代理”的概念，认为真正自主且不受控制的AI代理并不存在，其行为仍受人类设计、训练数据和部署环境的约束。文章通过分析AI系统的实际运作机制，帮助读者理性看待AI风险，避免被科幻叙事误导。",
+    "score": 7,
+    "tags": [
+      "AI安全",
+      "AI代理",
+      "技术评论"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-09-28T16:18:59.022956+00:00"
+}
