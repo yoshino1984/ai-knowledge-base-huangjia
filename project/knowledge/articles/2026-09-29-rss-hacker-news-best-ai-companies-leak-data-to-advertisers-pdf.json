@@ -1,0 +1,32 @@
+{
+  "id": "2026-09-29-rss-hacker-news-best-ai-companies-leak-data-to-advertisers-pdf",
+  "title": "AI companies leak data to advertisers [pdf]",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+  "author": "Hacker News Best",
+  "published_at": "2026-09-29T14:28:52.054569+00:00",
+  "collected_at": "2026-09-29T14:28:52.054578+00:00",
+  "summary": "该内容是一篇技术论文，揭示AI公司如何通过提示词泄露用户数据给广告商，并详细分析了追踪机制。它提供了对AI隐私风险的深入技术洞察，对关注数据安全和AI伦理的读者具有重要价值。",
+  "score": 7,
+  "tags": [
+    "AI隐私",
+    "数据泄露",
+    "广告追踪"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该内容是一篇技术论文，揭示AI公司如何通过提示词泄露用户数据给广告商，并详细分析了追踪机制。它提供了对AI隐私风险的深入技术洞察，对关注数据安全和AI伦理的读者具有重要价值。",
+    "score": 7,
+    "tags": [
+      "AI隐私",
+      "数据泄露",
+      "广告追踪"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-09-29T14:29:41.076174+00:00"
+}
