@@ -1,0 +1,34 @@
+{
+  "id": "2026-10-01-rss-lobsters-ai-ml-typeclasses-vs-modules",
+  "title": "Typeclasses vs Modules",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://sm2n.ca/articles/typeclasses-vs-modules/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-10-01T14:57:43.020419+00:00",
+  "collected_at": "2026-10-01T14:57:43.020420+00:00",
+  "summary": "本文对比了类型类（Typeclasses）和模块（Modules）在编程语言中的概念、实现和适用场景，探讨了它们在抽象机制上的异同。对于理解函数式编程和模块化设计具有参考价值，适合对类型系统感兴趣的开发者。",
+  "score": 7,
+  "tags": [
+    "类型系统",
+    "编程语言",
+    "函数式编程",
+    "模块化"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "本文对比了类型类（Typeclasses）和模块（Modules）在编程语言中的概念、实现和适用场景，探讨了它们在抽象机制上的异同。对于理解函数式编程和模块化设计具有参考价值，适合对类型系统感兴趣的开发者。",
+    "score": 7,
+    "tags": [
+      "类型系统",
+      "编程语言",
+      "函数式编程",
+      "模块化"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-10-01T14:58:31.587742+00:00"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "2026-10-01-rss-lobsters-ai-ml-is-sandboxing-sufficient-to-contain-rogue-agents",
+  "title": "Is sandboxing sufficient to contain rogue agents?",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-10-01T14:57:43.020384+00:00",
+  "collected_at": "2026-10-01T14:57:43.020386+00:00",
+  "summary": "该讨论探讨了沙箱技术是否足以遏制失控的AI代理，核心在于评估沙箱作为安全边界的有效性及其潜在绕过风险。内容价值在于引发对AI代理安全隔离策略的深入思考，适合关注AI安全与系统防护的读者。",
+  "score": 7,
+  "tags": [
+    "AI安全",
+    "沙箱",
+    "代理遏制"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该讨论探讨了沙箱技术是否足以遏制失控的AI代理，核心在于评估沙箱作为安全边界的有效性及其潜在绕过风险。内容价值在于引发对AI代理安全隔离策略的深入思考，适合关注AI安全与系统防护的读者。",
+    "score": 7,
+    "tags": [
+      "AI安全",
+      "沙箱",
+      "代理遏制"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-10-01T14:58:31.587732+00:00"
+}
