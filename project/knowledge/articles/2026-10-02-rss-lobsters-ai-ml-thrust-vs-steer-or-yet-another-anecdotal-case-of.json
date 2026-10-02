@@ -1,0 +1,32 @@
+{
+  "id": "2026-10-02-rss-lobsters-ai-ml-thrust-vs-steer-or-yet-another-anecdotal-case-of",
+  "title": "Thrust vs. Steer (or: Yet Another Anecdotal Case of the Dunning-Kruger Effect)",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://write.as/tmcb/thrust-vs-steer-or-yet-another-anecdotal-case-of-the-dunning-kruger-effect",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-10-02T14:21:02.816189+00:00",
+  "collected_at": "2026-10-02T14:21:02.816198+00:00",
+  "summary": "本文通过一个轶事案例探讨了推力（Thrust）与转向（Steer）在AI/机器学习中的隐喻，并关联到邓宁-克鲁格效应，即能力不足的人容易高估自己。内容可能涉及技术决策中的认知偏差，对理解AI项目中的团队动态和决策过程有启发价值。",
+  "score": 6,
+  "tags": [
+    "Dunning-Kruger效应",
+    "AI决策",
+    "认知偏差"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "本文通过一个轶事案例探讨了推力（Thrust）与转向（Steer）在AI/机器学习中的隐喻，并关联到邓宁-克鲁格效应，即能力不足的人容易高估自己。内容可能涉及技术决策中的认知偏差，对理解AI项目中的团队动态和决策过程有启发价值。",
+    "score": 6,
+    "tags": [
+      "Dunning-Kruger效应",
+      "AI决策",
+      "认知偏差"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-10-02T14:21:51.222889+00:00"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "2026-10-02-rss-lobsters-ai-ml-lists-that-keep-track-of-their-reversal",
+  "title": "Lists that keep track of their reversal",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://grim.cargocut.org/a/rev-list.html",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-10-02T14:21:02.816238+00:00",
+  "collected_at": "2026-10-02T14:21:02.816240+00:00",
+  "summary": "该内容介绍了一种能够跟踪自身反转操作的数据结构，即列表在反转后仍能保持对原始顺序的引用或记录。其核心价值在于为需要频繁反转或回溯顺序的场景提供高效支持，可能涉及函数式编程或持久化数据结构。",
+  "score": 7,
+  "tags": [
+    "数据结构",
+    "算法",
+    "函数式编程"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该内容介绍了一种能够跟踪自身反转操作的数据结构，即列表在反转后仍能保持对原始顺序的引用或记录。其核心价值在于为需要频繁反转或回溯顺序的场景提供高效支持，可能涉及函数式编程或持久化数据结构。",
+    "score": 7,
+    "tags": [
+      "数据结构",
+      "算法",
+      "函数式编程"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-10-02T14:21:51.222916+00:00"
+}
