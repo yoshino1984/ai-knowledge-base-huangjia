@@ -1,0 +1,34 @@
+{
+  "id": "2026-10-07-rss-lobsters-ai-ml-best-books-courses-channels-to-leapfrog-on-ai-ml",
+  "title": "Best Books/Courses/Channels to Leapfrog on AI/ML Material",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://lobste.rs/s/xff77a/best_books_courses_channels_leapfrog_on",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-10-07T14:56:44.904134+00:00",
+  "collected_at": "2026-10-07T14:56:44.904143+00:00",
+  "summary": "该内容是一个社区讨论帖，用户寻求从2018-19年休眠状态恢复后学习AI/ML最新进展的书籍、课程和YouTube频道推荐，并希望获得类似TeachYourselfCS的结构化路线图。帖子还询问理解LLM与传统ML模型是否需要不同方法，对希望系统入门或更新知识的开发者具有参考价值。",
+  "score": 7,
+  "tags": [
+    "AI/ML学习资源",
+    "LLM",
+    "学习路线图",
+    "社区讨论"
+  ],
+  "audience": "beginner",
+  "analysis": {
+    "summary": "该内容是一个社区讨论帖，用户寻求从2018-19年休眠状态恢复后学习AI/ML最新进展的书籍、课程和YouTube频道推荐，并希望获得类似TeachYourselfCS的结构化路线图。帖子还询问理解LLM与传统ML模型是否需要不同方法，对希望系统入门或更新知识的开发者具有参考价值。",
+    "score": 7,
+    "tags": [
+      "AI/ML学习资源",
+      "LLM",
+      "学习路线图",
+      "社区讨论"
+    ],
+    "audience": "beginner",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-10-07T14:57:35.598216+00:00"
+}

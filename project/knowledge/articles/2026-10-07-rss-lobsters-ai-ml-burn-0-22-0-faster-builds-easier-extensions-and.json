@@ -1,0 +1,34 @@
+{
+  "id": "2026-10-07-rss-lobsters-ai-ml-burn-0-22-0-faster-builds-easier-extensions-and",
+  "title": "Burn 0.22.0: Faster Builds, Easier Extensions, and Smarter Autotuning",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://tracel.ai/blog/release-0.22.0/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-10-07T14:56:44.904174+00:00",
+  "collected_at": "2026-10-07T14:56:44.904175+00:00",
+  "summary": "Burn 0.22.0 版本发布，重点优化了构建速度、扩展易用性和自动调优功能。该版本通过改进编译流程和提供更灵活的扩展接口，降低了深度学习框架的使用门槛，同时智能自动调优提升了模型性能。",
+  "score": 7,
+  "tags": [
+    "深度学习框架",
+    "性能优化",
+    "自动调优",
+    "Rust"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "Burn 0.22.0 版本发布，重点优化了构建速度、扩展易用性和自动调优功能。该版本通过改进编译流程和提供更灵活的扩展接口，降低了深度学习框架的使用门槛，同时智能自动调优提升了模型性能。",
+    "score": 7,
+    "tags": [
+      "深度学习框架",
+      "性能优化",
+      "自动调优",
+      "Rust"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-10-07T14:57:35.598234+00:00"
+}
