@@ -1,0 +1,36 @@
+{
+  "id": "2026-10-08-rss-hacker-news-best-sharing-ai-progress-in-mathematics",
+  "title": "Sharing AI progress in mathematics",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+  "author": "Hacker News Best",
+  "published_at": "2026-10-08T15:05:27.861713+00:00",
+  "collected_at": "2026-10-08T15:05:27.861716+00:00",
+  "summary": "OpenAI 在 GitHub 上分享了其在数学领域的 AI 进展，发布了相关预印本，旨在推动数学推理和形式化证明的 AI 研究。该内容在 Hacker News 上引发广泛讨论，获得 1301 分和 1478 条评论，表明其高关注度和潜在影响力。",
+  "score": 8,
+  "tags": [
+    "AI",
+    "Mathematics",
+    "OpenAI",
+    "Research",
+    "Preprints"
+  ],
+  "audience": "advanced",
+  "analysis": {
+    "summary": "OpenAI 在 GitHub 上分享了其在数学领域的 AI 进展，发布了相关预印本，旨在推动数学推理和形式化证明的 AI 研究。该内容在 Hacker News 上引发广泛讨论，获得 1301 分和 1478 条评论，表明其高关注度和潜在影响力。",
+    "score": 8,
+    "tags": [
+      "AI",
+      "Mathematics",
+      "OpenAI",
+      "Research",
+      "Preprints"
+    ],
+    "audience": "advanced",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-10-08T15:06:14.639152+00:00"
+}

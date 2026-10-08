@@ -1,0 +1,36 @@
+{
+  "id": "2026-10-08-rss-hacker-news-best-penguin-mail-open-source-rust-email-client-for-l",
+  "title": "Penguin Mail – open-source Rust email client for Linux with AI",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://penguin-mail.com/",
+  "author": "Hacker News Best",
+  "published_at": "2026-10-08T15:05:27.861789+00:00",
+  "collected_at": "2026-10-08T15:05:27.861792+00:00",
+  "summary": "Penguin Mail 是一款面向 Linux 平台的开源 Rust 电子邮件客户端，集成了 AI 功能。该项目在 Hacker News 上获得了 235 分和 184 条评论，显示出社区对开源、Rust 和 AI 结合的兴趣。其价值在于为 Linux 用户提供了一个注重性能与智能辅助的邮件管理新选择。",
+  "score": 7,
+  "tags": [
+    "Rust",
+    "Email Client",
+    "Linux",
+    "Open Source",
+    "AI"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "Penguin Mail 是一款面向 Linux 平台的开源 Rust 电子邮件客户端，集成了 AI 功能。该项目在 Hacker News 上获得了 235 分和 184 条评论，显示出社区对开源、Rust 和 AI 结合的兴趣。其价值在于为 Linux 用户提供了一个注重性能与智能辅助的邮件管理新选择。",
+    "score": 7,
+    "tags": [
+      "Rust",
+      "Email Client",
+      "Linux",
+      "Open Source",
+      "AI"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-10-08T15:06:14.639164+00:00"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "2026-10-08-rss-lobsters-ai-ml-clojure-in-the-age-of-language-models",
+  "title": "Clojure in the Age of Language Models",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://yogthos.net/posts/2026-10-07-clojure-llms.html",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-10-08T15:05:28.271415+00:00",
+  "collected_at": "2026-10-08T15:05:28.271422+00:00",
+  "summary": "本文探讨了在大型语言模型（LLM）时代，Clojure 编程语言的定位与价值。文章分析了 LLM 对编程语言生态的影响，并讨论了 Clojure 的简洁性、REPL 驱动开发等特性如何与 AI 辅助编程协同，为开发者提供新的视角。",
+  "score": 7,
+  "tags": [
+    "Clojure",
+    "语言模型",
+    "编程语言",
+    "AI辅助开发"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "本文探讨了在大型语言模型（LLM）时代，Clojure 编程语言的定位与价值。文章分析了 LLM 对编程语言生态的影响，并讨论了 Clojure 的简洁性、REPL 驱动开发等特性如何与 AI 辅助编程协同，为开发者提供新的视角。",
+    "score": 7,
+    "tags": [
+      "Clojure",
+      "语言模型",
+      "编程语言",
+      "AI辅助开发"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-10-08T15:06:14.639186+00:00"
+}
