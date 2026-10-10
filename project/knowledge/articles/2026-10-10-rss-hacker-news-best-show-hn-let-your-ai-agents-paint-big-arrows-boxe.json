@@ -1,0 +1,34 @@
+{
+  "id": "2026-10-10-rss-hacker-news-best-show-hn-let-your-ai-agents-paint-big-arrows-boxe",
+  "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+  "author": "Hacker News Best",
+  "published_at": "2026-10-10T14:07:17.006503+00:00",
+  "collected_at": "2026-10-10T14:07:17.006505+00:00",
+  "summary": "该项目允许AI代理在屏幕上绘制大箭头、方框和文本，用于可视化指示或标注。它通过简单的接口让AI与屏幕交互，提升演示、教学或调试的直观性。",
+  "score": 7,
+  "tags": [
+    "AI代理",
+    "屏幕标注",
+    "可视化",
+    "开源工具"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该项目允许AI代理在屏幕上绘制大箭头、方框和文本，用于可视化指示或标注。它通过简单的接口让AI与屏幕交互，提升演示、教学或调试的直观性。",
+    "score": 7,
+    "tags": [
+      "AI代理",
+      "屏幕标注",
+      "可视化",
+      "开源工具"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-10-10T14:08:01.416313+00:00"
+}
