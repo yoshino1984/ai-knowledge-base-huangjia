@@ -1,0 +1,36 @@
+{
+  "id": "2026-10-11-rss-hacker-news-best-talorys-a-self-hosted-personal-ai-agent-on-cloud",
+  "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://github.com/rociiu/talorys",
+  "author": "Hacker News Best",
+  "published_at": "2026-10-11T14:31:17.506030+00:00",
+  "collected_at": "2026-10-11T14:31:17.506039+00:00",
+  "summary": "Talorys 是一个可在 Cloudflare 免费套餐上自托管的个人 AI 代理，项目在 Hacker News 上获得 306 分和 141 条评论，显示出较高的社区关注度。其核心价值在于利用 Cloudflare 的边缘计算和免费资源，让用户以低成本部署和运行个人 AI 助手，同时保持数据自主权。",
+  "score": 7,
+  "tags": [
+    "self-hosted",
+    "AI agent",
+    "Cloudflare",
+    "free tier",
+    "personal assistant"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "Talorys 是一个可在 Cloudflare 免费套餐上自托管的个人 AI 代理，项目在 Hacker News 上获得 306 分和 141 条评论，显示出较高的社区关注度。其核心价值在于利用 Cloudflare 的边缘计算和免费资源，让用户以低成本部署和运行个人 AI 助手，同时保持数据自主权。",
+    "score": 7,
+    "tags": [
+      "self-hosted",
+      "AI agent",
+      "Cloudflare",
+      "free tier",
+      "personal assistant"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-10-11T14:32:10.148226+00:00"
+}

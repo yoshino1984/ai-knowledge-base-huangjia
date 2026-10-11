@@ -1,0 +1,32 @@
+{
+  "id": "2026-10-11-rss-lobsters-ai-ml-consistency-is-not-a-localized-property",
+  "title": "Consistency is not a localized property",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://n-the-loop.com/blog/consistency-is-not-a-localized-property/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-10-11T14:31:17.876062+00:00",
+  "collected_at": "2026-10-11T14:31:17.876102+00:00",
+  "summary": "本文探讨了分布式系统中一致性（Consistency）的本质，指出一致性并非局部属性，而是系统全局的特性。文章通过分析局部操作与全局状态的关系，强调了在设计分布式系统时需从整体视角考虑一致性模型，对理解CAP定理和分布式共识具有重要价值。",
+  "score": 7,
+  "tags": [
+    "分布式系统",
+    "一致性",
+    "CAP定理"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "本文探讨了分布式系统中一致性（Consistency）的本质，指出一致性并非局部属性，而是系统全局的特性。文章通过分析局部操作与全局状态的关系，强调了在设计分布式系统时需从整体视角考虑一致性模型，对理解CAP定理和分布式共识具有重要价值。",
+    "score": 7,
+    "tags": [
+      "分布式系统",
+      "一致性",
+      "CAP定理"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-10-11T14:32:10.148260+00:00"
+}

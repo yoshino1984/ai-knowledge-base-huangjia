@@ -1,0 +1,38 @@
+{
+  "id": "2026-10-11-rss-lobsters-ai-ml-byte-language-models-scaling-emergent-abstractio",
+  "title": "Byte Language Models: Scaling, Emergent Abstractions, and Information Allocation",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://arxiv.org/html/2610.05978v1",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-10-11T14:31:17.876198+00:00",
+  "collected_at": "2026-10-11T14:31:17.876201+00:00",
+  "summary": "该论文挑战了语言模型需要显式分词器的假设，证明标准扁平Transformer能直接处理原始字节序列，并在参数规模扩大时优于传统子词模型。通过令牌叠加训练和哈希嵌入，字节模型在相同参数预算下达到更低的损失，并自然涌现出局部抽象结构，为推测解码、多模态对齐和动态计算分配提供了新方向。",
+  "score": 8,
+  "tags": [
+    "字节语言模型",
+    "Transformer",
+    "分词器",
+    "涌现抽象",
+    "推测解码",
+    "多模态"
+  ],
+  "audience": "advanced",
+  "analysis": {
+    "summary": "该论文挑战了语言模型需要显式分词器的假设，证明标准扁平Transformer能直接处理原始字节序列，并在参数规模扩大时优于传统子词模型。通过令牌叠加训练和哈希嵌入，字节模型在相同参数预算下达到更低的损失，并自然涌现出局部抽象结构，为推测解码、多模态对齐和动态计算分配提供了新方向。",
+    "score": 8,
+    "tags": [
+      "字节语言模型",
+      "Transformer",
+      "分词器",
+      "涌现抽象",
+      "推测解码",
+      "多模态"
+    ],
+    "audience": "advanced",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-10-11T14:32:10.148268+00:00"
+}
