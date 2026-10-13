@@ -1,0 +1,34 @@
+{
+  "id": "2026-10-13-rss-lobsters-ai-ml-nextflow-frontier-posts-4-new-top-results-on-bio",
+  "title": "Nextflow Frontier posts 4 new top results on BioML-bench",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://nextflow.com/blog/introducing-nextflow-frontier/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-10-13T15:26:42.970553+00:00",
+  "collected_at": "2026-10-13T15:26:42.970564+00:00",
+  "summary": "Nextflow Frontier 在 BioML-bench 基准测试上发布了 4 项新的顶级结果，展示了其在生物信息学机器学习任务中的领先性能。该进展可能推动了生物序列分析、蛋白质结构预测等领域的模型能力边界，为相关研究提供了新的基准参考。",
+  "score": 7,
+  "tags": [
+    "生物信息学",
+    "机器学习",
+    "基准测试",
+    "Nextflow"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "Nextflow Frontier 在 BioML-bench 基准测试上发布了 4 项新的顶级结果，展示了其在生物信息学机器学习任务中的领先性能。该进展可能推动了生物序列分析、蛋白质结构预测等领域的模型能力边界，为相关研究提供了新的基准参考。",
+    "score": 7,
+    "tags": [
+      "生物信息学",
+      "机器学习",
+      "基准测试",
+      "Nextflow"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-10-13T15:27:39.283544+00:00"
+}

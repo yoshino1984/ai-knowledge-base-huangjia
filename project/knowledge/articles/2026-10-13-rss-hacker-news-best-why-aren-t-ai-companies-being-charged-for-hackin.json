@@ -1,0 +1,32 @@
+{
+  "id": "2026-10-13-rss-hacker-news-best-why-aren-t-ai-companies-being-charged-for-hackin",
+  "title": "Why aren't AI companies being charged for hacking?",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/",
+  "author": "Hacker News Best",
+  "published_at": "2026-10-13T15:26:42.749074+00:00",
+  "collected_at": "2026-10-13T15:26:42.749076+00:00",
+  "summary": "本文探讨了AI公司未经授权抓取网络内容训练模型的行为是否构成黑客攻击，并质疑为何这些公司未被追究法律责任。文章引发了关于AI数据获取合法性、版权和网络伦理的广泛讨论，对理解AI行业监管争议具有参考价值。",
+  "score": 7,
+  "tags": [
+    "AI伦理",
+    "数据抓取",
+    "法律监管"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "本文探讨了AI公司未经授权抓取网络内容训练模型的行为是否构成黑客攻击，并质疑为何这些公司未被追究法律责任。文章引发了关于AI数据获取合法性、版权和网络伦理的广泛讨论，对理解AI行业监管争议具有参考价值。",
+    "score": 7,
+    "tags": [
+      "AI伦理",
+      "数据抓取",
+      "法律监管"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-10-13T15:27:39.283520+00:00"
+}
