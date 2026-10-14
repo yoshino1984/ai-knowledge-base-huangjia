@@ -1,0 +1,32 @@
+{
+  "id": "2026-10-14-rss-lobsters-ai-ml-openfatigue-open-is-the-new-closed",
+  "title": "OpenFatigue™ — Open is the new closed",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://openfatigue.ai/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-10-14T13:12:28.114282+00:00",
+  "collected_at": "2026-10-14T13:12:28.114289+00:00",
+  "summary": "OpenFatigue™ 是一篇来自 Lobsters AI ML 社区的讨论帖，标题为“Open is the new closed”，探讨了开源模式在 AI 领域可能被滥用为营销术语或实际变得封闭的现象。该内容引发对开源真实性和可持续性的反思，对关注 AI 开源生态的开发者具有讨论价值。",
+  "score": 6,
+  "tags": [
+    "开源",
+    "AI伦理",
+    "社区讨论"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "OpenFatigue™ 是一篇来自 Lobsters AI ML 社区的讨论帖，标题为“Open is the new closed”，探讨了开源模式在 AI 领域可能被滥用为营销术语或实际变得封闭的现象。该内容引发对开源真实性和可持续性的反思，对关注 AI 开源生态的开发者具有讨论价值。",
+    "score": 6,
+    "tags": [
+      "开源",
+      "AI伦理",
+      "社区讨论"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-10-14T13:13:27.775393+00:00"
+}

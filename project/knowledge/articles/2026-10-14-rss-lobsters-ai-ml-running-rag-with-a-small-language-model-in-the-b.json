@@ -1,0 +1,34 @@
+{
+  "id": "2026-10-14-rss-lobsters-ai-ml-running-rag-with-a-small-language-model-in-the-b",
+  "title": "Running RAG with a (small) language model in the browser",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://bart.degoe.de/rag-with-a-small-language-model-in-the-browser/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-10-14T13:12:28.114332+00:00",
+  "collected_at": "2026-10-14T13:12:28.114335+00:00",
+  "summary": "该内容探讨了如何在浏览器中运行基于小型语言模型的检索增强生成（RAG）系统，展示了在客户端实现RAG的可行性和技术路径。其核心价值在于降低了RAG的部署门槛，提升了隐私保护和响应速度，为前端AI应用提供了新思路。",
+  "score": 7,
+  "tags": [
+    "RAG",
+    "浏览器",
+    "小型语言模型",
+    "前端AI"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该内容探讨了如何在浏览器中运行基于小型语言模型的检索增强生成（RAG）系统，展示了在客户端实现RAG的可行性和技术路径。其核心价值在于降低了RAG的部署门槛，提升了隐私保护和响应速度，为前端AI应用提供了新思路。",
+    "score": 7,
+    "tags": [
+      "RAG",
+      "浏览器",
+      "小型语言模型",
+      "前端AI"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-10-14T13:13:27.775416+00:00"
+}
