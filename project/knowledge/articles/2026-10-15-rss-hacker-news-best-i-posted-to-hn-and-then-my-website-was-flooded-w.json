@@ -1,0 +1,34 @@
+{
+  "id": "2026-10-15-rss-hacker-news-best-i-posted-to-hn-and-then-my-website-was-flooded-w",
+  "title": "I posted to HN, and then my website was flooded with AI bot traffic",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
+  "author": "Hacker News Best",
+  "published_at": "2026-10-15T12:58:39.607940+00:00",
+  "collected_at": "2026-10-15T12:58:39.607941+00:00",
+  "summary": "作者在 Hacker News 上发布文章后，网站遭遇大量 AI 机器人流量的涌入，导致服务器负载激增。文章记录了识别和应对这些自动化流量的过程，并探讨了 AI 爬虫对个人网站和内容创作者的普遍影响。",
+  "score": 7,
+  "tags": [
+    "AI bot traffic",
+    "Hacker News",
+    "web scraping",
+    "server load"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "作者在 Hacker News 上发布文章后，网站遭遇大量 AI 机器人流量的涌入，导致服务器负载激增。文章记录了识别和应对这些自动化流量的过程，并探讨了 AI 爬虫对个人网站和内容创作者的普遍影响。",
+    "score": 7,
+    "tags": [
+      "AI bot traffic",
+      "Hacker News",
+      "web scraping",
+      "server load"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-10-15T12:59:37.401556+00:00"
+}
