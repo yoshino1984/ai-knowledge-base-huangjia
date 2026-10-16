@@ -1,0 +1,36 @@
+{
+  "id": "2026-10-16-rss-lobsters-ai-ml-lessons-learned-building-fronteira-an-mcp-proxy",
+  "title": "Lessons learned building Fronteira, an MCP proxy with behavioral guardrails",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://wiki.alcidesfonseca.com/blog/lessons-learned-building-fronteira/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-10-16T12:53:48.055378+00:00",
+  "collected_at": "2026-10-16T12:53:48.055382+00:00",
+  "summary": "本文分享了构建 Fronteira 的经验，这是一个 MCP（模型上下文协议）代理，旨在为 AI 模型交互添加行为护栏。文章重点介绍了在实现过程中遇到的挑战、设计决策和关键教训，为开发类似 AI 安全或代理系统提供了实用参考。",
+  "score": 7,
+  "tags": [
+    "MCP",
+    "AI安全",
+    "代理",
+    "行为护栏",
+    "经验分享"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "本文分享了构建 Fronteira 的经验，这是一个 MCP（模型上下文协议）代理，旨在为 AI 模型交互添加行为护栏。文章重点介绍了在实现过程中遇到的挑战、设计决策和关键教训，为开发类似 AI 安全或代理系统提供了实用参考。",
+    "score": 7,
+    "tags": [
+      "MCP",
+      "AI安全",
+      "代理",
+      "行为护栏",
+      "经验分享"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-10-16T12:54:51.867600+00:00"
+}
