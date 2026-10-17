@@ -1,0 +1,32 @@
+{
+  "id": "2026-10-17-rss-hacker-news-best-why-we-re-banning-ai",
+  "title": "Why We're Banning AI",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://www.currentaffairs.org/news/why-were-banning-ai",
+  "author": "Hacker News Best",
+  "published_at": "2026-10-17T11:53:10.804421+00:00",
+  "collected_at": "2026-10-17T11:53:10.804424+00:00",
+  "summary": "这篇文章来自 Current Affairs，讨论禁止 AI 的理由，可能涉及 AI 对创作、劳动、伦理和社会的影响。作为 Hacker News 热门文章，它引发了 201 条评论，具有较高的社区关注度和讨论价值。",
+  "score": 7,
+  "tags": [
+    "AI伦理",
+    "AI政策",
+    "社会影响"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "这篇文章来自 Current Affairs，讨论禁止 AI 的理由，可能涉及 AI 对创作、劳动、伦理和社会的影响。作为 Hacker News 热门文章，它引发了 201 条评论，具有较高的社区关注度和讨论价值。",
+    "score": 7,
+    "tags": [
+      "AI伦理",
+      "AI政策",
+      "社会影响"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-10-17T11:54:05.749047+00:00"
+}

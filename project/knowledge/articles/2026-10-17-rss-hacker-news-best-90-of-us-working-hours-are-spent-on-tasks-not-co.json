@@ -1,0 +1,34 @@
+{
+  "id": "2026-10-17-rss-hacker-news-best-90-of-us-working-hours-are-spent-on-tasks-not-co",
+  "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+  "author": "Hacker News Best",
+  "published_at": "2026-10-17T11:53:10.804351+00:00",
+  "collected_at": "2026-10-17T11:53:10.804361+00:00",
+  "summary": "该文章指出，美国工作时间的90%用于AI基准测试未充分覆盖的任务，揭示了当前AI评估体系与实际工作需求之间的显著差距。其价值在于提醒研究者和从业者关注AI在真实工作场景中的适用性，并推动更贴近实际任务的基准设计。",
+  "score": 7,
+  "tags": [
+    "AI基准测试",
+    "工作场景",
+    "AI评估",
+    "劳动力市场"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该文章指出，美国工作时间的90%用于AI基准测试未充分覆盖的任务，揭示了当前AI评估体系与实际工作需求之间的显著差距。其价值在于提醒研究者和从业者关注AI在真实工作场景中的适用性，并推动更贴近实际任务的基准设计。",
+    "score": 7,
+    "tags": [
+      "AI基准测试",
+      "工作场景",
+      "AI评估",
+      "劳动力市场"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-10-17T11:54:05.749023+00:00"
+}
