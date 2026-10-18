@@ -1,0 +1,36 @@
+{
+  "id": "2026-10-18-rss-openai-blog-bringing-gpt-rosalind-to-academic-research-labs",
+  "title": "Bringing GPT-Rosalind to academic research labs",
+  "source": "rss:OpenAI Blog",
+  "source_url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+  "author": "OpenAI Blog",
+  "published_at": "2026-10-18T12:19:36.457219+00:00",
+  "collected_at": "2026-10-18T12:19:36.457221+00:00",
+  "summary": "OpenAI 推出 Rosalind Academic Plan，为符合条件的学术实验室提供 GPT-Rosalind 的赞助访问权限及相关工具，以推动生命科学研究。该计划降低了学术机构使用先进 AI 模型的门槛，有望加速生命科学领域的发现与创新。",
+  "score": 7,
+  "tags": [
+    "GPT-Rosalind",
+    "学术研究",
+    "生命科学",
+    "AI 工具",
+    "OpenAI"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "OpenAI 推出 Rosalind Academic Plan，为符合条件的学术实验室提供 GPT-Rosalind 的赞助访问权限及相关工具，以推动生命科学研究。该计划降低了学术机构使用先进 AI 模型的门槛，有望加速生命科学领域的发现与创新。",
+    "score": 7,
+    "tags": [
+      "GPT-Rosalind",
+      "学术研究",
+      "生命科学",
+      "AI 工具",
+      "OpenAI"
+    ],
+    "audience": "intermediate",
+    "technical_category": "industry",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-10-18T12:20:25.513626+00:00"
+}

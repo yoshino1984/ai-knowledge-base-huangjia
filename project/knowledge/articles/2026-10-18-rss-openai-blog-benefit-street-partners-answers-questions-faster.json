@@ -1,0 +1,36 @@
+{
+  "id": "2026-10-18-rss-openai-blog-benefit-street-partners-answers-questions-faster",
+  "title": "Benefit Street Partners answers questions faster with Codex",
+  "source": "rss:OpenAI Blog",
+  "source_url": "https://openai.com/index/benefit-street-partners",
+  "author": "OpenAI Blog",
+  "published_at": "2026-10-18T12:19:36.457129+00:00",
+  "collected_at": "2026-10-18T12:19:36.457132+00:00",
+  "summary": "Benefit Street Partners 的 Anant Kumar 利用 OpenAI Codex 构建工具，用于比较贷款估值和分析信贷协议，并通过 Codex 进行代码审查和加速后续跟进。该案例展示了 Codex 在金融领域提升开发效率和响应速度的实际价值。",
+  "score": 7,
+  "tags": [
+    "Codex",
+    "金融科技",
+    "代码审查",
+    "贷款估值",
+    "信贷协议分析"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "Benefit Street Partners 的 Anant Kumar 利用 OpenAI Codex 构建工具，用于比较贷款估值和分析信贷协议，并通过 Codex 进行代码审查和加速后续跟进。该案例展示了 Codex 在金融领域提升开发效率和响应速度的实际价值。",
+    "score": 7,
+    "tags": [
+      "Codex",
+      "金融科技",
+      "代码审查",
+      "贷款估值",
+      "信贷协议分析"
+    ],
+    "audience": "intermediate",
+    "technical_category": "industry",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-10-18T12:20:25.513609+00:00"
+}

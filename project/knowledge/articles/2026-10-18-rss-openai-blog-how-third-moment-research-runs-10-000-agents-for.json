@@ -1,0 +1,36 @@
+{
+  "id": "2026-10-18-rss-openai-blog-how-third-moment-research-runs-10-000-agents-for",
+  "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+  "source": "rss:OpenAI Blog",
+  "source_url": "https://openai.com/index/third-moment-research",
+  "author": "OpenAI Blog",
+  "published_at": "2026-10-18T12:19:36.457397+00:00",
+  "collected_at": "2026-10-18T12:19:36.457399+00:00",
+  "summary": "Third Moment Research 利用 GPT-6 Astra、GPT-6.1 Sol、Codex 和 Daybreak 网络安全工具，构建了可连续运行 36 小时以上、支持 10,000 个智能体并行的系统。该系统的核心价值在于实现智能体的长时间专注和持续改进，为大规模 AI 智能体部署提供了实践案例。",
+  "score": 7,
+  "tags": [
+    "AI Agents",
+    "Long-running Agents",
+    "GPT-6",
+    "Cybersecurity",
+    "Scalability"
+  ],
+  "audience": "advanced",
+  "analysis": {
+    "summary": "Third Moment Research 利用 GPT-6 Astra、GPT-6.1 Sol、Codex 和 Daybreak 网络安全工具，构建了可连续运行 36 小时以上、支持 10,000 个智能体并行的系统。该系统的核心价值在于实现智能体的长时间专注和持续改进，为大规模 AI 智能体部署提供了实践案例。",
+    "score": 7,
+    "tags": [
+      "AI Agents",
+      "Long-running Agents",
+      "GPT-6",
+      "Cybersecurity",
+      "Scalability"
+    ],
+    "audience": "advanced",
+    "technical_category": "industry",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-10-18T12:20:25.513664+00:00"
+}

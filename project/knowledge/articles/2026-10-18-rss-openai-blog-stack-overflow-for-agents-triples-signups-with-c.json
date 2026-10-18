@@ -1,0 +1,34 @@
+{
+  "id": "2026-10-18-rss-openai-blog-stack-overflow-for-agents-triples-signups-with-c",
+  "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+  "source": "rss:OpenAI Blog",
+  "source_url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+  "author": "OpenAI Blog",
+  "published_at": "2026-10-18T12:19:36.457179+00:00",
+  "collected_at": "2026-10-18T12:19:36.457182+00:00",
+  "summary": "两名工程师使用 Codex 在几周内构建了 Stack Overflow for Agents，其 ChatGPT 插件推动了代理创建量高达 10 倍的增长，并使注册量增长了两倍。该案例展示了 AI 辅助开发工具如何加速产品交付，以及 ChatGPT 插件在驱动用户增长方面的显著价值。",
+  "score": 7,
+  "tags": [
+    "Codex",
+    "ChatGPT插件",
+    "AI辅助开发",
+    "用户增长"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "两名工程师使用 Codex 在几周内构建了 Stack Overflow for Agents，其 ChatGPT 插件推动了代理创建量高达 10 倍的增长，并使注册量增长了两倍。该案例展示了 AI 辅助开发工具如何加速产品交付，以及 ChatGPT 插件在驱动用户增长方面的显著价值。",
+    "score": 7,
+    "tags": [
+      "Codex",
+      "ChatGPT插件",
+      "AI辅助开发",
+      "用户增长"
+    ],
+    "audience": "intermediate",
+    "technical_category": "industry",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-10-18T12:20:25.513618+00:00"
+}

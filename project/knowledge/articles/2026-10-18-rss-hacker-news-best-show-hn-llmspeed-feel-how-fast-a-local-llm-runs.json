@@ -1,0 +1,34 @@
+{
+  "id": "2026-10-18-rss-hacker-news-best-show-hn-llmspeed-feel-how-fast-a-local-llm-runs",
+  "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://llmspeed.dev/",
+  "author": "Hacker News Best",
+  "published_at": "2026-10-18T12:19:35.668455+00:00",
+  "collected_at": "2026-10-18T12:19:35.668463+00:00",
+  "summary": "Llmspeed 是一个工具，让用户在购买硬件前先体验本地 LLM 的运行速度，帮助评估硬件性能与模型推理的匹配度。它降低了本地部署 LLM 的决策门槛，避免盲目采购硬件。",
+  "score": 7,
+  "tags": [
+    "LLM",
+    "本地推理",
+    "硬件选型",
+    "性能测试"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "Llmspeed 是一个工具，让用户在购买硬件前先体验本地 LLM 的运行速度，帮助评估硬件性能与模型推理的匹配度。它降低了本地部署 LLM 的决策门槛，避免盲目采购硬件。",
+    "score": 7,
+    "tags": [
+      "LLM",
+      "本地推理",
+      "硬件选型",
+      "性能测试"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-10-18T12:20:25.513576+00:00"
+}

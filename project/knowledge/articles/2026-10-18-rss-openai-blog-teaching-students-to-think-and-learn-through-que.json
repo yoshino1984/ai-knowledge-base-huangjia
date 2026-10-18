@@ -1,0 +1,32 @@
+{
+  "id": "2026-10-18-rss-openai-blog-teaching-students-to-think-and-learn-through-que",
+  "title": "Teaching students to think and learn through questions",
+  "source": "rss:OpenAI Blog",
+  "source_url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+  "author": "OpenAI Blog",
+  "published_at": "2026-10-18T12:19:36.457261+00:00",
+  "collected_at": "2026-10-18T12:19:36.457263+00:00",
+  "summary": "OpenAI 在教师节推出巴西葡萄牙语版 AI for Educators，并介绍 Study Mode 如何帮助教师支持主动的逐步学习。该内容展示了 AI 在教育场景中辅助教学、培养学生提问与思考能力的应用价值。",
+  "score": 7,
+  "tags": [
+    "AI教育",
+    "Study Mode",
+    "教师工具"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "OpenAI 在教师节推出巴西葡萄牙语版 AI for Educators，并介绍 Study Mode 如何帮助教师支持主动的逐步学习。该内容展示了 AI 在教育场景中辅助教学、培养学生提问与思考能力的应用价值。",
+    "score": 7,
+    "tags": [
+      "AI教育",
+      "Study Mode",
+      "教师工具"
+    ],
+    "audience": "intermediate",
+    "technical_category": "industry",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-10-18T12:20:25.513634+00:00"
+}

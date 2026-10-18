@@ -1,0 +1,34 @@
+{
+  "id": "2026-10-18-rss-openai-blog-legalon-halves-codex-costs-while-maintaining-dev",
+  "title": "LegalOn halves Codex costs while maintaining development speed",
+  "source": "rss:OpenAI Blog",
+  "source_url": "https://openai.com/index/legalon-halves-codex-costs",
+  "author": "OpenAI Blog",
+  "published_at": "2026-10-18T12:19:36.457688+00:00",
+  "collected_at": "2026-10-18T12:19:36.457690+00:00",
+  "summary": "LegalOn 通过将 Astra、Sol 和 Luna 等模型与具体任务匹配并策略性管理预算，将 Codex 的每日预估成本降低了 65%，同时保持开发速度不变。这一案例展示了在 AI 辅助开发中通过模型选择和成本控制实现降本增效的可行路径。",
+  "score": 7,
+  "tags": [
+    "成本优化",
+    "模型选择",
+    "开发效率",
+    "AI 辅助开发"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "LegalOn 通过将 Astra、Sol 和 Luna 等模型与具体任务匹配并策略性管理预算，将 Codex 的每日预估成本降低了 65%，同时保持开发速度不变。这一案例展示了在 AI 辅助开发中通过模型选择和成本控制实现降本增效的可行路径。",
+    "score": 7,
+    "tags": [
+      "成本优化",
+      "模型选择",
+      "开发效率",
+      "AI 辅助开发"
+    ],
+    "audience": "intermediate",
+    "technical_category": "industry",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-10-18T12:20:25.513729+00:00"
+}

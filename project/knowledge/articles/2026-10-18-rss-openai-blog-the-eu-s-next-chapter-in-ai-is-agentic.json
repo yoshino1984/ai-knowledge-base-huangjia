@@ -1,0 +1,34 @@
+{
+  "id": "2026-10-18-rss-openai-blog-the-eu-s-next-chapter-in-ai-is-agentic",
+  "title": "The EU’s next chapter in AI is agentic",
+  "source": "rss:OpenAI Blog",
+  "source_url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+  "author": "OpenAI Blog",
+  "published_at": "2026-10-18T12:19:36.457468+00:00",
+  "collected_at": "2026-10-18T12:19:36.457470+00:00",
+  "summary": "该内容分析了欧盟企业在采用代理式AI方面的增长趋势，并指出更深入的应用可以释放更多价值。它为理解代理式AI在欧盟商业环境中的现状和潜力提供了数据驱动的洞察。",
+  "score": 7,
+  "tags": [
+    "代理式AI",
+    "欧盟",
+    "企业采用",
+    "商业价值"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该内容分析了欧盟企业在采用代理式AI方面的增长趋势，并指出更深入的应用可以释放更多价值。它为理解代理式AI在欧盟商业环境中的现状和潜力提供了数据驱动的洞察。",
+    "score": 7,
+    "tags": [
+      "代理式AI",
+      "欧盟",
+      "企业采用",
+      "商业价值"
+    ],
+    "audience": "intermediate",
+    "technical_category": "industry",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-10-18T12:20:25.513684+00:00"
+}

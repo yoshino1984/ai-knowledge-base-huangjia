@@ -1,0 +1,34 @@
+{
+  "id": "2026-10-18-rss-openai-blog-disrupting-ai-enabled-false-front-operations",
+  "title": "Disrupting AI-enabled “false front” operations",
+  "source": "rss:OpenAI Blog",
+  "source_url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+  "author": "OpenAI Blog",
+  "published_at": "2026-10-18T12:19:36.457723+00:00",
+  "collected_at": "2026-10-18T12:19:36.457725+00:00",
+  "summary": "OpenAI 披露并打击了两起利用 AI 技术的影响行动，这些行动通过虚假记者身份和智库机构传播地缘政治信息。该内容揭示了 AI 被滥用于信息操纵的新模式，并展示了平台方的主动防御措施，对理解 AI 安全与信息完整性具有重要价值。",
+  "score": 7,
+  "tags": [
+    "AI安全",
+    "虚假信息",
+    "影响行动",
+    "平台治理"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "OpenAI 披露并打击了两起利用 AI 技术的影响行动，这些行动通过虚假记者身份和智库机构传播地缘政治信息。该内容揭示了 AI 被滥用于信息操纵的新模式，并展示了平台方的主动防御措施，对理解 AI 安全与信息完整性具有重要价值。",
+    "score": 7,
+    "tags": [
+      "AI安全",
+      "虚假信息",
+      "影响行动",
+      "平台治理"
+    ],
+    "audience": "intermediate",
+    "technical_category": "industry",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-10-18T12:20:25.513736+00:00"
+}
