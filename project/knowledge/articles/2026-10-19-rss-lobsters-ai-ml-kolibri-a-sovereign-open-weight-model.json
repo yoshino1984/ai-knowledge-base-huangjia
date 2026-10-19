@@ -1,0 +1,34 @@
+{
+  "id": "2026-10-19-rss-lobsters-ai-ml-kolibri-a-sovereign-open-weight-model",
+  "title": "Kolibri: A Sovereign Open-Weight Model",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-10-19T15:09:37.365985+00:00",
+  "collected_at": "2026-10-19T15:09:37.365987+00:00",
+  "summary": "Kolibri 是一个主权开放权重模型，强调模型权重的开放性和自主可控性，旨在让用户无需依赖外部服务即可部署和使用 AI 模型。其核心价值在于推动 AI 技术的透明化与本地化，适合关注开源模型和主权 AI 的开发者与研究者。",
+  "score": 7,
+  "tags": [
+    "open-weight",
+    "sovereign-ai",
+    "open-source",
+    "model-deployment"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "Kolibri 是一个主权开放权重模型，强调模型权重的开放性和自主可控性，旨在让用户无需依赖外部服务即可部署和使用 AI 模型。其核心价值在于推动 AI 技术的透明化与本地化，适合关注开源模型和主权 AI 的开发者与研究者。",
+    "score": 7,
+    "tags": [
+      "open-weight",
+      "sovereign-ai",
+      "open-source",
+      "model-deployment"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-10-19T15:10:30.377641+00:00"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "2026-10-19-rss-lobsters-ai-ml-trees-to-flows-and-back-unifying-decision-trees",
+  "title": "Trees to Flows and Back: Unifying Decision Trees and Diffusion Models",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://arxiv.org/abs/2605.00414",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-10-19T15:09:37.365519+00:00",
+  "collected_at": "2026-10-19T15:09:37.365530+00:00",
+  "summary": "该内容探讨了决策树与扩散模型之间的理论统一，提出了一种将树模型与基于流的生成模型相互转换的框架。其价值在于为理解两类看似不同的机器学习范式提供了桥梁，可能启发新的混合建模方法。",
+  "score": 7,
+  "tags": [
+    "决策树",
+    "扩散模型",
+    "生成模型",
+    "理论统一"
+  ],
+  "audience": "advanced",
+  "analysis": {
+    "summary": "该内容探讨了决策树与扩散模型之间的理论统一，提出了一种将树模型与基于流的生成模型相互转换的框架。其价值在于为理解两类看似不同的机器学习范式提供了桥梁，可能启发新的混合建模方法。",
+    "score": 7,
+    "tags": [
+      "决策树",
+      "扩散模型",
+      "生成模型",
+      "理论统一"
+    ],
+    "audience": "advanced",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-10-19T15:10:30.377613+00:00"
+}

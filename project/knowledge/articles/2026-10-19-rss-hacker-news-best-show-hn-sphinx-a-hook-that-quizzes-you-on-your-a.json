@@ -1,0 +1,36 @@
+{
+  "id": "2026-10-19-rss-hacker-news-best-show-hn-sphinx-a-hook-that-quizzes-you-on-your-a",
+  "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://sphinx-six-theta.vercel.app/",
+  "author": "Hacker News Best",
+  "published_at": "2026-10-19T15:09:36.893910+00:00",
+  "collected_at": "2026-10-19T15:09:36.893911+00:00",
+  "summary": "Sphinx 是一个开源工具，可接入现有编码智能体工作流，在每次推送到生产环境前弹出问卷，检验开发者是否真正理解所推送的 AI 生成代码。其价值在于通过强制理解代码来降低 AI 辅助编程带来的风险，提升代码质量与开发者责任感。",
+  "score": 7,
+  "tags": [
+    "AI 代码审查",
+    "开发者工具",
+    "开源",
+    "编码智能体",
+    "代码质量"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "Sphinx 是一个开源工具，可接入现有编码智能体工作流，在每次推送到生产环境前弹出问卷，检验开发者是否真正理解所推送的 AI 生成代码。其价值在于通过强制理解代码来降低 AI 辅助编程带来的风险，提升代码质量与开发者责任感。",
+    "score": 7,
+    "tags": [
+      "AI 代码审查",
+      "开发者工具",
+      "开源",
+      "编码智能体",
+      "代码质量"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-10-19T15:10:30.377605+00:00"
+}

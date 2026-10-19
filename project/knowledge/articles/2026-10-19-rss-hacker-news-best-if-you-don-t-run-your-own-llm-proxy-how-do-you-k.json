@@ -1,0 +1,34 @@
+{
+  "id": "2026-10-19-rss-hacker-news-best-if-you-don-t-run-your-own-llm-proxy-how-do-you-k",
+  "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+  "author": "Hacker News Best",
+  "published_at": "2026-10-19T15:09:36.893813+00:00",
+  "collected_at": "2026-10-19T15:09:36.893815+00:00",
+  "summary": "文章主张开发者应自建 LLM 代理，以便观察和控制发往大模型 API 的请求流量，避免依赖第三方服务带来的黑盒问题。其价值在于强调可观测性、成本控制与安全审计，并引发 HN 上关于自托管代理必要性的讨论。",
+  "score": 7,
+  "tags": [
+    "LLM代理",
+    "可观测性",
+    "自托管",
+    "API网关"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "文章主张开发者应自建 LLM 代理，以便观察和控制发往大模型 API 的请求流量，避免依赖第三方服务带来的黑盒问题。其价值在于强调可观测性、成本控制与安全审计，并引发 HN 上关于自托管代理必要性的讨论。",
+    "score": 7,
+    "tags": [
+      "LLM代理",
+      "可观测性",
+      "自托管",
+      "API网关"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-10-19T15:10:30.377585+00:00"
+}

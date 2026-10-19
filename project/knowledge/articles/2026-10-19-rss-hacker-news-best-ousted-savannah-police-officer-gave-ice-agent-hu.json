@@ -1,0 +1,34 @@
+{
+  "id": "2026-10-19-rss-hacker-news-best-ousted-savannah-police-officer-gave-ice-agent-hu",
+  "title": "Ousted Savannah police officer gave ICE agent husband access to Flock system",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816",
+  "author": "Hacker News Best",
+  "published_at": "2026-10-19T15:09:36.893762+00:00",
+  "collected_at": "2026-10-19T15:09:36.893770+00:00",
+  "summary": "该报道讲述萨凡纳一名被解职的警察让其移民与海关执法局（ICE）探员丈夫访问 Flock 车牌识别系统，涉及执法数据权限滥用与隐私监控争议。在 Hacker News 上获得 552 分和 288 条评论，反映出技术社区对监控系统访问控制、数据治理及执法透明度的强烈关注。",
+  "score": 7,
+  "tags": [
+    "监控技术",
+    "数据隐私",
+    "执法透明度",
+    "访问控制"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该报道讲述萨凡纳一名被解职的警察让其移民与海关执法局（ICE）探员丈夫访问 Flock 车牌识别系统，涉及执法数据权限滥用与隐私监控争议。在 Hacker News 上获得 552 分和 288 条评论，反映出技术社区对监控系统访问控制、数据治理及执法透明度的强烈关注。",
+    "score": 7,
+    "tags": [
+      "监控技术",
+      "数据隐私",
+      "执法透明度",
+      "访问控制"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-10-19T15:10:30.377560+00:00"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "2026-10-19-rss-lobsters-ai-ml-timestral-mistral-s-time-series-foundation-model",
+  "title": "Timestral: Mistral's time-series foundation models",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://mistral.ai/news/timestral/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-10-19T15:09:37.365570+00:00",
+  "collected_at": "2026-10-19T15:09:37.365572+00:00",
+  "summary": "Mistral 发布了名为 Timestral 的时间序列基础模型，旨在将大模型能力扩展到时间序列预测与分析领域。该内容来自 Lobsters AI ML 社区讨论，核心价值在于探索基础模型在时序数据上的通用化应用，可能为预测建模带来新的范式。",
+  "score": 7,
+  "tags": [
+    "time-series",
+    "foundation-models",
+    "Mistral",
+    "forecasting"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "Mistral 发布了名为 Timestral 的时间序列基础模型，旨在将大模型能力扩展到时间序列预测与分析领域。该内容来自 Lobsters AI ML 社区讨论，核心价值在于探索基础模型在时序数据上的通用化应用，可能为预测建模带来新的范式。",
+    "score": 7,
+    "tags": [
+      "time-series",
+      "foundation-models",
+      "Mistral",
+      "forecasting"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-10-19T15:10:30.377629+00:00"
+}
