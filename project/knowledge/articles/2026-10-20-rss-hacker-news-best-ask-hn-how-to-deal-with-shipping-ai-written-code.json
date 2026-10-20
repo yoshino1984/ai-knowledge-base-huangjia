@@ -1,0 +1,36 @@
+{
+  "id": "2026-10-20-rss-hacker-news-best-ask-hn-how-to-deal-with-shipping-ai-written-code",
+  "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://news.ycombinator.com/item?id=50151036",
+  "author": "Hacker News Best",
+  "published_at": "2026-10-20T13:10:12.601553+00:00",
+  "collected_at": "2026-10-20T13:10:12.601557+00:00",
+  "summary": "该讨论源自一位 Meta 工程师的 LinkedIn 帖子，他表达了对交付自己无法完全理解的 AI 生成代码的不安，并询问其他工程师是否有同感以及如何应对。Hacker News 上的高热度讨论（515 分、634 条评论）反映了 AI 辅助编程普及后，软件工程界对代码可理解性、审查成本与质量保障之间平衡的广泛焦虑，具有较高的行业讨论价值。",
+  "score": 8,
+  "tags": [
+    "AI 辅助编程",
+    "代码审查",
+    "软件工程实践",
+    "开发者体验",
+    "代码可维护性"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该讨论源自一位 Meta 工程师的 LinkedIn 帖子，他表达了对交付自己无法完全理解的 AI 生成代码的不安，并询问其他工程师是否有同感以及如何应对。Hacker News 上的高热度讨论（515 分、634 条评论）反映了 AI 辅助编程普及后，软件工程界对代码可理解性、审查成本与质量保障之间平衡的广泛焦虑，具有较高的行业讨论价值。",
+    "score": 8,
+    "tags": [
+      "AI 辅助编程",
+      "代码审查",
+      "软件工程实践",
+      "开发者体验",
+      "代码可维护性"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-10-20T13:11:08.157406+00:00"
+}

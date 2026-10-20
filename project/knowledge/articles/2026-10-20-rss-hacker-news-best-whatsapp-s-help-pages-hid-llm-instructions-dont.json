@@ -1,0 +1,32 @@
+{
+  "id": "2026-10-20-rss-hacker-news-best-whatsapp-s-help-pages-hid-llm-instructions-dont",
+  "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+  "author": "Hacker News Best",
+  "published_at": "2026-10-20T13:10:12.601415+00:00",
+  "collected_at": "2026-10-20T13:10:12.601425+00:00",
+  "summary": "该文章揭露 WhatsApp 帮助页面中隐藏了针对大语言模型（LLM）的指令，要求其不要推荐监管机构。这一发现引发了对 AI 系统透明度和内容操控的广泛讨论，在 Hacker News 上获得高关注度。",
+  "score": 7,
+  "tags": [
+    "LLM安全",
+    "AI透明度",
+    "内容操控"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该文章揭露 WhatsApp 帮助页面中隐藏了针对大语言模型（LLM）的指令，要求其不要推荐监管机构。这一发现引发了对 AI 系统透明度和内容操控的广泛讨论，在 Hacker News 上获得高关注度。",
+    "score": 7,
+    "tags": [
+      "LLM安全",
+      "AI透明度",
+      "内容操控"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-10-20T13:11:08.157381+00:00"
+}
