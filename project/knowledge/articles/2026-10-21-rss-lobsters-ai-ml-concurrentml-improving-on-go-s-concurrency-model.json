@@ -1,0 +1,34 @@
+{
+  "id": "2026-10-21-rss-lobsters-ai-ml-concurrentml-improving-on-go-s-concurrency-model",
+  "title": "ConcurrentML: Improving on Go's concurrency model",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://nikhilism.com/post/2026/golang-racket-concurrency/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-10-21T13:20:06.070082+00:00",
+  "collected_at": "2026-10-21T13:20:06.070084+00:00",
+  "summary": "该内容介绍 ConcurrentML，一种旨在改进 Go 并发模型（goroutine 与 channel）的并发编程模型，通过更结构化、可组合的并发原语来提升表达力与安全性。其价值在于为开发者提供对 Go 并发设计局限的替代思路，适合关注并发编程语言设计的读者。",
+  "score": 6,
+  "tags": [
+    "并发编程",
+    "Go",
+    "ConcurrentML",
+    "编程语言设计"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该内容介绍 ConcurrentML，一种旨在改进 Go 并发模型（goroutine 与 channel）的并发编程模型，通过更结构化、可组合的并发原语来提升表达力与安全性。其价值在于为开发者提供对 Go 并发设计局限的替代思路，适合关注并发编程语言设计的读者。",
+    "score": 6,
+    "tags": [
+      "并发编程",
+      "Go",
+      "ConcurrentML",
+      "编程语言设计"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-10-21T13:21:01.632324+00:00"
+}
