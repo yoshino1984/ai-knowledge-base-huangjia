@@ -1,0 +1,34 @@
+{
+  "id": "2026-10-24-rss-lobsters-ai-ml-next-concept-modeling-fast-parallel-coarse-to-fi",
+  "title": "Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://arxiv.org/abs/2610.14162",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-10-24T12:22:16.590367+00:00",
+  "collected_at": "2026-10-24T12:22:16.590369+00:00",
+  "summary": "该内容介绍了一种名为 Next-Concept Modeling 的文本生成方法，通过从粗到细的并行生成策略来加速文本生成过程。其核心价值在于突破传统自回归逐词生成的效率瓶颈，实现更快的并行文本生成。",
+  "score": 7,
+  "tags": [
+    "text-generation",
+    "parallel-decoding",
+    "coarse-to-fine",
+    "efficient-inference"
+  ],
+  "audience": "advanced",
+  "analysis": {
+    "summary": "该内容介绍了一种名为 Next-Concept Modeling 的文本生成方法，通过从粗到细的并行生成策略来加速文本生成过程。其核心价值在于突破传统自回归逐词生成的效率瓶颈，实现更快的并行文本生成。",
+    "score": 7,
+    "tags": [
+      "text-generation",
+      "parallel-decoding",
+      "coarse-to-fine",
+      "efficient-inference"
+    ],
+    "audience": "advanced",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-10-24T12:23:14.737501+00:00"
+}

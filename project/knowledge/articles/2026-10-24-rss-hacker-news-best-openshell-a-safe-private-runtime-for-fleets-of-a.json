@@ -1,0 +1,36 @@
+{
+  "id": "2026-10-24-rss-hacker-news-best-openshell-a-safe-private-runtime-for-fleets-of-a",
+  "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://github.com/NVIDIA/OpenShell",
+  "author": "Hacker News Best",
+  "published_at": "2026-10-24T12:22:16.195780+00:00",
+  "collected_at": "2026-10-24T12:22:16.195791+00:00",
+  "summary": "NVIDIA 在 GitHub 上开源了 OpenShell，这是一个面向大规模自主 AI 智能体集群的安全、私密运行时环境。它旨在为多智能体系统提供隔离与隐私保障，降低部署自主智能体的安全风险。该项目在 Hacker News 上获得 495 分和 214 条评论，显示出社区对 AI 智能体安全运行时的强烈关注。",
+  "score": 8,
+  "tags": [
+    "AI agents",
+    "runtime security",
+    "NVIDIA",
+    "open source",
+    "privacy"
+  ],
+  "audience": "advanced",
+  "analysis": {
+    "summary": "NVIDIA 在 GitHub 上开源了 OpenShell，这是一个面向大规模自主 AI 智能体集群的安全、私密运行时环境。它旨在为多智能体系统提供隔离与隐私保障，降低部署自主智能体的安全风险。该项目在 Hacker News 上获得 495 分和 214 条评论，显示出社区对 AI 智能体安全运行时的强烈关注。",
+    "score": 8,
+    "tags": [
+      "AI agents",
+      "runtime security",
+      "NVIDIA",
+      "open source",
+      "privacy"
+    ],
+    "audience": "advanced",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-10-24T12:23:14.737462+00:00"
+}
