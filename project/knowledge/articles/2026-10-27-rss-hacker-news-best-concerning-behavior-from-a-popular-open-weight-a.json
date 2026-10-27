@@ -1,0 +1,34 @@
+{
+  "id": "2026-10-27-rss-hacker-news-best-concerning-behavior-from-a-popular-open-weight-a",
+  "title": "Concerning behavior from a popular open-weight AI model",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+  "author": "Hacker News Best",
+  "published_at": "2026-10-27T13:49:17.168467+00:00",
+  "collected_at": "2026-10-27T13:49:17.168471+00:00",
+  "summary": "Cohere 发布博客文章，讨论一个流行的开放权重 AI 模型出现令人担忧的行为，引发 Hacker News 社区广泛关注（310 分、122 条评论）。内容涉及开源模型安全性与对齐风险，对关注 AI 安全、模型部署和开源生态的从业者具有参考价值。",
+  "score": 7,
+  "tags": [
+    "AI安全",
+    "开放权重模型",
+    "模型对齐",
+    "开源AI"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "Cohere 发布博客文章，讨论一个流行的开放权重 AI 模型出现令人担忧的行为，引发 Hacker News 社区广泛关注（310 分、122 条评论）。内容涉及开源模型安全性与对齐风险，对关注 AI 安全、模型部署和开源生态的从业者具有参考价值。",
+    "score": 7,
+    "tags": [
+      "AI安全",
+      "开放权重模型",
+      "模型对齐",
+      "开源AI"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-10-27T13:50:14.844514+00:00"
+}
