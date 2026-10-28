@@ -1,0 +1,38 @@
+{
+  "id": "2026-10-28-rss-lobsters-ai-ml-fuzzers-vs-ai-comparing-fuzzilli-and-bigsleep-on",
+  "title": "Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://projectzero.google/2026/10/fuzzing-v-AI.html",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-10-28T14:43:47.335993+00:00",
+  "collected_at": "2026-10-28T14:43:47.335995+00:00",
+  "summary": "该内容对比了传统模糊测试工具 Fuzzilli 与 AI 驱动方法 BigSleep 在 JavaScript 引擎漏洞发现上的表现，探讨了两种技术路径的优劣与适用场景。其价值在于为安全研究人员选择测试策略提供了实证参考，并揭示了 AI 在漏洞挖掘中的潜力与局限。",
+  "score": 7,
+  "tags": [
+    "模糊测试",
+    "AI漏洞挖掘",
+    "JavaScript引擎",
+    "安全测试",
+    "Fuzzilli",
+    "BigSleep"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该内容对比了传统模糊测试工具 Fuzzilli 与 AI 驱动方法 BigSleep 在 JavaScript 引擎漏洞发现上的表现，探讨了两种技术路径的优劣与适用场景。其价值在于为安全研究人员选择测试策略提供了实证参考，并揭示了 AI 在漏洞挖掘中的潜力与局限。",
+    "score": 7,
+    "tags": [
+      "模糊测试",
+      "AI漏洞挖掘",
+      "JavaScript引擎",
+      "安全测试",
+      "Fuzzilli",
+      "BigSleep"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-10-28T14:44:45.193462+00:00"
+}

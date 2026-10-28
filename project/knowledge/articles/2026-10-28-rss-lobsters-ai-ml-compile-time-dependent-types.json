@@ -1,0 +1,34 @@
+{
+  "id": "2026-10-28-rss-lobsters-ai-ml-compile-time-dependent-types",
+  "title": "Compile-Time Dependent Types",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://thenumb.at/Syl-Intro/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-10-28T14:43:47.336029+00:00",
+  "collected_at": "2026-10-28T14:43:47.336031+00:00",
+  "summary": "该内容讨论编译期依赖类型（Compile-Time Dependent Types），属于编程语言理论与类型系统的高级话题，探讨如何在编译阶段利用依赖类型进行更强的静态验证。其价值在于提升程序正确性、减少运行时错误，并为形式化验证和类型安全设计提供基础。",
+  "score": 7,
+  "tags": [
+    "dependent types",
+    "type systems",
+    "compile-time verification",
+    "programming languages"
+  ],
+  "audience": "advanced",
+  "analysis": {
+    "summary": "该内容讨论编译期依赖类型（Compile-Time Dependent Types），属于编程语言理论与类型系统的高级话题，探讨如何在编译阶段利用依赖类型进行更强的静态验证。其价值在于提升程序正确性、减少运行时错误，并为形式化验证和类型安全设计提供基础。",
+    "score": 7,
+    "tags": [
+      "dependent types",
+      "type systems",
+      "compile-time verification",
+      "programming languages"
+    ],
+    "audience": "advanced",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-10-28T14:44:45.193472+00:00"
+}

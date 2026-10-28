@@ -1,0 +1,32 @@
+{
+  "id": "2026-10-28-rss-lobsters-ai-ml-the-benchmarking-crisis",
+  "title": "The Benchmarking Crisis",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "http://databasearchitects.blogspot.com/2026/10/the-benchmarking-crisis.html",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-10-28T14:43:47.335943+00:00",
+  "collected_at": "2026-10-28T14:43:47.335951+00:00",
+  "summary": "该文章讨论AI领域基准测试的危机，指出当前基准测试可能无法准确衡量模型能力，存在过拟合、数据污染等问题。其价值在于提醒研究者和从业者重新审视评估方法，推动更可靠的基准设计。",
+  "score": 7,
+  "tags": [
+    "benchmarking",
+    "evaluation",
+    "AI research"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该文章讨论AI领域基准测试的危机，指出当前基准测试可能无法准确衡量模型能力，存在过拟合、数据污染等问题。其价值在于提醒研究者和从业者重新审视评估方法，推动更可靠的基准设计。",
+    "score": 7,
+    "tags": [
+      "benchmarking",
+      "evaluation",
+      "AI research"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-10-28T14:44:45.193444+00:00"
+}
