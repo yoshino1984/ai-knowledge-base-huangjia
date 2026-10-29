@@ -1,0 +1,34 @@
+{
+  "id": "2026-10-29-rss-hacker-news-best-police-are-using-ai-to-pull-over-drivers-for-sus",
+  "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
+  "author": "Hacker News Best",
+  "published_at": "2026-10-29T14:50:10.837832+00:00",
+  "collected_at": "2026-10-29T14:50:10.837834+00:00",
+  "summary": "该文章报道警方利用 AI 技术识别驾驶员的“可疑”行为并据此实施交通拦截，引发对监控、算法偏见和执法边界的讨论。在 Hacker News 上获得 396 分和 312 条评论，表明技术社区高度关注 AI 在公共安全领域的实际应用及其伦理风险。",
+  "score": 7,
+  "tags": [
+    "AI 执法",
+    "监控技术",
+    "算法偏见",
+    "隐私伦理"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该文章报道警方利用 AI 技术识别驾驶员的“可疑”行为并据此实施交通拦截，引发对监控、算法偏见和执法边界的讨论。在 Hacker News 上获得 396 分和 312 条评论，表明技术社区高度关注 AI 在公共安全领域的实际应用及其伦理风险。",
+    "score": 7,
+    "tags": [
+      "AI 执法",
+      "监控技术",
+      "算法偏见",
+      "隐私伦理"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-10-29T14:51:08.437922+00:00"
+}

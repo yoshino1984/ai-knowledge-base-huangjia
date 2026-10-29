@@ -1,0 +1,36 @@
+{
+  "id": "2026-10-29-rss-hacker-news-best-survival-llm-ai-assistant-and-emergency-library",
+  "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://www.brangus.io/survival-llm",
+  "author": "Hacker News Best",
+  "published_at": "2026-10-29T14:50:10.837785+00:00",
+  "collected_at": "2026-10-29T14:50:10.837787+00:00",
+  "summary": "Survival LLM 是一个可在个人电脑本地运行的 AI 助手与应急知识库项目，旨在在断网或灾难场景下提供离线可用的信息支持。该项目在 Hacker News 上获得 531 分和 196 条评论，反映出社区对本地化、自主可控 AI 工具的高度关注。其核心价值在于将 LLM 能力与应急生存资料结合，降低对外部云服务的依赖。",
+  "score": 7,
+  "tags": [
+    "本地LLM",
+    "离线AI",
+    "应急知识库",
+    "隐私安全",
+    "开源项目"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "Survival LLM 是一个可在个人电脑本地运行的 AI 助手与应急知识库项目，旨在在断网或灾难场景下提供离线可用的信息支持。该项目在 Hacker News 上获得 531 分和 196 条评论，反映出社区对本地化、自主可控 AI 工具的高度关注。其核心价值在于将 LLM 能力与应急生存资料结合，降低对外部云服务的依赖。",
+    "score": 7,
+    "tags": [
+      "本地LLM",
+      "离线AI",
+      "应急知识库",
+      "隐私安全",
+      "开源项目"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-10-29T14:51:08.437914+00:00"
+}
