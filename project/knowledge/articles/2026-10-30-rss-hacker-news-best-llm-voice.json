@@ -1,0 +1,34 @@
+{
+  "id": "2026-10-30-rss-hacker-news-best-llm-voice",
+  "title": "LLM Voice",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://martinfowler.com/bliki/LLM-Voice.html",
+  "author": "Hacker News Best",
+  "published_at": "2026-10-30T14:43:17.678078+00:00",
+  "collected_at": "2026-10-30T14:43:17.678079+00:00",
+  "summary": "这是 Martin Fowler 博客上的一篇短文，讨论 LLM 在语音交互场景中的角色与设计考量，并附有 Hacker News 上 537 分、286 条评论的热烈讨论。其价值在于从软件架构与工程实践视角审视语音界面与 LLM 结合时的模式、局限和取舍，为相关系统设计提供参考。",
+  "score": 7,
+  "tags": [
+    "LLM",
+    "语音交互",
+    "软件架构",
+    "工程实践"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "这是 Martin Fowler 博客上的一篇短文，讨论 LLM 在语音交互场景中的角色与设计考量，并附有 Hacker News 上 537 分、286 条评论的热烈讨论。其价值在于从软件架构与工程实践视角审视语音界面与 LLM 结合时的模式、局限和取舍，为相关系统设计提供参考。",
+    "score": 7,
+    "tags": [
+      "LLM",
+      "语音交互",
+      "软件架构",
+      "工程实践"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-10-30T14:44:17.131028+00:00"
+}
