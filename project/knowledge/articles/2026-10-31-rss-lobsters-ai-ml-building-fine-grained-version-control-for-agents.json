@@ -1,0 +1,36 @@
+{
+  "id": "2026-10-31-rss-lobsters-ai-ml-building-fine-grained-version-control-for-agents",
+  "title": "Building fine-grained version control for agents with Rust and Durable Objects",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://delta.dev/blog/fine-grained-version-control-for-agents",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-10-31T14:06:39.365442+00:00",
+  "collected_at": "2026-10-31T14:06:39.365451+00:00",
+  "summary": "该内容介绍如何利用 Rust 和 Cloudflare Durable Objects 为 AI 代理构建细粒度版本控制系统，以追踪代理状态变化并支持回滚与审计。其价值在于提升代理系统的可观测性与可靠性，为复杂代理工作流提供底层版本管理能力。",
+  "score": 7,
+  "tags": [
+    "版本控制",
+    "AI代理",
+    "Rust",
+    "Durable Objects",
+    "状态管理"
+  ],
+  "audience": "advanced",
+  "analysis": {
+    "summary": "该内容介绍如何利用 Rust 和 Cloudflare Durable Objects 为 AI 代理构建细粒度版本控制系统，以追踪代理状态变化并支持回滚与审计。其价值在于提升代理系统的可观测性与可靠性，为复杂代理工作流提供底层版本管理能力。",
+    "score": 7,
+    "tags": [
+      "版本控制",
+      "AI代理",
+      "Rust",
+      "Durable Objects",
+      "状态管理"
+    ],
+    "audience": "advanced",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-10-31T14:07:41.092860+00:00"
+}

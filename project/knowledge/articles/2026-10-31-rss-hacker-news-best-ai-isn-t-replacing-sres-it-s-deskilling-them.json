@@ -1,0 +1,34 @@
+{
+  "id": "2026-10-31-rss-hacker-news-best-ai-isn-t-replacing-sres-it-s-deskilling-them",
+  "title": "AI isn't replacing SREs, it's deskilling them",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+  "author": "Hacker News Best",
+  "published_at": "2026-10-31T14:06:39.097096+00:00",
+  "collected_at": "2026-10-31T14:06:39.097099+00:00",
+  "summary": "本文讨论 AI 对 SRE 职业的影响，指出 AI 并非取代 SRE，而是通过自动化日常运维任务导致技能退化（deskilling），削弱工程师的故障排查与系统理解能力。文章在 Hacker News 获得 611 分和 459 条评论，引发广泛讨论，对运维从业者和技术管理者具有警示价值。",
+  "score": 8,
+  "tags": [
+    "SRE",
+    "AI对就业影响",
+    "技能退化",
+    "运维自动化"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "本文讨论 AI 对 SRE 职业的影响，指出 AI 并非取代 SRE，而是通过自动化日常运维任务导致技能退化（deskilling），削弱工程师的故障排查与系统理解能力。文章在 Hacker News 获得 611 分和 459 条评论，引发广泛讨论，对运维从业者和技术管理者具有警示价值。",
+    "score": 8,
+    "tags": [
+      "SRE",
+      "AI对就业影响",
+      "技能退化",
+      "运维自动化"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-10-31T14:07:41.092847+00:00"
+}
