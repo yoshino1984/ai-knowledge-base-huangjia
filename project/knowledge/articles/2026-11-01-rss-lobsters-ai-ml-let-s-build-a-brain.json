@@ -1,0 +1,32 @@
+{
+  "id": "2026-11-01-rss-lobsters-ai-ml-let-s-build-a-brain",
+  "title": "Let’s Build a Brain",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://aatishb.com/myriad/lets-build-a-brain/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-11-01T14:38:09.410255+00:00",
+  "collected_at": "2026-11-01T14:38:09.410263+00:00",
+  "summary": "该内容来自 Lobsters AI ML 社区，标题为“Let's Build a Brain”，但描述仅包含评论链接，缺乏具体技术细节。它可能是一个关于构建类脑计算或神经网络系统的讨论帖，价值在于社区评论中可能包含的见解和资源。",
+  "score": 5,
+  "tags": [
+    "brain",
+    "neural-networks",
+    "community-discussion"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该内容来自 Lobsters AI ML 社区，标题为“Let's Build a Brain”，但描述仅包含评论链接，缺乏具体技术细节。它可能是一个关于构建类脑计算或神经网络系统的讨论帖，价值在于社区评论中可能包含的见解和资源。",
+    "score": 5,
+    "tags": [
+      "brain",
+      "neural-networks",
+      "community-discussion"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-11-01T14:39:07.944780+00:00"
+}

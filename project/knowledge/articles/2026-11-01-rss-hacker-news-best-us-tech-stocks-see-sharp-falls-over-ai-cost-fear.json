@@ -1,0 +1,34 @@
+{
+  "id": "2026-11-01-rss-hacker-news-best-us-tech-stocks-see-sharp-falls-over-ai-cost-fear",
+  "title": "US tech stocks see sharp falls over AI cost fears",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
+  "author": "Hacker News Best",
+  "published_at": "2026-11-01T14:38:09.198929+00:00",
+  "collected_at": "2026-11-01T14:38:09.198931+00:00",
+  "summary": "BBC 报道美国科技股因市场对 AI 成本的担忧而大幅下跌，Hacker News 上引发 298 条评论讨论。该内容反映了 AI 基础设施投入与商业回报之间的紧张关系，对关注 AI 产业经济和投资趋势的读者具有参考价值。",
+  "score": 7,
+  "tags": [
+    "AI 成本",
+    "科技股",
+    "市场动态",
+    "AI 投资"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "BBC 报道美国科技股因市场对 AI 成本的担忧而大幅下跌，Hacker News 上引发 298 条评论讨论。该内容反映了 AI 基础设施投入与商业回报之间的紧张关系，对关注 AI 产业经济和投资趋势的读者具有参考价值。",
+    "score": 7,
+    "tags": [
+      "AI 成本",
+      "科技股",
+      "市场动态",
+      "AI 投资"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-11-01T14:39:07.944752+00:00"
+}

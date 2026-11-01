@@ -1,0 +1,34 @@
+{
+  "id": "2026-11-01-rss-hacker-news-best-cisco-gives-engineer-unlimited-ai-tokens-to-rewr",
+  "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+  "author": "Hacker News Best",
+  "published_at": "2026-11-01T14:38:09.198993+00:00",
+  "collected_at": "2026-11-01T14:38:09.198994+00:00",
+  "summary": "该文章报道了思科总裁 Jeetu Patel 给予一位 27 岁的 Z 世代工程师无限 AI token 权限，用于重写遗留代码，并探讨了此举对入门级岗位的影响。核心价值在于展示了企业如何利用 AI 工具加速技术债务清理，同时引发对初级工程师角色演变的讨论。",
+  "score": 7,
+  "tags": [
+    "AI 辅助编程",
+    "遗留代码现代化",
+    "企业 AI 应用",
+    "入门级岗位影响"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该文章报道了思科总裁 Jeetu Patel 给予一位 27 岁的 Z 世代工程师无限 AI token 权限，用于重写遗留代码，并探讨了此举对入门级岗位的影响。核心价值在于展示了企业如何利用 AI 工具加速技术债务清理，同时引发对初级工程师角色演变的讨论。",
+    "score": 7,
+    "tags": [
+      "AI 辅助编程",
+      "遗留代码现代化",
+      "企业 AI 应用",
+      "入门级岗位影响"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-11-01T14:39:07.944771+00:00"
+}
