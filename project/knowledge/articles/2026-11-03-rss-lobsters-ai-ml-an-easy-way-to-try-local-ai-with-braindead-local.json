@@ -1,0 +1,32 @@
+{
+  "id": "2026-11-03-rss-lobsters-ai-ml-an-easy-way-to-try-local-ai-with-braindead-local",
+  "title": "An easy way to try local AI with braindead-local-intelligence",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://dataswamp.org/~solene/2026-11-01-braindead-local-intelligence.html",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-11-03T15:39:21.405139+00:00",
+  "collected_at": "2026-11-03T15:39:21.405142+00:00",
+  "summary": "该内容介绍了一个名为 braindead-local-intelligence 的项目，旨在提供一种简单的方式来尝试本地 AI。其价值在于降低本地运行 AI 模型的门槛，方便用户快速体验和测试。",
+  "score": 6,
+  "tags": [
+    "local-ai",
+    "tooling",
+    "beginner-friendly"
+  ],
+  "audience": "beginner",
+  "analysis": {
+    "summary": "该内容介绍了一个名为 braindead-local-intelligence 的项目，旨在提供一种简单的方式来尝试本地 AI。其价值在于降低本地运行 AI 模型的门槛，方便用户快速体验和测试。",
+    "score": 6,
+    "tags": [
+      "local-ai",
+      "tooling",
+      "beginner-friendly"
+    ],
+    "audience": "beginner",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-11-03T15:40:17.883622+00:00"
+}
