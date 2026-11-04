@@ -1,0 +1,34 @@
+{
+  "id": "2026-11-04-rss-hacker-news-best-google-will-turn-off-search-for-schools-that-rej",
+  "title": "Google will turn off search for schools that reject AI",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+  "author": "Hacker News Best",
+  "published_at": "2026-11-04T15:52:29.886508+00:00",
+  "collected_at": "2026-11-04T15:52:29.886512+00:00",
+  "summary": "该内容来自 Hacker News 热门讨论，标题称 Google 将对拒绝 AI 的学校关闭搜索服务，并链接至 Google 官方博客与存档页面。帖子获得 649 分和 447 条评论，反映出社区对科技巨头以核心产品为杠杆推动 AI 教育普及这一做法的高度关注与争议。",
+  "score": 7,
+  "tags": [
+    "Google",
+    "AI教育",
+    "科技政策",
+    "Hacker News"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该内容来自 Hacker News 热门讨论，标题称 Google 将对拒绝 AI 的学校关闭搜索服务，并链接至 Google 官方博客与存档页面。帖子获得 649 分和 447 条评论，反映出社区对科技巨头以核心产品为杠杆推动 AI 教育普及这一做法的高度关注与争议。",
+    "score": 7,
+    "tags": [
+      "Google",
+      "AI教育",
+      "科技政策",
+      "Hacker News"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-11-04T15:53:32.560725+00:00"
+}

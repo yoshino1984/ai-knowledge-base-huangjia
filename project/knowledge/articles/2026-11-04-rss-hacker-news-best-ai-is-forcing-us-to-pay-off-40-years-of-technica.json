@@ -1,0 +1,34 @@
+{
+  "id": "2026-11-04-rss-hacker-news-best-ai-is-forcing-us-to-pay-off-40-years-of-technica",
+  "title": "AI is forcing us to pay off 40 years of technical debt",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+  "author": "Hacker News Best",
+  "published_at": "2026-11-04T15:52:29.886154+00:00",
+  "collected_at": "2026-11-04T15:52:29.886165+00:00",
+  "summary": "该文章探讨了 AI 如何迫使组织偿还过去 40 年积累的技术债务，并以 IEEE Spectrum 报道的 PHP2Shell 漏洞为例，说明 AI 在网络安全领域加速暴露了遗留系统的脆弱性。其价值在于提醒技术团队，AI 的广泛应用使长期被忽视的技术债务成为紧迫的安全与运维风险。",
+  "score": 7,
+  "tags": [
+    "AI",
+    "网络安全",
+    "技术债务",
+    "遗留系统"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该文章探讨了 AI 如何迫使组织偿还过去 40 年积累的技术债务，并以 IEEE Spectrum 报道的 PHP2Shell 漏洞为例，说明 AI 在网络安全领域加速暴露了遗留系统的脆弱性。其价值在于提醒技术团队，AI 的广泛应用使长期被忽视的技术债务成为紧迫的安全与运维风险。",
+    "score": 7,
+    "tags": [
+      "AI",
+      "网络安全",
+      "技术债务",
+      "遗留系统"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-11-04T15:53:32.560680+00:00"
+}

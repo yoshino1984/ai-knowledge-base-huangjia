@@ -1,0 +1,34 @@
+{
+  "id": "2026-11-04-rss-hacker-news-best-postman-silently-auto-installs-ai-plugins-and-at",
+  "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+  "author": "Hacker News Best",
+  "published_at": "2026-11-04T15:52:29.886422+00:00",
+  "collected_at": "2026-11-04T15:52:29.886425+00:00",
+  "summary": "该内容指向 Postman 的一个 GitHub issue，指控其静默自动安装 AI 插件并试图共享所有 API 数据，引发对开发者工具隐私与数据安全的担忧。该讨论在 Hacker News 获得 1433 分和 467 条评论，具有较高社区关注度，价值在于提醒开发者审查工具的数据采集行为。",
+  "score": 7,
+  "tags": [
+    "API工具",
+    "隐私安全",
+    "AI插件",
+    "开发者工具"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该内容指向 Postman 的一个 GitHub issue，指控其静默自动安装 AI 插件并试图共享所有 API 数据，引发对开发者工具隐私与数据安全的担忧。该讨论在 Hacker News 获得 1433 分和 467 条评论，具有较高社区关注度，价值在于提醒开发者审查工具的数据采集行为。",
+    "score": 7,
+    "tags": [
+      "API工具",
+      "隐私安全",
+      "AI插件",
+      "开发者工具"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-11-04T15:53:32.560717+00:00"
+}
