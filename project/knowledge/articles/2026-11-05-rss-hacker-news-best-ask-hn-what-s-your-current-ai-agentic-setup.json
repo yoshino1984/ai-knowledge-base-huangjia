@@ -1,0 +1,36 @@
+{
+  "id": "2026-11-05-rss-hacker-news-best-ask-hn-what-s-your-current-ai-agentic-setup",
+  "title": "Ask HN: What's your current AI agentic setup?",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://news.ycombinator.com/item?id=50366117",
+  "author": "Hacker News Best",
+  "published_at": "2026-11-05T15:57:47.508920+00:00",
+  "collected_at": "2026-11-05T15:57:47.508929+00:00",
+  "summary": "这是一条 Hacker News 的 Ask HN 讨论帖，作者通过五个问题征集社区当前 AI agentic 工作流的真实快照，涵盖订阅付费、模型来源、编码工具、编排/群集工具及更广泛的 agent 平台。帖子获得 458 分和 551 条评论，价值在于汇聚一线开发者的实践选择与切换原因，反映 AI 代理工具生态的快速演变。",
+  "score": 7,
+  "tags": [
+    "AI agents",
+    "developer tools",
+    "workflow",
+    "Hacker News",
+    "LLM"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "这是一条 Hacker News 的 Ask HN 讨论帖，作者通过五个问题征集社区当前 AI agentic 工作流的真实快照，涵盖订阅付费、模型来源、编码工具、编排/群集工具及更广泛的 agent 平台。帖子获得 458 分和 551 条评论，价值在于汇聚一线开发者的实践选择与切换原因，反映 AI 代理工具生态的快速演变。",
+    "score": 7,
+    "tags": [
+      "AI agents",
+      "developer tools",
+      "workflow",
+      "Hacker News",
+      "LLM"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-11-05T15:58:47.334283+00:00"
+}
