@@ -1,0 +1,34 @@
+{
+  "id": "2026-11-06-rss-lobsters-ai-ml-reflections-on-rust-in-the-llm-age",
+  "title": "Reflections on Rust in the LLM Age",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://www.youtube.com/watch?v=5D7QPOIZ7gY",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-11-06T15:30:09.371674+00:00",
+  "collected_at": "2026-11-06T15:30:09.371680+00:00",
+  "summary": "该文章探讨了在大型语言模型（LLM）时代，Rust 编程语言的定位与反思，可能涉及 LLM 对 Rust 开发、工具链或社区的影响。其价值在于引发对 AI 辅助编程背景下系统级语言演进的讨论。",
+  "score": 6,
+  "tags": [
+    "Rust",
+    "LLM",
+    "编程语言",
+    "AI 辅助开发"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该文章探讨了在大型语言模型（LLM）时代，Rust 编程语言的定位与反思，可能涉及 LLM 对 Rust 开发、工具链或社区的影响。其价值在于引发对 AI 辅助编程背景下系统级语言演进的讨论。",
+    "score": 6,
+    "tags": [
+      "Rust",
+      "LLM",
+      "编程语言",
+      "AI 辅助开发"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-11-06T15:31:16.276742+00:00"
+}
