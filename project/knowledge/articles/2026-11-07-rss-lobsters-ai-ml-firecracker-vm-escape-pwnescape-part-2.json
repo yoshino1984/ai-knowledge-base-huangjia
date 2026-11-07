@@ -1,0 +1,34 @@
+{
+  "id": "2026-11-07-rss-lobsters-ai-ml-firecracker-vm-escape-pwnescape-part-2",
+  "title": "Firecracker VM Escape: PwnEscape Part 2",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://pwn.ai/blog/firecracker-escape",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-11-07T14:32:25.642050+00:00",
+  "collected_at": "2026-11-07T14:32:25.642056+00:00",
+  "summary": "本文是 Firecracker 虚拟机逃逸系列文章的第二部分，详细分析了 Firecracker 微虚拟机中的安全漏洞利用技术。文章展示了如何通过逃逸攻击突破 Firecracker 的隔离边界，对云原生安全研究具有重要参考价值。",
+  "score": 8,
+  "tags": [
+    "虚拟机逃逸",
+    "Firecracker",
+    "安全漏洞",
+    "云原生安全"
+  ],
+  "audience": "advanced",
+  "analysis": {
+    "summary": "本文是 Firecracker 虚拟机逃逸系列文章的第二部分，详细分析了 Firecracker 微虚拟机中的安全漏洞利用技术。文章展示了如何通过逃逸攻击突破 Firecracker 的隔离边界，对云原生安全研究具有重要参考价值。",
+    "score": 8,
+    "tags": [
+      "虚拟机逃逸",
+      "Firecracker",
+      "安全漏洞",
+      "云原生安全"
+    ],
+    "audience": "advanced",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-11-07T14:33:26.624468+00:00"
+}
