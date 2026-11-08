@@ -1,0 +1,32 @@
+{
+  "id": "2026-11-08-rss-lobsters-ai-ml-catching-prompt-injections-hidden-in-pdfs",
+  "title": "Catching prompt injections hidden in PDFs",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://tomclancy.info/joshua-judges-ruth.html",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-11-08T14:39:49.036953+00:00",
+  "collected_at": "2026-11-08T14:39:49.036964+00:00",
+  "summary": "该内容讨论如何检测隐藏在 PDF 文件中的提示注入攻击，这类攻击可能操纵 AI 系统执行非预期指令。其价值在于提升 AI 应用对文档输入的安全防护意识，帮助开发者识别和缓解此类威胁。",
+  "score": 7,
+  "tags": [
+    "prompt injection",
+    "PDF security",
+    "AI security"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该内容讨论如何检测隐藏在 PDF 文件中的提示注入攻击，这类攻击可能操纵 AI 系统执行非预期指令。其价值在于提升 AI 应用对文档输入的安全防护意识，帮助开发者识别和缓解此类威胁。",
+    "score": 7,
+    "tags": [
+      "prompt injection",
+      "PDF security",
+      "AI security"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-11-08T14:40:52.736460+00:00"
+}
