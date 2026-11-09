@@ -1,0 +1,32 @@
+{
+  "id": "2026-11-09-rss-hacker-news-best-how-i-fight-ai-brain-fry",
+  "title": "How I Fight AI Brain Fry",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+  "author": "Hacker News Best",
+  "published_at": "2026-11-09T18:03:09.443141+00:00",
+  "collected_at": "2026-11-09T18:03:09.443143+00:00",
+  "summary": "这篇文章探讨了在持续使用 AI 工具后出现的认知疲劳（即“AI 脑炸”）现象，并分享了作者个人的应对策略与反思。其价值在于提醒技术从业者关注 AI 辅助工作带来的心智负担，并提供了可借鉴的平衡方法。",
+  "score": 7,
+  "tags": [
+    "AI 认知疲劳",
+    "开发者健康",
+    "AI 工作流"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "这篇文章探讨了在持续使用 AI 工具后出现的认知疲劳（即“AI 脑炸”）现象，并分享了作者个人的应对策略与反思。其价值在于提醒技术从业者关注 AI 辅助工作带来的心智负担，并提供了可借鉴的平衡方法。",
+    "score": 7,
+    "tags": [
+      "AI 认知疲劳",
+      "开发者健康",
+      "AI 工作流"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-11-09T18:04:14.964873+00:00"
+}
