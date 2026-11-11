@@ -1,0 +1,34 @@
+{
+  "id": "2026-11-11-rss-hacker-news-best-ai-usage-generates-a-fragile-codebase",
+  "title": "AI usage generates a fragile codebase",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+  "author": "Hacker News Best",
+  "published_at": "2026-11-11T15:43:24.987308+00:00",
+  "collected_at": "2026-11-11T15:43:24.987312+00:00",
+  "summary": "这篇文章探讨了使用 AI 辅助编程可能导致代码库变得脆弱的问题，分析了 AI 生成代码在可维护性、依赖关系和长期稳定性方面的潜在风险。文章在 Hacker News 上获得 614 分和 576 条评论，表明该话题在开发者社区引发广泛关注和讨论，对评估 AI 编程工具的工程实践具有参考价值。",
+  "score": 7,
+  "tags": [
+    "AI 辅助编程",
+    "代码质量",
+    "软件工程",
+    "技术趋势"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "这篇文章探讨了使用 AI 辅助编程可能导致代码库变得脆弱的问题，分析了 AI 生成代码在可维护性、依赖关系和长期稳定性方面的潜在风险。文章在 Hacker News 上获得 614 分和 576 条评论，表明该话题在开发者社区引发广泛关注和讨论，对评估 AI 编程工具的工程实践具有参考价值。",
+    "score": 7,
+    "tags": [
+      "AI 辅助编程",
+      "代码质量",
+      "软件工程",
+      "技术趋势"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-11-11T15:44:27.590056+00:00"
+}

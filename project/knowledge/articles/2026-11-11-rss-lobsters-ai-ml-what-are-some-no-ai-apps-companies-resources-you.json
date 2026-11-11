@@ -1,0 +1,34 @@
+{
+  "id": "2026-11-11-rss-lobsters-ai-ml-what-are-some-no-ai-apps-companies-resources-you",
+  "title": "What are some \"No AI\" apps/companies/resources you know of?",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://lobste.rs/s/nld6x3/what_are_some_no_ai_apps_companies",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-11-11T15:43:25.252894+00:00",
+  "collected_at": "2026-11-11T15:43:25.252900+00:00",
+  "summary": "该内容来自 Lobsters AI ML 社区，用户寻求一份明确避免使用 AI 的应用、公司或资源列表，并提供了 Rebel Tech Alliance 作为示例。其价值在于为关注 AI 伦理或希望减少 AI 依赖的开发者提供实用参考和社区资源。",
+  "score": 6,
+  "tags": [
+    "AI伦理",
+    "资源列表",
+    "社区讨论",
+    "反AI技术"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该内容来自 Lobsters AI ML 社区，用户寻求一份明确避免使用 AI 的应用、公司或资源列表，并提供了 Rebel Tech Alliance 作为示例。其价值在于为关注 AI 伦理或希望减少 AI 依赖的开发者提供实用参考和社区资源。",
+    "score": 6,
+    "tags": [
+      "AI伦理",
+      "资源列表",
+      "社区讨论",
+      "反AI技术"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-11-11T15:44:27.590065+00:00"
+}

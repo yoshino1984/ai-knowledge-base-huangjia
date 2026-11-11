@@ -1,0 +1,34 @@
+{
+  "id": "2026-11-11-rss-lobsters-ai-ml-online-learning-on-the-programmable-dataplane-20",
+  "title": "Online learning on the programmable dataplane (2022)",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://theses.gla.ac.uk/83235/3/2022SimpsonPhD.pdf",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-11-11T15:43:25.252938+00:00",
+  "collected_at": "2026-11-11T15:43:25.252940+00:00",
+  "summary": "该内容讨论在可编程数据平面（如P4交换机）上实现在线学习算法，探索将机器学习推理与更新直接部署在网络设备中，以降低延迟和带宽开销。其价值在于推动网络内计算与边缘智能的融合，为实时自适应网络应用提供新思路。",
+  "score": 7,
+  "tags": [
+    "可编程数据平面",
+    "在线学习",
+    "网络内计算",
+    "P4"
+  ],
+  "audience": "advanced",
+  "analysis": {
+    "summary": "该内容讨论在可编程数据平面（如P4交换机）上实现在线学习算法，探索将机器学习推理与更新直接部署在网络设备中，以降低延迟和带宽开销。其价值在于推动网络内计算与边缘智能的融合，为实时自适应网络应用提供新思路。",
+    "score": 7,
+    "tags": [
+      "可编程数据平面",
+      "在线学习",
+      "网络内计算",
+      "P4"
+    ],
+    "audience": "advanced",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-11-11T15:44:27.590072+00:00"
+}

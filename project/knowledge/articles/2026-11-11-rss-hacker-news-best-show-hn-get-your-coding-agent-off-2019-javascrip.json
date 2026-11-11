@@ -1,0 +1,36 @@
+{
+  "id": "2026-11-11-rss-hacker-news-best-show-hn-get-your-coding-agent-off-2019-javascrip",
+  "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://github.com/GoogleChrome/modern-web-guidance",
+  "author": "Hacker News Best",
+  "published_at": "2026-11-11T15:43:24.987227+00:00",
+  "collected_at": "2026-11-11T15:43:24.987231+00:00",
+  "summary": "Google Chrome 团队联合 Firefox、MDN 和 Edge 推出 Modern Web Guidance 1.0，为编码智能体提供 200+ 篇精选的现代 Web 平台原生实现最佳实践指南（约 1.7MB），以 agent skill 和轻量 RAG CLI 形式分发，避免占用过多上下文窗口。项目还包含基于 3 万 GitHub 仓库训练的 legacy-scan 检测旧式 JS 模式，并通过约 1700 条 Playwright/AST 断言评测证明智能体任务通过率从 55% 提升至 92%。",
+  "score": 8,
+  "tags": [
+    "AI 编码智能体",
+    "现代 Web 平台",
+    "RAG",
+    "开发者工具",
+    "前端最佳实践"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "Google Chrome 团队联合 Firefox、MDN 和 Edge 推出 Modern Web Guidance 1.0，为编码智能体提供 200+ 篇精选的现代 Web 平台原生实现最佳实践指南（约 1.7MB），以 agent skill 和轻量 RAG CLI 形式分发，避免占用过多上下文窗口。项目还包含基于 3 万 GitHub 仓库训练的 legacy-scan 检测旧式 JS 模式，并通过约 1700 条 Playwright/AST 断言评测证明智能体任务通过率从 55% 提升至 92%。",
+    "score": 8,
+    "tags": [
+      "AI 编码智能体",
+      "现代 Web 平台",
+      "RAG",
+      "开发者工具",
+      "前端最佳实践"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-11-11T15:44:27.590049+00:00"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "2026-11-11-rss-hacker-news-best-google-swe-points-48-ai-agents-at-nasa-lidar-fin",
+  "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://pietromiotti.com/latest/maya-site/?maya",
+  "author": "Hacker News Best",
+  "published_at": "2026-11-11T15:43:24.986885+00:00",
+  "collected_at": "2026-11-11T15:43:24.986894+00:00",
+  "summary": "该内容报道了 Google SWE 项目利用 48 个 AI 智能体在 72 小时内分析 NASA 的 Lidar 数据，发现了一座未被地图记录的玛雅金字塔。这展示了多智能体 AI 系统在遥感考古和地理空间数据分析中的高效自动化能力，为大规模地球观测数据的智能挖掘提供了新范式。",
+  "score": 8,
+  "tags": [
+    "多智能体系统",
+    "遥感数据分析",
+    "AI 考古",
+    "Lidar 点云处理"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该内容报道了 Google SWE 项目利用 48 个 AI 智能体在 72 小时内分析 NASA 的 Lidar 数据，发现了一座未被地图记录的玛雅金字塔。这展示了多智能体 AI 系统在遥感考古和地理空间数据分析中的高效自动化能力，为大规模地球观测数据的智能挖掘提供了新范式。",
+    "score": 8,
+    "tags": [
+      "多智能体系统",
+      "遥感数据分析",
+      "AI 考古",
+      "Lidar 点云处理"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-11-11T15:44:27.590021+00:00"
+}

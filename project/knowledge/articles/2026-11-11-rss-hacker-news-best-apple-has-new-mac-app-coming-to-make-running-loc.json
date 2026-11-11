@@ -1,0 +1,34 @@
+{
+  "id": "2026-11-11-rss-hacker-news-best-apple-has-new-mac-app-coming-to-make-running-loc",
+  "title": "Apple has new Mac app coming to make running local AI models easy",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+  "author": "Hacker News Best",
+  "published_at": "2026-11-11T15:43:24.986985+00:00",
+  "collected_at": "2026-11-11T15:43:24.986989+00:00",
+  "summary": "苹果计划推出一款新的 Mac 应用，旨在简化在本地运行 AI 模型的过程，降低用户部署和使用本地大模型的门槛。该消息在 Hacker News 上获得 415 分和 429 条评论，反映出开发者社区对本地 AI 工具的高度关注。其核心价值在于借助苹果生态的软硬件整合能力，让普通用户也能更便捷地运行本地 AI 模型。",
+  "score": 7,
+  "tags": [
+    "Apple",
+    "本地AI",
+    "Mac应用",
+    "AI工具"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "苹果计划推出一款新的 Mac 应用，旨在简化在本地运行 AI 模型的过程，降低用户部署和使用本地大模型的门槛。该消息在 Hacker News 上获得 415 分和 429 条评论，反映出开发者社区对本地 AI 工具的高度关注。其核心价值在于借助苹果生态的软硬件整合能力，让普通用户也能更便捷地运行本地 AI 模型。",
+    "score": 7,
+    "tags": [
+      "Apple",
+      "本地AI",
+      "Mac应用",
+      "AI工具"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-11-11T15:44:27.590038+00:00"
+}
