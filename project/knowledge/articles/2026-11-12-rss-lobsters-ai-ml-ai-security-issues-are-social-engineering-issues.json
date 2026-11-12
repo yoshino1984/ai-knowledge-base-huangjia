@@ -1,0 +1,32 @@
+{
+  "id": "2026-11-12-rss-lobsters-ai-ml-ai-security-issues-are-social-engineering-issues",
+  "title": "AI Security Issues Are Social Engineering Issues",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://www.oblomovka.com/wp/2026/11/11/ai-security-issues-are-social-engineering-issues/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-11-12T16:28:06.542911+00:00",
+  "collected_at": "2026-11-12T16:28:06.542913+00:00",
+  "summary": "该文章探讨AI安全问题的本质，指出许多AI安全漏洞实际上源于社会工程学攻击，而非纯技术缺陷。其价值在于提醒安全从业者关注人为因素，将AI安全策略与社会工程防御相结合。",
+  "score": 7,
+  "tags": [
+    "AI安全",
+    "社会工程学",
+    "安全意识"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该文章探讨AI安全问题的本质，指出许多AI安全漏洞实际上源于社会工程学攻击，而非纯技术缺陷。其价值在于提醒安全从业者关注人为因素，将AI安全策略与社会工程防御相结合。",
+    "score": 7,
+    "tags": [
+      "AI安全",
+      "社会工程学",
+      "安全意识"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-11-12T16:28:59.627455+00:00"
+}

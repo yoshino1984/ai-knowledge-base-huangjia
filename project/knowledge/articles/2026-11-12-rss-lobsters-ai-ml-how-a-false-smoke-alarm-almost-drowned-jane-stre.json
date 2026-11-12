@@ -1,0 +1,34 @@
+{
+  "id": "2026-11-12-rss-lobsters-ai-ml-how-a-false-smoke-alarm-almost-drowned-jane-stre",
+  "title": "How a false smoke alarm almost drowned Jane Street's only NYC datacenter",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-11-12T16:28:06.542969+00:00",
+  "collected_at": "2026-11-12T16:28:06.542971+00:00",
+  "summary": "文章讲述了 Jane Street 位于纽约的唯一数据中心因一次误报的烟雾报警器触发灭火系统，险些被水淹的故障事件。该事件揭示了数据中心物理基础设施中环境监控与灭火系统联动的潜在风险，对运维和可靠性工程具有警示价值。",
+  "score": 7,
+  "tags": [
+    "datacenter",
+    "reliability",
+    "incident",
+    "infrastructure"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "文章讲述了 Jane Street 位于纽约的唯一数据中心因一次误报的烟雾报警器触发灭火系统，险些被水淹的故障事件。该事件揭示了数据中心物理基础设施中环境监控与灭火系统联动的潜在风险，对运维和可靠性工程具有警示价值。",
+    "score": 7,
+    "tags": [
+      "datacenter",
+      "reliability",
+      "incident",
+      "infrastructure"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-11-12T16:28:59.627466+00:00"
+}
