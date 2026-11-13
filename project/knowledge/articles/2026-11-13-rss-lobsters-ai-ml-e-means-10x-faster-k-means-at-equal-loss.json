@@ -1,0 +1,32 @@
+{
+  "id": "2026-11-13-rss-lobsters-ai-ml-e-means-10x-faster-k-means-at-equal-loss",
+  "title": "e-means: 10x faster k-means at equal loss",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://e-means.github.io/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-11-13T15:48:53.645870+00:00",
+  "collected_at": "2026-11-13T15:48:53.645873+00:00",
+  "summary": "该内容介绍了一种名为 e-means 的新方法，声称在保持相同损失的情况下，将 k-means 聚类速度提升 10 倍。其核心价值在于显著加速经典聚类算法，可能对大规模数据处理和机器学习应用有实际意义。",
+  "score": 7,
+  "tags": [
+    "k-means",
+    "聚类算法",
+    "性能优化"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该内容介绍了一种名为 e-means 的新方法，声称在保持相同损失的情况下，将 k-means 聚类速度提升 10 倍。其核心价值在于显著加速经典聚类算法，可能对大规模数据处理和机器学习应用有实际意义。",
+    "score": 7,
+    "tags": [
+      "k-means",
+      "聚类算法",
+      "性能优化"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-11-13T15:49:50.204876+00:00"
+}

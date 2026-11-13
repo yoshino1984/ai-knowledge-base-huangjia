@@ -1,0 +1,32 @@
+{
+  "id": "2026-11-13-rss-lobsters-ai-ml-ml-modules-for-mere-mortals",
+  "title": "ML Modules for Mere Mortals",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://thunderseethe.dev/posts/ml-modules-for-mere-mortals/intro/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-11-13T15:48:53.645826+00:00",
+  "collected_at": "2026-11-13T15:48:53.645833+00:00",
+  "summary": "该内容来自 Lobsters AI ML 社区，标题为《ML Modules for Mere Mortals》，讨论机器学习模块的入门概念。由于描述仅包含评论链接，核心内容可能是面向普通读者的 ML 模块化知识科普，价值在于降低机器学习模块的理解门槛。",
+  "score": 5,
+  "tags": [
+    "machine-learning",
+    "modules",
+    "education"
+  ],
+  "audience": "beginner",
+  "analysis": {
+    "summary": "该内容来自 Lobsters AI ML 社区，标题为《ML Modules for Mere Mortals》，讨论机器学习模块的入门概念。由于描述仅包含评论链接，核心内容可能是面向普通读者的 ML 模块化知识科普，价值在于降低机器学习模块的理解门槛。",
+    "score": 5,
+    "tags": [
+      "machine-learning",
+      "modules",
+      "education"
+    ],
+    "audience": "beginner",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-11-13T15:49:50.204868+00:00"
+}
