@@ -1,0 +1,32 @@
+{
+  "id": "2026-11-14-rss-lobsters-ai-ml-you-could-have-invented-transformers-from-memory",
+  "title": "You could have invented transformers from memory",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://alexwang.ai/posts/associative-memory/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-11-14T14:40:43.439312+00:00",
+  "collected_at": "2026-11-14T14:40:43.439314+00:00",
+  "summary": "该内容标题为“You could have invented transformers from memory”，来自 Lobsters AI ML 社区，讨论如何从记忆出发推导 Transformer 架构，强调理解而非死记。其价值在于帮助读者建立对 Transformer 核心组件的直觉，适合作为学习或复习材料。",
+  "score": 7,
+  "tags": [
+    "transformer",
+    "deep-learning",
+    "education"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该内容标题为“You could have invented transformers from memory”，来自 Lobsters AI ML 社区，讨论如何从记忆出发推导 Transformer 架构，强调理解而非死记。其价值在于帮助读者建立对 Transformer 核心组件的直觉，适合作为学习或复习材料。",
+    "score": 7,
+    "tags": [
+      "transformer",
+      "deep-learning",
+      "education"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-11-14T14:41:41.637788+00:00"
+}
