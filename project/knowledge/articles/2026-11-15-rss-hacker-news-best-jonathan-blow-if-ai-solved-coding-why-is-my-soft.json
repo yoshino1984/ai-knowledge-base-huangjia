@@ -1,0 +1,32 @@
+{
+  "id": "2026-11-15-rss-hacker-news-best-jonathan-blow-if-ai-solved-coding-why-is-my-soft",
+  "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+  "author": "Hacker News Best",
+  "published_at": "2026-11-15T15:08:41.047159+00:00",
+  "collected_at": "2026-11-15T15:08:41.047160+00:00",
+  "summary": "这是 Jonathan Blow 的一个视频讨论，质疑如果 AI 真的解决了编程问题，为何软件质量并未显著提升，反思 AI 编程工具的实际影响。内容引发 Hacker News 上 718 条评论，具有较高的社区讨论价值，适合关注 AI 与软件开发实践的人群。",
+  "score": 7,
+  "tags": [
+    "AI编程",
+    "软件开发",
+    "技术反思"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "这是 Jonathan Blow 的一个视频讨论，质疑如果 AI 真的解决了编程问题，为何软件质量并未显著提升，反思 AI 编程工具的实际影响。内容引发 Hacker News 上 718 条评论，具有较高的社区讨论价值，适合关注 AI 与软件开发实践的人群。",
+    "score": 7,
+    "tags": [
+      "AI编程",
+      "软件开发",
+      "技术反思"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-11-15T15:09:37.817061+00:00"
+}

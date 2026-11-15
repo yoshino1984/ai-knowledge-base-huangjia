@@ -1,0 +1,36 @@
+{
+  "id": "2026-11-15-rss-hacker-news-best-nvidia-allegedly-engineered-scarcity-by-funding",
+  "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+  "author": "Hacker News Best",
+  "published_at": "2026-11-15T15:08:41.047077+00:00",
+  "collected_at": "2026-11-15T15:08:41.047086+00:00",
+  "summary": "该文章报道了Nvidia被指控通过资助AI初创公司购买其GPU来人为制造稀缺性的争议。这一话题在Hacker News上引发高度关注，获得1084分和643条评论，反映了业界对AI芯片市场垄断和供应链策略的广泛讨论。",
+  "score": 7,
+  "tags": [
+    "Nvidia",
+    "GPU",
+    "AI芯片",
+    "市场垄断",
+    "供应链"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该文章报道了Nvidia被指控通过资助AI初创公司购买其GPU来人为制造稀缺性的争议。这一话题在Hacker News上引发高度关注，获得1084分和643条评论，反映了业界对AI芯片市场垄断和供应链策略的广泛讨论。",
+    "score": 7,
+    "tags": [
+      "Nvidia",
+      "GPU",
+      "AI芯片",
+      "市场垄断",
+      "供应链"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-11-15T15:09:37.817037+00:00"
+}
