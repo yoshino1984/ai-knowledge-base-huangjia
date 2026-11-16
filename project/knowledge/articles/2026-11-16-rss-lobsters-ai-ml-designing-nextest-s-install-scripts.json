@@ -1,0 +1,34 @@
+{
+  "id": "2026-11-16-rss-lobsters-ai-ml-designing-nextest-s-install-scripts",
+  "title": "Designing nextest's install scripts",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://sunshowers.io/posts/nextest-install-scripts/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-11-16T17:42:26.966609+00:00",
+  "collected_at": "2026-11-16T17:42:26.966619+00:00",
+  "summary": "该内容讨论 nextest（Rust 测试运行器）安装脚本的设计，涉及安装脚本的架构、跨平台兼容性及用户体验等工程实践。价值在于为开发者提供构建可靠安装脚本的设计思路与经验参考。",
+  "score": 6,
+  "tags": [
+    "Rust",
+    "安装脚本",
+    "工程实践",
+    "开发工具"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该内容讨论 nextest（Rust 测试运行器）安装脚本的设计，涉及安装脚本的架构、跨平台兼容性及用户体验等工程实践。价值在于为开发者提供构建可靠安装脚本的设计思路与经验参考。",
+    "score": 6,
+    "tags": [
+      "Rust",
+      "安装脚本",
+      "工程实践",
+      "开发工具"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-11-16T17:43:20.677956+00:00"
+}
