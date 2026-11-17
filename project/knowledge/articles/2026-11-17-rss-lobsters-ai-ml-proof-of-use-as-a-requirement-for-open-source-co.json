@@ -1,0 +1,34 @@
+{
+  "id": "2026-11-17-rss-lobsters-ai-ml-proof-of-use-as-a-requirement-for-open-source-co",
+  "title": "\"Proof of use\" as a requirement for open source contributions?",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://lobste.rs/s/ki1l5r/proof_use_as_requirement_for_open_source",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-11-17T17:15:06.496761+00:00",
+  "collected_at": "2026-11-17T17:15:06.496763+00:00",
+  "summary": "开源维护者提出以“使用证明”作为接受贡献的前提，要求提交者展示其项目确实依赖该库，以过滤AI生成的低质量PR和刷绿墙行为。该讨论反映了AI辅助贡献泛滥下开源社区对贡献质量与真实需求的治理探索。",
+  "score": 7,
+  "tags": [
+    "开源治理",
+    "AI代码贡献",
+    "社区规范",
+    "软件维护"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "开源维护者提出以“使用证明”作为接受贡献的前提，要求提交者展示其项目确实依赖该库，以过滤AI生成的低质量PR和刷绿墙行为。该讨论反映了AI辅助贡献泛滥下开源社区对贡献质量与真实需求的治理探索。",
+    "score": 7,
+    "tags": [
+      "开源治理",
+      "AI代码贡献",
+      "社区规范",
+      "软件维护"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-11-17T17:16:02.360906+00:00"
+}

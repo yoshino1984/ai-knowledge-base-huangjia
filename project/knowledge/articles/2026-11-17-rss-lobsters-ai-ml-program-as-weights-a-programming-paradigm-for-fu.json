@@ -1,0 +1,34 @@
+{
+  "id": "2026-11-17-rss-lobsters-ai-ml-program-as-weights-a-programming-paradigm-for-fu",
+  "title": "Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://arxiv.org/abs/2607.02512",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-11-17T17:15:06.496722+00:00",
+  "collected_at": "2026-11-17T17:15:06.496730+00:00",
+  "summary": "该内容介绍了一种名为“Program-as-Weights”的编程范式，旨在将程序逻辑编码为神经网络权重，从而支持模糊函数的实现与推理。其核心价值在于探索传统符号程序与神经计算之间的融合路径，为处理不确定性和模糊逻辑的编程任务提供新思路。",
+  "score": 7,
+  "tags": [
+    "programming paradigm",
+    "fuzzy functions",
+    "neural networks",
+    "program synthesis"
+  ],
+  "audience": "advanced",
+  "analysis": {
+    "summary": "该内容介绍了一种名为“Program-as-Weights”的编程范式，旨在将程序逻辑编码为神经网络权重，从而支持模糊函数的实现与推理。其核心价值在于探索传统符号程序与神经计算之间的融合路径，为处理不确定性和模糊逻辑的编程任务提供新思路。",
+    "score": 7,
+    "tags": [
+      "programming paradigm",
+      "fuzzy functions",
+      "neural networks",
+      "program synthesis"
+    ],
+    "audience": "advanced",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-11-17T17:16:02.360892+00:00"
+}
