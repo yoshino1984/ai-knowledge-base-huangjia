@@ -1,0 +1,34 @@
+{
+  "id": "2026-11-19-rss-hacker-news-best-ai-agents-ask-better-questions-than-kpmg-account",
+  "title": "AI agents ask better questions than KPMG accountants in audit trial",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+  "author": "Hacker News Best",
+  "published_at": "2026-11-19T16:57:45.630474+00:00",
+  "collected_at": "2026-11-19T16:57:45.630481+00:00",
+  "summary": "该文章报道了一项审计试验，其中AI代理在提问质量上优于KPMG的会计师，表明AI在专业审计场景中具有辅助甚至增强人类判断的潜力。内容来自Hacker News热门讨论，获得478分和238条评论，反映了业界对AI在专业服务领域应用的高度关注。",
+  "score": 7,
+  "tags": [
+    "AI代理",
+    "审计",
+    "专业服务",
+    "人机协作"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该文章报道了一项审计试验，其中AI代理在提问质量上优于KPMG的会计师，表明AI在专业审计场景中具有辅助甚至增强人类判断的潜力。内容来自Hacker News热门讨论，获得478分和238条评论，反映了业界对AI在专业服务领域应用的高度关注。",
+    "score": 7,
+    "tags": [
+      "AI代理",
+      "审计",
+      "专业服务",
+      "人机协作"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-11-19T16:58:37.324068+00:00"
+}

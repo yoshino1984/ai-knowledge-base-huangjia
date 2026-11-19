@@ -1,0 +1,36 @@
+{
+  "id": "2026-11-19-rss-hacker-news-best-harvard-researchers-find-ai-coding-agents-shifte",
+  "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+  "author": "Hacker News Best",
+  "published_at": "2026-11-19T16:57:45.630641+00:00",
+  "collected_at": "2026-11-19T16:57:45.630643+00:00",
+  "summary": "哈佛大学研究发现，AI 编码代理（如 Copilot、Cursor 等）在提升代码生成效率后，将软件开发流程的瓶颈从编写代码转移到了代码审查环节。该研究揭示了 AI 辅助编程对团队协作模式的实际影响，为工程团队优化工作流和工具链提供了重要参考。",
+  "score": 8,
+  "tags": [
+    "AI coding agents",
+    "code review",
+    "software engineering",
+    "developer productivity",
+    "workflow optimization"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "哈佛大学研究发现，AI 编码代理（如 Copilot、Cursor 等）在提升代码生成效率后，将软件开发流程的瓶颈从编写代码转移到了代码审查环节。该研究揭示了 AI 辅助编程对团队协作模式的实际影响，为工程团队优化工作流和工具链提供了重要参考。",
+    "score": 8,
+    "tags": [
+      "AI coding agents",
+      "code review",
+      "software engineering",
+      "developer productivity",
+      "workflow optimization"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-11-19T16:58:37.324087+00:00"
+}
