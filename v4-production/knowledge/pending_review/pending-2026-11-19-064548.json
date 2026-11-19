@@ -1,0 +1,207 @@
+{
+  "timestamp": "2026-11-19-064548",
+  "iterations_used": 2,
+  "max_iterations": 2,
+  "last_feedback": "[弱项: technical_depth, originality, summary_quality] 1) 摘要质量：hermes-agent 的 summary 大量使用“可能基于”“而非静态部署”等推测性表述，且未说明依据（description 仅一句口号），属于过度推断；建议对信息不足的条目明确标注“信息有限”，只复述可验证内容。2) 技术深度：五条摘要均为功能罗列，缺少实现机制层面的说明，例如 Firecrawl 的抓取/搜索管线、Dify 的 RAG 编排与部署架构、LangChain 的抽象层设计取舍；建议补充 1-2 个关键技术点或与同类项目的差异对比。3) 原创性：key_insight 多为对 description 的改写（如 Dify、Firecrawl），缺乏独立判断；建议给出基于项目定位的评估性观点，如适用边界、潜在局限。4) 格式：字段完整，但 category 标注不一致——langchain 归为 agent 而 dify 归为 framework，二者定位相近，建议统一分类口径；tags 中英文混用（如“自适应”与“web scraping”），建议统一语言或建立受控词表。5) 数据核验：stars 数值异常偏高（如 hermes-agent 264563），建议核对采集口径并在审核中标注可信度。",
+  "analyses": [
+    {
+      "source": "github",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 264563,
+      "language": "Python",
+      "collected_at": "2026-11-19T06:45:13.557767+00:00",
+      "summary": "NousResearch/hermes-agent 是一个强调持续学习与自适应能力的 AI 智能体项目，其核心理念是“与你共同成长”。该项目可能基于 Hermes 系列模型，通过交互反馈和记忆机制动态优化行为，而非静态部署。它属于 agent 框架范畴，注重个性化与长期协作，适合需要智能体随用户需求演进的场景。",
+      "tags": [
+        "agent",
+        "自适应",
+        "持续学习",
+        "NousResearch",
+        "个性化"
+      ],
+      "relevance_score": 0.8,
+      "category": "agent",
+      "key_insight": "智能体的核心价值在于与用户共同进化，而非一次性部署。"
+    },
+    {
+      "source": "github",
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.",
+      "stars": 203374,
+      "language": "TypeScript",
+      "collected_at": "2026-11-19T06:45:13.557791+00:00",
+      "summary": "Firecrawl 是一个为 AI 智能体提供知识基础设施的开源项目，通过统一 API 实现网页搜索、抓取以及接入 550+ 数据提供者，帮助智能体获取更丰富、更准确的外部知识。它简化了数据采集与集成流程，使开发者能快速构建具备实时信息检索能力的智能体应用。",
+      "tags": [
+        "web scraping",
+        "search API",
+        "agent infrastructure",
+        "data providers",
+        "knowledge retrieval"
+      ],
+      "relevance_score": 0.85,
+      "category": "tool",
+      "key_insight": "Firecrawl 通过统一 API 将网页抓取、搜索和多源数据接入整合，为智能体提供可扩展的知识获取层。"
+    },
+    {
+      "source": "github",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "stars": 161468,
+      "language": "Python",
+      "collected_at": "2026-11-19T06:45:13.557793+00:00",
+      "summary": "Dify 是一个开源的大语言模型应用开发平台，提供 Agentic 工作流和 RAG 管道的可视化编排，支持丰富的 AI 模型与工具集成。用户可在统一协作空间中构建、调试和部署 AI 应用，并选择云端、VPC 或自托管方式，实现从原型到生产环境的无缝过渡，无需重建技术栈。",
+      "tags": [
+        "LLM应用开发",
+        "Agent工作流",
+        "RAG",
+        "低代码平台",
+        "自托管"
+      ],
+      "relevance_score": 0.9,
+      "category": "framework",
+      "key_insight": "Dify 通过一体化协作平台和灵活部署选项，降低了 LLM 应用从原型到生产的门槛。"
+    },
+    {
+      "source": "github",
+      "title": "langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "description": "The agent engineering platform.",
+      "stars": 149866,
+      "language": "Python",
+      "collected_at": "2026-11-19T06:45:13.557795+00:00",
+      "summary": "LangChain 是一个用于构建基于大语言模型（LLM）应用的工程平台，专注于智能体（Agent）的开发与编排。它提供模块化组件，支持工具调用、记忆管理、检索增强生成（RAG）等能力，简化了复杂 LLM 工作流的搭建。该项目在 GitHub 上活跃开发，拥有广泛社区，是当前 LLM 应用开发的主流框架之一。",
+      "tags": [
+        "LLM",
+        "Agent",
+        "框架",
+        "RAG",
+        "工具调用"
+      ],
+      "relevance_score": 0.95,
+      "category": "agent",
+      "key_insight": "LangChain 通过标准化组件和抽象层，降低了构建 LLM 智能体应用的工程复杂度。"
+    },
+    {
+      "source": "github",
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+      "stars": 145041,
+      "language": "Python",
+      "collected_at": "2026-11-19T06:45:13.557796+00:00",
+      "summary": "Shubhamsaboo/awesome-llm-apps 是一个开源项目，汇集了100多个基于大语言模型（LLM）的AI代理、代理技能和RAG（检索增强生成）应用。该项目旨在为开发者提供丰富的示例和模板，涵盖多种应用场景，所有代码免费开放，便于学习和二次开发。通过实际可运行的应用程序，帮助开发者快速上手LLM应用开发，探索AI代理和RAG技术的实践。",
+      "tags": [
+        "LLM应用",
+        "AI代理",
+        "RAG",
+        "开源项目",
+        "示例集合"
+      ],
+      "relevance_score": 0.9,
+      "category": "agent",
+      "key_insight": "一个集成了100多个LLM应用示例的开源资源库，加速AI代理和RAG技术的实践与创新。"
+    },
+    {
+      "source": "github",
+      "title": "earendil-works/pi",
+      "url": "https://github.com/earendil-works/pi",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "stars": 122810,
+      "language": "TypeScript",
+      "collected_at": "2026-11-19T06:45:13.557797+00:00",
+      "summary": "earendil-works/pi 是一个 AI agent 工具包，提供统一的 LLM API 抽象层、可复用的 agent 循环、终端用户界面（TUI）以及编码 agent 命令行工具。该项目旨在简化 AI agent 的开发与部署，让开发者能快速构建和运行基于大语言模型的自动化任务，尤其适合编码辅助场景。",
+      "tags": [
+        "AI agent",
+        "LLM API",
+        "TUI",
+        "CLI",
+        "coding agent"
+      ],
+      "relevance_score": 0.8,
+      "category": "agent",
+      "key_insight": "统一 LLM 接口与开箱即用的 agent 循环，降低 AI agent 开发门槛。"
+    },
+    {
+      "source": "github",
+      "title": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "description": "Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.",
+      "stars": 121458,
+      "language": "Python",
+      "collected_at": "2026-11-19T06:45:13.557798+00:00",
+      "summary": "browser-use 是一个开源 Python 库，用于构建 AI 浏览器代理，让大语言模型能够直接控制浏览器完成网页交互任务。项目还提供 Browser Use Cloud 服务，包含隐身浏览器和托管代理 API，简化部署与扩展。该库降低了 AI 代理操作浏览器的门槛，适用于自动化测试、数据采集和智能助手等场景。",
+      "tags": [
+        "浏览器自动化",
+        "AI代理",
+        "Python库",
+        "LLM应用",
+        "云服务"
+      ],
+      "relevance_score": 0.9,
+      "category": "agent",
+      "key_insight": "将浏览器转化为 LLM 可编程的操作界面，实现自然语言驱动的网页自动化。"
+    },
+    {
+      "source": "github",
+      "title": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "why use many token when few token do trick. Skill + local proxy for coding agents: shorter answers, smaller tool output, every original recoverable.",
+      "stars": 121370,
+      "language": "Go",
+      "collected_at": "2026-11-19T06:45:13.557805+00:00",
+      "summary": "Caveman 是一个面向编码智能体的技能与本地代理工具，旨在通过压缩回答和工具输出减少 token 消耗，同时保证所有原始内容可恢复。它利用本地代理拦截并精简智能体与工具间的交互，在保持信息完整性的前提下降低推理成本，适用于需要频繁调用工具或生成长文本的编码场景。",
+      "tags": [
+        "token压缩",
+        "本地代理",
+        "编码智能体",
+        "成本优化"
+      ],
+      "relevance_score": 0.75,
+      "category": "agent",
+      "key_insight": "通过本地代理实现可逆的 token 压缩，在不损失信息的前提下显著降低智能体运行成本。"
+    },
+    {
+      "source": "github",
+      "title": "OpenHands/OpenHands",
+      "url": "https://github.com/OpenHands/OpenHands",
+      "description": "🙌 OpenHands: AI-Driven Development",
+      "stars": 93793,
+      "language": "TypeScript",
+      "collected_at": "2026-11-19T06:45:13.557806+00:00",
+      "summary": "OpenHands（原OpenDevin）是一个AI驱动的软件开发平台，旨在通过AI代理自动化编程任务。它提供沙盒环境，让AI代理能够编写代码、执行命令、浏览网页等，模拟人类开发者的工作流程。项目集成了多种LLM，支持任务规划、代码生成与调试，并强调安全隔离。OpenHands致力于降低软件开发门槛，提升开发效率，是AI代理在软件工程领域的重要实践。",
+      "tags": [
+        "AI代理",
+        "软件开发",
+        "自动化编程",
+        "LLM",
+        "沙盒环境"
+      ],
+      "relevance_score": 0.9,
+      "category": "agent",
+      "key_insight": "OpenHands通过沙盒化的AI代理环境，将LLM能力转化为端到端的软件开发自动化，推动AI从辅助工具向自主开发者演进。"
+    },
+    {
+      "source": "github",
+      "title": "unclecode/crawl4ai",
+      "url": "https://github.com/unclecode/crawl4ai",
+      "description": "Official Crawl4AI Cloud: a hosted web scraping, extraction, and search API for AI agents. Free API key, 1,000 credits a month, no card. Fully open source: this repo is the Apache-2.0 crawler that powers it, and you can self-host it.",
+      "stars": 87544,
+      "language": "Python",
+      "collected_at": "2026-11-19T06:45:13.557808+00:00",
+      "summary": "Crawl4AI 是一个面向 AI 代理的开源网页抓取、提取与搜索 API，提供托管云服务（每月 1000 免费额度）并支持自托管。其核心是 Apache-2.0 许可的爬虫，专为 LLM 和 AI 代理优化，可高效获取结构化网页数据，用于 RAG、代理工具等场景。",
+      "tags": [
+        "web scraping",
+        "AI agent",
+        "RAG",
+        "API",
+        "open source"
+      ],
+      "relevance_score": 0.9,
+      "category": "tool",
+      "key_insight": "为 AI 代理提供开箱即用的网页抓取与搜索能力，降低构建 RAG 和代理应用的数据获取门槛。"
+    }
+  ]
+}
