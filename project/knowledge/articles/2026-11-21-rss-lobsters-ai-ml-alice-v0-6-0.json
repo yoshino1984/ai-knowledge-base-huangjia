@@ -1,0 +1,32 @@
+{
+  "id": "2026-11-21-rss-lobsters-ai-ml-alice-v0-6-0",
+  "title": "Alice v0.6.0",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://www.alicecaml.org/blog/alice-v0-6-0/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-11-21T15:50:00.093080+00:00",
+  "collected_at": "2026-11-21T15:50:00.093082+00:00",
+  "summary": "Alice v0.6.0 是一个 AI 相关工具或库的新版本发布，来自 Lobsters AI ML 社区。该版本更新可能包含功能改进或修复，对关注 AI 开发工具的技术人员有参考价值。",
+  "score": 6,
+  "tags": [
+    "AI",
+    "工具发布",
+    "版本更新"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "Alice v0.6.0 是一个 AI 相关工具或库的新版本发布，来自 Lobsters AI ML 社区。该版本更新可能包含功能改进或修复，对关注 AI 开发工具的技术人员有参考价值。",
+    "score": 6,
+    "tags": [
+      "AI",
+      "工具发布",
+      "版本更新"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-11-21T15:50:51.823232+00:00"
+}

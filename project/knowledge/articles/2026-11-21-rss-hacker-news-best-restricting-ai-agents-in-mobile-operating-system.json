@@ -1,0 +1,34 @@
+{
+  "id": "2026-11-21-rss-hacker-news-best-restricting-ai-agents-in-mobile-operating-system",
+  "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://signal.org/blog/protecting-your-privacy/",
+  "author": "Hacker News Best",
+  "published_at": "2026-11-21T15:49:59.568662+00:00",
+  "collected_at": "2026-11-21T15:49:59.568664+00:00",
+  "summary": "该内容讨论了在移动操作系统平台上限制AI代理捕获数据的问题，引用了Signal关于保护用户隐私的博客文章，并在Hacker News上引发广泛讨论（559分、328条评论）。核心价值在于探讨AI代理权限边界与移动平台隐私保护之间的平衡，对关注AI安全与隐私的开发者具有参考意义。",
+  "score": 7,
+  "tags": [
+    "AI代理",
+    "隐私保护",
+    "移动操作系统",
+    "数据安全"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该内容讨论了在移动操作系统平台上限制AI代理捕获数据的问题，引用了Signal关于保护用户隐私的博客文章，并在Hacker News上引发广泛讨论（559分、328条评论）。核心价值在于探讨AI代理权限边界与移动平台隐私保护之间的平衡，对关注AI安全与隐私的开发者具有参考意义。",
+    "score": 7,
+    "tags": [
+      "AI代理",
+      "隐私保护",
+      "移动操作系统",
+      "数据安全"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-11-21T15:50:51.823214+00:00"
+}

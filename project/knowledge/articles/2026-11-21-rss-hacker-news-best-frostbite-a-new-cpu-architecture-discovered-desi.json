@@ -1,0 +1,34 @@
+{
+  "id": "2026-11-21-rss-hacker-news-best-frostbite-a-new-cpu-architecture-discovered-desi",
+  "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://architectlabs.com/blog/frostbite",
+  "author": "Hacker News Best",
+  "published_at": "2026-11-21T15:49:59.568623+00:00",
+  "collected_at": "2026-11-21T15:49:59.568625+00:00",
+  "summary": "Architect Labs 宣布 Frostbite，一个由 AI 设计并完成验证的全新 CPU 架构，展示了 AI 在硬件架构设计领域的端到端能力。该工作在 Hacker News 上获得 657 分和 341 条评论，引发广泛关注与讨论。其价值在于探索 AI 辅助甚至自主完成芯片架构设计、验证的可行性，可能改变传统硬件设计流程。",
+  "score": 8,
+  "tags": [
+    "AI硬件设计",
+    "CPU架构",
+    "AI辅助设计",
+    "芯片验证"
+  ],
+  "audience": "advanced",
+  "analysis": {
+    "summary": "Architect Labs 宣布 Frostbite，一个由 AI 设计并完成验证的全新 CPU 架构，展示了 AI 在硬件架构设计领域的端到端能力。该工作在 Hacker News 上获得 657 分和 341 条评论，引发广泛关注与讨论。其价值在于探索 AI 辅助甚至自主完成芯片架构设计、验证的可行性，可能改变传统硬件设计流程。",
+    "score": 8,
+    "tags": [
+      "AI硬件设计",
+      "CPU架构",
+      "AI辅助设计",
+      "芯片验证"
+    ],
+    "audience": "advanced",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-11-21T15:50:51.823206+00:00"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "2026-11-21-rss-lobsters-ai-ml-three-breaches-endless-leaks-your-ai-supply-chai",
+  "title": "Three breaches, endless leaks: Your AI supply chain needs canaries",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-11-21T15:50:00.093047+00:00",
+  "collected_at": "2026-11-21T15:50:00.093054+00:00",
+  "summary": "文章讨论 AI 供应链中的安全风险，通过三起泄露事件说明持续监控的必要性，并提出使用“金丝雀”机制来及早发现数据泄露或模型异常。其价值在于为 AI 系统开发者提供可落地的供应链安全预警思路。",
+  "score": 7,
+  "tags": [
+    "AI供应链安全",
+    "数据泄露",
+    "金丝雀监控",
+    "安全预警"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "文章讨论 AI 供应链中的安全风险，通过三起泄露事件说明持续监控的必要性，并提出使用“金丝雀”机制来及早发现数据泄露或模型异常。其价值在于为 AI 系统开发者提供可落地的供应链安全预警思路。",
+    "score": 7,
+    "tags": [
+      "AI供应链安全",
+      "数据泄露",
+      "金丝雀监控",
+      "安全预警"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-11-21T15:50:51.823227+00:00"
+}
