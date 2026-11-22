@@ -1,0 +1,34 @@
+{
+  "id": "2026-11-22-rss-hacker-news-best-google-workers-tell-their-employer-not-to-punish",
+  "title": "Google workers tell their employer not to punish schools that don't want AI",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
+  "author": "Hacker News Best",
+  "published_at": "2026-11-22T15:48:33.917681+00:00",
+  "collected_at": "2026-11-22T15:48:33.917688+00:00",
+  "summary": "Google/Alphabet工会员工发起请愿，要求公司不要惩罚拒绝采用Gemini AI的学校，反映了科技公司内部对AI教育推广伦理的争议。该事件在Hacker News上获得282点热度，引发229条讨论，凸显了AI技术落地过程中员工话语权与社会责任的张力。",
+  "score": 7,
+  "tags": [
+    "AI伦理",
+    "科技公司治理",
+    "教育AI",
+    "员工 activism"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "Google/Alphabet工会员工发起请愿，要求公司不要惩罚拒绝采用Gemini AI的学校，反映了科技公司内部对AI教育推广伦理的争议。该事件在Hacker News上获得282点热度，引发229条讨论，凸显了AI技术落地过程中员工话语权与社会责任的张力。",
+    "score": 7,
+    "tags": [
+      "AI伦理",
+      "科技公司治理",
+      "教育AI",
+      "员工 activism"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-11-22T15:49:23.575005+00:00"
+}

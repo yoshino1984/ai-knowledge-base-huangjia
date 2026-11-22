@@ -1,0 +1,36 @@
+{
+  "id": "2026-11-22-rss-lobsters-ai-ml-researcher-plants-2m-canaries-into-the-ai-supply",
+  "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-11-22T15:48:34.382665+00:00",
+  "collected_at": "2026-11-22T15:48:34.382673+00:00",
+  "summary": "一名研究人员在 AI 供应链中植入了 200 万个金丝雀标记（canary tokens），用于追踪数据泄露和模型训练中的隐私问题。该实验揭示了 AI 供应链中数据流动的隐蔽性和隐私风险，为审计和监控 AI 数据使用提供了新方法。",
+  "score": 7,
+  "tags": [
+    "AI供应链",
+    "隐私保护",
+    "数据泄露",
+    "金丝雀标记",
+    "模型训练"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "一名研究人员在 AI 供应链中植入了 200 万个金丝雀标记（canary tokens），用于追踪数据泄露和模型训练中的隐私问题。该实验揭示了 AI 供应链中数据流动的隐蔽性和隐私风险，为审计和监控 AI 数据使用提供了新方法。",
+    "score": 7,
+    "tags": [
+      "AI供应链",
+      "隐私保护",
+      "数据泄露",
+      "金丝雀标记",
+      "模型训练"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-11-22T15:49:23.575033+00:00"
+}
