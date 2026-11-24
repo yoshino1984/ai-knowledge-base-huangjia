@@ -1,0 +1,36 @@
+{
+  "id": "2026-11-24-rss-lobsters-ai-ml-9-ux-a-macintosh-inspired-desktop-for-9front",
+  "title": "9/UX: a Macintosh-inspired desktop for 9front",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://progrium.github.io/9ux/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-11-24T19:14:23.073058+00:00",
+  "collected_at": "2026-11-24T19:14:23.073067+00:00",
+  "summary": "该项目为 9front 操作系统开发了一款受 Macintosh 启发的桌面环境，旨在显著提升其可用性。尽管实现方式借助了机器人辅助，但作者认为这是一项令人惊叹的努力。",
+  "score": 7,
+  "tags": [
+    "9front",
+    "桌面环境",
+    "Macintosh",
+    "用户体验",
+    "操作系统"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该项目为 9front 操作系统开发了一款受 Macintosh 启发的桌面环境，旨在显著提升其可用性。尽管实现方式借助了机器人辅助，但作者认为这是一项令人惊叹的努力。",
+    "score": 7,
+    "tags": [
+      "9front",
+      "桌面环境",
+      "Macintosh",
+      "用户体验",
+      "操作系统"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-11-24T19:15:13.638647+00:00"
+}
