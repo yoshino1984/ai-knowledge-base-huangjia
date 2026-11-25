@@ -1,0 +1,32 @@
+{
+  "id": "2026-11-25-rss-lobsters-ai-ml-matrix-multiplication-is-n-2-25",
+  "title": "Matrix Multiplication is Θ(n^2.25)",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://raw.githubusercontent.com/openai/math/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-11-25T18:18:16.353004+00:00",
+  "collected_at": "2026-11-25T18:18:16.353005+00:00",
+  "summary": "该内容讨论矩阵乘法的新理论上界 Θ(n^2.25)，可能涉及对经典 O(n^3) 算法的改进或相关复杂性研究。其价值在于推动算法理论边界，但需结合具体论文验证实际意义。",
+  "score": 7,
+  "tags": [
+    "矩阵乘法",
+    "算法复杂度",
+    "计算理论"
+  ],
+  "audience": "advanced",
+  "analysis": {
+    "summary": "该内容讨论矩阵乘法的新理论上界 Θ(n^2.25)，可能涉及对经典 O(n^3) 算法的改进或相关复杂性研究。其价值在于推动算法理论边界，但需结合具体论文验证实际意义。",
+    "score": 7,
+    "tags": [
+      "矩阵乘法",
+      "算法复杂度",
+      "计算理论"
+    ],
+    "audience": "advanced",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-11-25T18:19:09.660955+00:00"
+}

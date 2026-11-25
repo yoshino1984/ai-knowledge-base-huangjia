@@ -1,0 +1,34 @@
+{
+  "id": "2026-11-25-rss-lobsters-ai-ml-flat-non-higher-order-construction-of-anf-via-mu",
+  "title": "Flat/non-higher-order construction of ANF via mutable holes",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://blueberrywren.dev/blog/anf-mutable/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-11-25T18:18:16.352965+00:00",
+  "collected_at": "2026-11-25T18:18:16.352974+00:00",
+  "summary": "该内容讨论了一种通过可变洞（mutable holes）以扁平/非高阶方式构造 ANF（A 范式）的技术，属于程序语言与编译原理领域。其价值在于提供了一种更简单、无需高阶抽象的 ANF 构造方法，可能简化编译器中间表示的实现。",
+  "score": 6,
+  "tags": [
+    "compiler",
+    "program-analysis",
+    "intermediate-representation",
+    "functional-programming"
+  ],
+  "audience": "advanced",
+  "analysis": {
+    "summary": "该内容讨论了一种通过可变洞（mutable holes）以扁平/非高阶方式构造 ANF（A 范式）的技术，属于程序语言与编译原理领域。其价值在于提供了一种更简单、无需高阶抽象的 ANF 构造方法，可能简化编译器中间表示的实现。",
+    "score": 6,
+    "tags": [
+      "compiler",
+      "program-analysis",
+      "intermediate-representation",
+      "functional-programming"
+    ],
+    "audience": "advanced",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-11-25T18:19:09.660946+00:00"
+}
