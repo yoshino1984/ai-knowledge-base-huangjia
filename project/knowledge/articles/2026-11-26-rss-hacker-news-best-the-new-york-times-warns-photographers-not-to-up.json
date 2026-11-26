@@ -1,0 +1,36 @@
+{
+  "id": "2026-11-26-rss-hacker-news-best-the-new-york-times-warns-photographers-not-to-up",
+  "title": "The New York Times warns photographers not to update Photoshop over AI features",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+  "author": "Hacker News Best",
+  "published_at": "2026-11-26T17:59:50.935144+00:00",
+  "collected_at": "2026-11-26T17:59:50.935154+00:00",
+  "summary": "《纽约时报》警告摄影师不要更新 Photoshop，因为新版包含的 AI 功能可能影响其工作流程或引发版权/伦理问题。该讨论在 Hacker News 上获得高关注（567 分、470 条评论），反映了专业用户对生成式 AI 集成到创意工具中的担忧。",
+  "score": 7,
+  "tags": [
+    "AI伦理",
+    "Photoshop",
+    "生成式AI",
+    "版权",
+    "创意工具"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "《纽约时报》警告摄影师不要更新 Photoshop，因为新版包含的 AI 功能可能影响其工作流程或引发版权/伦理问题。该讨论在 Hacker News 上获得高关注（567 分、470 条评论），反映了专业用户对生成式 AI 集成到创意工具中的担忧。",
+    "score": 7,
+    "tags": [
+      "AI伦理",
+      "Photoshop",
+      "生成式AI",
+      "版权",
+      "创意工具"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-11-26T18:00:45.636927+00:00"
+}
