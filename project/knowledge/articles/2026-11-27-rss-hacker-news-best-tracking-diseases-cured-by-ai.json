@@ -1,0 +1,34 @@
+{
+  "id": "2026-11-27-rss-hacker-news-best-tracking-diseases-cured-by-ai",
+  "title": "Tracking Diseases Cured by AI",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://diseasescuredbyai.com/",
+  "author": "Hacker News Best",
+  "published_at": "2026-11-27T17:44:49.969060+00:00",
+  "collected_at": "2026-11-27T17:44:49.969062+00:00",
+  "summary": "这是一篇来自 Hacker News 的讨论帖，指向一个名为 diseasescuredbyai.com 的网站，旨在追踪由 AI 技术治愈的疾病案例。该内容的价值在于汇集 AI 在医疗健康领域的实际治愈成果，为评估 AI 医疗应用进展提供参考，并引发社区关于 AI 医疗成效的讨论。",
+  "score": 7,
+  "tags": [
+    "AI医疗",
+    "疾病治愈",
+    "Hacker News",
+    "技术追踪"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "这是一篇来自 Hacker News 的讨论帖，指向一个名为 diseasescuredbyai.com 的网站，旨在追踪由 AI 技术治愈的疾病案例。该内容的价值在于汇集 AI 在医疗健康领域的实际治愈成果，为评估 AI 医疗应用进展提供参考，并引发社区关于 AI 医疗成效的讨论。",
+    "score": 7,
+    "tags": [
+      "AI医疗",
+      "疾病治愈",
+      "Hacker News",
+      "技术追踪"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-11-27T17:45:34.000825+00:00"
+}

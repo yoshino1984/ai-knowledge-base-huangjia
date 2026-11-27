@@ -1,0 +1,34 @@
+{
+  "id": "2026-11-27-rss-lobsters-ai-ml-curb-impacts-of-ai-on-programming-to-maintain-eu",
+  "title": "Curb impacts of AI on programming to maintain EU sovereignty",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://www.draketo.de/software/curb-ai-impact",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-11-27T17:44:50.249101+00:00",
+  "collected_at": "2026-11-27T17:44:50.249108+00:00",
+  "summary": "该内容来自 Lobsters AI ML 社区，标题呼吁限制 AI 对编程的影响以维护欧盟数字主权，讨论可能涉及 AI 编程工具对欧洲技术自主性的风险与政策应对。其价值在于引发对 AI 技术依赖与区域主权平衡的思考，适合关注 AI 治理和开源生态的读者。",
+  "score": 6,
+  "tags": [
+    "AI治理",
+    "数字主权",
+    "编程工具",
+    "欧盟政策"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "该内容来自 Lobsters AI ML 社区，标题呼吁限制 AI 对编程的影响以维护欧盟数字主权，讨论可能涉及 AI 编程工具对欧洲技术自主性的风险与政策应对。其价值在于引发对 AI 技术依赖与区域主权平衡的思考，适合关注 AI 治理和开源生态的读者。",
+    "score": 6,
+    "tags": [
+      "AI治理",
+      "数字主权",
+      "编程工具",
+      "欧盟政策"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-11-27T17:45:34.000841+00:00"
+}

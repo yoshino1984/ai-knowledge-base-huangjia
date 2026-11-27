@@ -1,0 +1,32 @@
+{
+  "id": "2026-11-27-rss-lobsters-ai-ml-the-need-for-a-formally-verifiable-mainstream-pr",
+  "title": "The need for a formally verifiable mainstream programming language",
+  "source": "rss:Lobsters AI ML",
+  "source_url": "https://blainehansen.me/post/mainstream-verifiable-language/",
+  "author": "Lobsters AI ML",
+  "published_at": "2026-11-27T17:44:50.249143+00:00",
+  "collected_at": "2026-11-27T17:44:50.249145+00:00",
+  "summary": "该内容讨论了主流编程语言对形式化验证的需求，强调当前主流语言缺乏可验证性，并探讨了实现形式化可验证语言的可能路径与挑战。其价值在于推动编程语言设计向更高可靠性和安全性方向发展，对关键系统开发具有指导意义。",
+  "score": 7,
+  "tags": [
+    "形式化验证",
+    "编程语言",
+    "软件可靠性"
+  ],
+  "audience": "advanced",
+  "analysis": {
+    "summary": "该内容讨论了主流编程语言对形式化验证的需求，强调当前主流语言缺乏可验证性，并探讨了实现形式化可验证语言的可能路径与挑战。其价值在于推动编程语言设计向更高可靠性和安全性方向发展，对关键系统开发具有指导意义。",
+    "score": 7,
+    "tags": [
+      "形式化验证",
+      "编程语言",
+      "软件可靠性"
+    ],
+    "audience": "advanced",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-11-27T17:45:34.000847+00:00"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "2026-11-27-rss-hacker-news-best-group-chat-where-your-ai-talks-behind-your-back",
+  "title": "Group chat where your AI talks behind your back",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://construct22.com/",
+  "author": "Hacker News Best",
+  "published_at": "2026-11-27T17:44:49.968958+00:00",
+  "collected_at": "2026-11-27T17:44:49.968964+00:00",
+  "summary": "这是一个在 Hacker News 上获得高关注的讨论帖，指向 construct22.com 上的一个项目：一个让多个 AI 在群聊中相互交流、并在用户背后讨论用户的实验性应用。其价值在于以趣味化方式展示多智能体对话与 AI 社交动态，引发关于 AI 透明度、隐私和拟人化交互的讨论。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "AI chat",
+    "privacy",
+    "Hacker News"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "这是一个在 Hacker News 上获得高关注的讨论帖，指向 construct22.com 上的一个项目：一个让多个 AI 在群聊中相互交流、并在用户背后讨论用户的实验性应用。其价值在于以趣味化方式展示多智能体对话与 AI 社交动态，引发关于 AI 透明度、隐私和拟人化交互的讨论。",
+    "score": 7,
+    "tags": [
+      "multi-agent",
+      "AI chat",
+      "privacy",
+      "Hacker News"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-11-27T17:45:34.000805+00:00"
+}

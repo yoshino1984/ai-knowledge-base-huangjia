@@ -1,0 +1,34 @@
+{
+  "id": "2026-11-27-rss-hacker-news-best-ai-made-self-hosting-fun-again",
+  "title": "AI made self-hosting fun again",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://janlukas.blog/posts/ai-self-hosting",
+  "author": "Hacker News Best",
+  "published_at": "2026-11-27T17:44:49.969019+00:00",
+  "collected_at": "2026-11-27T17:44:49.969023+00:00",
+  "summary": "这是一篇来自 Hacker News 热门榜单的文章，探讨 AI 如何让自托管（self-hosting）重新变得有趣，可能涉及用 AI 工具简化部署、运维或配置自托管服务。文章获得 981 分和 464 条评论，说明社区对 AI 赋能自托管这一话题关注度很高，对自托管爱好者和 AI 工具使用者有参考价值。",
+  "score": 7,
+  "tags": [
+    "self-hosting",
+    "AI工具",
+    "DevOps",
+    "开源社区"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "这是一篇来自 Hacker News 热门榜单的文章，探讨 AI 如何让自托管（self-hosting）重新变得有趣，可能涉及用 AI 工具简化部署、运维或配置自托管服务。文章获得 981 分和 464 条评论，说明社区对 AI 赋能自托管这一话题关注度很高，对自托管爱好者和 AI 工具使用者有参考价值。",
+    "score": 7,
+    "tags": [
+      "self-hosting",
+      "AI工具",
+      "DevOps",
+      "开源社区"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-11-27T17:45:34.000819+00:00"
+}

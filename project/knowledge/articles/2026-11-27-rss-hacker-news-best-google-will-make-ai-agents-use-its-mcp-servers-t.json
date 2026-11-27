@@ -1,0 +1,34 @@
+{
+  "id": "2026-11-27-rss-hacker-news-best-google-will-make-ai-agents-use-its-mcp-servers-t",
+  "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+  "source": "rss:Hacker News Best",
+  "source_url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+  "author": "Hacker News Best",
+  "published_at": "2026-11-27T17:44:49.969096+00:00",
+  "collected_at": "2026-11-27T17:44:49.969097+00:00",
+  "summary": "文章讨论 Google 计划让 AI 代理使用其 MCP 服务器，但 Gmail 的 MCP 服务器存在功能限制，无法发送邮件。这反映了 AI 代理与现有服务集成中的权限与安全权衡，对开发者理解 MCP 协议落地有参考价值。",
+  "score": 7,
+  "tags": [
+    "MCP",
+    "AI Agents",
+    "Google Workspace",
+    "API Integration"
+  ],
+  "audience": "intermediate",
+  "analysis": {
+    "summary": "文章讨论 Google 计划让 AI 代理使用其 MCP 服务器，但 Gmail 的 MCP 服务器存在功能限制，无法发送邮件。这反映了 AI 代理与现有服务集成中的权限与安全权衡，对开发者理解 MCP 协议落地有参考价值。",
+    "score": 7,
+    "tags": [
+      "MCP",
+      "AI Agents",
+      "Google Workspace",
+      "API Integration"
+    ],
+    "audience": "intermediate",
+    "technical_category": "general",
+    "innovation": "基于项目描述和来源信息进行初步判断，适合进入后续人工复核。",
+    "difficulty": "medium"
+  },
+  "status": "draft",
+  "updated_at": "2026-11-27T17:45:34.000834+00:00"
+}
